@@ -47,3 +47,10 @@ htmlcov/
 .coverage.*
 .noseids
 
+# OS and local environment files
+*.pid
+*.seed
+*.env
+.env*
+.venv/
+
