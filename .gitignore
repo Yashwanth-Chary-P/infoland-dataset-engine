@@ -60,3 +60,8 @@ __pypackages__/
 *.mypy_cache/
 .tox/
 
+# Miscellaneous project files
+coverage.xml
+nosetests.xml
+test-results/
+
