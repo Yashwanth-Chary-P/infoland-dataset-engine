@@ -1,0 +1,268 @@
+[
+  {
+    "amenity": "",
+    "building": "commercial",
+    "centroid_lat": 17.39064248,
+    "centroid_lon": 78.33919016,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.3390137,
+            17.3908249
+          ],
+          [
+            78.339018,
+            17.3904564
+          ],
+          [
+            78.3393666,
+            17.39046
+          ],
+          [
+            78.3393623,
+            17.3908286
+          ],
+          [
+            78.3390137,
+            17.3908249
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/626663684",
+    "source_region": "kokapet"
+  },
+  {
+    "amenity": "",
+    "building": "commercial",
+    "centroid_lat": 17.3867239,
+    "centroid_lon": 78.33475424,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.3347048,
+            17.3871447
+          ],
+          [
+            78.3345437,
+            17.3863513
+          ],
+          [
+            78.3348038,
+            17.3863032
+          ],
+          [
+            78.3349647,
+            17.3870966
+          ],
+          [
+            78.3347048,
+            17.3871447
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/1131475876",
+    "source_region": "kokapet"
+  },
+  {
+    "amenity": "",
+    "building": "retail",
+    "centroid_lat": 17.38704987,
+    "centroid_lon": 78.34003723,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.3399445,
+            17.3871761
+          ],
+          [
+            78.3399568,
+            17.3869112
+          ],
+          [
+            78.3401233,
+            17.3869147
+          ],
+          [
+            78.3401221,
+            17.3871914
+          ],
+          [
+            78.3399445,
+            17.3871761
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/1131485842",
+    "source_region": "kokapet"
+  },
+  {
+    "amenity": "",
+    "building": "retail",
+    "centroid_lat": 17.38704063,
+    "centroid_lon": 78.34044645,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.3402743,
+            17.3872492
+          ],
+          [
+            78.3402911,
+            17.3868174
+          ],
+          [
+            78.3406202,
+            17.3868352
+          ],
+          [
+            78.3406015,
+            17.3872617
+          ],
+          [
+            78.3402743,
+            17.3872492
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/1131485843",
+    "source_region": "kokapet"
+  },
+  {
+    "amenity": "",
+    "building": "retail",
+    "centroid_lat": 17.39387271,
+    "centroid_lon": 78.34077299,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.3406418,
+            17.3940661
+          ],
+          [
+            78.3406987,
+            17.3937511
+          ],
+          [
+            78.3408657,
+            17.3936207
+          ],
+          [
+            78.3409074,
+            17.3936262
+          ],
+          [
+            78.3408087,
+            17.3940987
+          ],
+          [
+            78.3406418,
+            17.3940661
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/1133861028",
+    "source_region": "kokapet"
+  },
+  {
+    "amenity": "",
+    "building": "retail",
+    "centroid_lat": 17.393413,
+    "centroid_lon": 78.34056503,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.340438,
+            17.3935752
+          ],
+          [
+            78.3405051,
+            17.3932935
+          ],
+          [
+            78.340752,
+            17.3933703
+          ],
+          [
+            78.340438,
+            17.3935752
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/1133861029",
+    "source_region": "kokapet"
+  },
+  {
+    "amenity": "",
+    "building": "retail",
+    "centroid_lat": 17.39390505,
+    "centroid_lon": 78.34045965,
+    "feature_category": "commercial",
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            78.3403874,
+            17.3939922
+          ],
+          [
+            78.3404134,
+            17.3938031
+          ],
+          [
+            78.3405319,
+            17.3938179
+          ],
+          [
+            78.3405059,
+            17.394007
+          ],
+          [
+            78.3403874,
+            17.3939922
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "landuse": "",
+    "name": "",
+    "source_id": "way/1133861030",
+    "source_region": "kokapet"
+  }
+]
