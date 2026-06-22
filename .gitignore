@@ -54,3 +54,9 @@ htmlcov/
 .env*
 .venv/
 
+# Temporary Python and packaging metadata
+__pypackages__/
+*.pytest_cache/
+*.mypy_cache/
+.tox/
+
