@@ -1,0 +1,13 @@
+{
+  "category_distribution": {
+    "apartments": 19,
+    "commercial": 7,
+    "other": 1528,
+    "residential": 85
+  },
+  "duplicates_removed": 0,
+  "invalid_removed": 0,
+  "regions_processed": 3,
+  "total_features_after": 1639,
+  "total_features_before": 1639
+}

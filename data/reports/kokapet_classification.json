@@ -1,0 +1,9 @@
+{
+  "feature_categories": {
+    "apartments": 19,
+    "commercial": 7,
+    "other": 783
+  },
+  "region": "kokapet",
+  "total_features": 809
+}

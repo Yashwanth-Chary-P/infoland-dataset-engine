@@ -1,0 +1,30 @@
+{
+  "amenity_types": {},
+  "building_types": {
+    "apartments": 19,
+    "commercial": 2,
+    "industrial": 2,
+    "retail": 5,
+    "sports_centre": 1,
+    "yes": 780
+  },
+  "coordinate_bounds": {
+    "max_lat": 17.3953218,
+    "max_lon": 78.3436261,
+    "min_lat": 17.3844596,
+    "min_lon": 78.3321641
+  },
+  "duplicates_removed": 0,
+  "feature_categories": {
+    "apartments": 19,
+    "commercial": 7,
+    "other": 783
+  },
+  "geometry_types": {
+    "Polygon": 809
+  },
+  "invalid_geometries_removed": 0,
+  "region": "kokapet",
+  "total_features_after": 809,
+  "total_features_before": 809
+}

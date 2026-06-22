@@ -1,0 +1,27 @@
+{
+  "global_coordinate_invalid_count": 0,
+  "global_coordinate_invalid_features": [],
+  "outside_expected_hyderabad_bounds_count": 0,
+  "outside_expected_hyderabad_bounds_features": [],
+  "records_removed": 0,
+  "region": "kokapet",
+  "rules": {
+    "expected_hyderabad_latitude": {
+      "max": 17.8,
+      "min": 17.0
+    },
+    "expected_hyderabad_longitude": {
+      "max": 79.0,
+      "min": 78.0
+    },
+    "latitude": {
+      "max": 90.0,
+      "min": -90.0
+    },
+    "longitude": {
+      "max": 180.0,
+      "min": -180.0
+    }
+  },
+  "total_features": 809
+}

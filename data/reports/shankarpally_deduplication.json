@@ -1,0 +1,11 @@
+{
+  "duplicate_features": [],
+  "duplicates_by_identical_centroid": 0,
+  "duplicates_by_identical_geometry": 0,
+  "duplicates_by_osm_id": 0,
+  "duplicates_found": 0,
+  "duplicates_removed": 0,
+  "region": "shankarpally",
+  "total_features_after": 238,
+  "total_features_before": 238
+}

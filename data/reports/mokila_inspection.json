@@ -1,0 +1,21 @@
+{
+  "amenity_counts": {
+    "shelter": 1
+  },
+  "building_type_counts": {
+    "residential": 84,
+    "yes": 508
+  },
+  "coordinate_bounds": {
+    "max_lat": 17.4338691,
+    "max_lon": 78.21267,
+    "min_lat": 17.4222242,
+    "min_lon": 78.1965122
+  },
+  "geometry_type_counts": {
+    "Polygon": 592
+  },
+  "landuse_counts": {},
+  "region": "mokila",
+  "total_feature_count": 592
+}

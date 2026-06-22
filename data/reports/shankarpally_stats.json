@@ -1,0 +1,26 @@
+{
+  "amenity_types": {},
+  "building_types": {
+    "house": 1,
+    "industrial": 3,
+    "yes": 234
+  },
+  "coordinate_bounds": {
+    "max_lat": 17.4548764,
+    "max_lon": 78.1402308,
+    "min_lat": 17.4505316,
+    "min_lon": 78.1263427
+  },
+  "duplicates_removed": 0,
+  "feature_categories": {
+    "other": 237,
+    "residential": 1
+  },
+  "geometry_types": {
+    "Polygon": 238
+  },
+  "invalid_geometries_removed": 0,
+  "region": "shankarpally",
+  "total_features_after": 238,
+  "total_features_before": 238
+}
