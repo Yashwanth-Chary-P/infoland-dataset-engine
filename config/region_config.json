@@ -1,0 +1,22 @@
+{
+  "expected_bounds": {
+    "lat": [17.0, 17.8],
+    "lon": [78.0, 79.0]
+  },
+  "global_bounds": {
+    "lat": [-90.0, 90.0],
+    "lon": [-180.0, 180.0]
+  },
+  "projected_crs": "EPSG:32644",
+  "regions": {
+    "kokapet": {
+      "property_id_prefix": "PROP-KOK"
+    },
+    "mokila": {
+      "property_id_prefix": "PROP-MOK"
+    },
+    "shankarpally": {
+      "property_id_prefix": "PROP-SHA"
+    }
+  }
+}

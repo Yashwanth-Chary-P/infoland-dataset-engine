@@ -1,0 +1,41 @@
+{
+  "amenity": {
+    "clinic": "hospital",
+    "community_centre": "community",
+    "hospital": "hospital",
+    "place_of_worship": "religious",
+    "school": "school",
+    "temple": "religious"
+  },
+  "building": {
+    "apartments": "apartments",
+    "church": "religious",
+    "commercial": "commercial",
+    "government": "government",
+    "hospital": "hospital",
+    "house": "residential",
+    "mosque": "religious",
+    "office": "commercial",
+    "residential": "residential",
+    "retail": "commercial",
+    "school": "school",
+    "shop": "commercial",
+    "temple": "religious",
+    "villa": "residential",
+    "yes": "property_candidate"
+  },
+  "landuse": {
+    "commercial": "commercial",
+    "government": "government",
+    "park": "park",
+    "recreation_ground": "park",
+    "residential": "residential",
+    "retail": "commercial"
+  },
+  "leisure": {
+    "park": "park"
+  },
+  "office_default": "commercial",
+  "shop_default": "commercial",
+  "unknown": "other"
+}
