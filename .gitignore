@@ -41,3 +41,9 @@ pip-wheel-metadata/
 .pyre/
 .python_history
 
+# Coverage and test artifacts
+.coverage
+htmlcov/
+.coverage.*
+.noseids
+
