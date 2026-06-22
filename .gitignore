@@ -34,3 +34,10 @@ pip-wheel-metadata/
 *.egg
 *.whl
 
+# Python cache and lint
+.pytest_cache/
+.mypy_cache/
+.python-version
+.pyre/
+.python_history
+
