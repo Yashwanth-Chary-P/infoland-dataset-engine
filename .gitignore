@@ -65,3 +65,7 @@ coverage.xml
 nosetests.xml
 test-results/
 
+# Local notebook and workspace state
+.ipynb_checkpoints/
+workspace.xml
+
