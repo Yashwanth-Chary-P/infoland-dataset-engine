@@ -69,3 +69,7 @@ test-results/
 .ipynb_checkpoints/
 workspace.xml
 
+# System-generated files
+ehthumbs.db
+Icon\r
+
