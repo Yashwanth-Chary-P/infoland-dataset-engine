@@ -1,0 +1,90 @@
+{
+  "classification": {
+    "feature_categories": {
+      "apartments": 19,
+      "commercial": 7,
+      "other": 3,
+      "property_candidate": 780
+    },
+    "region": "kokapet",
+    "total_features": 809
+  },
+  "coordinate_validation": {
+    "invalid_coordinate_count": 0,
+    "invalid_coordinates": [],
+    "records_removed": 0,
+    "region": "kokapet",
+    "rules": {
+      "expected_hyderabad_lat": [
+        17.0,
+        17.8
+      ],
+      "expected_hyderabad_lon": [
+        78.0,
+        79.0
+      ],
+      "global_lat": [
+        -90.0,
+        90.0
+      ],
+      "global_lon": [
+        -180.0,
+        180.0
+      ]
+    },
+    "suspicious_coordinate_count": 0,
+    "suspicious_coordinates": [],
+    "total_features": 809
+  },
+  "deduplication": {
+    "duplicate_features": [],
+    "duplicates_by_identical_centroid": 0,
+    "duplicates_by_identical_geometry": 0,
+    "duplicates_by_source_id": 0,
+    "duplicates_found": 0,
+    "duplicates_removed": 0,
+    "region": "kokapet",
+    "total_features_after": 809,
+    "total_features_before": 809
+  },
+  "enrichment": {
+    "area_sq_m_non_null": 809,
+    "perimeter_m_non_null": 809,
+    "region": "kokapet",
+    "total_features_enriched": 809
+  },
+  "geometry_validation": {
+    "empty_geometries": 0,
+    "invalid_features": [],
+    "invalid_geometries_found": 0,
+    "invalid_geometries_removed": 0,
+    "invalid_geometries_repaired": 0,
+    "null_geometries": 0,
+    "region": "kokapet",
+    "total_features_after": 809,
+    "total_features_before": 809
+  },
+  "inspection": {
+    "amenity_counts": {},
+    "building_counts": {
+      "apartments": 19,
+      "commercial": 2,
+      "industrial": 2,
+      "retail": 5,
+      "sports_centre": 1,
+      "yes": 780
+    },
+    "coordinate_bounds": {
+      "max_lat": 17.3953218,
+      "max_lon": 78.3436261,
+      "min_lat": 17.3844596,
+      "min_lon": 78.3321641
+    },
+    "geometry_type_counts": {
+      "Polygon": 809
+    },
+    "landuse_counts": {},
+    "region": "kokapet",
+    "total_feature_count": 809
+  }
+}

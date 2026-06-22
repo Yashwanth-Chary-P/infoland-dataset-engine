@@ -1,0 +1,20 @@
+{
+  "amenity_counts": {},
+  "building_counts": {
+    "house": 1,
+    "industrial": 3,
+    "yes": 234
+  },
+  "coordinate_bounds": {
+    "max_lat": 17.4548764,
+    "max_lon": 78.1402308,
+    "min_lat": 17.4505316,
+    "min_lon": 78.1263427
+  },
+  "geometry_type_counts": {
+    "Polygon": 238
+  },
+  "landuse_counts": {},
+  "region": "shankarpally",
+  "total_feature_count": 238
+}

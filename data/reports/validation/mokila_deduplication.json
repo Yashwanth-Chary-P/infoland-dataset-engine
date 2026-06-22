@@ -1,0 +1,11 @@
+{
+  "duplicate_features": [],
+  "duplicates_by_identical_centroid": 0,
+  "duplicates_by_identical_geometry": 0,
+  "duplicates_by_source_id": 0,
+  "duplicates_found": 0,
+  "duplicates_removed": 0,
+  "region": "mokila",
+  "total_features_after": 592,
+  "total_features_before": 592
+}

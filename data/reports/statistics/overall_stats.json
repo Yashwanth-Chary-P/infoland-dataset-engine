@@ -1,0 +1,52 @@
+{
+  "all_feature_category_distribution": {
+    "apartments": 19,
+    "commercial": 7,
+    "other": 6,
+    "property_candidate": 1522,
+    "residential": 85
+  },
+  "average_area_sq_m": 198.76,
+  "building_type_distribution": {
+    "apartments": 19,
+    "commercial": 2,
+    "house": 1,
+    "residential": 84,
+    "retail": 5,
+    "yes": 1522
+  },
+  "category_distribution": {
+    "apartments": 19,
+    "commercial": 7,
+    "property_candidate": 1522,
+    "residential": 85
+  },
+  "coordinate_bounds": {
+    "max_lat": 17.4548764,
+    "max_lon": 78.3436261,
+    "min_lat": 17.3844596,
+    "min_lon": 78.1263427
+  },
+  "duplicates_removed": 0,
+  "invalid_geometries_removed": 0,
+  "max_area_sq_m": 2969.94,
+  "median_area_sq_m": 148.87,
+  "min_area_sq_m": 3.48,
+  "poi_counts": {
+    "commercial": 7,
+    "government": 0,
+    "hospital": 0,
+    "park": 0,
+    "religious": 0,
+    "school": 0
+  },
+  "properties_per_region": {
+    "kokapet": 806,
+    "mokila": 592,
+    "shankarpally": 235
+  },
+  "regions_processed": 3,
+  "total_features_after_cleaning": 1639,
+  "total_features_before": 1639,
+  "total_properties": 1633
+}

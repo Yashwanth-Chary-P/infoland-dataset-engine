@@ -1,0 +1,32 @@
+{
+  "average_area_sq_m": 198.76,
+  "building_type_distribution": {
+    "apartments": 19,
+    "commercial": 2,
+    "house": 1,
+    "residential": 84,
+    "retail": 5,
+    "yes": 1522
+  },
+  "category_distribution": {
+    "apartments": 19,
+    "commercial": 7,
+    "property_candidate": 1522,
+    "residential": 85
+  },
+  "coordinate_bounds": {
+    "max_lat": 17.4548764,
+    "max_lon": 78.3436261,
+    "min_lat": 17.3844596,
+    "min_lon": 78.1263427
+  },
+  "max_area_sq_m": 2969.94,
+  "median_area_sq_m": 148.87,
+  "min_area_sq_m": 3.48,
+  "properties_per_region": {
+    "kokapet": 806,
+    "mokila": 592,
+    "shankarpally": 235
+  },
+  "total_properties": 1633
+}

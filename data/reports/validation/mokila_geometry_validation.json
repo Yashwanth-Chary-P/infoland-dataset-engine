@@ -1,0 +1,11 @@
+{
+  "empty_geometries": 0,
+  "invalid_features": [],
+  "invalid_geometries_found": 0,
+  "invalid_geometries_removed": 0,
+  "invalid_geometries_repaired": 0,
+  "null_geometries": 0,
+  "region": "mokila",
+  "total_features_after": 592,
+  "total_features_before": 592
+}

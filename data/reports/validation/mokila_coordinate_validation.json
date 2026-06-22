@@ -1,0 +1,27 @@
+{
+  "invalid_coordinate_count": 0,
+  "invalid_coordinates": [],
+  "records_removed": 0,
+  "region": "mokila",
+  "rules": {
+    "expected_hyderabad_lat": [
+      17.0,
+      17.8
+    ],
+    "expected_hyderabad_lon": [
+      78.0,
+      79.0
+    ],
+    "global_lat": [
+      -90.0,
+      90.0
+    ],
+    "global_lon": [
+      -180.0,
+      180.0
+    ]
+  },
+  "suspicious_coordinate_count": 0,
+  "suspicious_coordinates": [],
+  "total_features": 592
+}

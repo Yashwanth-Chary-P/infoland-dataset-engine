@@ -1,0 +1,86 @@
+{
+  "classification": {
+    "feature_categories": {
+      "other": 3,
+      "property_candidate": 234,
+      "residential": 1
+    },
+    "region": "shankarpally",
+    "total_features": 238
+  },
+  "coordinate_validation": {
+    "invalid_coordinate_count": 0,
+    "invalid_coordinates": [],
+    "records_removed": 0,
+    "region": "shankarpally",
+    "rules": {
+      "expected_hyderabad_lat": [
+        17.0,
+        17.8
+      ],
+      "expected_hyderabad_lon": [
+        78.0,
+        79.0
+      ],
+      "global_lat": [
+        -90.0,
+        90.0
+      ],
+      "global_lon": [
+        -180.0,
+        180.0
+      ]
+    },
+    "suspicious_coordinate_count": 0,
+    "suspicious_coordinates": [],
+    "total_features": 238
+  },
+  "deduplication": {
+    "duplicate_features": [],
+    "duplicates_by_identical_centroid": 0,
+    "duplicates_by_identical_geometry": 0,
+    "duplicates_by_source_id": 0,
+    "duplicates_found": 0,
+    "duplicates_removed": 0,
+    "region": "shankarpally",
+    "total_features_after": 238,
+    "total_features_before": 238
+  },
+  "enrichment": {
+    "area_sq_m_non_null": 238,
+    "perimeter_m_non_null": 238,
+    "region": "shankarpally",
+    "total_features_enriched": 238
+  },
+  "geometry_validation": {
+    "empty_geometries": 0,
+    "invalid_features": [],
+    "invalid_geometries_found": 0,
+    "invalid_geometries_removed": 0,
+    "invalid_geometries_repaired": 0,
+    "null_geometries": 0,
+    "region": "shankarpally",
+    "total_features_after": 238,
+    "total_features_before": 238
+  },
+  "inspection": {
+    "amenity_counts": {},
+    "building_counts": {
+      "house": 1,
+      "industrial": 3,
+      "yes": 234
+    },
+    "coordinate_bounds": {
+      "max_lat": 17.4548764,
+      "max_lon": 78.1402308,
+      "min_lat": 17.4505316,
+      "min_lon": 78.1263427
+    },
+    "geometry_type_counts": {
+      "Polygon": 238
+    },
+    "landuse_counts": {},
+    "region": "shankarpally",
+    "total_feature_count": 238
+  }
+}

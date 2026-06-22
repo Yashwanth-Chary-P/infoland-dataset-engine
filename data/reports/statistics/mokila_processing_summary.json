@@ -1,0 +1,86 @@
+{
+  "classification": {
+    "feature_categories": {
+      "property_candidate": 508,
+      "residential": 84
+    },
+    "region": "mokila",
+    "total_features": 592
+  },
+  "coordinate_validation": {
+    "invalid_coordinate_count": 0,
+    "invalid_coordinates": [],
+    "records_removed": 0,
+    "region": "mokila",
+    "rules": {
+      "expected_hyderabad_lat": [
+        17.0,
+        17.8
+      ],
+      "expected_hyderabad_lon": [
+        78.0,
+        79.0
+      ],
+      "global_lat": [
+        -90.0,
+        90.0
+      ],
+      "global_lon": [
+        -180.0,
+        180.0
+      ]
+    },
+    "suspicious_coordinate_count": 0,
+    "suspicious_coordinates": [],
+    "total_features": 592
+  },
+  "deduplication": {
+    "duplicate_features": [],
+    "duplicates_by_identical_centroid": 0,
+    "duplicates_by_identical_geometry": 0,
+    "duplicates_by_source_id": 0,
+    "duplicates_found": 0,
+    "duplicates_removed": 0,
+    "region": "mokila",
+    "total_features_after": 592,
+    "total_features_before": 592
+  },
+  "enrichment": {
+    "area_sq_m_non_null": 592,
+    "perimeter_m_non_null": 592,
+    "region": "mokila",
+    "total_features_enriched": 592
+  },
+  "geometry_validation": {
+    "empty_geometries": 0,
+    "invalid_features": [],
+    "invalid_geometries_found": 0,
+    "invalid_geometries_removed": 0,
+    "invalid_geometries_repaired": 0,
+    "null_geometries": 0,
+    "region": "mokila",
+    "total_features_after": 592,
+    "total_features_before": 592
+  },
+  "inspection": {
+    "amenity_counts": {
+      "shelter": 1
+    },
+    "building_counts": {
+      "residential": 84,
+      "yes": 508
+    },
+    "coordinate_bounds": {
+      "max_lat": 17.4338691,
+      "max_lon": 78.21267,
+      "min_lat": 17.4222242,
+      "min_lon": 78.1965122
+    },
+    "geometry_type_counts": {
+      "Polygon": 592
+    },
+    "landuse_counts": {},
+    "region": "mokila",
+    "total_feature_count": 592
+  }
+}
