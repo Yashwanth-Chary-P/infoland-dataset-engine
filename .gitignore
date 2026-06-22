@@ -26,3 +26,11 @@ Thumbs.db
 *.ipr
 *.iws
 
+# Python packaging and build artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+*.whl
+
