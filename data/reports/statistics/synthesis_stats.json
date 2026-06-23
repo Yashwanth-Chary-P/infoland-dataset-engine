@@ -1,0 +1,36 @@
+{
+  "average_location_score": 77.24,
+  "future_risk_tier_distribution": {
+    "high": 163,
+    "low": 980,
+    "medium": 490
+  },
+  "location_score_distribution": {
+    "high_70_100": 1181,
+    "low_0_39": 3,
+    "medium_40_69": 449
+  },
+  "poi_counts": {
+    "commercial_hub": 20,
+    "community_center": 12,
+    "government_office": 8,
+    "hospital": 12,
+    "park": 25,
+    "school": 18
+  },
+  "property_class_distribution": {
+    "apartment": 82,
+    "commercial": 82,
+    "government": 16,
+    "hospital": 16,
+    "park": 33,
+    "residential_plot": 1225,
+    "school": 16,
+    "villa": 163
+  },
+  "sale_status_distribution": {
+    "for_sale": 323,
+    "not_for_sale": 1310
+  },
+  "total_property_profiles": 1633
+}
