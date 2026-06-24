@@ -1,0 +1,13 @@
+{
+  "owner_type_distribution": {
+    "individual": 1470,
+    "organization": 163
+  },
+  "source_region_distribution": {
+    "kokapet": 806,
+    "mokila": 592,
+    "shankarpally": 235
+  },
+  "owners_per_property_min": 1,
+  "owners_per_property_max": 1
+}

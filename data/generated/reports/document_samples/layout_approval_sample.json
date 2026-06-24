@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "DOC-LAYOUT-APPROVAL-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "layout_approval",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Urban Development Authority",
+    "document_number": "LAY-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "layout_number": "LAY-000001",
+    "approved_by": "Kokapet Planning Authority",
+    "approval_date": "2012-09-24"
+  },
+  {
+    "document_id": "DOC-LAYOUT-APPROVAL-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "layout_approval",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Urban Development Authority",
+    "document_number": "LAY-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "layout_number": "LAY-000002",
+    "approved_by": "Kokapet Planning Authority",
+    "approval_date": "2010-03-07"
+  },
+  {
+    "document_id": "DOC-LAYOUT-APPROVAL-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "layout_approval",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Urban Development Authority",
+    "document_number": "LAY-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "layout_number": "LAY-000003",
+    "approved_by": "Kokapet Planning Authority",
+    "approval_date": "2016-07-23"
+  }
+]

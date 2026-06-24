@@ -1,0 +1,38 @@
+{
+  "properties_with_sale_deed": 1490,
+  "properties_with_mother_deed": 1509,
+  "properties_with_ec": 1561,
+  "properties_with_loans": 294,
+  "properties_with_pending_tax": 229,
+  "properties_with_disputes": 65,
+  "coverage_by_document_type": {
+    "sale_deed": 1490,
+    "mother_deed": 1509,
+    "encumbrance_certificate": 1561,
+    "property_tax_receipt": 1633,
+    "mutation_record": 1498,
+    "survey_map": 1494,
+    "rtc_record": 1277,
+    "khata_certificate": 1488,
+    "khata_extract": 1510,
+    "building_approval_plan": 908,
+    "layout_approval": 1295,
+    "land_conversion_certificate": 1294,
+    "occupancy_certificate": 906,
+    "completion_certificate": 908,
+    "noc": 892,
+    "identity_proof": 1633,
+    "power_of_attorney": 871,
+    "court_dispute_record": 750
+  },
+  "coverage_by_sale_status": {
+    "for_sale": {
+      "property_count": 323,
+      "document_records": 4434
+    },
+    "not_for_sale": {
+      "property_count": 1310,
+      "document_records": 18483
+    }
+  }
+}

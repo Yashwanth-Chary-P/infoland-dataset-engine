@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "DOC-PROPERTY-TAX-RECEIPT-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "property_tax_receipt",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Municipal Revenue Office",
+    "document_number": "PRO-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "financial_year": "2025-2026",
+    "tax_amount": 4953,
+    "paid_amount": 4953,
+    "pending_amount": 0
+  },
+  {
+    "document_id": "DOC-PROPERTY-TAX-RECEIPT-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "property_tax_receipt",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Municipal Revenue Office",
+    "document_number": "PRO-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "financial_year": "2025-2026",
+    "tax_amount": 4956,
+    "paid_amount": 4956,
+    "pending_amount": 0
+  },
+  {
+    "document_id": "DOC-PROPERTY-TAX-RECEIPT-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "property_tax_receipt",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Municipal Revenue Office",
+    "document_number": "PRO-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "financial_year": "2025-2026",
+    "tax_amount": 4953,
+    "paid_amount": 4953,
+    "pending_amount": 0
+  }
+]

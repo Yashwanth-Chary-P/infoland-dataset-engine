@@ -1,0 +1,124 @@
+{
+  "total_documents": 29394,
+  "document_type_counts": {
+    "building_approval_plan": 1633,
+    "completion_certificate": 1633,
+    "court_dispute_record": 1633,
+    "encumbrance_certificate": 1633,
+    "identity_proof": 1633,
+    "khata_certificate": 1633,
+    "khata_extract": 1633,
+    "land_conversion_certificate": 1633,
+    "layout_approval": 1633,
+    "mother_deed": 1633,
+    "mutation_record": 1633,
+    "noc": 1633,
+    "occupancy_certificate": 1633,
+    "power_of_attorney": 1633,
+    "property_tax_receipt": 1633,
+    "rtc_record": 1633,
+    "sale_deed": 1633,
+    "survey_map": 1633
+  },
+  "status_distribution": {
+    "available": 21455,
+    "expired": 1462,
+    "missing": 6477
+  },
+  "status_by_document_type": {
+    "sale_deed": {
+      "available": 1399,
+      "expired": 91,
+      "missing": 143
+    },
+    "mother_deed": {
+      "available": 1403,
+      "expired": 106,
+      "missing": 124
+    },
+    "encumbrance_certificate": {
+      "available": 1413,
+      "expired": 148,
+      "missing": 72
+    },
+    "property_tax_receipt": {
+      "available": 1549,
+      "expired": 84
+    },
+    "mutation_record": {
+      "available": 1412,
+      "expired": 86,
+      "missing": 135
+    },
+    "survey_map": {
+      "available": 1378,
+      "expired": 116,
+      "missing": 139
+    },
+    "rtc_record": {
+      "available": 1204,
+      "expired": 73,
+      "missing": 356
+    },
+    "khata_certificate": {
+      "available": 1399,
+      "expired": 89,
+      "missing": 145
+    },
+    "khata_extract": {
+      "available": 1395,
+      "expired": 115,
+      "missing": 123
+    },
+    "building_approval_plan": {
+      "available": 857,
+      "expired": 51,
+      "missing": 725
+    },
+    "layout_approval": {
+      "available": 1223,
+      "expired": 72,
+      "missing": 338
+    },
+    "land_conversion_certificate": {
+      "available": 1209,
+      "expired": 85,
+      "missing": 339
+    },
+    "occupancy_certificate": {
+      "available": 863,
+      "expired": 43,
+      "missing": 727
+    },
+    "completion_certificate": {
+      "available": 861,
+      "expired": 47,
+      "missing": 725
+    },
+    "noc": {
+      "available": 847,
+      "expired": 45,
+      "missing": 741
+    },
+    "identity_proof": {
+      "available": 1510,
+      "expired": 123
+    },
+    "power_of_attorney": {
+      "available": 831,
+      "expired": 40,
+      "missing": 762
+    },
+    "court_dispute_record": {
+      "available": 702,
+      "expired": 48,
+      "missing": 883
+    }
+  },
+  "document_completeness_distribution": {
+    "average_10_12": 220,
+    "excellent_16_18": 653,
+    "good_13_15": 572,
+    "poor_6_9": 188
+  }
+}

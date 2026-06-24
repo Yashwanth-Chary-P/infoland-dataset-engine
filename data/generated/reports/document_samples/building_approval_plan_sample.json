@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "DOC-BUILDING-APPROVAL-PLAN-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "building_approval_plan",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Planning Authority",
+    "document_number": "BUI-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "approval_number": "BAP-000002",
+    "approved_floors": 1,
+    "approval_date": "2010-03-22"
+  },
+  {
+    "document_id": "DOC-BUILDING-APPROVAL-PLAN-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "building_approval_plan",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Planning Authority",
+    "document_number": "BUI-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "approval_number": "BAP-000003",
+    "approved_floors": 1,
+    "approval_date": "2016-08-07"
+  },
+  {
+    "document_id": "DOC-BUILDING-APPROVAL-PLAN-KOK-000004",
+    "property_id": "PROP-KOK-000004",
+    "document_type": "building_approval_plan",
+    "status": "available",
+    "issue_date": "2017-11-07",
+    "last_updated": "2022-11-06",
+    "issuing_authority": "Kokapet Planning Authority",
+    "document_number": "BUI-KOK-000004",
+    "remarks": "Available in generated source packet",
+    "approval_number": "BAP-000004",
+    "approved_floors": 2,
+    "approval_date": "2018-01-18"
+  }
+]

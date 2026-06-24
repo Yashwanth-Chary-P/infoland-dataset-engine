@@ -1,0 +1,43 @@
+{
+  "region_distribution": {
+    "kokapet": 806,
+    "mokila": 592,
+    "shankarpally": 235
+  },
+  "property_class_distribution": {
+    "apartment": 82,
+    "commercial": 82,
+    "government": 16,
+    "hospital": 16,
+    "park": 33,
+    "residential_plot": 1225,
+    "school": 16,
+    "villa": 163
+  },
+  "sale_status_distribution": {
+    "for_sale": 323,
+    "not_for_sale": 1310
+  },
+  "metadata": {
+    "construction_status_distribution": {
+      "completed": 321,
+      "under_construction": 54,
+      "vacant_land": 1258
+    },
+    "land_use_distribution": {
+      "commercial": 82,
+      "institutional": 48,
+      "recreational": 33,
+      "residential": 1470
+    },
+    "zone_type_distribution": {
+      "semi_urban": 827,
+      "urban": 806
+    },
+    "development_stage_distribution": {
+      "developed": 734,
+      "developing": 724,
+      "undeveloped": 175
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "total_loans": 294,
+  "properties_with_loans": 294,
+  "status_distribution": {
+    "active": 161,
+    "closed": 133
+  },
+  "loan_type_distribution": {
+    "commercial_mortgage": 11,
+    "home_loan": 283
+  },
+  "active_outstanding_amount_total": 687800000
+}

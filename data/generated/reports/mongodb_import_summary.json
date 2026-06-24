@@ -1,0 +1,149 @@
+{
+  "target_database": "MongoDB Atlas",
+  "collections": [
+    {
+      "collection": "property_registry",
+      "path": "data/generated/property_registry.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "owners",
+      "path": "data/generated/owners.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "ownership_events",
+      "path": "data/generated/ownership_events.json",
+      "record_count": 3517
+    },
+    {
+      "collection": "property_metadata",
+      "path": "data/generated/property_metadata.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "property_timeline",
+      "path": "data/generated/property_timeline.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "property_health_summary",
+      "path": "data/generated/property_health_summary.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "loans",
+      "path": "data/generated/loans.json",
+      "record_count": 294
+    },
+    {
+      "collection": "tax_records",
+      "path": "data/generated/tax_records.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "court_disputes",
+      "path": "data/generated/court_disputes.json",
+      "record_count": 65
+    },
+    {
+      "collection": "documents_all",
+      "path": "data/generated/documents/documents_all.json",
+      "record_count": 29394
+    }
+  ],
+  "document_collections": [
+    {
+      "collection": "sale_deed",
+      "path": "data/generated/documents/sale_deeds.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "mother_deed",
+      "path": "data/generated/documents/mother_deeds.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "encumbrance_certificate",
+      "path": "data/generated/documents/encumbrance_certificates.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "property_tax_receipt",
+      "path": "data/generated/documents/property_tax_receipts.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "mutation_record",
+      "path": "data/generated/documents/mutation_records.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "survey_map",
+      "path": "data/generated/documents/survey_maps.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "rtc_record",
+      "path": "data/generated/documents/rtc_records.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "khata_certificate",
+      "path": "data/generated/documents/khata_certificates.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "khata_extract",
+      "path": "data/generated/documents/khata_extracts.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "building_approval_plan",
+      "path": "data/generated/documents/building_approval_plans.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "layout_approval",
+      "path": "data/generated/documents/layout_approvals.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "land_conversion_certificate",
+      "path": "data/generated/documents/land_conversion_certificates.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "occupancy_certificate",
+      "path": "data/generated/documents/occupancy_certificates.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "completion_certificate",
+      "path": "data/generated/documents/completion_certificates.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "noc",
+      "path": "data/generated/documents/nocs.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "identity_proof",
+      "path": "data/generated/documents/identity_proofs.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "power_of_attorney",
+      "path": "data/generated/documents/power_of_attorneys.json",
+      "record_count": 1633
+    },
+    {
+      "collection": "court_dispute_record",
+      "path": "data/generated/documents/court_dispute_records.json",
+      "record_count": 1633
+    }
+  ],
+  "primary_reference_field": "property_id",
+  "geometry_policy": "Geometry remains only in data/master/master_properties.json"
+}

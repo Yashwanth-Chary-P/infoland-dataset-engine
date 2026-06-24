@@ -1,0 +1,14 @@
+{
+  "total_disputes": 65,
+  "properties_with_disputes": 65,
+  "status_distribution": {
+    "active": 46,
+    "closed": 19
+  },
+  "case_type_distribution": {
+    "boundary_dispute": 20,
+    "inheritance_dispute": 13,
+    "sale_agreement_dispute": 15,
+    "title_dispute": 17
+  }
+}
