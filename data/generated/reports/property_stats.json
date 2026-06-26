@@ -1,34 +1,98 @@
 {
+  "geographic": {
+    "total_properties": 1633,
+    "region_distribution": {
+      "kokapet": 806,
+      "mokila": 592,
+      "shankarpally": 235
+    },
+    "coordinate_bounds": {
+      "min_lat": 17.3845736,
+      "max_lat": 17.4547757,
+      "min_lon": 78.1265175,
+      "max_lon": 78.343193
+    },
+    "average_area_sq_m": 198.76,
+    "median_area_sq_m": 148.87,
+    "property_density_per_region": {
+      "kokapet": 0.4936,
+      "mokila": 0.3625,
+      "shankarpally": 0.1439
+    }
+  },
+  "property": {
+    "property_class_distribution": {
+      "apartment": 50,
+      "clinic": 8,
+      "commercial": 68,
+      "community_center": 13,
+      "government": 10,
+      "hospital": 13,
+      "industrial": 7,
+      "park": 28,
+      "religious": 8,
+      "residential_plot": 1234,
+      "school": 19,
+      "vacant_land": 22,
+      "villa": 153
+    },
+    "residential_count": 1234,
+    "commercial_count": 68,
+    "apartment_count": 50,
+    "villa_count": 153,
+    "school_count": 19,
+    "hospital_count": 21,
+    "government_count": 10,
+    "industrial_count": 7,
+    "religious_count": 8,
+    "park_count": 28,
+    "vacant_land_count": 22,
+    "sale_status_distribution": {
+      "for_sale": 313,
+      "not_for_sale": 1320
+    },
+    "verification_workflow_distribution": {
+      "complete_property_verification": 1505,
+      "institutional_property": 128
+    }
+  },
   "region_distribution": {
     "kokapet": 806,
     "mokila": 592,
     "shankarpally": 235
   },
   "property_class_distribution": {
-    "apartment": 82,
-    "commercial": 82,
-    "government": 16,
-    "hospital": 16,
-    "park": 33,
-    "residential_plot": 1225,
-    "school": 16,
-    "villa": 163
+    "apartment": 50,
+    "clinic": 8,
+    "commercial": 68,
+    "community_center": 13,
+    "government": 10,
+    "hospital": 13,
+    "industrial": 7,
+    "park": 28,
+    "religious": 8,
+    "residential_plot": 1234,
+    "school": 19,
+    "vacant_land": 22,
+    "villa": 153
   },
   "sale_status_distribution": {
-    "for_sale": 323,
-    "not_for_sale": 1310
+    "for_sale": 313,
+    "not_for_sale": 1320
   },
   "metadata": {
     "construction_status_distribution": {
-      "completed": 321,
-      "under_construction": 54,
-      "vacant_land": 1258
+      "completed": 311,
+      "under_construction": 38,
+      "vacant_land": 1284
     },
     "land_use_distribution": {
-      "commercial": 82,
-      "institutional": 48,
-      "recreational": 33,
-      "residential": 1470
+      "commercial": 68,
+      "industrial": 7,
+      "institutional": 71,
+      "recreational": 28,
+      "residential": 1437,
+      "vacant": 22
     },
     "zone_type_distribution": {
       "semi_urban": 827,
@@ -36,8 +100,8 @@
     },
     "development_stage_distribution": {
       "developed": 734,
-      "developing": 724,
-      "undeveloped": 175
+      "developing": 728,
+      "undeveloped": 171
     }
   }
 }

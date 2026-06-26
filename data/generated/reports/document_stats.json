@@ -21,104 +21,170 @@
     "survey_map": 1633
   },
   "status_distribution": {
-    "available": 21455,
-    "expired": 1462,
-    "missing": 6477
+    "available": 20405,
+    "expired": 1353,
+    "missing": 7636
   },
   "status_by_document_type": {
     "sale_deed": {
-      "available": 1399,
-      "expired": 91,
-      "missing": 143
+      "available": 1293,
+      "expired": 85,
+      "missing": 255
     },
     "mother_deed": {
-      "available": 1403,
-      "expired": 106,
-      "missing": 124
+      "available": 1297,
+      "expired": 95,
+      "missing": 241
     },
     "encumbrance_certificate": {
-      "available": 1413,
-      "expired": 148,
-      "missing": 72
+      "available": 1302,
+      "expired": 139,
+      "missing": 192
     },
     "property_tax_receipt": {
-      "available": 1549,
-      "expired": 84
+      "available": 1444,
+      "expired": 68,
+      "missing": 121
     },
     "mutation_record": {
-      "available": 1412,
-      "expired": 86,
-      "missing": 135
+      "available": 1316,
+      "expired": 80,
+      "missing": 237
     },
     "survey_map": {
-      "available": 1378,
-      "expired": 116,
-      "missing": 139
+      "available": 1395,
+      "expired": 110,
+      "missing": 128
     },
     "rtc_record": {
-      "available": 1204,
-      "expired": 73,
-      "missing": 356
+      "available": 1171,
+      "expired": 77,
+      "missing": 385
     },
     "khata_certificate": {
-      "available": 1399,
-      "expired": 89,
-      "missing": 145
+      "available": 1389,
+      "expired": 86,
+      "missing": 158
     },
     "khata_extract": {
-      "available": 1395,
-      "expired": 115,
-      "missing": 123
+      "available": 1288,
+      "expired": 103,
+      "missing": 242
     },
     "building_approval_plan": {
-      "available": 857,
-      "expired": 51,
-      "missing": 725
+      "available": 836,
+      "expired": 43,
+      "missing": 754
     },
     "layout_approval": {
-      "available": 1223,
-      "expired": 72,
-      "missing": 338
+      "available": 1205,
+      "expired": 70,
+      "missing": 358
     },
     "land_conversion_certificate": {
-      "available": 1209,
-      "expired": 85,
-      "missing": 339
+      "available": 1191,
+      "expired": 78,
+      "missing": 364
     },
     "occupancy_certificate": {
-      "available": 863,
-      "expired": 43,
-      "missing": 727
-    },
-    "completion_certificate": {
-      "available": 861,
-      "expired": 47,
-      "missing": 725
-    },
-    "noc": {
-      "available": 847,
-      "expired": 45,
-      "missing": 741
-    },
-    "identity_proof": {
-      "available": 1510,
-      "expired": 123
-    },
-    "power_of_attorney": {
       "available": 831,
       "expired": 40,
       "missing": 762
     },
+    "completion_certificate": {
+      "available": 763,
+      "expired": 41,
+      "missing": 829
+    },
+    "noc": {
+      "available": 791,
+      "expired": 43,
+      "missing": 799
+    },
+    "identity_proof": {
+      "available": 1469,
+      "expired": 114,
+      "missing": 50
+    },
+    "power_of_attorney": {
+      "available": 770,
+      "expired": 38,
+      "missing": 825
+    },
     "court_dispute_record": {
-      "available": 702,
-      "expired": 48,
-      "missing": 883
+      "available": 654,
+      "expired": 43,
+      "missing": 936
     }
   },
   "document_completeness_distribution": {
-    "average_10_12": 220,
-    "excellent_16_18": 653,
-    "good_13_15": 572,
-    "poor_6_9": 188
+    "average_10_12": 202,
+    "excellent_16_18": 602,
+    "good_13_15": 527,
+    "institutional_1_5": 81,
+    "poor_6_9": 221
+  },
+  "coverage_by_property_type": {
+    "apartment": {
+      "property_count": 50,
+      "available_documents": 715
+    },
+    "clinic": {
+      "property_count": 8,
+      "available_documents": 48
+    },
+    "commercial": {
+      "property_count": 68,
+      "available_documents": 964
+    },
+    "community_center": {
+      "property_count": 13,
+      "available_documents": 65
+    },
+    "government": {
+      "property_count": 10,
+      "available_documents": 50
+    },
+    "hospital": {
+      "property_count": 13,
+      "available_documents": 78
+    },
+    "industrial": {
+      "property_count": 7,
+      "available_documents": 42
+    },
+    "park": {
+      "property_count": 28,
+      "available_documents": 84
+    },
+    "religious": {
+      "property_count": 8,
+      "available_documents": 40
+    },
+    "residential_plot": {
+      "property_count": 1234,
+      "available_documents": 17348
+    },
+    "school": {
+      "property_count": 19,
+      "available_documents": 114
+    },
+    "vacant_land": {
+      "property_count": 22,
+      "available_documents": 110
+    },
+    "villa": {
+      "property_count": 153,
+      "available_documents": 2100
+    }
+  },
+  "coverage_by_sale_status": {
+    "for_sale": 4291,
+    "not_for_sale": 17467
+  },
+  "coverage_by_region": {
+    "kokapet": 10842,
+    "mokila": 7792,
+    "shankarpally": 3124
   }
 }

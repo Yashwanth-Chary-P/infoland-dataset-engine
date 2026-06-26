@@ -2,13 +2,19 @@
   "total_disputes": 65,
   "properties_with_disputes": 65,
   "status_distribution": {
-    "active": 46,
-    "closed": 19
+    "active": 48,
+    "closed": 17
   },
   "case_type_distribution": {
-    "boundary_dispute": 20,
-    "inheritance_dispute": 13,
+    "boundary_dispute": 22,
+    "inheritance_dispute": 12,
     "sale_agreement_dispute": 15,
-    "title_dispute": 17
+    "title_dispute": 16
+  },
+  "dispute_distribution_by_property_type": {
+    "apartment": 4,
+    "commercial": 1,
+    "residential_plot": 54,
+    "villa": 6
   }
 }
