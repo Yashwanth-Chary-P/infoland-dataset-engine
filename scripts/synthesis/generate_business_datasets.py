@@ -4,7 +4,6 @@ import hashlib
 import json
 import logging
 import math
-import random
 from collections import Counter, defaultdict
 from datetime import date, timedelta
 from pathlib import Path
@@ -21,6 +20,27 @@ DOCUMENT_SAMPLES_DIR = REPORTS_DIR / "document_samples"
 
 LOGGER = logging.getLogger(__name__)
 BUSINESS_DATASET_SEED = 20260623
+
+RESIDENTIAL_VERIFICATION_CLASSES = {"residential_plot", "villa", "apartment", "commercial"}
+INSTITUTIONAL_CLASSES = {
+    "school",
+    "hospital",
+    "clinic",
+    "government",
+    "community_center",
+    "religious",
+    "park",
+    "industrial",
+    "vacant_land",
+}
+
+
+def is_institutional(property_class: str) -> bool:
+    return property_class in INSTITUTIONAL_CLASSES
+
+
+def is_residential_verification(property_class: str) -> bool:
+    return property_class in RESIDENTIAL_VERIFICATION_CLASSES
 
 DOCUMENT_TYPES: list[dict[str, Any]] = [
     {
@@ -359,6 +379,8 @@ def load_sources() -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dic
 
 
 def owner_name(owner_type: str, property_id: str, region: str) -> str:
+    if owner_type == "government":
+        return f"{region.title()} Municipal Corporation"
     if owner_type == "organization":
         prefix = stable_choice(ORG_PREFIXES, f"org-prefix:{property_id}")
         suffix = stable_choice(ORG_SUFFIXES, f"org-suffix:{property_id}:{region}")
@@ -378,8 +400,13 @@ def generate_owners(
     properties: list[dict[str, Any]], profiles_by_id: dict[str, dict[str, Any]]
 ) -> tuple[list[dict[str, Any]], list[dict[str, str]]]:
     property_ids = [item["property_id"] for item in properties]
+    residential_ids = [
+        property_id
+        for property_id in property_ids
+        if is_residential_verification(profiles_by_id[property_id]["property_class"])
+    ]
     owner_type_by_property = assign_by_quota(
-        property_ids,
+        residential_ids,
         {"individual": 0.90, "organization": 0.10},
         "owner-type",
     )
@@ -390,8 +417,14 @@ def generate_owners(
         sequence = parse_sequence(property_id)
         token = property_token(property_id)
         owner_id = f"OWN-{token}"
-        owner_type = owner_type_by_property[property_id]
+        property_class = profiles_by_id[property_id]["property_class"]
         region = item["source_region"]
+        if property_class == "government":
+            owner_type = "government"
+        elif is_institutional(property_class):
+            owner_type = "organization"
+        else:
+            owner_type = owner_type_by_property[property_id]
         full_name = owner_name(owner_type, property_id, region)
         email_name = full_name.lower().replace(" ", ".").replace(",", "")
         owners.append(
@@ -412,9 +445,13 @@ def generate_owners(
 def quality_condition_inputs(
     properties: list[dict[str, Any]], profiles_by_id: dict[str, dict[str, Any]]
 ) -> dict[str, str]:
-    property_ids = [item["property_id"] for item in properties]
-    return assign_by_quota(
-        property_ids,
+    residential_ids = [
+        item["property_id"]
+        for item in properties
+        if is_residential_verification(profiles_by_id[item["property_id"]]["property_class"])
+    ]
+    residential_conditions = assign_by_quota(
+        residential_ids,
         {
             "clean": 0.40,
             "minor_issues": 0.35,
@@ -423,9 +460,20 @@ def quality_condition_inputs(
         },
         "condition-profile",
     )
+    conditions = {}
+    for item in properties:
+        property_id = item["property_id"]
+        property_class = profiles_by_id[property_id]["property_class"]
+        if is_institutional(property_class):
+            conditions[property_id] = "clean"
+        else:
+            conditions[property_id] = residential_conditions[property_id]
+    return conditions
 
 
-def transfer_count(condition: str, property_id: str) -> int:
+def transfer_count(condition: str, property_id: str, property_class: str) -> int:
+    if is_institutional(property_class):
+        return 1
     unit = stable_unit(f"transfer-count:{property_id}")
     if condition == "clean":
         return 1 if unit < 0.70 else 2
@@ -436,7 +484,9 @@ def transfer_count(condition: str, property_id: str) -> int:
     return 3 if unit < 0.35 else 4 if unit < 0.80 else 5
 
 
-def transfer_type(condition: str, property_id: str, index: int) -> str:
+def transfer_type(condition: str, property_id: str, index: int, property_class: str) -> str:
+    if is_institutional(property_class):
+        return "government_allocation" if property_class == "government" else "establishment"
     if condition == "clean":
         options = ["sale", "sale", "inheritance"]
     elif condition == "minor_issues":
@@ -467,12 +517,14 @@ def generate_ownership_events(
     properties: list[dict[str, Any]],
     owners_by_property: dict[str, dict[str, Any]],
     condition_by_property: dict[str, str],
+    profiles_by_id: dict[str, dict[str, Any]],
 ) -> list[dict[str, Any]]:
     events = []
     for item in sorted(properties, key=lambda row: row["property_id"]):
         property_id = item["property_id"]
         condition = condition_by_property[property_id]
-        count = transfer_count(condition, property_id)
+        property_class = profiles_by_id[property_id]["property_class"]
+        count = transfer_count(condition, property_id, property_class)
         current_owner_id = owners_by_property[property_id]["owner_id"]
         token = property_token(property_id)
         prior_owner_id = f"HOWN-{token}-00"
@@ -489,7 +541,7 @@ def generate_ownership_events(
                     "property_id": property_id,
                     "from_owner_id": prior_owner_id,
                     "to_owner_id": next_owner_id,
-                    "transfer_type": transfer_type(condition, property_id, index),
+                    "transfer_type": transfer_type(condition, property_id, index, property_class),
                     "transfer_date": event_date,
                 }
             )
@@ -518,10 +570,22 @@ def generate_metadata(
             construction_status = "under_construction" if stable_unit(f"construction:{property_id}") < 0.12 else "completed"
             property_age = 0 if construction_status == "under_construction" else 2 + sequence % 22
             land_use = "commercial"
-        elif property_class in {"school", "hospital", "government"}:
+        elif property_class == "industrial":
+            construction_status = "completed"
+            property_age = 3 + sequence % 25
+            land_use = "industrial"
+        elif property_class in {"school", "hospital", "clinic", "government", "community_center", "religious"}:
             construction_status = "completed"
             property_age = 4 + sequence % 30
             land_use = "institutional"
+        elif property_class == "vacant_land":
+            construction_status = "vacant_land"
+            property_age = 0
+            land_use = "vacant"
+        elif property_class == "park":
+            construction_status = "vacant_land"
+            property_age = 0
+            land_use = "recreational"
         else:
             construction_status = "vacant_land"
             property_age = 0
@@ -564,7 +628,7 @@ def select_loans(
     eligible = [
         item["property_id"]
         for item in properties
-        if profiles_by_id[item["property_id"]]["property_class"] not in {"government", "school", "hospital", "park"}
+        if is_residential_verification(profiles_by_id[item["property_id"]]["property_class"])
     ]
     ranked = sorted(
         eligible,
@@ -670,7 +734,7 @@ def select_disputes(
     eligible = [
         item["property_id"]
         for item in properties
-        if profiles_by_id[item["property_id"]]["property_class"] not in {"government", "school", "hospital", "park"}
+        if is_residential_verification(profiles_by_id[item["property_id"]]["property_class"])
     ]
     ranked = sorted(
         eligible,
@@ -703,7 +767,18 @@ def generate_court_disputes(
     return records
 
 
-def document_target(condition: str, property_id: str) -> int:
+def document_target(condition: str, property_id: str, property_class: str) -> int:
+    if is_institutional(property_class):
+        return len(
+            required_document_keys(
+                property_id,
+                {"property_class": property_class, "sale_status": "not_for_sale"},
+                has_loan=False,
+                has_active_loan=False,
+                has_pending_tax=False,
+                has_dispute=False,
+            )
+        )
     unit = stable_unit(f"doc-target:{property_id}")
     if condition == "clean":
         return 16 + int(unit * 3)
@@ -723,38 +798,92 @@ def required_document_keys(
     has_dispute: bool,
 ) -> set[str]:
     property_class = profile["property_class"]
-    keys = {
-        "sale_deed",
-        "mother_deed",
-        "encumbrance_certificate",
-        "property_tax_receipt",
-        "mutation_record",
-        "survey_map",
-        "khata_certificate",
-        "khata_extract",
-        "identity_proof",
-    }
-    if property_class in {"villa", "apartment", "commercial", "school", "hospital", "government"}:
-        keys.update(
-            {
-                "building_approval_plan",
-                "occupancy_certificate",
-                "completion_certificate",
-                "noc",
-            }
-        )
+    if property_class == "school":
+        keys = {
+            "khata_certificate",
+            "building_approval_plan",
+            "occupancy_certificate",
+            "noc",
+            "survey_map",
+            "identity_proof",
+        }
+    elif property_class in {"hospital", "clinic"}:
+        keys = {
+            "building_approval_plan",
+            "occupancy_certificate",
+            "khata_certificate",
+            "noc",
+            "survey_map",
+            "identity_proof",
+        }
+    elif property_class == "government":
+        keys = {
+            "survey_map",
+            "khata_certificate",
+            "building_approval_plan",
+            "mutation_record",
+            "identity_proof",
+        }
+    elif property_class in {"community_center", "religious"}:
+        keys = {
+            "building_approval_plan",
+            "occupancy_certificate",
+            "survey_map",
+            "khata_certificate",
+            "identity_proof",
+        }
+    elif property_class == "park":
+        keys = {"survey_map", "layout_approval", "land_conversion_certificate"}
+    elif property_class == "industrial":
+        keys = {
+            "building_approval_plan",
+            "occupancy_certificate",
+            "khata_certificate",
+            "survey_map",
+            "property_tax_receipt",
+            "identity_proof",
+        }
+    elif property_class == "vacant_land":
+        keys = {
+            "survey_map",
+            "layout_approval",
+            "land_conversion_certificate",
+            "rtc_record",
+            "khata_certificate",
+        }
     else:
-        keys.update({"layout_approval", "land_conversion_certificate"})
-    if profile["sale_status"] == "for_sale" or has_pending_tax:
-        keys.add("property_tax_receipt")
-    if has_loan or has_active_loan:
-        keys.add("encumbrance_certificate")
-    if has_dispute:
-        keys.add("court_dispute_record")
-    if stable_unit(f"poa:{property_id}") < 0.17:
-        keys.add("power_of_attorney")
-    if profile["property_class"] == "residential_plot":
-        keys.add("rtc_record")
+        keys = {
+            "sale_deed",
+            "mother_deed",
+            "encumbrance_certificate",
+            "property_tax_receipt",
+            "mutation_record",
+            "survey_map",
+            "khata_certificate",
+            "khata_extract",
+            "identity_proof",
+        }
+        if property_class in {"villa", "apartment", "commercial"}:
+            keys.update(
+                {
+                    "building_approval_plan",
+                    "occupancy_certificate",
+                    "completion_certificate",
+                    "noc",
+                }
+            )
+        else:
+            keys.update({"layout_approval", "land_conversion_certificate"})
+        if profile["sale_status"] == "for_sale" or has_pending_tax:
+            keys.add("property_tax_receipt")
+        if has_loan or has_active_loan:
+            keys.add("encumbrance_certificate")
+        if has_dispute:
+            keys.add("court_dispute_record")
+        if stable_unit(f"poa:{property_id}") < 0.17:
+            keys.add("power_of_attorney")
+        if property_class == "residential_plot":
+            keys.add("rtc_record")
     return keys
 
 
@@ -768,10 +897,13 @@ def choose_available_document_keys(
     has_pending_tax: bool,
     has_dispute: bool,
 ) -> set[str]:
-    target = document_target(condition, property_id)
+    property_class = profile["property_class"]
+    keys = required_document_keys(property_id, profile, has_loan, has_active_loan, has_pending_tax, has_dispute)
+    if is_institutional(property_class):
+        return keys
+    target = document_target(condition, property_id, property_class)
     if transfer_count_value >= 4:
         target = max(6, target - 1)
-    keys = required_document_keys(property_id, profile, has_loan, has_active_loan, has_pending_tax, has_dispute)
     all_keys = [item["key"] for item in DOCUMENT_TYPES]
     ranked_optional = sorted(
         [key for key in all_keys if key not in keys],
@@ -1152,6 +1284,7 @@ def generate_documents(
 
 def generate_timeline(
     properties: list[dict[str, Any]],
+    profiles_by_id: dict[str, dict[str, Any]],
     ownership_events_by_property: dict[str, list[dict[str, Any]]],
     loans_by_property: dict[str, dict[str, Any]],
     tax_by_property: dict[str, dict[str, Any]],
@@ -1160,6 +1293,7 @@ def generate_timeline(
     records = []
     for item in sorted(properties, key=lambda row: row["property_id"]):
         property_id = item["property_id"]
+        property_class = profiles_by_id[property_id]["property_class"]
         events = []
         ownership_events = ownership_events_by_property[property_id]
         registration_date = ownership_events[0]["transfer_date"]
@@ -1171,18 +1305,21 @@ def generate_timeline(
                     "event_date": ownership_event["transfer_date"],
                 }
             )
-        if property_id in loans_by_property:
-            loan_start = add_days(ownership_events[-1]["transfer_date"], 40)
-            events.append({"event_type": "loan_created", "event_date": loan_start})
-            if loans_by_property[property_id]["status"] == "closed":
-                events.append({"event_type": "loan_closed", "event_date": add_days(loan_start, 700)})
-        events.append({"event_type": "mutation_updated", "event_date": add_days(ownership_events[-1]["transfer_date"], 45)})
-        events.append({"event_type": "tax_paid", "event_date": "2026-03-20"})
-        if property_id in disputes_by_property:
-            dispute_date = add_days(ownership_events[-1]["transfer_date"], 120)
-            events.append({"event_type": "court_dispute_filed", "event_date": dispute_date})
-            if disputes_by_property[property_id]["status"] == "closed":
-                events.append({"event_type": "court_dispute_closed", "event_date": add_days(dispute_date, 450)})
+        if is_institutional(property_class):
+            events.append({"event_type": "institutional_record_updated", "event_date": add_days(ownership_events[-1]["transfer_date"], 30)})
+        else:
+            if property_id in loans_by_property:
+                loan_start = add_days(ownership_events[-1]["transfer_date"], 40)
+                events.append({"event_type": "loan_created", "event_date": loan_start})
+                if loans_by_property[property_id]["status"] == "closed":
+                    events.append({"event_type": "loan_closed", "event_date": add_days(loan_start, 700)})
+            events.append({"event_type": "mutation_updated", "event_date": add_days(ownership_events[-1]["transfer_date"], 45)})
+            events.append({"event_type": "tax_paid", "event_date": "2026-03-20"})
+            if property_id in disputes_by_property:
+                dispute_date = add_days(ownership_events[-1]["transfer_date"], 120)
+                events.append({"event_type": "court_dispute_filed", "event_date": dispute_date})
+                if disputes_by_property[property_id]["status"] == "closed":
+                    events.append({"event_type": "court_dispute_closed", "event_date": add_days(dispute_date, 450)})
         records.append(
             {
                 "property_id": property_id,
@@ -1251,6 +1388,22 @@ def generate_reports(
     consistency_report: dict[str, Any],
 ) -> dict[Path, Any]:
     profile_by_id = {profile["property_id"]: profile for profile in profiles}
+    events_by_property: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for event in ownership_events:
+        events_by_property[event["property_id"]].append(event)
+    areas = [float(item["area_sq_m"]) for item in properties]
+    sorted_areas = sorted(areas)
+    median_area = sorted_areas[len(sorted_areas) // 2] if sorted_areas else 0
+    latitudes = [float(item["centroid_lat"]) for item in properties]
+    longitudes = [float(item["centroid_lon"]) for item in properties]
+    institutional_profiles = [profile for profile in profiles if is_institutional(profile["property_class"])]
+    institutional_property_ids = {profile["property_id"] for profile in institutional_profiles}
+    institutional_owners = [owner for owner in owners if owner["property_id"] in institutional_property_ids]
+    institutional_documents = [
+        document for document in all_documents if document["property_id"] in institutional_property_ids
+    ]
+    transfer_counts = Counter(len(events_by_property[item["property_id"]]) for item in properties)
+    condition_distribution = counter_dict(list(condition_by_property.values()))
     reports: dict[Path, Any] = {}
     reports[REPORTS_DIR / "dataset_summary.json"] = {
         "generation_seed": BUSINESS_DATASET_SEED,
@@ -1274,11 +1427,45 @@ def generate_reports(
             "tax_records": len(tax_records),
             "court_disputes": len(disputes),
         },
-        "data_condition_distribution": counter_dict(list(condition_by_property.values())),
+        "data_condition_distribution": condition_distribution,
+        "verification_workflow_distribution": counter_dict([profile["verification_workflow"] for profile in profiles]),
     }
+    property_class_distribution = counter_dict([profile["property_class"] for profile in profiles])
     reports[REPORTS_DIR / "property_stats.json"] = {
+        "geographic": {
+            "total_properties": len(properties),
+            "region_distribution": counter_dict([item["source_region"] for item in properties]),
+            "coordinate_bounds": {
+                "min_lat": round(min(latitudes), 7),
+                "max_lat": round(max(latitudes), 7),
+                "min_lon": round(min(longitudes), 7),
+                "max_lon": round(max(longitudes), 7),
+            },
+            "average_area_sq_m": round(sum(areas) / len(areas), 2) if areas else 0,
+            "median_area_sq_m": round(median_area, 2),
+            "property_density_per_region": {
+                region: round(count / len(properties), 4)
+                for region, count in counter_dict([item["source_region"] for item in properties]).items()
+            },
+        },
+        "property": {
+            "property_class_distribution": property_class_distribution,
+            "residential_count": property_class_distribution.get("residential_plot", 0),
+            "commercial_count": property_class_distribution.get("commercial", 0),
+            "apartment_count": property_class_distribution.get("apartment", 0),
+            "villa_count": property_class_distribution.get("villa", 0),
+            "school_count": property_class_distribution.get("school", 0),
+            "hospital_count": property_class_distribution.get("hospital", 0) + property_class_distribution.get("clinic", 0),
+            "government_count": property_class_distribution.get("government", 0),
+            "industrial_count": property_class_distribution.get("industrial", 0),
+            "religious_count": property_class_distribution.get("religious", 0),
+            "park_count": property_class_distribution.get("park", 0),
+            "vacant_land_count": property_class_distribution.get("vacant_land", 0),
+            "sale_status_distribution": counter_dict([profile["sale_status"] for profile in profiles]),
+            "verification_workflow_distribution": counter_dict([profile["verification_workflow"] for profile in profiles]),
+        },
         "region_distribution": counter_dict([item["source_region"] for item in properties]),
-        "property_class_distribution": counter_dict([profile["property_class"] for profile in profiles]),
+        "property_class_distribution": property_class_distribution,
         "sale_status_distribution": counter_dict([profile["sale_status"] for profile in profiles]),
         "metadata": {
             "construction_status_distribution": counter_dict([item["construction_status"] for item in metadata]),
@@ -1290,6 +1477,13 @@ def generate_reports(
     reports[REPORTS_DIR / "owner_stats.json"] = {
         "owner_type_distribution": counter_dict([owner["owner_type"] for owner in owners]),
         "source_region_distribution": counter_dict([owner["source_region"] for owner in owners]),
+        "organization_vs_individual": {
+            "individual": sum(1 for owner in owners if owner["owner_type"] == "individual"),
+            "organization": sum(1 for owner in owners if owner["owner_type"] == "organization"),
+            "government": sum(1 for owner in owners if owner["owner_type"] == "government"),
+        },
+        "ownership_transfer_distribution": {str(length): transfer_counts[length] for length in sorted(transfer_counts)},
+        "ownership_chain_length_distribution": {str(length): transfer_counts[length] for length in sorted(transfer_counts)},
         "owners_per_property_min": 1,
         "owners_per_property_max": 1,
     }
@@ -1309,9 +1503,46 @@ def generate_reports(
                 else "average_10_12"
                 if item["document_count"] >= 10
                 else "poor_6_9"
+                if item["document_count"] >= 6
+                else "institutional_1_5"
                 for item in health_summary
             ]
         ),
+        "coverage_by_property_type": {
+            property_class: {
+                "property_count": sum(1 for profile in profiles if profile["property_class"] == property_class),
+                "available_documents": len(
+                    [
+                        document
+                        for document in all_documents
+                        if document["status"] != "missing"
+                        and profile_by_id[document["property_id"]]["property_class"] == property_class
+                    ]
+                ),
+            }
+            for property_class in sorted({profile["property_class"] for profile in profiles})
+        },
+        "coverage_by_sale_status": {
+            status: len(
+                [
+                    document
+                    for document in all_documents
+                    if document["status"] != "missing" and profile_by_id[document["property_id"]]["sale_status"] == status
+                ]
+            )
+            for status in ["for_sale", "not_for_sale"]
+        },
+        "coverage_by_region": {
+            region: len(
+                [
+                    document
+                    for document in all_documents
+                    if document["status"] != "missing"
+                    and next(item["source_region"] for item in properties if item["property_id"] == document["property_id"]) == region
+                ]
+            )
+            for region in sorted({item["source_region"] for item in properties})
+        },
     }
     reports[REPORTS_DIR / "loan_stats.json"] = {
         "total_loans": len(loans),
@@ -1330,6 +1561,9 @@ def generate_reports(
         "properties_with_disputes": len({record["property_id"] for record in disputes}),
         "status_distribution": status_counts(disputes),
         "case_type_distribution": counter_dict([record["case_type"] for record in disputes]),
+        "dispute_distribution_by_property_type": counter_dict(
+            [profile_by_id[record["property_id"]]["property_class"] for record in disputes]
+        ),
     }
 
     available_documents = [document for document in all_documents if document["status"] != "missing"]
@@ -1358,6 +1592,36 @@ def generate_reports(
                 ),
             }
             for status in ["for_sale", "not_for_sale"]
+        },
+        "coverage_by_region": {
+            region: {
+                "property_count": len([item for item in properties if item["source_region"] == region]),
+                "available_documents": len(
+                    [
+                        document
+                        for document in available_documents
+                        if next(item["source_region"] for item in properties if item["property_id"] == document["property_id"]) == region
+                    ]
+                ),
+            }
+            for region in sorted({item["source_region"] for item in properties})
+        },
+        "institutional": {
+            "institutional_property_counts": counter_dict([profile["property_class"] for profile in institutional_profiles]),
+            "institutional_owner_types": counter_dict([owner["owner_type"] for owner in institutional_owners]),
+            "institutional_document_coverage": status_counts(institutional_documents),
+            "institutional_distribution_by_region": counter_dict(
+                [next(item["source_region"] for item in properties if item["property_id"] == profile["property_id"]) for profile in institutional_profiles]
+            ),
+        },
+        "dataset_health": {
+            "clean_properties": condition_distribution.get("clean", 0),
+            "minor_issues": condition_distribution.get("minor_issues", 0),
+            "moderate_issues": condition_distribution.get("moderate_issues", 0),
+            "high_risk_candidates": condition_distribution.get("high_risk_candidate", 0),
+            "validation_success_rate": 1.0 if consistency_report["status"] == "passed" else 0.0,
+            "consistency_score": 1.0 if consistency_report["status"] == "passed" else 0.0,
+            "coverage_score": round(len(available_documents) / len(all_documents), 4) if all_documents else 0,
         },
     }
     reports[REPORTS_DIR / "consistency_report.json"] = consistency_report
@@ -1638,7 +1902,6 @@ def write_document_samples(documents_by_type: dict[str, list[dict[str, Any]]]) -
 
 
 def run_business_dataset_generation() -> dict[str, Any]:
-    random.seed(BUSINESS_DATASET_SEED)
     properties, profiles, pois = load_sources()
     profiles_by_id = {profile["property_id"]: profile for profile in profiles}
 
@@ -1647,7 +1910,7 @@ def run_business_dataset_generation() -> dict[str, Any]:
     condition_by_property = quality_condition_inputs(properties, profiles_by_id)
     owners, registry = generate_owners(properties, profiles_by_id)
     owners_by_property = {owner["property_id"]: owner for owner in owners}
-    ownership_events = generate_ownership_events(properties, owners_by_property, condition_by_property)
+    ownership_events = generate_ownership_events(properties, owners_by_property, condition_by_property, profiles_by_id)
     ownership_events_by_property: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for event in ownership_events:
         ownership_events_by_property[event["property_id"]].append(event)
@@ -1676,6 +1939,7 @@ def run_business_dataset_generation() -> dict[str, Any]:
     )
     timeline = generate_timeline(
         properties,
+        profiles_by_id,
         ownership_events_by_property,
         loans_by_property,
         tax_by_property,
