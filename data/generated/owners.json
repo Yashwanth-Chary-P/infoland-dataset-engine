@@ -299,10 +299,10 @@
   {
     "owner_id": "OWN-KOK-000034",
     "property_id": "PROP-KOK-000034",
-    "owner_type": "individual",
-    "full_name": "Divya Menon",
+    "owner_type": "organization",
+    "full_name": "Nava Kokapet Infra Holdings",
     "phone": "+91-9400269246",
-    "email": "divya.menon.34@infoland.example",
+    "email": "nava.kokapet.infra.holdings.34@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -542,10 +542,10 @@
   {
     "owner_id": "OWN-KOK-000061",
     "property_id": "PROP-KOK-000061",
-    "owner_type": "individual",
-    "full_name": "Harsha Singh",
+    "owner_type": "organization",
+    "full_name": "Urban Kokapet Estates",
     "phone": "+91-9100483059",
-    "email": "harsha.singh.61@infoland.example",
+    "email": "urban.kokapet.estates.61@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -713,10 +713,10 @@
   {
     "owner_id": "OWN-KOK-000080",
     "property_id": "PROP-KOK-000080",
-    "owner_type": "individual",
-    "full_name": "Arjun Iyer",
+    "owner_type": "organization",
+    "full_name": "Apex Kokapet Infra Holdings",
     "phone": "+91-9000633520",
-    "email": "arjun.iyer.80@infoland.example",
+    "email": "apex.kokapet.infra.holdings.80@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -1136,10 +1136,10 @@
   {
     "owner_id": "OWN-KOK-000127",
     "property_id": "PROP-KOK-000127",
-    "owner_type": "individual",
-    "full_name": "Harsha Patel",
+    "owner_type": "organization",
+    "full_name": "Sree Kokapet Healthcare Foundation",
     "phone": "+91-9701005713",
-    "email": "harsha.patel.127@infoland.example",
+    "email": "sree.kokapet.healthcare.foundation.127@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -1217,10 +1217,10 @@
   {
     "owner_id": "OWN-KOK-000136",
     "property_id": "PROP-KOK-000136",
-    "owner_type": "individual",
-    "full_name": "Meera Menon",
+    "owner_type": "organization",
+    "full_name": "Nava Kokapet Healthcare Foundation",
     "phone": "+91-9601076984",
-    "email": "meera.menon.136@infoland.example",
+    "email": "nava.kokapet.healthcare.foundation.136@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -1244,10 +1244,10 @@
   {
     "owner_id": "OWN-KOK-000139",
     "property_id": "PROP-KOK-000139",
-    "owner_type": "individual",
-    "full_name": "Kiran Goud",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Constructions Pvt Ltd",
     "phone": "+91-9901100741",
-    "email": "kiran.goud.139@infoland.example",
+    "email": "vertex.kokapet.constructions.pvt.ltd.139@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -1460,10 +1460,10 @@
   {
     "owner_id": "OWN-KOK-000163",
     "property_id": "PROP-KOK-000163",
-    "owner_type": "individual",
-    "full_name": "Kiran Rao",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Estates",
     "phone": "+91-9301290797",
-    "email": "kiran.rao.163@infoland.example",
+    "email": "sri.kokapet.estates.163@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -2549,10 +2549,10 @@
   {
     "owner_id": "OWN-KOK-000284",
     "property_id": "PROP-KOK-000284",
-    "owner_type": "individual",
-    "full_name": "Sanjana Varma",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Estates",
     "phone": "+91-9402248996",
-    "email": "sanjana.varma.284@infoland.example",
+    "email": "sri.kokapet.estates.284@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -2783,10 +2783,10 @@
   {
     "owner_id": "OWN-KOK-000310",
     "property_id": "PROP-KOK-000310",
-    "owner_type": "individual",
-    "full_name": "Nikhil Sharma",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Infra Holdings",
     "phone": "+91-9002454890",
-    "email": "nikhil.sharma.310@infoland.example",
+    "email": "vertex.kokapet.infra.holdings.310@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -3287,10 +3287,10 @@
   {
     "owner_id": "OWN-KOK-000366",
     "property_id": "PROP-KOK-000366",
-    "owner_type": "individual",
-    "full_name": "Deepak Naidu",
+    "owner_type": "organization",
+    "full_name": "Urban Kokapet Constructions Pvt Ltd",
     "phone": "+91-9602898354",
-    "email": "deepak.naidu.366@infoland.example",
+    "email": "urban.kokapet.constructions.pvt.ltd.366@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -3863,10 +3863,10 @@
   {
     "owner_id": "OWN-KOK-000430",
     "property_id": "PROP-KOK-000430",
-    "owner_type": "individual",
-    "full_name": "Kavya Reddy",
+    "owner_type": "organization",
+    "full_name": "Apex Kokapet Estates",
     "phone": "+91-9003405170",
-    "email": "kavya.reddy.430@infoland.example",
+    "email": "apex.kokapet.estates.430@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -3890,10 +3890,10 @@
   {
     "owner_id": "OWN-KOK-000433",
     "property_id": "PROP-KOK-000433",
-    "owner_type": "individual",
-    "full_name": "Arjun Singh",
+    "owner_type": "organization",
+    "full_name": "Nava Kokapet Constructions Pvt Ltd",
     "phone": "+91-9303428927",
-    "email": "arjun.singh.433@infoland.example",
+    "email": "nava.kokapet.constructions.pvt.ltd.433@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4079,10 +4079,10 @@
   {
     "owner_id": "OWN-KOK-000454",
     "property_id": "PROP-KOK-000454",
-    "owner_type": "individual",
-    "full_name": "Aditi Goud",
+    "owner_type": "government",
+    "full_name": "Kokapet Municipal Corporation",
     "phone": "+91-9403595226",
-    "email": "aditi.goud.454@infoland.example",
+    "email": "kokapet.municipal.corporation.454@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4106,10 +4106,10 @@
   {
     "owner_id": "OWN-KOK-000457",
     "property_id": "PROP-KOK-000457",
-    "owner_type": "individual",
-    "full_name": "Nikhil Sharma",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Constructions Pvt Ltd",
     "phone": "+91-9703618983",
-    "email": "nikhil.sharma.457@infoland.example",
+    "email": "vertex.kokapet.constructions.pvt.ltd.457@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4304,10 +4304,10 @@
   {
     "owner_id": "OWN-KOK-000479",
     "property_id": "PROP-KOK-000479",
-    "owner_type": "individual",
-    "full_name": "Priya Menon",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Kokapet Civic Services Society",
     "phone": "+91-9903793201",
-    "email": "priya.menon.479@infoland.example",
+    "email": "srinidhi.kokapet.civic.services.society.479@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4439,10 +4439,10 @@
   {
     "owner_id": "OWN-KOK-000494",
     "property_id": "PROP-KOK-000494",
-    "owner_type": "individual",
-    "full_name": "Kiran Menon",
+    "owner_type": "organization",
+    "full_name": "Green Kokapet Civic Services Society",
     "phone": "+91-9403911986",
-    "email": "kiran.menon.494@infoland.example",
+    "email": "green.kokapet.civic.services.society.494@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4583,10 +4583,10 @@
   {
     "owner_id": "OWN-KOK-000510",
     "property_id": "PROP-KOK-000510",
-    "owner_type": "organization",
-    "full_name": "Urban Kokapet Civic Services Society",
+    "owner_type": "government",
+    "full_name": "Kokapet Municipal Corporation",
     "phone": "+91-9004038690",
-    "email": "urban.kokapet.civic.services.society.510@infoland.example",
+    "email": "kokapet.municipal.corporation.510@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4610,10 +4610,10 @@
   {
     "owner_id": "OWN-KOK-000513",
     "property_id": "PROP-KOK-000513",
-    "owner_type": "individual",
-    "full_name": "Arjun Rao",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Healthcare Foundation",
     "phone": "+91-9304062447",
-    "email": "arjun.rao.513@infoland.example",
+    "email": "sri.kokapet.healthcare.foundation.513@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4628,10 +4628,10 @@
   {
     "owner_id": "OWN-KOK-000515",
     "property_id": "PROP-KOK-000515",
-    "owner_type": "individual",
-    "full_name": "Arjun Patel",
+    "owner_type": "organization",
+    "full_name": "Nava Kokapet Healthcare Foundation",
     "phone": "+91-9504078285",
-    "email": "arjun.patel.515@infoland.example",
+    "email": "nava.kokapet.healthcare.foundation.515@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4682,10 +4682,10 @@
   {
     "owner_id": "OWN-KOK-000521",
     "property_id": "PROP-KOK-000521",
-    "owner_type": "individual",
-    "full_name": "Kiran Kumar",
+    "owner_type": "organization",
+    "full_name": "Apex Kokapet Estates",
     "phone": "+91-9104125799",
-    "email": "kiran.kumar.521@infoland.example",
+    "email": "apex.kokapet.estates.521@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -4736,10 +4736,10 @@
   {
     "owner_id": "OWN-KOK-000527",
     "property_id": "PROP-KOK-000527",
-    "owner_type": "individual",
-    "full_name": "Rahul Menon",
+    "owner_type": "government",
+    "full_name": "Kokapet Municipal Corporation",
     "phone": "+91-9704173313",
-    "email": "rahul.menon.527@infoland.example",
+    "email": "kokapet.municipal.corporation.527@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -5600,19 +5600,19 @@
   {
     "owner_id": "OWN-KOK-000623",
     "property_id": "PROP-KOK-000623",
-    "owner_type": "individual",
-    "full_name": "Aditi Iyer",
+    "owner_type": "organization",
+    "full_name": "Urban Kokapet Civic Services Society",
     "phone": "+91-9304933537",
-    "email": "aditi.iyer.623@infoland.example",
+    "email": "urban.kokapet.civic.services.society.623@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000624",
     "property_id": "PROP-KOK-000624",
-    "owner_type": "individual",
-    "full_name": "Rahul Naidu",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Developers LLP",
     "phone": "+91-9404941456",
-    "email": "rahul.naidu.624@infoland.example",
+    "email": "sri.kokapet.developers.llp.624@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -5663,10 +5663,10 @@
   {
     "owner_id": "OWN-KOK-000630",
     "property_id": "PROP-KOK-000630",
-    "owner_type": "individual",
-    "full_name": "Kiran Iyer",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Educational Trust",
     "phone": "+91-9004988970",
-    "email": "kiran.iyer.630@infoland.example",
+    "email": "vertex.kokapet.educational.trust.630@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -5915,10 +5915,10 @@
   {
     "owner_id": "OWN-KOK-000658",
     "property_id": "PROP-KOK-000658",
-    "owner_type": "individual",
-    "full_name": "Rahul Kumar",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Estates",
     "phone": "+91-9805210702",
-    "email": "rahul.kumar.658@infoland.example",
+    "email": "vertex.kokapet.estates.658@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -5978,10 +5978,10 @@
   {
     "owner_id": "OWN-KOK-000665",
     "property_id": "PROP-KOK-000665",
-    "owner_type": "individual",
-    "full_name": "Priya Singh",
+    "owner_type": "organization",
+    "full_name": "Sree Kokapet Developers LLP",
     "phone": "+91-9505266135",
-    "email": "priya.singh.665@infoland.example",
+    "email": "sree.kokapet.developers.llp.665@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6185,46 +6185,46 @@
   {
     "owner_id": "OWN-KOK-000688",
     "property_id": "PROP-KOK-000688",
-    "owner_type": "individual",
-    "full_name": "Arjun Patel",
+    "owner_type": "organization",
+    "full_name": "Urban Kokapet Estates",
     "phone": "+91-9805448272",
-    "email": "arjun.patel.688@infoland.example",
+    "email": "urban.kokapet.estates.688@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000689",
     "property_id": "PROP-KOK-000689",
-    "owner_type": "individual",
-    "full_name": "Arjun Singh",
+    "owner_type": "organization",
+    "full_name": "Nava Kokapet Educational Trust",
     "phone": "+91-9905456191",
-    "email": "arjun.singh.689@infoland.example",
+    "email": "nava.kokapet.educational.trust.689@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000690",
     "property_id": "PROP-KOK-000690",
-    "owner_type": "individual",
-    "full_name": "Nikhil Sharma",
+    "owner_type": "organization",
+    "full_name": "Urban Kokapet Civic Services Society",
     "phone": "+91-9005464110",
-    "email": "nikhil.sharma.690@infoland.example",
+    "email": "urban.kokapet.civic.services.society.690@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000691",
     "property_id": "PROP-KOK-000691",
-    "owner_type": "individual",
-    "full_name": "Suresh Varma",
+    "owner_type": "organization",
+    "full_name": "Green Kokapet Estates",
     "phone": "+91-9105472029",
-    "email": "suresh.varma.691@infoland.example",
+    "email": "green.kokapet.estates.691@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000692",
     "property_id": "PROP-KOK-000692",
-    "owner_type": "individual",
-    "full_name": "Ananya Varma",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Civic Services Society",
     "phone": "+91-9205479948",
-    "email": "ananya.varma.692@infoland.example",
+    "email": "sri.kokapet.civic.services.society.692@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6257,28 +6257,28 @@
   {
     "owner_id": "OWN-KOK-000696",
     "property_id": "PROP-KOK-000696",
-    "owner_type": "individual",
-    "full_name": "Nikhil Iyer",
+    "owner_type": "organization",
+    "full_name": "Urban Kokapet Constructions Pvt Ltd",
     "phone": "+91-9605511624",
-    "email": "nikhil.iyer.696@infoland.example",
+    "email": "urban.kokapet.constructions.pvt.ltd.696@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000697",
     "property_id": "PROP-KOK-000697",
-    "owner_type": "individual",
-    "full_name": "Suresh Sharma",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Kokapet Developers LLP",
     "phone": "+91-9705519543",
-    "email": "suresh.sharma.697@infoland.example",
+    "email": "srinidhi.kokapet.developers.llp.697@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000698",
     "property_id": "PROP-KOK-000698",
-    "owner_type": "individual",
-    "full_name": "Vikram Patel",
+    "owner_type": "organization",
+    "full_name": "Green Kokapet Educational Trust",
     "phone": "+91-9805527462",
-    "email": "vikram.patel.698@infoland.example",
+    "email": "green.kokapet.educational.trust.698@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6392,10 +6392,10 @@
   {
     "owner_id": "OWN-KOK-000711",
     "property_id": "PROP-KOK-000711",
-    "owner_type": "individual",
-    "full_name": "Harsha Iyer",
+    "owner_type": "organization",
+    "full_name": "Apex Kokapet Estates",
     "phone": "+91-9105630409",
-    "email": "harsha.iyer.711@infoland.example",
+    "email": "apex.kokapet.estates.711@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6419,10 +6419,10 @@
   {
     "owner_id": "OWN-KOK-000714",
     "property_id": "PROP-KOK-000714",
-    "owner_type": "individual",
-    "full_name": "Arjun Rao",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Infra Holdings",
     "phone": "+91-9405654166",
-    "email": "arjun.rao.714@infoland.example",
+    "email": "vertex.kokapet.infra.holdings.714@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6446,19 +6446,19 @@
   {
     "owner_id": "OWN-KOK-000717",
     "property_id": "PROP-KOK-000717",
-    "owner_type": "individual",
-    "full_name": "Suresh Menon",
+    "owner_type": "organization",
+    "full_name": "Green Kokapet Estates",
     "phone": "+91-9705677923",
-    "email": "suresh.menon.717@infoland.example",
+    "email": "green.kokapet.estates.717@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000718",
     "property_id": "PROP-KOK-000718",
-    "owner_type": "individual",
-    "full_name": "Sanjana Naidu",
+    "owner_type": "organization",
+    "full_name": "Vertex Kokapet Infra Holdings",
     "phone": "+91-9805685842",
-    "email": "sanjana.naidu.718@infoland.example",
+    "email": "vertex.kokapet.infra.holdings.718@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6500,10 +6500,10 @@
   {
     "owner_id": "OWN-KOK-000723",
     "property_id": "PROP-KOK-000723",
-    "owner_type": "individual",
-    "full_name": "Aarav Singh",
+    "owner_type": "organization",
+    "full_name": "Sree Kokapet Civic Services Society",
     "phone": "+91-9305725437",
-    "email": "aarav.singh.723@infoland.example",
+    "email": "sree.kokapet.civic.services.society.723@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6572,10 +6572,10 @@
   {
     "owner_id": "OWN-KOK-000731",
     "property_id": "PROP-KOK-000731",
-    "owner_type": "individual",
-    "full_name": "Vikram Reddy",
+    "owner_type": "organization",
+    "full_name": "Green Kokapet Infra Holdings",
     "phone": "+91-9105788789",
-    "email": "vikram.reddy.731@infoland.example",
+    "email": "green.kokapet.infra.holdings.731@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6662,10 +6662,10 @@
   {
     "owner_id": "OWN-KOK-000741",
     "property_id": "PROP-KOK-000741",
-    "owner_type": "individual",
-    "full_name": "Meera Reddy",
+    "owner_type": "organization",
+    "full_name": "Nava Kokapet Infra Holdings",
     "phone": "+91-9105867979",
-    "email": "meera.reddy.741@infoland.example",
+    "email": "nava.kokapet.infra.holdings.741@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6680,10 +6680,10 @@
   {
     "owner_id": "OWN-KOK-000743",
     "property_id": "PROP-KOK-000743",
-    "owner_type": "individual",
-    "full_name": "Arjun Kumar",
+    "owner_type": "organization",
+    "full_name": "Sree Kokapet Developers LLP",
     "phone": "+91-9305883817",
-    "email": "arjun.kumar.743@infoland.example",
+    "email": "sree.kokapet.developers.llp.743@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6698,10 +6698,10 @@
   {
     "owner_id": "OWN-KOK-000745",
     "property_id": "PROP-KOK-000745",
-    "owner_type": "individual",
-    "full_name": "Priya Kumar",
+    "owner_type": "organization",
+    "full_name": "Apex Kokapet Healthcare Foundation",
     "phone": "+91-9505899655",
-    "email": "priya.kumar.745@infoland.example",
+    "email": "apex.kokapet.healthcare.foundation.745@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -6761,19 +6761,19 @@
   {
     "owner_id": "OWN-KOK-000752",
     "property_id": "PROP-KOK-000752",
-    "owner_type": "individual",
-    "full_name": "Deepak Naidu",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Infra Holdings",
     "phone": "+91-9205955088",
-    "email": "deepak.naidu.752@infoland.example",
+    "email": "sri.kokapet.infra.holdings.752@infoland.example",
     "source_region": "kokapet"
   },
   {
     "owner_id": "OWN-KOK-000753",
     "property_id": "PROP-KOK-000753",
-    "owner_type": "individual",
-    "full_name": "Arjun Sharma",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Kokapet Constructions Pvt Ltd",
     "phone": "+91-9305963007",
-    "email": "arjun.sharma.753@infoland.example",
+    "email": "srinidhi.kokapet.constructions.pvt.ltd.753@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -7166,10 +7166,10 @@
   {
     "owner_id": "OWN-KOK-000797",
     "property_id": "PROP-KOK-000797",
-    "owner_type": "individual",
-    "full_name": "Arjun Patel",
+    "owner_type": "organization",
+    "full_name": "Sri Kokapet Civic Services Society",
     "phone": "+91-9706311443",
-    "email": "arjun.patel.797@infoland.example",
+    "email": "sri.kokapet.civic.services.society.797@infoland.example",
     "source_region": "kokapet"
   },
   {
@@ -7400,10 +7400,10 @@
   {
     "owner_id": "OWN-MOK-000017",
     "property_id": "PROP-MOK-000017",
-    "owner_type": "individual",
-    "full_name": "Kiran Patel",
+    "owner_type": "organization",
+    "full_name": "Sree Mokila Healthcare Foundation",
     "phone": "+91-9700134623",
-    "email": "kiran.patel.17@infoland.example",
+    "email": "sree.mokila.healthcare.foundation.17@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7418,10 +7418,10 @@
   {
     "owner_id": "OWN-MOK-000019",
     "property_id": "PROP-MOK-000019",
-    "owner_type": "individual",
-    "full_name": "Harsha Patel",
+    "owner_type": "government",
+    "full_name": "Mokila Municipal Corporation",
     "phone": "+91-9900150461",
-    "email": "harsha.patel.19@infoland.example",
+    "email": "mokila.municipal.corporation.19@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7445,28 +7445,28 @@
   {
     "owner_id": "OWN-MOK-000022",
     "property_id": "PROP-MOK-000022",
-    "owner_type": "individual",
-    "full_name": "Harsha Patel",
+    "owner_type": "organization",
+    "full_name": "Nava Mokila Civic Services Society",
     "phone": "+91-9200174218",
-    "email": "harsha.patel.22@infoland.example",
+    "email": "nava.mokila.civic.services.society.22@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000023",
     "property_id": "PROP-MOK-000023",
-    "owner_type": "individual",
-    "full_name": "Arjun Goud",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Civic Services Society",
     "phone": "+91-9300182137",
-    "email": "arjun.goud.23@infoland.example",
+    "email": "srinidhi.mokila.civic.services.society.23@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000024",
     "property_id": "PROP-MOK-000024",
-    "owner_type": "individual",
-    "full_name": "Rahul Naidu",
+    "owner_type": "organization",
+    "full_name": "Green Mokila Educational Trust",
     "phone": "+91-9400190056",
-    "email": "rahul.naidu.24@infoland.example",
+    "email": "green.mokila.educational.trust.24@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7481,19 +7481,19 @@
   {
     "owner_id": "OWN-MOK-000026",
     "property_id": "PROP-MOK-000026",
-    "owner_type": "individual",
-    "full_name": "Harsha Singh",
+    "owner_type": "government",
+    "full_name": "Mokila Municipal Corporation",
     "phone": "+91-9600205894",
-    "email": "harsha.singh.26@infoland.example",
+    "email": "mokila.municipal.corporation.26@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000027",
     "property_id": "PROP-MOK-000027",
-    "owner_type": "individual",
-    "full_name": "Nikhil Menon",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Constructions Pvt Ltd",
     "phone": "+91-9700213813",
-    "email": "nikhil.menon.27@infoland.example",
+    "email": "srinidhi.mokila.constructions.pvt.ltd.27@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7526,10 +7526,10 @@
   {
     "owner_id": "OWN-MOK-000031",
     "property_id": "PROP-MOK-000031",
-    "owner_type": "individual",
-    "full_name": "Nikhil Singh",
+    "owner_type": "organization",
+    "full_name": "Sri Mokila Educational Trust",
     "phone": "+91-9100245489",
-    "email": "nikhil.singh.31@infoland.example",
+    "email": "sri.mokila.educational.trust.31@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7589,19 +7589,19 @@
   {
     "owner_id": "OWN-MOK-000038",
     "property_id": "PROP-MOK-000038",
-    "owner_type": "individual",
-    "full_name": "Priya Sharma",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Constructions Pvt Ltd",
     "phone": "+91-9800300922",
-    "email": "priya.sharma.38@infoland.example",
+    "email": "urban.mokila.constructions.pvt.ltd.38@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000039",
     "property_id": "PROP-MOK-000039",
-    "owner_type": "individual",
-    "full_name": "Rahul Rao",
+    "owner_type": "organization",
+    "full_name": "Sree Mokila Educational Trust",
     "phone": "+91-9900308841",
-    "email": "rahul.rao.39@infoland.example",
+    "email": "sree.mokila.educational.trust.39@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7616,10 +7616,10 @@
   {
     "owner_id": "OWN-MOK-000041",
     "property_id": "PROP-MOK-000041",
-    "owner_type": "individual",
-    "full_name": "Harsha Rao",
+    "owner_type": "organization",
+    "full_name": "Sree Mokila Infra Holdings",
     "phone": "+91-9100324679",
-    "email": "harsha.rao.41@infoland.example",
+    "email": "sree.mokila.infra.holdings.41@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7652,10 +7652,10 @@
   {
     "owner_id": "OWN-MOK-000045",
     "property_id": "PROP-MOK-000045",
-    "owner_type": "individual",
-    "full_name": "Divya Singh",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Healthcare Foundation",
     "phone": "+91-9500356355",
-    "email": "divya.singh.45@infoland.example",
+    "email": "urban.mokila.healthcare.foundation.45@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7688,10 +7688,10 @@
   {
     "owner_id": "OWN-MOK-000049",
     "property_id": "PROP-MOK-000049",
-    "owner_type": "individual",
-    "full_name": "Sanjana Varma",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Constructions Pvt Ltd",
     "phone": "+91-9900388031",
-    "email": "sanjana.varma.49@infoland.example",
+    "email": "vertex.mokila.constructions.pvt.ltd.49@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7733,19 +7733,19 @@
   {
     "owner_id": "OWN-MOK-000054",
     "property_id": "PROP-MOK-000054",
-    "owner_type": "individual",
-    "full_name": "Kavya Iyer",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Civic Services Society",
     "phone": "+91-9400427626",
-    "email": "kavya.iyer.54@infoland.example",
+    "email": "urban.mokila.civic.services.society.54@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000055",
     "property_id": "PROP-MOK-000055",
-    "owner_type": "individual",
-    "full_name": "Meera Sharma",
+    "owner_type": "organization",
+    "full_name": "Apex Mokila Constructions Pvt Ltd",
     "phone": "+91-9500435545",
-    "email": "meera.sharma.55@infoland.example",
+    "email": "apex.mokila.constructions.pvt.ltd.55@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7760,19 +7760,19 @@
   {
     "owner_id": "OWN-MOK-000057",
     "property_id": "PROP-MOK-000057",
-    "owner_type": "individual",
-    "full_name": "Kiran Varma",
+    "owner_type": "organization",
+    "full_name": "Sri Mokila Educational Trust",
     "phone": "+91-9700451383",
-    "email": "kiran.varma.57@infoland.example",
+    "email": "sri.mokila.educational.trust.57@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000058",
     "property_id": "PROP-MOK-000058",
-    "owner_type": "individual",
-    "full_name": "Rahul Chowdary",
+    "owner_type": "organization",
+    "full_name": "Sri Mokila Infra Holdings",
     "phone": "+91-9800459302",
-    "email": "rahul.chowdary.58@infoland.example",
+    "email": "sri.mokila.infra.holdings.58@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7787,19 +7787,19 @@
   {
     "owner_id": "OWN-MOK-000060",
     "property_id": "PROP-MOK-000060",
-    "owner_type": "individual",
-    "full_name": "Meera Naidu",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Estates",
     "phone": "+91-9000475140",
-    "email": "meera.naidu.60@infoland.example",
+    "email": "srinidhi.mokila.estates.60@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000061",
     "property_id": "PROP-MOK-000061",
-    "owner_type": "individual",
-    "full_name": "Aarav Varma",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Developers LLP",
     "phone": "+91-9100483059",
-    "email": "aarav.varma.61@infoland.example",
+    "email": "urban.mokila.developers.llp.61@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7841,10 +7841,10 @@
   {
     "owner_id": "OWN-MOK-000066",
     "property_id": "PROP-MOK-000066",
-    "owner_type": "individual",
-    "full_name": "Meera Chowdary",
+    "owner_type": "government",
+    "full_name": "Mokila Municipal Corporation",
     "phone": "+91-9600522654",
-    "email": "meera.chowdary.66@infoland.example",
+    "email": "mokila.municipal.corporation.66@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7859,10 +7859,10 @@
   {
     "owner_id": "OWN-MOK-000068",
     "property_id": "PROP-MOK-000068",
-    "owner_type": "individual",
-    "full_name": "Harsha Menon",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Civic Services Society",
     "phone": "+91-9800538492",
-    "email": "harsha.menon.68@infoland.example",
+    "email": "urban.mokila.civic.services.society.68@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7877,10 +7877,10 @@
   {
     "owner_id": "OWN-MOK-000070",
     "property_id": "PROP-MOK-000070",
-    "owner_type": "organization",
-    "full_name": "Green Mokila Estates",
+    "owner_type": "government",
+    "full_name": "Mokila Municipal Corporation",
     "phone": "+91-9000554330",
-    "email": "green.mokila.estates.70@infoland.example",
+    "email": "mokila.municipal.corporation.70@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -7913,10 +7913,10 @@
   {
     "owner_id": "OWN-MOK-000074",
     "property_id": "PROP-MOK-000074",
-    "owner_type": "individual",
-    "full_name": "Rahul Naidu",
+    "owner_type": "organization",
+    "full_name": "Green Mokila Infra Holdings",
     "phone": "+91-9400586006",
-    "email": "rahul.naidu.74@infoland.example",
+    "email": "green.mokila.infra.holdings.74@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -8993,10 +8993,10 @@
   {
     "owner_id": "OWN-MOK-000194",
     "property_id": "PROP-MOK-000194",
-    "owner_type": "individual",
-    "full_name": "Arjun Varma",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Developers LLP",
     "phone": "+91-9401536286",
-    "email": "arjun.varma.194@infoland.example",
+    "email": "vertex.mokila.developers.llp.194@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -9677,10 +9677,10 @@
   {
     "owner_id": "OWN-MOK-000270",
     "property_id": "PROP-MOK-000270",
-    "owner_type": "individual",
-    "full_name": "Aarav Goud",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Infra Holdings",
     "phone": "+91-9002138130",
-    "email": "aarav.goud.270@infoland.example",
+    "email": "vertex.mokila.infra.holdings.270@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -9704,10 +9704,10 @@
   {
     "owner_id": "OWN-MOK-000273",
     "property_id": "PROP-MOK-000273",
-    "owner_type": "individual",
-    "full_name": "Kiran Sharma",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Educational Trust",
     "phone": "+91-9302161887",
-    "email": "kiran.sharma.273@infoland.example",
+    "email": "srinidhi.mokila.educational.trust.273@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -9776,10 +9776,10 @@
   {
     "owner_id": "OWN-MOK-000281",
     "property_id": "PROP-MOK-000281",
-    "owner_type": "individual",
-    "full_name": "Nikhil Sharma",
+    "owner_type": "organization",
+    "full_name": "Sri Mokila Civic Services Society",
     "phone": "+91-9102225239",
-    "email": "nikhil.sharma.281@infoland.example",
+    "email": "sri.mokila.civic.services.society.281@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -9803,10 +9803,10 @@
   {
     "owner_id": "OWN-MOK-000284",
     "property_id": "PROP-MOK-000284",
-    "owner_type": "individual",
-    "full_name": "Ananya Reddy",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Infra Holdings",
     "phone": "+91-9402248996",
-    "email": "ananya.reddy.284@infoland.example",
+    "email": "urban.mokila.infra.holdings.284@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10424,10 +10424,10 @@
   {
     "owner_id": "OWN-MOK-000353",
     "property_id": "PROP-MOK-000353",
-    "owner_type": "individual",
-    "full_name": "Nikhil Naidu",
+    "owner_type": "organization",
+    "full_name": "Green Mokila Constructions Pvt Ltd",
     "phone": "+91-9302795407",
-    "email": "nikhil.naidu.353@infoland.example",
+    "email": "green.mokila.constructions.pvt.ltd.353@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10451,10 +10451,10 @@
   {
     "owner_id": "OWN-MOK-000356",
     "property_id": "PROP-MOK-000356",
-    "owner_type": "individual",
-    "full_name": "Meera Naidu",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Developers LLP",
     "phone": "+91-9602819164",
-    "email": "meera.naidu.356@infoland.example",
+    "email": "srinidhi.mokila.developers.llp.356@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10532,10 +10532,10 @@
   {
     "owner_id": "OWN-MOK-000365",
     "property_id": "PROP-MOK-000365",
-    "owner_type": "individual",
-    "full_name": "Rahul Rao",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Developers LLP",
     "phone": "+91-9502890435",
-    "email": "rahul.rao.365@infoland.example",
+    "email": "urban.mokila.developers.llp.365@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10550,19 +10550,19 @@
   {
     "owner_id": "OWN-MOK-000367",
     "property_id": "PROP-MOK-000367",
-    "owner_type": "individual",
-    "full_name": "Arjun Varma",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Healthcare Foundation",
     "phone": "+91-9702906273",
-    "email": "arjun.varma.367@infoland.example",
+    "email": "srinidhi.mokila.healthcare.foundation.367@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000368",
     "property_id": "PROP-MOK-000368",
-    "owner_type": "individual",
-    "full_name": "Priya Menon",
+    "owner_type": "organization",
+    "full_name": "Nava Mokila Healthcare Foundation",
     "phone": "+91-9802914192",
-    "email": "priya.menon.368@infoland.example",
+    "email": "nava.mokila.healthcare.foundation.368@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10658,10 +10658,10 @@
   {
     "owner_id": "OWN-MOK-000379",
     "property_id": "PROP-MOK-000379",
-    "owner_type": "individual",
-    "full_name": "Priya Naidu",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Civic Services Society",
     "phone": "+91-9903001301",
-    "email": "priya.naidu.379@infoland.example",
+    "email": "vertex.mokila.civic.services.society.379@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10883,10 +10883,10 @@
   {
     "owner_id": "OWN-MOK-000404",
     "property_id": "PROP-MOK-000404",
-    "owner_type": "individual",
-    "full_name": "Ananya Reddy",
+    "owner_type": "organization",
+    "full_name": "Sree Mokila Developers LLP",
     "phone": "+91-9403199276",
-    "email": "ananya.reddy.404@infoland.example",
+    "email": "sree.mokila.developers.llp.404@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10901,10 +10901,10 @@
   {
     "owner_id": "OWN-MOK-000406",
     "property_id": "PROP-MOK-000406",
-    "owner_type": "individual",
-    "full_name": "Vikram Varma",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Developers LLP",
     "phone": "+91-9603215114",
-    "email": "vikram.varma.406@infoland.example",
+    "email": "srinidhi.mokila.developers.llp.406@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -10982,10 +10982,10 @@
   {
     "owner_id": "OWN-MOK-000415",
     "property_id": "PROP-MOK-000415",
-    "owner_type": "individual",
-    "full_name": "Kavya Singh",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Infra Holdings",
     "phone": "+91-9503286385",
-    "email": "kavya.singh.415@infoland.example",
+    "email": "urban.mokila.infra.holdings.415@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11009,10 +11009,10 @@
   {
     "owner_id": "OWN-MOK-000418",
     "property_id": "PROP-MOK-000418",
-    "owner_type": "individual",
-    "full_name": "Nikhil Menon",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Infra Holdings",
     "phone": "+91-9803310142",
-    "email": "nikhil.menon.418@infoland.example",
+    "email": "srinidhi.mokila.infra.holdings.418@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11063,28 +11063,28 @@
   {
     "owner_id": "OWN-MOK-000424",
     "property_id": "PROP-MOK-000424",
-    "owner_type": "individual",
-    "full_name": "Aarav Kumar",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Infra Holdings",
     "phone": "+91-9403357656",
-    "email": "aarav.kumar.424@infoland.example",
+    "email": "vertex.mokila.infra.holdings.424@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000425",
     "property_id": "PROP-MOK-000425",
-    "owner_type": "individual",
-    "full_name": "Sanjana Reddy",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Educational Trust",
     "phone": "+91-9503365575",
-    "email": "sanjana.reddy.425@infoland.example",
+    "email": "srinidhi.mokila.educational.trust.425@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000426",
     "property_id": "PROP-MOK-000426",
-    "owner_type": "individual",
-    "full_name": "Deepak Singh",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Civic Services Society",
     "phone": "+91-9603373494",
-    "email": "deepak.singh.426@infoland.example",
+    "email": "srinidhi.mokila.civic.services.society.426@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11117,28 +11117,28 @@
   {
     "owner_id": "OWN-MOK-000430",
     "property_id": "PROP-MOK-000430",
-    "owner_type": "individual",
-    "full_name": "Rahul Menon",
+    "owner_type": "organization",
+    "full_name": "Apex Mokila Constructions Pvt Ltd",
     "phone": "+91-9003405170",
-    "email": "rahul.menon.430@infoland.example",
+    "email": "apex.mokila.constructions.pvt.ltd.430@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000431",
     "property_id": "PROP-MOK-000431",
-    "owner_type": "individual",
-    "full_name": "Ananya Goud",
+    "owner_type": "organization",
+    "full_name": "Urban Mokila Infra Holdings",
     "phone": "+91-9103413089",
-    "email": "ananya.goud.431@infoland.example",
+    "email": "urban.mokila.infra.holdings.431@infoland.example",
     "source_region": "mokila"
   },
   {
     "owner_id": "OWN-MOK-000432",
     "property_id": "PROP-MOK-000432",
-    "owner_type": "individual",
-    "full_name": "Rahul Iyer",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Healthcare Foundation",
     "phone": "+91-9203421008",
-    "email": "rahul.iyer.432@infoland.example",
+    "email": "vertex.mokila.healthcare.foundation.432@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11207,10 +11207,10 @@
   {
     "owner_id": "OWN-MOK-000440",
     "property_id": "PROP-MOK-000440",
-    "owner_type": "individual",
-    "full_name": "Vikram Iyer",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Developers LLP",
     "phone": "+91-9003484360",
-    "email": "vikram.iyer.440@infoland.example",
+    "email": "vertex.mokila.developers.llp.440@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11765,10 +11765,10 @@
   {
     "owner_id": "OWN-MOK-000502",
     "property_id": "PROP-MOK-000502",
-    "owner_type": "individual",
-    "full_name": "Kavya Naidu",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Mokila Civic Services Society",
     "phone": "+91-9203975338",
-    "email": "kavya.naidu.502@infoland.example",
+    "email": "srinidhi.mokila.civic.services.society.502@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11801,10 +11801,10 @@
   {
     "owner_id": "OWN-MOK-000506",
     "property_id": "PROP-MOK-000506",
-    "owner_type": "individual",
-    "full_name": "Suresh Naidu",
+    "owner_type": "organization",
+    "full_name": "Sree Mokila Constructions Pvt Ltd",
     "phone": "+91-9604007014",
-    "email": "suresh.naidu.506@infoland.example",
+    "email": "sree.mokila.constructions.pvt.ltd.506@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -11819,10 +11819,10 @@
   {
     "owner_id": "OWN-MOK-000508",
     "property_id": "PROP-MOK-000508",
-    "owner_type": "individual",
-    "full_name": "Deepak Reddy",
+    "owner_type": "organization",
+    "full_name": "Vertex Mokila Constructions Pvt Ltd",
     "phone": "+91-9804022852",
-    "email": "deepak.reddy.508@infoland.example",
+    "email": "vertex.mokila.constructions.pvt.ltd.508@infoland.example",
     "source_region": "mokila"
   },
   {
@@ -12998,10 +12998,10 @@
   {
     "owner_id": "OWN-SHA-000047",
     "property_id": "PROP-SHA-000047",
-    "owner_type": "individual",
-    "full_name": "Harsha Iyer",
+    "owner_type": "organization",
+    "full_name": "Vertex Shankarpally Developers LLP",
     "phone": "+91-9700372193",
-    "email": "harsha.iyer.47@infoland.example",
+    "email": "vertex.shankarpally.developers.llp.47@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13025,10 +13025,10 @@
   {
     "owner_id": "OWN-SHA-000050",
     "property_id": "PROP-SHA-000050",
-    "owner_type": "individual",
-    "full_name": "Ananya Chowdary",
+    "owner_type": "organization",
+    "full_name": "Vertex Shankarpally Educational Trust",
     "phone": "+91-9000395950",
-    "email": "ananya.chowdary.50@infoland.example",
+    "email": "vertex.shankarpally.educational.trust.50@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13043,10 +13043,10 @@
   {
     "owner_id": "OWN-SHA-000052",
     "property_id": "PROP-SHA-000052",
-    "owner_type": "individual",
-    "full_name": "Kiran Patel",
+    "owner_type": "organization",
+    "full_name": "Sri Shankarpally Infra Holdings",
     "phone": "+91-9200411788",
-    "email": "kiran.patel.52@infoland.example",
+    "email": "sri.shankarpally.infra.holdings.52@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13097,10 +13097,10 @@
   {
     "owner_id": "OWN-SHA-000058",
     "property_id": "PROP-SHA-000058",
-    "owner_type": "individual",
-    "full_name": "Aarav Sharma",
+    "owner_type": "organization",
+    "full_name": "Apex Shankarpally Civic Services Society",
     "phone": "+91-9800459302",
-    "email": "aarav.sharma.58@infoland.example",
+    "email": "apex.shankarpally.civic.services.society.58@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13169,19 +13169,19 @@
   {
     "owner_id": "OWN-SHA-000066",
     "property_id": "PROP-SHA-000066",
-    "owner_type": "individual",
-    "full_name": "Kiran Menon",
+    "owner_type": "government",
+    "full_name": "Shankarpally Municipal Corporation",
     "phone": "+91-9600522654",
-    "email": "kiran.menon.66@infoland.example",
+    "email": "shankarpally.municipal.corporation.66@infoland.example",
     "source_region": "shankarpally"
   },
   {
     "owner_id": "OWN-SHA-000067",
     "property_id": "PROP-SHA-000067",
-    "owner_type": "individual",
-    "full_name": "Nikhil Varma",
+    "owner_type": "organization",
+    "full_name": "Sri Shankarpally Civic Services Society",
     "phone": "+91-9700530573",
-    "email": "nikhil.varma.67@infoland.example",
+    "email": "sri.shankarpally.civic.services.society.67@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13691,10 +13691,10 @@
   {
     "owner_id": "OWN-SHA-000124",
     "property_id": "PROP-SHA-000124",
-    "owner_type": "individual",
-    "full_name": "Sanjana Varma",
+    "owner_type": "government",
+    "full_name": "Shankarpally Municipal Corporation",
     "phone": "+91-9400981956",
-    "email": "sanjana.varma.124@infoland.example",
+    "email": "shankarpally.municipal.corporation.124@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13736,10 +13736,10 @@
   {
     "owner_id": "OWN-SHA-000129",
     "property_id": "PROP-SHA-000129",
-    "owner_type": "individual",
-    "full_name": "Deepak Iyer",
+    "owner_type": "organization",
+    "full_name": "Sree Shankarpally Developers LLP",
     "phone": "+91-9901021551",
-    "email": "deepak.iyer.129@infoland.example",
+    "email": "sree.shankarpally.developers.llp.129@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13880,10 +13880,10 @@
   {
     "owner_id": "OWN-SHA-000145",
     "property_id": "PROP-SHA-000145",
-    "owner_type": "individual",
-    "full_name": "Priya Chowdary",
+    "owner_type": "organization",
+    "full_name": "Vertex Shankarpally Civic Services Society",
     "phone": "+91-9501148255",
-    "email": "priya.chowdary.145@infoland.example",
+    "email": "vertex.shankarpally.civic.services.society.145@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13898,19 +13898,19 @@
   {
     "owner_id": "OWN-SHA-000147",
     "property_id": "PROP-SHA-000147",
-    "owner_type": "individual",
-    "full_name": "Kavya Naidu",
+    "owner_type": "organization",
+    "full_name": "Urban Shankarpally Infra Holdings",
     "phone": "+91-9701164093",
-    "email": "kavya.naidu.147@infoland.example",
+    "email": "urban.shankarpally.infra.holdings.147@infoland.example",
     "source_region": "shankarpally"
   },
   {
     "owner_id": "OWN-SHA-000148",
     "property_id": "PROP-SHA-000148",
-    "owner_type": "individual",
-    "full_name": "Divya Sharma",
+    "owner_type": "organization",
+    "full_name": "Apex Shankarpally Developers LLP",
     "phone": "+91-9801172012",
-    "email": "divya.sharma.148@infoland.example",
+    "email": "apex.shankarpally.developers.llp.148@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13934,10 +13934,10 @@
   {
     "owner_id": "OWN-SHA-000151",
     "property_id": "PROP-SHA-000151",
-    "owner_type": "individual",
-    "full_name": "Suresh Singh",
+    "owner_type": "organization",
+    "full_name": "Green Shankarpally Estates",
     "phone": "+91-9101195769",
-    "email": "suresh.singh.151@infoland.example",
+    "email": "green.shankarpally.estates.151@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -13952,19 +13952,19 @@
   {
     "owner_id": "OWN-SHA-000153",
     "property_id": "PROP-SHA-000153",
-    "owner_type": "individual",
-    "full_name": "Nikhil Naidu",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Shankarpally Healthcare Foundation",
     "phone": "+91-9301211607",
-    "email": "nikhil.naidu.153@infoland.example",
+    "email": "srinidhi.shankarpally.healthcare.foundation.153@infoland.example",
     "source_region": "shankarpally"
   },
   {
     "owner_id": "OWN-SHA-000154",
     "property_id": "PROP-SHA-000154",
-    "owner_type": "individual",
-    "full_name": "Ananya Chowdary",
+    "owner_type": "organization",
+    "full_name": "Vertex Shankarpally Constructions Pvt Ltd",
     "phone": "+91-9401219526",
-    "email": "ananya.chowdary.154@infoland.example",
+    "email": "vertex.shankarpally.constructions.pvt.ltd.154@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14231,10 +14231,10 @@
   {
     "owner_id": "OWN-SHA-000184",
     "property_id": "PROP-SHA-000184",
-    "owner_type": "individual",
-    "full_name": "Kavya Patel",
+    "owner_type": "organization",
+    "full_name": "Sri Shankarpally Healthcare Foundation",
     "phone": "+91-9401457096",
-    "email": "kavya.patel.184@infoland.example",
+    "email": "sri.shankarpally.healthcare.foundation.184@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14429,10 +14429,10 @@
   {
     "owner_id": "OWN-SHA-000206",
     "property_id": "PROP-SHA-000206",
-    "owner_type": "individual",
-    "full_name": "Aarav Singh",
+    "owner_type": "organization",
+    "full_name": "Apex Shankarpally Developers LLP",
     "phone": "+91-9601631314",
-    "email": "aarav.singh.206@infoland.example",
+    "email": "apex.shankarpally.developers.llp.206@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14456,10 +14456,10 @@
   {
     "owner_id": "OWN-SHA-000209",
     "property_id": "PROP-SHA-000209",
-    "owner_type": "individual",
-    "full_name": "Deepak Rao",
+    "owner_type": "organization",
+    "full_name": "Nava Shankarpally Estates",
     "phone": "+91-9901655071",
-    "email": "deepak.rao.209@infoland.example",
+    "email": "nava.shankarpally.estates.209@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14501,19 +14501,19 @@
   {
     "owner_id": "OWN-SHA-000214",
     "property_id": "PROP-SHA-000214",
-    "owner_type": "individual",
-    "full_name": "Deepak Naidu",
+    "owner_type": "organization",
+    "full_name": "Urban Shankarpally Developers LLP",
     "phone": "+91-9401694666",
-    "email": "deepak.naidu.214@infoland.example",
+    "email": "urban.shankarpally.developers.llp.214@infoland.example",
     "source_region": "shankarpally"
   },
   {
     "owner_id": "OWN-SHA-000215",
     "property_id": "PROP-SHA-000215",
-    "owner_type": "individual",
-    "full_name": "Ananya Sharma",
+    "owner_type": "organization",
+    "full_name": "Srinidhi Shankarpally Infra Holdings",
     "phone": "+91-9501702585",
-    "email": "ananya.sharma.215@infoland.example",
+    "email": "srinidhi.shankarpally.infra.holdings.215@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14528,10 +14528,10 @@
   {
     "owner_id": "OWN-SHA-000217",
     "property_id": "PROP-SHA-000217",
-    "owner_type": "individual",
-    "full_name": "Kavya Chowdary",
+    "owner_type": "government",
+    "full_name": "Shankarpally Municipal Corporation",
     "phone": "+91-9701718423",
-    "email": "kavya.chowdary.217@infoland.example",
+    "email": "shankarpally.municipal.corporation.217@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14591,28 +14591,28 @@
   {
     "owner_id": "OWN-SHA-000224",
     "property_id": "PROP-SHA-000224",
-    "owner_type": "individual",
-    "full_name": "Rahul Chowdary",
+    "owner_type": "organization",
+    "full_name": "Sri Shankarpally Constructions Pvt Ltd",
     "phone": "+91-9401773856",
-    "email": "rahul.chowdary.224@infoland.example",
+    "email": "sri.shankarpally.constructions.pvt.ltd.224@infoland.example",
     "source_region": "shankarpally"
   },
   {
     "owner_id": "OWN-SHA-000225",
     "property_id": "PROP-SHA-000225",
-    "owner_type": "individual",
-    "full_name": "Meera Singh",
+    "owner_type": "organization",
+    "full_name": "Nava Shankarpally Educational Trust",
     "phone": "+91-9501781775",
-    "email": "meera.singh.225@infoland.example",
+    "email": "nava.shankarpally.educational.trust.225@infoland.example",
     "source_region": "shankarpally"
   },
   {
     "owner_id": "OWN-SHA-000226",
     "property_id": "PROP-SHA-000226",
-    "owner_type": "individual",
-    "full_name": "Priya Goud",
+    "owner_type": "organization",
+    "full_name": "Apex Shankarpally Infra Holdings",
     "phone": "+91-9601789694",
-    "email": "priya.goud.226@infoland.example",
+    "email": "apex.shankarpally.infra.holdings.226@infoland.example",
     "source_region": "shankarpally"
   },
   {
@@ -14627,10 +14627,10 @@
   {
     "owner_id": "OWN-SHA-000228",
     "property_id": "PROP-SHA-000228",
-    "owner_type": "individual",
-    "full_name": "Rahul Chowdary",
+    "owner_type": "organization",
+    "full_name": "Green Shankarpally Constructions Pvt Ltd",
     "phone": "+91-9801805532",
-    "email": "rahul.chowdary.228@infoland.example",
+    "email": "green.shankarpally.constructions.pvt.ltd.228@infoland.example",
     "source_region": "shankarpally"
   },
   {

@@ -492,7 +492,7 @@
     "property_id": "PROP-KOK-000034",
     "from_owner_id": "HOWN-KOK-000034-00",
     "to_owner_id": "OWN-KOK-000034",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2012-04-13"
   },
   {
@@ -948,7 +948,7 @@
     "property_id": "PROP-KOK-000061",
     "from_owner_id": "HOWN-KOK-000061-00",
     "to_owner_id": "OWN-KOK-000061",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2019-07-23"
   },
   {
@@ -1227,17 +1227,9 @@
     "event_id": "OE-KOK-000080-01",
     "property_id": "PROP-KOK-000080",
     "from_owner_id": "HOWN-KOK-000080-00",
-    "to_owner_id": "HOWN-KOK-000080-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2009-06-15"
-  },
-  {
-    "event_id": "OE-KOK-000080-02",
-    "property_id": "PROP-KOK-000080",
-    "from_owner_id": "HOWN-KOK-000080-01",
     "to_owner_id": "OWN-KOK-000080",
-    "transfer_type": "sale",
-    "transfer_date": "2012-07-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-06-15"
   },
   {
     "event_id": "OE-KOK-000081-01",
@@ -2003,17 +1995,9 @@
     "event_id": "OE-KOK-000127-01",
     "property_id": "PROP-KOK-000127",
     "from_owner_id": "HOWN-KOK-000127-00",
-    "to_owner_id": "HOWN-KOK-000127-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-01-04"
-  },
-  {
-    "event_id": "OE-KOK-000127-02",
-    "property_id": "PROP-KOK-000127",
-    "from_owner_id": "HOWN-KOK-000127-01",
     "to_owner_id": "OWN-KOK-000127",
-    "transfer_type": "sale",
-    "transfer_date": "2018-02-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2014-01-04"
   },
   {
     "event_id": "OE-KOK-000128-01",
@@ -2156,7 +2140,7 @@
     "property_id": "PROP-KOK-000136",
     "from_owner_id": "HOWN-KOK-000136-00",
     "to_owner_id": "OWN-KOK-000136",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2011-10-08"
   },
   {
@@ -2187,41 +2171,17 @@
     "event_id": "OE-KOK-000139-01",
     "property_id": "PROP-KOK-000139",
     "from_owner_id": "HOWN-KOK-000139-00",
-    "to_owner_id": "HOWN-KOK-000139-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-01-16"
-  },
-  {
-    "event_id": "OE-KOK-000139-02",
-    "property_id": "PROP-KOK-000139",
-    "from_owner_id": "HOWN-KOK-000139-01",
-    "to_owner_id": "HOWN-KOK-000139-02",
-    "transfer_type": "gift",
-    "transfer_date": "2022-02-13"
-  },
-  {
-    "event_id": "OE-KOK-000139-03",
-    "property_id": "PROP-KOK-000139",
-    "from_owner_id": "HOWN-KOK-000139-02",
     "to_owner_id": "OWN-KOK-000139",
-    "transfer_type": "sale",
-    "transfer_date": "2025-03-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-01-16"
   },
   {
     "event_id": "OE-KOK-000140-01",
     "property_id": "PROP-KOK-000140",
     "from_owner_id": "HOWN-KOK-000140-00",
-    "to_owner_id": "HOWN-KOK-000140-01",
-    "transfer_type": "gift",
-    "transfer_date": "2009-06-03"
-  },
-  {
-    "event_id": "OE-KOK-000140-02",
-    "property_id": "PROP-KOK-000140",
-    "from_owner_id": "HOWN-KOK-000140-01",
     "to_owner_id": "OWN-KOK-000140",
     "transfer_type": "inheritance",
-    "transfer_date": "2012-07-01"
+    "transfer_date": "2013-06-03"
   },
   {
     "event_id": "OE-KOK-000141-01",
@@ -2611,25 +2571,9 @@
     "event_id": "OE-KOK-000163-01",
     "property_id": "PROP-KOK-000163",
     "from_owner_id": "HOWN-KOK-000163-00",
-    "to_owner_id": "HOWN-KOK-000163-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2003-01-16"
-  },
-  {
-    "event_id": "OE-KOK-000163-02",
-    "property_id": "PROP-KOK-000163",
-    "from_owner_id": "HOWN-KOK-000163-01",
-    "to_owner_id": "HOWN-KOK-000163-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2006-02-13"
-  },
-  {
-    "event_id": "OE-KOK-000163-03",
-    "property_id": "PROP-KOK-000163",
-    "from_owner_id": "HOWN-KOK-000163-02",
     "to_owner_id": "OWN-KOK-000163",
-    "transfer_type": "settlement",
-    "transfer_date": "2009-03-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2019-01-16"
   },
   {
     "event_id": "OE-KOK-000164-01",
@@ -4019,17 +3963,9 @@
     "event_id": "OE-KOK-000242-01",
     "property_id": "PROP-KOK-000242",
     "from_owner_id": "HOWN-KOK-000242-00",
-    "to_owner_id": "HOWN-KOK-000242-01",
-    "transfer_type": "gift",
-    "transfer_date": "2019-12-22"
-  },
-  {
-    "event_id": "OE-KOK-000242-02",
-    "property_id": "PROP-KOK-000242",
-    "from_owner_id": "HOWN-KOK-000242-01",
     "to_owner_id": "OWN-KOK-000242",
-    "transfer_type": "gift",
-    "transfer_date": "2023-01-19"
+    "transfer_type": "inheritance",
+    "transfer_date": "2012-12-22"
   },
   {
     "event_id": "OE-KOK-000243-01",
@@ -4748,7 +4684,7 @@
     "property_id": "PROP-KOK-000284",
     "from_owner_id": "HOWN-KOK-000284-00",
     "to_owner_id": "OWN-KOK-000284",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2020-06-03"
   },
   {
@@ -5195,17 +5131,9 @@
     "event_id": "OE-KOK-000310-01",
     "property_id": "PROP-KOK-000310",
     "from_owner_id": "HOWN-KOK-000310-00",
-    "to_owner_id": "HOWN-KOK-000310-01",
-    "transfer_type": "sale",
-    "transfer_date": "2015-04-01"
-  },
-  {
-    "event_id": "OE-KOK-000310-02",
-    "property_id": "PROP-KOK-000310",
-    "from_owner_id": "HOWN-KOK-000310-01",
     "to_owner_id": "OWN-KOK-000310",
-    "transfer_type": "gift",
-    "transfer_date": "2018-04-29"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-04-01"
   },
   {
     "event_id": "OE-KOK-000311-01",
@@ -6196,7 +6124,7 @@
     "property_id": "PROP-KOK-000366",
     "from_owner_id": "HOWN-KOK-000366-00",
     "to_owner_id": "OWN-KOK-000366",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2009-08-17"
   },
   {
@@ -6997,23 +6925,15 @@
     "from_owner_id": "HOWN-KOK-000415-00",
     "to_owner_id": "HOWN-KOK-000415-01",
     "transfer_type": "gift",
-    "transfer_date": "2007-01-04"
+    "transfer_date": "2015-01-04"
   },
   {
     "event_id": "OE-KOK-000415-02",
     "property_id": "PROP-KOK-000415",
     "from_owner_id": "HOWN-KOK-000415-01",
-    "to_owner_id": "HOWN-KOK-000415-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2010-02-01"
-  },
-  {
-    "event_id": "OE-KOK-000415-03",
-    "property_id": "PROP-KOK-000415",
-    "from_owner_id": "HOWN-KOK-000415-02",
     "to_owner_id": "OWN-KOK-000415",
-    "transfer_type": "inheritance",
-    "transfer_date": "2013-03-01"
+    "transfer_type": "gift",
+    "transfer_date": "2018-02-01"
   },
   {
     "event_id": "OE-KOK-000416-01",
@@ -7331,25 +7251,9 @@
     "event_id": "OE-KOK-000430-01",
     "property_id": "PROP-KOK-000430",
     "from_owner_id": "HOWN-KOK-000430-00",
-    "to_owner_id": "HOWN-KOK-000430-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2011-04-01"
-  },
-  {
-    "event_id": "OE-KOK-000430-02",
-    "property_id": "PROP-KOK-000430",
-    "from_owner_id": "HOWN-KOK-000430-01",
-    "to_owner_id": "HOWN-KOK-000430-02",
-    "transfer_type": "sale",
-    "transfer_date": "2014-04-29"
-  },
-  {
-    "event_id": "OE-KOK-000430-03",
-    "property_id": "PROP-KOK-000430",
-    "from_owner_id": "HOWN-KOK-000430-02",
     "to_owner_id": "OWN-KOK-000430",
-    "transfer_type": "inheritance",
-    "transfer_date": "2017-05-27"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-04-01"
   },
   {
     "event_id": "OE-KOK-000431-01",
@@ -7379,17 +7283,9 @@
     "event_id": "OE-KOK-000433-01",
     "property_id": "PROP-KOK-000433",
     "from_owner_id": "HOWN-KOK-000433-00",
-    "to_owner_id": "HOWN-KOK-000433-01",
-    "transfer_type": "gift",
-    "transfer_date": "2012-07-11"
-  },
-  {
-    "event_id": "OE-KOK-000433-02",
-    "property_id": "PROP-KOK-000433",
-    "from_owner_id": "HOWN-KOK-000433-01",
     "to_owner_id": "OWN-KOK-000433",
-    "transfer_type": "sale",
-    "transfer_date": "2015-08-09"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-07-11"
   },
   {
     "event_id": "OE-KOK-000434-01",
@@ -7739,17 +7635,9 @@
     "event_id": "OE-KOK-000454-01",
     "property_id": "PROP-KOK-000454",
     "from_owner_id": "HOWN-KOK-000454-00",
-    "to_owner_id": "HOWN-KOK-000454-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-04-01"
-  },
-  {
-    "event_id": "OE-KOK-000454-02",
-    "property_id": "PROP-KOK-000454",
-    "from_owner_id": "HOWN-KOK-000454-01",
     "to_owner_id": "OWN-KOK-000454",
-    "transfer_type": "gift",
-    "transfer_date": "2018-04-29"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2014-04-01"
   },
   {
     "event_id": "OE-KOK-000455-01",
@@ -7787,25 +7675,9 @@
     "event_id": "OE-KOK-000457-01",
     "property_id": "PROP-KOK-000457",
     "from_owner_id": "HOWN-KOK-000457-00",
-    "to_owner_id": "HOWN-KOK-000457-01",
-    "transfer_type": "gift",
-    "transfer_date": "2020-07-11"
-  },
-  {
-    "event_id": "OE-KOK-000457-02",
-    "property_id": "PROP-KOK-000457",
-    "from_owner_id": "HOWN-KOK-000457-01",
-    "to_owner_id": "HOWN-KOK-000457-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2023-08-09"
-  },
-  {
-    "event_id": "OE-KOK-000457-03",
-    "property_id": "PROP-KOK-000457",
-    "from_owner_id": "HOWN-KOK-000457-02",
     "to_owner_id": "OWN-KOK-000457",
-    "transfer_type": "sale",
-    "transfer_date": "2026-09-06"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-07-11"
   },
   {
     "event_id": "OE-KOK-000458-01",
@@ -8203,17 +8075,9 @@
     "event_id": "OE-KOK-000479-01",
     "property_id": "PROP-KOK-000479",
     "from_owner_id": "HOWN-KOK-000479-00",
-    "to_owner_id": "HOWN-KOK-000479-01",
-    "transfer_type": "sale",
-    "transfer_date": "2014-09-12"
-  },
-  {
-    "event_id": "OE-KOK-000479-02",
-    "property_id": "PROP-KOK-000479",
-    "from_owner_id": "HOWN-KOK-000479-01",
     "to_owner_id": "OWN-KOK-000479",
-    "transfer_type": "inheritance",
-    "transfer_date": "2017-10-10"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-09-12"
   },
   {
     "event_id": "OE-KOK-000480-01",
@@ -8444,7 +8308,7 @@
     "property_id": "PROP-KOK-000494",
     "from_owner_id": "HOWN-KOK-000494-00",
     "to_owner_id": "OWN-KOK-000494",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2008-12-10"
   },
   {
@@ -8604,24 +8468,16 @@
     "property_id": "PROP-KOK-000502",
     "from_owner_id": "HOWN-KOK-000502-01",
     "to_owner_id": "HOWN-KOK-000502-02",
-    "transfer_type": "inheritance",
+    "transfer_type": "sale",
     "transfer_date": "2018-04-29"
   },
   {
     "event_id": "OE-KOK-000502-03",
     "property_id": "PROP-KOK-000502",
     "from_owner_id": "HOWN-KOK-000502-02",
-    "to_owner_id": "HOWN-KOK-000502-03",
-    "transfer_type": "inheritance",
-    "transfer_date": "2021-05-27"
-  },
-  {
-    "event_id": "OE-KOK-000502-04",
-    "property_id": "PROP-KOK-000502",
-    "from_owner_id": "HOWN-KOK-000502-03",
     "to_owner_id": "OWN-KOK-000502",
-    "transfer_type": "gift",
-    "transfer_date": "2024-06-24"
+    "transfer_type": "sale",
+    "transfer_date": "2021-05-27"
   },
   {
     "event_id": "OE-KOK-000503-01",
@@ -8732,7 +8588,7 @@
     "property_id": "PROP-KOK-000510",
     "from_owner_id": "HOWN-KOK-000510-00",
     "to_owner_id": "OWN-KOK-000510",
-    "transfer_type": "sale",
+    "transfer_type": "government_allocation",
     "transfer_date": "2016-08-17"
   },
   {
@@ -8763,17 +8619,9 @@
     "event_id": "OE-KOK-000513-01",
     "property_id": "PROP-KOK-000513",
     "from_owner_id": "HOWN-KOK-000513-00",
-    "to_owner_id": "HOWN-KOK-000513-01",
-    "transfer_type": "gift",
-    "transfer_date": "2012-11-02"
-  },
-  {
-    "event_id": "OE-KOK-000513-02",
-    "property_id": "PROP-KOK-000513",
-    "from_owner_id": "HOWN-KOK-000513-01",
     "to_owner_id": "OWN-KOK-000513",
-    "transfer_type": "sale",
-    "transfer_date": "2015-12-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2011-11-02"
   },
   {
     "event_id": "OE-KOK-000514-01",
@@ -8803,17 +8651,9 @@
     "event_id": "OE-KOK-000515-01",
     "property_id": "PROP-KOK-000515",
     "from_owner_id": "HOWN-KOK-000515-00",
-    "to_owner_id": "HOWN-KOK-000515-01",
-    "transfer_type": "gift",
-    "transfer_date": "2010-08-31"
-  },
-  {
-    "event_id": "OE-KOK-000515-02",
-    "property_id": "PROP-KOK-000515",
-    "from_owner_id": "HOWN-KOK-000515-01",
     "to_owner_id": "OWN-KOK-000515",
-    "transfer_type": "gift",
-    "transfer_date": "2013-09-28"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-08-31"
   },
   {
     "event_id": "OE-KOK-000516-01",
@@ -8899,25 +8739,9 @@
     "event_id": "OE-KOK-000521-01",
     "property_id": "PROP-KOK-000521",
     "from_owner_id": "HOWN-KOK-000521-00",
-    "to_owner_id": "HOWN-KOK-000521-01",
-    "transfer_type": "gift",
-    "transfer_date": "2008-03-20"
-  },
-  {
-    "event_id": "OE-KOK-000521-02",
-    "property_id": "PROP-KOK-000521",
-    "from_owner_id": "HOWN-KOK-000521-01",
-    "to_owner_id": "HOWN-KOK-000521-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2011-04-18"
-  },
-  {
-    "event_id": "OE-KOK-000521-03",
-    "property_id": "PROP-KOK-000521",
-    "from_owner_id": "HOWN-KOK-000521-02",
     "to_owner_id": "OWN-KOK-000521",
-    "transfer_type": "gift",
-    "transfer_date": "2014-05-16"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-03-21"
   },
   {
     "event_id": "OE-KOK-000522-01",
@@ -9051,25 +8875,9 @@
     "event_id": "OE-KOK-000527-01",
     "property_id": "PROP-KOK-000527",
     "from_owner_id": "HOWN-KOK-000527-00",
-    "to_owner_id": "HOWN-KOK-000527-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2014-09-12"
-  },
-  {
-    "event_id": "OE-KOK-000527-02",
-    "property_id": "PROP-KOK-000527",
-    "from_owner_id": "HOWN-KOK-000527-01",
-    "to_owner_id": "HOWN-KOK-000527-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2017-10-10"
-  },
-  {
-    "event_id": "OE-KOK-000527-03",
-    "property_id": "PROP-KOK-000527",
-    "from_owner_id": "HOWN-KOK-000527-02",
     "to_owner_id": "OWN-KOK-000527",
-    "transfer_type": "sale",
-    "transfer_date": "2020-11-07"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2018-09-12"
   },
   {
     "event_id": "OE-KOK-000528-01",
@@ -9156,7 +8964,7 @@
     "property_id": "PROP-KOK-000534",
     "from_owner_id": "HOWN-KOK-000534-00",
     "to_owner_id": "OWN-KOK-000534",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2015-08-17"
   },
   {
@@ -10763,41 +10571,17 @@
     "event_id": "OE-KOK-000623-01",
     "property_id": "PROP-KOK-000623",
     "from_owner_id": "HOWN-KOK-000623-00",
-    "to_owner_id": "HOWN-KOK-000623-01",
-    "transfer_type": "sale",
-    "transfer_date": "2014-09-12"
-  },
-  {
-    "event_id": "OE-KOK-000623-02",
-    "property_id": "PROP-KOK-000623",
-    "from_owner_id": "HOWN-KOK-000623-01",
-    "to_owner_id": "HOWN-KOK-000623-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2017-10-10"
-  },
-  {
-    "event_id": "OE-KOK-000623-03",
-    "property_id": "PROP-KOK-000623",
-    "from_owner_id": "HOWN-KOK-000623-02",
     "to_owner_id": "OWN-KOK-000623",
-    "transfer_type": "inheritance",
-    "transfer_date": "2020-11-07"
+    "transfer_type": "establishment",
+    "transfer_date": "2014-09-12"
   },
   {
     "event_id": "OE-KOK-000624-01",
     "property_id": "PROP-KOK-000624",
     "from_owner_id": "HOWN-KOK-000624-00",
-    "to_owner_id": "HOWN-KOK-000624-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2009-01-30"
-  },
-  {
-    "event_id": "OE-KOK-000624-02",
-    "property_id": "PROP-KOK-000624",
-    "from_owner_id": "HOWN-KOK-000624-01",
     "to_owner_id": "OWN-KOK-000624",
-    "transfer_type": "gift",
-    "transfer_date": "2012-02-28"
+    "transfer_type": "establishment",
+    "transfer_date": "2008-01-30"
   },
   {
     "event_id": "OE-KOK-000625-01",
@@ -10884,7 +10668,7 @@
     "property_id": "PROP-KOK-000630",
     "from_owner_id": "HOWN-KOK-000630-00",
     "to_owner_id": "OWN-KOK-000630",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2011-08-17"
   },
   {
@@ -11131,25 +10915,9 @@
     "event_id": "OE-KOK-000645-01",
     "property_id": "PROP-KOK-000645",
     "from_owner_id": "HOWN-KOK-000645-00",
-    "to_owner_id": "HOWN-KOK-000645-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2016-11-14"
-  },
-  {
-    "event_id": "OE-KOK-000645-02",
-    "property_id": "PROP-KOK-000645",
-    "from_owner_id": "HOWN-KOK-000645-01",
-    "to_owner_id": "HOWN-KOK-000645-02",
-    "transfer_type": "gift",
-    "transfer_date": "2019-12-13"
-  },
-  {
-    "event_id": "OE-KOK-000645-03",
-    "property_id": "PROP-KOK-000645",
-    "from_owner_id": "HOWN-KOK-000645-02",
     "to_owner_id": "OWN-KOK-000645",
-    "transfer_type": "inheritance",
-    "transfer_date": "2023-01-10"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-11-14"
   },
   {
     "event_id": "OE-KOK-000646-01",
@@ -11363,17 +11131,9 @@
     "event_id": "OE-KOK-000658-01",
     "property_id": "PROP-KOK-000658",
     "from_owner_id": "HOWN-KOK-000658-00",
-    "to_owner_id": "HOWN-KOK-000658-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-04-13"
-  },
-  {
-    "event_id": "OE-KOK-000658-02",
-    "property_id": "PROP-KOK-000658",
-    "from_owner_id": "HOWN-KOK-000658-01",
     "to_owner_id": "OWN-KOK-000658",
-    "transfer_type": "gift",
-    "transfer_date": "2022-05-11"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-04-13"
   },
   {
     "event_id": "OE-KOK-000659-01",
@@ -11476,7 +11236,7 @@
     "property_id": "PROP-KOK-000665",
     "from_owner_id": "HOWN-KOK-000665-00",
     "to_owner_id": "OWN-KOK-000665",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2009-03-21"
   },
   {
@@ -11868,80 +11628,40 @@
     "property_id": "PROP-KOK-000688",
     "from_owner_id": "HOWN-KOK-000688-00",
     "to_owner_id": "OWN-KOK-000688",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2014-10-08"
   },
   {
     "event_id": "OE-KOK-000689-01",
     "property_id": "PROP-KOK-000689",
     "from_owner_id": "HOWN-KOK-000689-00",
-    "to_owner_id": "HOWN-KOK-000689-01",
-    "transfer_type": "sale",
-    "transfer_date": "2004-03-20"
-  },
-  {
-    "event_id": "OE-KOK-000689-02",
-    "property_id": "PROP-KOK-000689",
-    "from_owner_id": "HOWN-KOK-000689-01",
     "to_owner_id": "OWN-KOK-000689",
-    "transfer_type": "settlement",
-    "transfer_date": "2007-04-18"
+    "transfer_type": "establishment",
+    "transfer_date": "2008-03-20"
   },
   {
     "event_id": "OE-KOK-000690-01",
     "property_id": "PROP-KOK-000690",
     "from_owner_id": "HOWN-KOK-000690-00",
-    "to_owner_id": "HOWN-KOK-000690-01",
-    "transfer_type": "sale",
-    "transfer_date": "2015-08-05"
-  },
-  {
-    "event_id": "OE-KOK-000690-02",
-    "property_id": "PROP-KOK-000690",
-    "from_owner_id": "HOWN-KOK-000690-01",
     "to_owner_id": "OWN-KOK-000690",
-    "transfer_type": "sale",
-    "transfer_date": "2018-09-02"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-08-05"
   },
   {
     "event_id": "OE-KOK-000691-01",
     "property_id": "PROP-KOK-000691",
     "from_owner_id": "HOWN-KOK-000691-00",
-    "to_owner_id": "HOWN-KOK-000691-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2011-01-16"
-  },
-  {
-    "event_id": "OE-KOK-000691-02",
-    "property_id": "PROP-KOK-000691",
-    "from_owner_id": "HOWN-KOK-000691-01",
     "to_owner_id": "OWN-KOK-000691",
-    "transfer_type": "gift",
-    "transfer_date": "2014-02-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-01-16"
   },
   {
     "event_id": "OE-KOK-000692-01",
     "property_id": "PROP-KOK-000692",
     "from_owner_id": "HOWN-KOK-000692-00",
-    "to_owner_id": "HOWN-KOK-000692-01",
-    "transfer_type": "gift",
-    "transfer_date": "2015-06-03"
-  },
-  {
-    "event_id": "OE-KOK-000692-02",
-    "property_id": "PROP-KOK-000692",
-    "from_owner_id": "HOWN-KOK-000692-01",
-    "to_owner_id": "HOWN-KOK-000692-02",
-    "transfer_type": "sale",
-    "transfer_date": "2018-07-01"
-  },
-  {
-    "event_id": "OE-KOK-000692-03",
-    "property_id": "PROP-KOK-000692",
-    "from_owner_id": "HOWN-KOK-000692-02",
     "to_owner_id": "OWN-KOK-000692",
-    "transfer_type": "inheritance",
-    "transfer_date": "2021-07-29"
+    "transfer_type": "establishment",
+    "transfer_date": "2016-06-03"
   },
   {
     "event_id": "OE-KOK-000693-01",
@@ -12003,73 +11723,25 @@
     "event_id": "OE-KOK-000696-01",
     "property_id": "PROP-KOK-000696",
     "from_owner_id": "HOWN-KOK-000696-00",
-    "to_owner_id": "HOWN-KOK-000696-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2013-01-30"
-  },
-  {
-    "event_id": "OE-KOK-000696-02",
-    "property_id": "PROP-KOK-000696",
-    "from_owner_id": "HOWN-KOK-000696-01",
-    "to_owner_id": "HOWN-KOK-000696-02",
-    "transfer_type": "sale",
-    "transfer_date": "2016-02-28"
-  },
-  {
-    "event_id": "OE-KOK-000696-03",
-    "property_id": "PROP-KOK-000696",
-    "from_owner_id": "HOWN-KOK-000696-02",
     "to_owner_id": "OWN-KOK-000696",
-    "transfer_type": "settlement",
-    "transfer_date": "2019-03-28"
+    "transfer_type": "establishment",
+    "transfer_date": "2018-01-30"
   },
   {
     "event_id": "OE-KOK-000697-01",
     "property_id": "PROP-KOK-000697",
     "from_owner_id": "HOWN-KOK-000697-00",
     "to_owner_id": "OWN-KOK-000697",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2012-07-11"
   },
   {
     "event_id": "OE-KOK-000698-01",
     "property_id": "PROP-KOK-000698",
     "from_owner_id": "HOWN-KOK-000698-00",
-    "to_owner_id": "HOWN-KOK-000698-01",
-    "transfer_type": "gift",
-    "transfer_date": "2007-12-22"
-  },
-  {
-    "event_id": "OE-KOK-000698-02",
-    "property_id": "PROP-KOK-000698",
-    "from_owner_id": "HOWN-KOK-000698-01",
-    "to_owner_id": "HOWN-KOK-000698-02",
-    "transfer_type": "gift",
-    "transfer_date": "2011-01-19"
-  },
-  {
-    "event_id": "OE-KOK-000698-03",
-    "property_id": "PROP-KOK-000698",
-    "from_owner_id": "HOWN-KOK-000698-02",
-    "to_owner_id": "HOWN-KOK-000698-03",
-    "transfer_type": "settlement",
-    "transfer_date": "2014-02-16"
-  },
-  {
-    "event_id": "OE-KOK-000698-04",
-    "property_id": "PROP-KOK-000698",
-    "from_owner_id": "HOWN-KOK-000698-03",
-    "to_owner_id": "HOWN-KOK-000698-04",
-    "transfer_type": "settlement",
-    "transfer_date": "2017-03-16"
-  },
-  {
-    "event_id": "OE-KOK-000698-05",
-    "property_id": "PROP-KOK-000698",
-    "from_owner_id": "HOWN-KOK-000698-04",
     "to_owner_id": "OWN-KOK-000698",
-    "transfer_type": "inheritance",
-    "transfer_date": "2020-04-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2019-12-22"
   },
   {
     "event_id": "OE-KOK-000699-01",
@@ -12348,7 +12020,7 @@
     "property_id": "PROP-KOK-000711",
     "from_owner_id": "HOWN-KOK-000711-00",
     "to_owner_id": "OWN-KOK-000711",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2019-05-21"
   },
   {
@@ -12395,41 +12067,9 @@
     "event_id": "OE-KOK-000714-01",
     "property_id": "PROP-KOK-000714",
     "from_owner_id": "HOWN-KOK-000714-00",
-    "to_owner_id": "HOWN-KOK-000714-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2019-08-05"
-  },
-  {
-    "event_id": "OE-KOK-000714-02",
-    "property_id": "PROP-KOK-000714",
-    "from_owner_id": "HOWN-KOK-000714-01",
-    "to_owner_id": "HOWN-KOK-000714-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2022-09-02"
-  },
-  {
-    "event_id": "OE-KOK-000714-03",
-    "property_id": "PROP-KOK-000714",
-    "from_owner_id": "HOWN-KOK-000714-02",
-    "to_owner_id": "HOWN-KOK-000714-03",
-    "transfer_type": "settlement",
-    "transfer_date": "2025-09-30"
-  },
-  {
-    "event_id": "OE-KOK-000714-04",
-    "property_id": "PROP-KOK-000714",
-    "from_owner_id": "HOWN-KOK-000714-03",
-    "to_owner_id": "HOWN-KOK-000714-04",
-    "transfer_type": "inheritance",
-    "transfer_date": "2028-10-28"
-  },
-  {
-    "event_id": "OE-KOK-000714-05",
-    "property_id": "PROP-KOK-000714",
-    "from_owner_id": "HOWN-KOK-000714-04",
     "to_owner_id": "OWN-KOK-000714",
-    "transfer_type": "gift",
-    "transfer_date": "2031-11-26"
+    "transfer_type": "establishment",
+    "transfer_date": "2014-08-05"
   },
   {
     "event_id": "OE-KOK-000715-01",
@@ -12476,24 +12116,16 @@
     "property_id": "PROP-KOK-000717",
     "from_owner_id": "HOWN-KOK-000717-00",
     "to_owner_id": "OWN-KOK-000717",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2009-11-14"
   },
   {
     "event_id": "OE-KOK-000718-01",
     "property_id": "PROP-KOK-000718",
     "from_owner_id": "HOWN-KOK-000718-00",
-    "to_owner_id": "HOWN-KOK-000718-01",
-    "transfer_type": "sale",
-    "transfer_date": "2016-04-01"
-  },
-  {
-    "event_id": "OE-KOK-000718-02",
-    "property_id": "PROP-KOK-000718",
-    "from_owner_id": "HOWN-KOK-000718-01",
     "to_owner_id": "OWN-KOK-000718",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-04-30"
+    "transfer_type": "establishment",
+    "transfer_date": "2016-04-01"
   },
   {
     "event_id": "OE-KOK-000719-01",
@@ -12547,17 +12179,9 @@
     "event_id": "OE-KOK-000723-01",
     "property_id": "PROP-KOK-000723",
     "from_owner_id": "HOWN-KOK-000723-00",
-    "to_owner_id": "HOWN-KOK-000723-01",
-    "transfer_type": "gift",
-    "transfer_date": "2010-05-09"
-  },
-  {
-    "event_id": "OE-KOK-000723-02",
-    "property_id": "PROP-KOK-000723",
-    "from_owner_id": "HOWN-KOK-000723-01",
     "to_owner_id": "OWN-KOK-000723",
-    "transfer_type": "inheritance",
-    "transfer_date": "2013-06-06"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-05-09"
   },
   {
     "event_id": "OE-KOK-000724-01",
@@ -12691,17 +12315,9 @@
     "event_id": "OE-KOK-000731-01",
     "property_id": "PROP-KOK-000731",
     "from_owner_id": "HOWN-KOK-000731-00",
-    "to_owner_id": "HOWN-KOK-000731-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-08-31"
-  },
-  {
-    "event_id": "OE-KOK-000731-02",
-    "property_id": "PROP-KOK-000731",
-    "from_owner_id": "HOWN-KOK-000731-01",
     "to_owner_id": "OWN-KOK-000731",
-    "transfer_type": "inheritance",
-    "transfer_date": "2021-09-28"
+    "transfer_type": "establishment",
+    "transfer_date": "2016-08-31"
   },
   {
     "event_id": "OE-KOK-000732-01",
@@ -12827,17 +12443,9 @@
     "event_id": "OE-KOK-000738-01",
     "property_id": "PROP-KOK-000738",
     "from_owner_id": "HOWN-KOK-000738-00",
-    "to_owner_id": "HOWN-KOK-000738-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-08-05"
-  },
-  {
-    "event_id": "OE-KOK-000738-02",
-    "property_id": "PROP-KOK-000738",
-    "from_owner_id": "HOWN-KOK-000738-01",
     "to_owner_id": "OWN-KOK-000738",
-    "transfer_type": "inheritance",
-    "transfer_date": "2022-09-02"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-08-05"
   },
   {
     "event_id": "OE-KOK-000739-01",
@@ -12891,49 +12499,25 @@
     "event_id": "OE-KOK-000741-01",
     "property_id": "PROP-KOK-000741",
     "from_owner_id": "HOWN-KOK-000741-00",
-    "to_owner_id": "HOWN-KOK-000741-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2008-11-14"
-  },
-  {
-    "event_id": "OE-KOK-000741-02",
-    "property_id": "PROP-KOK-000741",
-    "from_owner_id": "HOWN-KOK-000741-01",
     "to_owner_id": "OWN-KOK-000741",
-    "transfer_type": "sale",
-    "transfer_date": "2011-12-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2008-11-14"
   },
   {
     "event_id": "OE-KOK-000742-01",
     "property_id": "PROP-KOK-000742",
     "from_owner_id": "HOWN-KOK-000742-00",
     "to_owner_id": "OWN-KOK-000742",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2015-04-01"
   },
   {
     "event_id": "OE-KOK-000743-01",
     "property_id": "PROP-KOK-000743",
     "from_owner_id": "HOWN-KOK-000743-00",
-    "to_owner_id": "HOWN-KOK-000743-01",
-    "transfer_type": "gift",
-    "transfer_date": "1997-09-12"
-  },
-  {
-    "event_id": "OE-KOK-000743-02",
-    "property_id": "PROP-KOK-000743",
-    "from_owner_id": "HOWN-KOK-000743-01",
-    "to_owner_id": "HOWN-KOK-000743-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2000-10-10"
-  },
-  {
-    "event_id": "OE-KOK-000743-03",
-    "property_id": "PROP-KOK-000743",
-    "from_owner_id": "HOWN-KOK-000743-02",
     "to_owner_id": "OWN-KOK-000743",
-    "transfer_type": "gift",
-    "transfer_date": "2003-11-08"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-09-12"
   },
   {
     "event_id": "OE-KOK-000744-01",
@@ -12955,25 +12539,9 @@
     "event_id": "OE-KOK-000745-01",
     "property_id": "PROP-KOK-000745",
     "from_owner_id": "HOWN-KOK-000745-00",
-    "to_owner_id": "HOWN-KOK-000745-01",
-    "transfer_type": "gift",
-    "transfer_date": "2020-07-11"
-  },
-  {
-    "event_id": "OE-KOK-000745-02",
-    "property_id": "PROP-KOK-000745",
-    "from_owner_id": "HOWN-KOK-000745-01",
-    "to_owner_id": "HOWN-KOK-000745-02",
-    "transfer_type": "sale",
-    "transfer_date": "2023-08-09"
-  },
-  {
-    "event_id": "OE-KOK-000745-03",
-    "property_id": "PROP-KOK-000745",
-    "from_owner_id": "HOWN-KOK-000745-02",
     "to_owner_id": "OWN-KOK-000745",
-    "transfer_type": "gift",
-    "transfer_date": "2026-09-06"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-07-11"
   },
   {
     "event_id": "OE-KOK-000746-01",
@@ -13084,40 +12652,16 @@
     "property_id": "PROP-KOK-000752",
     "from_owner_id": "HOWN-KOK-000752-00",
     "to_owner_id": "OWN-KOK-000752",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2020-06-15"
   },
   {
     "event_id": "OE-KOK-000753-01",
     "property_id": "PROP-KOK-000753",
     "from_owner_id": "HOWN-KOK-000753-00",
-    "to_owner_id": "HOWN-KOK-000753-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2017-11-02"
-  },
-  {
-    "event_id": "OE-KOK-000753-02",
-    "property_id": "PROP-KOK-000753",
-    "from_owner_id": "HOWN-KOK-000753-01",
-    "to_owner_id": "HOWN-KOK-000753-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2020-11-30"
-  },
-  {
-    "event_id": "OE-KOK-000753-03",
-    "property_id": "PROP-KOK-000753",
-    "from_owner_id": "HOWN-KOK-000753-02",
-    "to_owner_id": "HOWN-KOK-000753-03",
-    "transfer_type": "gift",
-    "transfer_date": "2023-12-29"
-  },
-  {
-    "event_id": "OE-KOK-000753-04",
-    "property_id": "PROP-KOK-000753",
-    "from_owner_id": "HOWN-KOK-000753-03",
     "to_owner_id": "OWN-KOK-000753",
-    "transfer_type": "sale",
-    "transfer_date": "2027-01-26"
+    "transfer_type": "establishment",
+    "transfer_date": "2014-11-02"
   },
   {
     "event_id": "OE-KOK-000754-01",
@@ -13740,24 +13284,16 @@
     "property_id": "PROP-KOK-000795",
     "from_owner_id": "HOWN-KOK-000795-00",
     "to_owner_id": "HOWN-KOK-000795-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2006-05-09"
+    "transfer_type": "sale",
+    "transfer_date": "2018-05-09"
   },
   {
     "event_id": "OE-KOK-000795-02",
     "property_id": "PROP-KOK-000795",
     "from_owner_id": "HOWN-KOK-000795-01",
-    "to_owner_id": "HOWN-KOK-000795-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2009-06-06"
-  },
-  {
-    "event_id": "OE-KOK-000795-03",
-    "property_id": "PROP-KOK-000795",
-    "from_owner_id": "HOWN-KOK-000795-02",
     "to_owner_id": "OWN-KOK-000795",
-    "transfer_type": "settlement",
-    "transfer_date": "2012-07-04"
+    "transfer_type": "sale",
+    "transfer_date": "2021-06-06"
   },
   {
     "event_id": "OE-KOK-000796-01",
@@ -13788,7 +13324,7 @@
     "property_id": "PROP-KOK-000797",
     "from_owner_id": "HOWN-KOK-000797-00",
     "to_owner_id": "OWN-KOK-000797",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2010-03-09"
   },
   {
@@ -14227,25 +13763,9 @@
     "event_id": "OE-MOK-000017-01",
     "property_id": "PROP-MOK-000017",
     "from_owner_id": "HOWN-MOK-000017-00",
-    "to_owner_id": "HOWN-MOK-000017-01",
-    "transfer_type": "sale",
-    "transfer_date": "2012-03-20"
-  },
-  {
-    "event_id": "OE-MOK-000017-02",
-    "property_id": "PROP-MOK-000017",
-    "from_owner_id": "HOWN-MOK-000017-01",
-    "to_owner_id": "HOWN-MOK-000017-02",
-    "transfer_type": "sale",
-    "transfer_date": "2015-04-18"
-  },
-  {
-    "event_id": "OE-MOK-000017-03",
-    "property_id": "PROP-MOK-000017",
-    "from_owner_id": "HOWN-MOK-000017-02",
     "to_owner_id": "OWN-MOK-000017",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-05-16"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-03-21"
   },
   {
     "event_id": "OE-MOK-000018-01",
@@ -14267,17 +13787,9 @@
     "event_id": "OE-MOK-000019-01",
     "property_id": "PROP-MOK-000019",
     "from_owner_id": "HOWN-MOK-000019-00",
-    "to_owner_id": "HOWN-MOK-000019-01",
-    "transfer_type": "sale",
-    "transfer_date": "2012-01-16"
-  },
-  {
-    "event_id": "OE-MOK-000019-02",
-    "property_id": "PROP-MOK-000019",
-    "from_owner_id": "HOWN-MOK-000019-01",
     "to_owner_id": "OWN-MOK-000019",
-    "transfer_type": "sale",
-    "transfer_date": "2015-02-13"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2012-01-16"
   },
   {
     "event_id": "OE-MOK-000020-01",
@@ -14315,65 +13827,25 @@
     "event_id": "OE-MOK-000022-01",
     "property_id": "PROP-MOK-000022",
     "from_owner_id": "HOWN-MOK-000022-00",
-    "to_owner_id": "HOWN-MOK-000022-01",
-    "transfer_type": "gift",
-    "transfer_date": "2015-04-01"
-  },
-  {
-    "event_id": "OE-MOK-000022-02",
-    "property_id": "PROP-MOK-000022",
-    "from_owner_id": "HOWN-MOK-000022-01",
     "to_owner_id": "OWN-MOK-000022",
-    "transfer_type": "gift",
-    "transfer_date": "2018-04-29"
+    "transfer_type": "establishment",
+    "transfer_date": "2019-04-01"
   },
   {
     "event_id": "OE-MOK-000023-01",
     "property_id": "PROP-MOK-000023",
     "from_owner_id": "HOWN-MOK-000023-00",
-    "to_owner_id": "HOWN-MOK-000023-01",
-    "transfer_type": "sale",
-    "transfer_date": "2006-09-12"
-  },
-  {
-    "event_id": "OE-MOK-000023-02",
-    "property_id": "PROP-MOK-000023",
-    "from_owner_id": "HOWN-MOK-000023-01",
-    "to_owner_id": "HOWN-MOK-000023-02",
-    "transfer_type": "sale",
-    "transfer_date": "2009-10-10"
-  },
-  {
-    "event_id": "OE-MOK-000023-03",
-    "property_id": "PROP-MOK-000023",
-    "from_owner_id": "HOWN-MOK-000023-02",
     "to_owner_id": "OWN-MOK-000023",
-    "transfer_type": "gift",
-    "transfer_date": "2012-11-07"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-09-12"
   },
   {
     "event_id": "OE-MOK-000024-01",
     "property_id": "PROP-MOK-000024",
     "from_owner_id": "HOWN-MOK-000024-00",
-    "to_owner_id": "HOWN-MOK-000024-01",
-    "transfer_type": "gift",
-    "transfer_date": "2013-01-30"
-  },
-  {
-    "event_id": "OE-MOK-000024-02",
-    "property_id": "PROP-MOK-000024",
-    "from_owner_id": "HOWN-MOK-000024-01",
-    "to_owner_id": "HOWN-MOK-000024-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2016-02-28"
-  },
-  {
-    "event_id": "OE-MOK-000024-03",
-    "property_id": "PROP-MOK-000024",
-    "from_owner_id": "HOWN-MOK-000024-02",
     "to_owner_id": "OWN-MOK-000024",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-03-28"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-01-30"
   },
   {
     "event_id": "OE-MOK-000025-01",
@@ -14395,65 +13867,17 @@
     "event_id": "OE-MOK-000026-01",
     "property_id": "PROP-MOK-000026",
     "from_owner_id": "HOWN-MOK-000026-00",
-    "to_owner_id": "HOWN-MOK-000026-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2011-12-22"
-  },
-  {
-    "event_id": "OE-MOK-000026-02",
-    "property_id": "PROP-MOK-000026",
-    "from_owner_id": "HOWN-MOK-000026-01",
-    "to_owner_id": "HOWN-MOK-000026-02",
-    "transfer_type": "gift",
-    "transfer_date": "2015-01-19"
-  },
-  {
-    "event_id": "OE-MOK-000026-03",
-    "property_id": "PROP-MOK-000026",
-    "from_owner_id": "HOWN-MOK-000026-02",
     "to_owner_id": "OWN-MOK-000026",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-02-16"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2008-12-22"
   },
   {
     "event_id": "OE-MOK-000027-01",
     "property_id": "PROP-MOK-000027",
     "from_owner_id": "HOWN-MOK-000027-00",
-    "to_owner_id": "HOWN-MOK-000027-01",
-    "transfer_type": "sale",
-    "transfer_date": "2010-05-09"
-  },
-  {
-    "event_id": "OE-MOK-000027-02",
-    "property_id": "PROP-MOK-000027",
-    "from_owner_id": "HOWN-MOK-000027-01",
-    "to_owner_id": "HOWN-MOK-000027-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2013-06-06"
-  },
-  {
-    "event_id": "OE-MOK-000027-03",
-    "property_id": "PROP-MOK-000027",
-    "from_owner_id": "HOWN-MOK-000027-02",
-    "to_owner_id": "HOWN-MOK-000027-03",
-    "transfer_type": "settlement",
-    "transfer_date": "2016-07-04"
-  },
-  {
-    "event_id": "OE-MOK-000027-04",
-    "property_id": "PROP-MOK-000027",
-    "from_owner_id": "HOWN-MOK-000027-03",
-    "to_owner_id": "HOWN-MOK-000027-04",
-    "transfer_type": "gift",
-    "transfer_date": "2019-08-02"
-  },
-  {
-    "event_id": "OE-MOK-000027-05",
-    "property_id": "PROP-MOK-000027",
-    "from_owner_id": "HOWN-MOK-000027-04",
     "to_owner_id": "OWN-MOK-000027",
-    "transfer_type": "inheritance",
-    "transfer_date": "2022-08-30"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-05-09"
   },
   {
     "event_id": "OE-MOK-000028-01",
@@ -14523,25 +13947,9 @@
     "event_id": "OE-MOK-000031-01",
     "property_id": "PROP-MOK-000031",
     "from_owner_id": "HOWN-MOK-000031-00",
-    "to_owner_id": "HOWN-MOK-000031-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2019-01-04"
-  },
-  {
-    "event_id": "OE-MOK-000031-02",
-    "property_id": "PROP-MOK-000031",
-    "from_owner_id": "HOWN-MOK-000031-01",
-    "to_owner_id": "HOWN-MOK-000031-02",
-    "transfer_type": "gift",
-    "transfer_date": "2022-02-01"
-  },
-  {
-    "event_id": "OE-MOK-000031-03",
-    "property_id": "PROP-MOK-000031",
-    "from_owner_id": "HOWN-MOK-000031-02",
     "to_owner_id": "OWN-MOK-000031",
-    "transfer_type": "inheritance",
-    "transfer_date": "2025-03-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2018-01-04"
   },
   {
     "event_id": "OE-MOK-000032-01",
@@ -14604,7 +14012,7 @@
     "property_id": "PROP-MOK-000035",
     "from_owner_id": "HOWN-MOK-000035-00",
     "to_owner_id": "OWN-MOK-000035",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2019-08-31"
   },
   {
@@ -14620,7 +14028,7 @@
     "property_id": "PROP-MOK-000037",
     "from_owner_id": "HOWN-MOK-000037-00",
     "to_owner_id": "OWN-MOK-000037",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2020-07-23"
   },
   {
@@ -14628,32 +14036,16 @@
     "property_id": "PROP-MOK-000038",
     "from_owner_id": "HOWN-MOK-000038-00",
     "to_owner_id": "OWN-MOK-000038",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2014-12-10"
   },
   {
     "event_id": "OE-MOK-000039-01",
     "property_id": "PROP-MOK-000039",
     "from_owner_id": "HOWN-MOK-000039-00",
-    "to_owner_id": "HOWN-MOK-000039-01",
-    "transfer_type": "gift",
-    "transfer_date": "2006-05-21"
-  },
-  {
-    "event_id": "OE-MOK-000039-02",
-    "property_id": "PROP-MOK-000039",
-    "from_owner_id": "HOWN-MOK-000039-01",
-    "to_owner_id": "HOWN-MOK-000039-02",
-    "transfer_type": "sale",
-    "transfer_date": "2009-06-18"
-  },
-  {
-    "event_id": "OE-MOK-000039-03",
-    "property_id": "PROP-MOK-000039",
-    "from_owner_id": "HOWN-MOK-000039-02",
     "to_owner_id": "OWN-MOK-000039",
-    "transfer_type": "sale",
-    "transfer_date": "2012-07-16"
+    "transfer_type": "establishment",
+    "transfer_date": "2008-05-21"
   },
   {
     "event_id": "OE-MOK-000040-01",
@@ -14691,17 +14083,9 @@
     "event_id": "OE-MOK-000041-01",
     "property_id": "PROP-MOK-000041",
     "from_owner_id": "HOWN-MOK-000041-00",
-    "to_owner_id": "HOWN-MOK-000041-01",
-    "transfer_type": "sale",
-    "transfer_date": "2009-03-21"
-  },
-  {
-    "event_id": "OE-MOK-000041-02",
-    "property_id": "PROP-MOK-000041",
-    "from_owner_id": "HOWN-MOK-000041-01",
     "to_owner_id": "OWN-MOK-000041",
-    "transfer_type": "sale",
-    "transfer_date": "2012-04-18"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-03-21"
   },
   {
     "event_id": "OE-MOK-000042-01",
@@ -14755,17 +14139,9 @@
     "event_id": "OE-MOK-000045-01",
     "property_id": "PROP-MOK-000045",
     "from_owner_id": "HOWN-MOK-000045-00",
-    "to_owner_id": "HOWN-MOK-000045-01",
-    "transfer_type": "sale",
-    "transfer_date": "2016-11-14"
-  },
-  {
-    "event_id": "OE-MOK-000045-02",
-    "property_id": "PROP-MOK-000045",
-    "from_owner_id": "HOWN-MOK-000045-01",
     "to_owner_id": "OWN-MOK-000045",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-12-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2011-11-14"
   },
   {
     "event_id": "OE-MOK-000046-01",
@@ -14819,25 +14195,9 @@
     "event_id": "OE-MOK-000049-01",
     "property_id": "PROP-MOK-000049",
     "from_owner_id": "HOWN-MOK-000049-00",
-    "to_owner_id": "HOWN-MOK-000049-01",
-    "transfer_type": "gift",
-    "transfer_date": "2012-07-11"
-  },
-  {
-    "event_id": "OE-MOK-000049-02",
-    "property_id": "PROP-MOK-000049",
-    "from_owner_id": "HOWN-MOK-000049-01",
-    "to_owner_id": "HOWN-MOK-000049-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-08-09"
-  },
-  {
-    "event_id": "OE-MOK-000049-03",
-    "property_id": "PROP-MOK-000049",
-    "from_owner_id": "HOWN-MOK-000049-02",
     "to_owner_id": "OWN-MOK-000049",
-    "transfer_type": "sale",
-    "transfer_date": "2018-09-06"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-07-11"
   },
   {
     "event_id": "OE-MOK-000050-01",
@@ -14931,33 +14291,17 @@
     "event_id": "OE-MOK-000054-01",
     "property_id": "PROP-MOK-000054",
     "from_owner_id": "HOWN-MOK-000054-00",
-    "to_owner_id": "HOWN-MOK-000054-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-08-17"
-  },
-  {
-    "event_id": "OE-MOK-000054-02",
-    "property_id": "PROP-MOK-000054",
-    "from_owner_id": "HOWN-MOK-000054-01",
     "to_owner_id": "OWN-MOK-000054",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-09-14"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-08-17"
   },
   {
     "event_id": "OE-MOK-000055-01",
     "property_id": "PROP-MOK-000055",
     "from_owner_id": "HOWN-MOK-000055-00",
-    "to_owner_id": "HOWN-MOK-000055-01",
-    "transfer_type": "sale",
-    "transfer_date": "2007-01-04"
-  },
-  {
-    "event_id": "OE-MOK-000055-02",
-    "property_id": "PROP-MOK-000055",
-    "from_owner_id": "HOWN-MOK-000055-01",
     "to_owner_id": "OWN-MOK-000055",
-    "transfer_type": "gift",
-    "transfer_date": "2010-02-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2017-01-04"
   },
   {
     "event_id": "OE-MOK-000056-01",
@@ -14979,65 +14323,17 @@
     "event_id": "OE-MOK-000057-01",
     "property_id": "PROP-MOK-000057",
     "from_owner_id": "HOWN-MOK-000057-00",
-    "to_owner_id": "HOWN-MOK-000057-01",
-    "transfer_type": "gift",
-    "transfer_date": "2020-11-02"
-  },
-  {
-    "event_id": "OE-MOK-000057-02",
-    "property_id": "PROP-MOK-000057",
-    "from_owner_id": "HOWN-MOK-000057-01",
-    "to_owner_id": "HOWN-MOK-000057-02",
-    "transfer_type": "sale",
-    "transfer_date": "2023-12-01"
-  },
-  {
-    "event_id": "OE-MOK-000057-03",
-    "property_id": "PROP-MOK-000057",
-    "from_owner_id": "HOWN-MOK-000057-02",
-    "to_owner_id": "HOWN-MOK-000057-03",
-    "transfer_type": "settlement",
-    "transfer_date": "2026-12-29"
-  },
-  {
-    "event_id": "OE-MOK-000057-04",
-    "property_id": "PROP-MOK-000057",
-    "from_owner_id": "HOWN-MOK-000057-03",
-    "to_owner_id": "HOWN-MOK-000057-04",
-    "transfer_type": "gift",
-    "transfer_date": "2030-01-26"
-  },
-  {
-    "event_id": "OE-MOK-000057-05",
-    "property_id": "PROP-MOK-000057",
-    "from_owner_id": "HOWN-MOK-000057-04",
     "to_owner_id": "OWN-MOK-000057",
-    "transfer_type": "inheritance",
-    "transfer_date": "2033-02-23"
+    "transfer_type": "establishment",
+    "transfer_date": "2017-11-02"
   },
   {
     "event_id": "OE-MOK-000058-01",
     "property_id": "PROP-MOK-000058",
     "from_owner_id": "HOWN-MOK-000058-00",
-    "to_owner_id": "HOWN-MOK-000058-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2011-04-13"
-  },
-  {
-    "event_id": "OE-MOK-000058-02",
-    "property_id": "PROP-MOK-000058",
-    "from_owner_id": "HOWN-MOK-000058-01",
-    "to_owner_id": "HOWN-MOK-000058-02",
-    "transfer_type": "gift",
-    "transfer_date": "2014-05-11"
-  },
-  {
-    "event_id": "OE-MOK-000058-03",
-    "property_id": "PROP-MOK-000058",
-    "from_owner_id": "HOWN-MOK-000058-02",
     "to_owner_id": "OWN-MOK-000058",
-    "transfer_type": "sale",
-    "transfer_date": "2017-06-08"
+    "transfer_type": "establishment",
+    "transfer_date": "2011-04-13"
   },
   {
     "event_id": "OE-MOK-000059-01",
@@ -15068,24 +14364,16 @@
     "property_id": "PROP-MOK-000060",
     "from_owner_id": "HOWN-MOK-000060-00",
     "to_owner_id": "OWN-MOK-000060",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2012-02-11"
   },
   {
     "event_id": "OE-MOK-000061-01",
     "property_id": "PROP-MOK-000061",
     "from_owner_id": "HOWN-MOK-000061-00",
-    "to_owner_id": "HOWN-MOK-000061-01",
-    "transfer_type": "sale",
-    "transfer_date": "2019-07-23"
-  },
-  {
-    "event_id": "OE-MOK-000061-02",
-    "property_id": "PROP-MOK-000061",
-    "from_owner_id": "HOWN-MOK-000061-01",
     "to_owner_id": "OWN-MOK-000061",
-    "transfer_type": "sale",
-    "transfer_date": "2022-08-20"
+    "transfer_type": "establishment",
+    "transfer_date": "2019-07-23"
   },
   {
     "event_id": "OE-MOK-000062-01",
@@ -15139,17 +14427,9 @@
     "event_id": "OE-MOK-000066-01",
     "property_id": "PROP-MOK-000066",
     "from_owner_id": "HOWN-MOK-000066-00",
-    "to_owner_id": "HOWN-MOK-000066-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-08-05"
-  },
-  {
-    "event_id": "OE-MOK-000066-02",
-    "property_id": "PROP-MOK-000066",
-    "from_owner_id": "HOWN-MOK-000066-01",
     "to_owner_id": "OWN-MOK-000066",
-    "transfer_type": "inheritance",
-    "transfer_date": "2022-09-02"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2015-08-05"
   },
   {
     "event_id": "OE-MOK-000067-01",
@@ -15171,41 +14451,9 @@
     "event_id": "OE-MOK-000068-01",
     "property_id": "PROP-MOK-000068",
     "from_owner_id": "HOWN-MOK-000068-00",
-    "to_owner_id": "HOWN-MOK-000068-01",
-    "transfer_type": "settlement",
-    "transfer_date": "1997-06-03"
-  },
-  {
-    "event_id": "OE-MOK-000068-02",
-    "property_id": "PROP-MOK-000068",
-    "from_owner_id": "HOWN-MOK-000068-01",
-    "to_owner_id": "HOWN-MOK-000068-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2000-07-01"
-  },
-  {
-    "event_id": "OE-MOK-000068-03",
-    "property_id": "PROP-MOK-000068",
-    "from_owner_id": "HOWN-MOK-000068-02",
-    "to_owner_id": "HOWN-MOK-000068-03",
-    "transfer_type": "gift",
-    "transfer_date": "2003-07-30"
-  },
-  {
-    "event_id": "OE-MOK-000068-04",
-    "property_id": "PROP-MOK-000068",
-    "from_owner_id": "HOWN-MOK-000068-03",
-    "to_owner_id": "HOWN-MOK-000068-04",
-    "transfer_type": "gift",
-    "transfer_date": "2006-08-27"
-  },
-  {
-    "event_id": "OE-MOK-000068-05",
-    "property_id": "PROP-MOK-000068",
-    "from_owner_id": "HOWN-MOK-000068-04",
     "to_owner_id": "OWN-MOK-000068",
-    "transfer_type": "sale",
-    "transfer_date": "2009-09-24"
+    "transfer_type": "establishment",
+    "transfer_date": "2016-06-03"
   },
   {
     "event_id": "OE-MOK-000069-01",
@@ -15236,7 +14484,7 @@
     "property_id": "PROP-MOK-000070",
     "from_owner_id": "HOWN-MOK-000070-00",
     "to_owner_id": "OWN-MOK-000070",
-    "transfer_type": "inheritance",
+    "transfer_type": "government_allocation",
     "transfer_date": "2017-04-01"
   },
   {
@@ -15315,25 +14563,9 @@
     "event_id": "OE-MOK-000074-01",
     "property_id": "PROP-MOK-000074",
     "from_owner_id": "HOWN-MOK-000074-00",
-    "to_owner_id": "HOWN-MOK-000074-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2011-12-22"
-  },
-  {
-    "event_id": "OE-MOK-000074-02",
-    "property_id": "PROP-MOK-000074",
-    "from_owner_id": "HOWN-MOK-000074-01",
-    "to_owner_id": "HOWN-MOK-000074-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-01-19"
-  },
-  {
-    "event_id": "OE-MOK-000074-03",
-    "property_id": "PROP-MOK-000074",
-    "from_owner_id": "HOWN-MOK-000074-02",
     "to_owner_id": "OWN-MOK-000074",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-02-16"
+    "transfer_type": "establishment",
+    "transfer_date": "2019-12-22"
   },
   {
     "event_id": "OE-MOK-000075-01",
@@ -15932,24 +15164,16 @@
     "property_id": "PROP-MOK-000107",
     "from_owner_id": "HOWN-MOK-000107-00",
     "to_owner_id": "HOWN-MOK-000107-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2010-08-31"
+    "transfer_type": "sale",
+    "transfer_date": "2018-08-31"
   },
   {
     "event_id": "OE-MOK-000107-02",
     "property_id": "PROP-MOK-000107",
     "from_owner_id": "HOWN-MOK-000107-01",
-    "to_owner_id": "HOWN-MOK-000107-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2013-09-28"
-  },
-  {
-    "event_id": "OE-MOK-000107-03",
-    "property_id": "PROP-MOK-000107",
-    "from_owner_id": "HOWN-MOK-000107-02",
     "to_owner_id": "OWN-MOK-000107",
-    "transfer_type": "sale",
-    "transfer_date": "2016-10-26"
+    "transfer_type": "gift",
+    "transfer_date": "2021-09-28"
   },
   {
     "event_id": "OE-MOK-000108-01",
@@ -17395,17 +16619,9 @@
     "event_id": "OE-MOK-000194-01",
     "property_id": "PROP-MOK-000194",
     "from_owner_id": "HOWN-MOK-000194-00",
-    "to_owner_id": "HOWN-MOK-000194-01",
-    "transfer_type": "gift",
-    "transfer_date": "2019-12-22"
-  },
-  {
-    "event_id": "OE-MOK-000194-02",
-    "property_id": "PROP-MOK-000194",
-    "from_owner_id": "HOWN-MOK-000194-01",
     "to_owner_id": "OWN-MOK-000194",
-    "transfer_type": "sale",
-    "transfer_date": "2023-01-19"
+    "transfer_type": "establishment",
+    "transfer_date": "2014-12-22"
   },
   {
     "event_id": "OE-MOK-000195-01",
@@ -18739,25 +17955,9 @@
     "event_id": "OE-MOK-000270-01",
     "property_id": "PROP-MOK-000270",
     "from_owner_id": "HOWN-MOK-000270-00",
-    "to_owner_id": "HOWN-MOK-000270-01",
-    "transfer_type": "gift",
-    "transfer_date": "2011-08-17"
-  },
-  {
-    "event_id": "OE-MOK-000270-02",
-    "property_id": "PROP-MOK-000270",
-    "from_owner_id": "HOWN-MOK-000270-01",
-    "to_owner_id": "HOWN-MOK-000270-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2014-09-14"
-  },
-  {
-    "event_id": "OE-MOK-000270-03",
-    "property_id": "PROP-MOK-000270",
-    "from_owner_id": "HOWN-MOK-000270-02",
     "to_owner_id": "OWN-MOK-000270",
-    "transfer_type": "settlement",
-    "transfer_date": "2017-10-12"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-08-17"
   },
   {
     "event_id": "OE-MOK-000271-01",
@@ -18787,33 +17987,9 @@
     "event_id": "OE-MOK-000273-01",
     "property_id": "PROP-MOK-000273",
     "from_owner_id": "HOWN-MOK-000273-00",
-    "to_owner_id": "HOWN-MOK-000273-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2007-11-02"
-  },
-  {
-    "event_id": "OE-MOK-000273-02",
-    "property_id": "PROP-MOK-000273",
-    "from_owner_id": "HOWN-MOK-000273-01",
-    "to_owner_id": "HOWN-MOK-000273-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2010-11-30"
-  },
-  {
-    "event_id": "OE-MOK-000273-03",
-    "property_id": "PROP-MOK-000273",
-    "from_owner_id": "HOWN-MOK-000273-02",
-    "to_owner_id": "HOWN-MOK-000273-03",
-    "transfer_type": "inheritance",
-    "transfer_date": "2013-12-28"
-  },
-  {
-    "event_id": "OE-MOK-000273-04",
-    "property_id": "PROP-MOK-000273",
-    "from_owner_id": "HOWN-MOK-000273-03",
     "to_owner_id": "OWN-MOK-000273",
-    "transfer_type": "settlement",
-    "transfer_date": "2017-01-25"
+    "transfer_type": "establishment",
+    "transfer_date": "2008-11-02"
   },
   {
     "event_id": "OE-MOK-000274-01",
@@ -18923,17 +18099,9 @@
     "event_id": "OE-MOK-000281-01",
     "property_id": "PROP-MOK-000281",
     "from_owner_id": "HOWN-MOK-000281-00",
-    "to_owner_id": "HOWN-MOK-000281-01",
-    "transfer_type": "sale",
-    "transfer_date": "2020-03-20"
-  },
-  {
-    "event_id": "OE-MOK-000281-02",
-    "property_id": "PROP-MOK-000281",
-    "from_owner_id": "HOWN-MOK-000281-01",
     "to_owner_id": "OWN-MOK-000281",
-    "transfer_type": "sale",
-    "transfer_date": "2023-04-18"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-03-20"
   },
   {
     "event_id": "OE-MOK-000282-01",
@@ -18979,17 +18147,9 @@
     "event_id": "OE-MOK-000284-01",
     "property_id": "PROP-MOK-000284",
     "from_owner_id": "HOWN-MOK-000284-00",
-    "to_owner_id": "HOWN-MOK-000284-01",
-    "transfer_type": "sale",
-    "transfer_date": "2020-06-03"
-  },
-  {
-    "event_id": "OE-MOK-000284-02",
-    "property_id": "PROP-MOK-000284",
-    "from_owner_id": "HOWN-MOK-000284-01",
     "to_owner_id": "OWN-MOK-000284",
-    "transfer_type": "inheritance",
-    "transfer_date": "2023-07-02"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-06-03"
   },
   {
     "event_id": "OE-MOK-000285-01",
@@ -20043,33 +19203,9 @@
     "event_id": "OE-MOK-000353-01",
     "property_id": "PROP-MOK-000353",
     "from_owner_id": "HOWN-MOK-000353-00",
-    "to_owner_id": "HOWN-MOK-000353-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2017-03-21"
-  },
-  {
-    "event_id": "OE-MOK-000353-02",
-    "property_id": "PROP-MOK-000353",
-    "from_owner_id": "HOWN-MOK-000353-01",
-    "to_owner_id": "HOWN-MOK-000353-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2020-04-18"
-  },
-  {
-    "event_id": "OE-MOK-000353-03",
-    "property_id": "PROP-MOK-000353",
-    "from_owner_id": "HOWN-MOK-000353-02",
-    "to_owner_id": "HOWN-MOK-000353-03",
-    "transfer_type": "sale",
-    "transfer_date": "2023-05-17"
-  },
-  {
-    "event_id": "OE-MOK-000353-04",
-    "property_id": "PROP-MOK-000353",
-    "from_owner_id": "HOWN-MOK-000353-03",
     "to_owner_id": "OWN-MOK-000353",
-    "transfer_type": "gift",
-    "transfer_date": "2026-06-14"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-03-21"
   },
   {
     "event_id": "OE-MOK-000354-01",
@@ -20107,17 +19243,9 @@
     "event_id": "OE-MOK-000356-01",
     "property_id": "PROP-MOK-000356",
     "from_owner_id": "HOWN-MOK-000356-00",
-    "to_owner_id": "HOWN-MOK-000356-01",
-    "transfer_type": "sale",
-    "transfer_date": "2017-06-03"
-  },
-  {
-    "event_id": "OE-MOK-000356-02",
-    "property_id": "PROP-MOK-000356",
-    "from_owner_id": "HOWN-MOK-000356-01",
     "to_owner_id": "OWN-MOK-000356",
-    "transfer_type": "sale",
-    "transfer_date": "2020-07-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2017-06-03"
   },
   {
     "event_id": "OE-MOK-000357-01",
@@ -20275,17 +19403,9 @@
     "event_id": "OE-MOK-000365-01",
     "property_id": "PROP-MOK-000365",
     "from_owner_id": "HOWN-MOK-000365-00",
-    "to_owner_id": "HOWN-MOK-000365-01",
-    "transfer_type": "sale",
-    "transfer_date": "2015-03-09"
-  },
-  {
-    "event_id": "OE-MOK-000365-02",
-    "property_id": "PROP-MOK-000365",
-    "from_owner_id": "HOWN-MOK-000365-01",
     "to_owner_id": "OWN-MOK-000365",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-04-06"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-03-09"
   },
   {
     "event_id": "OE-MOK-000366-01",
@@ -20307,32 +19427,16 @@
     "event_id": "OE-MOK-000367-01",
     "property_id": "PROP-MOK-000367",
     "from_owner_id": "HOWN-MOK-000367-00",
-    "to_owner_id": "HOWN-MOK-000367-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2016-01-04"
-  },
-  {
-    "event_id": "OE-MOK-000367-02",
-    "property_id": "PROP-MOK-000367",
-    "from_owner_id": "HOWN-MOK-000367-01",
-    "to_owner_id": "HOWN-MOK-000367-02",
-    "transfer_type": "sale",
-    "transfer_date": "2019-02-01"
-  },
-  {
-    "event_id": "OE-MOK-000367-03",
-    "property_id": "PROP-MOK-000367",
-    "from_owner_id": "HOWN-MOK-000367-02",
     "to_owner_id": "OWN-MOK-000367",
-    "transfer_type": "gift",
-    "transfer_date": "2022-03-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2017-01-04"
   },
   {
     "event_id": "OE-MOK-000368-01",
     "property_id": "PROP-MOK-000368",
     "from_owner_id": "HOWN-MOK-000368-00",
     "to_owner_id": "OWN-MOK-000368",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2010-06-15"
   },
   {
@@ -20539,25 +19643,9 @@
     "event_id": "OE-MOK-000379-01",
     "property_id": "PROP-MOK-000379",
     "from_owner_id": "HOWN-MOK-000379-00",
-    "to_owner_id": "HOWN-MOK-000379-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2015-01-16"
-  },
-  {
-    "event_id": "OE-MOK-000379-02",
-    "property_id": "PROP-MOK-000379",
-    "from_owner_id": "HOWN-MOK-000379-01",
-    "to_owner_id": "HOWN-MOK-000379-02",
-    "transfer_type": "sale",
-    "transfer_date": "2018-02-13"
-  },
-  {
-    "event_id": "OE-MOK-000379-03",
-    "property_id": "PROP-MOK-000379",
-    "from_owner_id": "HOWN-MOK-000379-02",
     "to_owner_id": "OWN-MOK-000379",
-    "transfer_type": "gift",
-    "transfer_date": "2021-03-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-01-16"
   },
   {
     "event_id": "OE-MOK-000380-01",
@@ -20979,17 +20067,9 @@
     "event_id": "OE-MOK-000404-01",
     "property_id": "PROP-MOK-000404",
     "from_owner_id": "HOWN-MOK-000404-00",
-    "to_owner_id": "HOWN-MOK-000404-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2017-06-03"
-  },
-  {
-    "event_id": "OE-MOK-000404-02",
-    "property_id": "PROP-MOK-000404",
-    "from_owner_id": "HOWN-MOK-000404-01",
     "to_owner_id": "OWN-MOK-000404",
-    "transfer_type": "inheritance",
-    "transfer_date": "2020-07-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-06-03"
   },
   {
     "event_id": "OE-MOK-000405-01",
@@ -21012,7 +20092,7 @@
     "property_id": "PROP-MOK-000406",
     "from_owner_id": "HOWN-MOK-000406-00",
     "to_owner_id": "OWN-MOK-000406",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2016-04-01"
   },
   {
@@ -21155,25 +20235,9 @@
     "event_id": "OE-MOK-000415-01",
     "property_id": "PROP-MOK-000415",
     "from_owner_id": "HOWN-MOK-000415-00",
-    "to_owner_id": "HOWN-MOK-000415-01",
-    "transfer_type": "gift",
-    "transfer_date": "2015-01-04"
-  },
-  {
-    "event_id": "OE-MOK-000415-02",
-    "property_id": "PROP-MOK-000415",
-    "from_owner_id": "HOWN-MOK-000415-01",
-    "to_owner_id": "HOWN-MOK-000415-02",
-    "transfer_type": "sale",
-    "transfer_date": "2018-02-01"
-  },
-  {
-    "event_id": "OE-MOK-000415-03",
-    "property_id": "PROP-MOK-000415",
-    "from_owner_id": "HOWN-MOK-000415-02",
     "to_owner_id": "OWN-MOK-000415",
-    "transfer_type": "sale",
-    "transfer_date": "2021-03-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-01-04"
   },
   {
     "event_id": "OE-MOK-000416-01",
@@ -21212,7 +20276,7 @@
     "property_id": "PROP-MOK-000418",
     "from_owner_id": "HOWN-MOK-000418-00",
     "to_owner_id": "OWN-MOK-000418",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2009-04-13"
   },
   {
@@ -21236,7 +20300,7 @@
     "property_id": "PROP-MOK-000420",
     "from_owner_id": "HOWN-MOK-000420-00",
     "to_owner_id": "OWN-MOK-000420",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2010-02-11"
   },
   {
@@ -21276,40 +20340,24 @@
     "property_id": "PROP-MOK-000424",
     "from_owner_id": "HOWN-MOK-000424-00",
     "to_owner_id": "OWN-MOK-000424",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2012-10-08"
   },
   {
     "event_id": "OE-MOK-000425-01",
     "property_id": "PROP-MOK-000425",
     "from_owner_id": "HOWN-MOK-000425-00",
-    "to_owner_id": "HOWN-MOK-000425-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2020-03-20"
-  },
-  {
-    "event_id": "OE-MOK-000425-02",
-    "property_id": "PROP-MOK-000425",
-    "from_owner_id": "HOWN-MOK-000425-01",
     "to_owner_id": "OWN-MOK-000425",
-    "transfer_type": "inheritance",
-    "transfer_date": "2023-04-18"
+    "transfer_type": "establishment",
+    "transfer_date": "2019-03-21"
   },
   {
     "event_id": "OE-MOK-000426-01",
     "property_id": "PROP-MOK-000426",
     "from_owner_id": "HOWN-MOK-000426-00",
-    "to_owner_id": "HOWN-MOK-000426-01",
-    "transfer_type": "sale",
-    "transfer_date": "2011-08-05"
-  },
-  {
-    "event_id": "OE-MOK-000426-02",
-    "property_id": "PROP-MOK-000426",
-    "from_owner_id": "HOWN-MOK-000426-01",
     "to_owner_id": "OWN-MOK-000426",
-    "transfer_type": "gift",
-    "transfer_date": "2014-09-02"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-08-05"
   },
   {
     "event_id": "OE-MOK-000427-01",
@@ -21388,48 +20436,24 @@
     "property_id": "PROP-MOK-000430",
     "from_owner_id": "HOWN-MOK-000430-00",
     "to_owner_id": "OWN-MOK-000430",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2015-04-01"
   },
   {
     "event_id": "OE-MOK-000431-01",
     "property_id": "PROP-MOK-000431",
     "from_owner_id": "HOWN-MOK-000431-00",
-    "to_owner_id": "HOWN-MOK-000431-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2018-09-12"
-  },
-  {
-    "event_id": "OE-MOK-000431-02",
-    "property_id": "PROP-MOK-000431",
-    "from_owner_id": "HOWN-MOK-000431-01",
-    "to_owner_id": "HOWN-MOK-000431-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2021-10-10"
-  },
-  {
-    "event_id": "OE-MOK-000431-03",
-    "property_id": "PROP-MOK-000431",
-    "from_owner_id": "HOWN-MOK-000431-02",
     "to_owner_id": "OWN-MOK-000431",
-    "transfer_type": "settlement",
-    "transfer_date": "2024-11-07"
+    "transfer_type": "establishment",
+    "transfer_date": "2009-09-12"
   },
   {
     "event_id": "OE-MOK-000432-01",
     "property_id": "PROP-MOK-000432",
     "from_owner_id": "HOWN-MOK-000432-00",
-    "to_owner_id": "HOWN-MOK-000432-01",
-    "transfer_type": "sale",
-    "transfer_date": "2005-01-30"
-  },
-  {
-    "event_id": "OE-MOK-000432-02",
-    "property_id": "PROP-MOK-000432",
-    "from_owner_id": "HOWN-MOK-000432-01",
     "to_owner_id": "OWN-MOK-000432",
-    "transfer_type": "inheritance",
-    "transfer_date": "2008-02-28"
+    "transfer_type": "establishment",
+    "transfer_date": "2016-01-30"
   },
   {
     "event_id": "OE-MOK-000433-01",
@@ -21588,7 +20612,7 @@
     "property_id": "PROP-MOK-000440",
     "from_owner_id": "HOWN-MOK-000440-00",
     "to_owner_id": "OWN-MOK-000440",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2020-06-15"
   },
   {
@@ -22707,17 +21731,9 @@
     "event_id": "OE-MOK-000502-01",
     "property_id": "PROP-MOK-000502",
     "from_owner_id": "HOWN-MOK-000502-00",
-    "to_owner_id": "HOWN-MOK-000502-01",
-    "transfer_type": "sale",
-    "transfer_date": "2012-04-01"
-  },
-  {
-    "event_id": "OE-MOK-000502-02",
-    "property_id": "PROP-MOK-000502",
-    "from_owner_id": "HOWN-MOK-000502-01",
     "to_owner_id": "OWN-MOK-000502",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-04-30"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-04-01"
   },
   {
     "event_id": "OE-MOK-000503-01",
@@ -22764,7 +21780,7 @@
     "property_id": "PROP-MOK-000506",
     "from_owner_id": "HOWN-MOK-000506-00",
     "to_owner_id": "OWN-MOK-000506",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2014-12-22"
   },
   {
@@ -22787,25 +21803,9 @@
     "event_id": "OE-MOK-000508-01",
     "property_id": "PROP-MOK-000508",
     "from_owner_id": "HOWN-MOK-000508-00",
-    "to_owner_id": "HOWN-MOK-000508-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2002-10-20"
-  },
-  {
-    "event_id": "OE-MOK-000508-02",
-    "property_id": "PROP-MOK-000508",
-    "from_owner_id": "HOWN-MOK-000508-01",
-    "to_owner_id": "HOWN-MOK-000508-02",
-    "transfer_type": "gift",
-    "transfer_date": "2005-11-17"
-  },
-  {
-    "event_id": "OE-MOK-000508-03",
-    "property_id": "PROP-MOK-000508",
-    "from_owner_id": "HOWN-MOK-000508-02",
     "to_owner_id": "OWN-MOK-000508",
-    "transfer_type": "settlement",
-    "transfer_date": "2008-12-15"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-10-20"
   },
   {
     "event_id": "OE-MOK-000509-01",
@@ -24483,17 +23483,9 @@
     "event_id": "OE-SHA-000014-01",
     "property_id": "PROP-SHA-000014",
     "from_owner_id": "HOWN-SHA-000014-00",
-    "to_owner_id": "HOWN-SHA-000014-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2007-12-10"
-  },
-  {
-    "event_id": "OE-SHA-000014-02",
-    "property_id": "PROP-SHA-000014",
-    "from_owner_id": "HOWN-SHA-000014-01",
     "to_owner_id": "OWN-SHA-000014",
-    "transfer_type": "sale",
-    "transfer_date": "2011-01-07"
+    "transfer_type": "establishment",
+    "transfer_date": "2015-12-10"
   },
   {
     "event_id": "OE-SHA-000015-01",
@@ -24972,7 +23964,7 @@
     "property_id": "PROP-SHA-000044",
     "from_owner_id": "HOWN-SHA-000044-00",
     "to_owner_id": "OWN-SHA-000044",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2017-06-03"
   },
   {
@@ -25027,17 +24019,9 @@
     "event_id": "OE-SHA-000047-01",
     "property_id": "PROP-SHA-000047",
     "from_owner_id": "HOWN-SHA-000047-00",
-    "to_owner_id": "HOWN-SHA-000047-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2014-09-12"
-  },
-  {
-    "event_id": "OE-SHA-000047-02",
-    "property_id": "PROP-SHA-000047",
-    "from_owner_id": "HOWN-SHA-000047-01",
     "to_owner_id": "OWN-SHA-000047",
-    "transfer_type": "sale",
-    "transfer_date": "2017-10-10"
+    "transfer_type": "establishment",
+    "transfer_date": "2012-09-12"
   },
   {
     "event_id": "OE-SHA-000048-01",
@@ -25075,25 +24059,9 @@
     "event_id": "OE-SHA-000050-01",
     "property_id": "PROP-SHA-000050",
     "from_owner_id": "HOWN-SHA-000050-00",
-    "to_owner_id": "HOWN-SHA-000050-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2019-12-22"
-  },
-  {
-    "event_id": "OE-SHA-000050-02",
-    "property_id": "PROP-SHA-000050",
-    "from_owner_id": "HOWN-SHA-000050-01",
-    "to_owner_id": "HOWN-SHA-000050-02",
-    "transfer_type": "sale",
-    "transfer_date": "2023-01-19"
-  },
-  {
-    "event_id": "OE-SHA-000050-03",
-    "property_id": "PROP-SHA-000050",
-    "from_owner_id": "HOWN-SHA-000050-02",
     "to_owner_id": "OWN-SHA-000050",
-    "transfer_type": "sale",
-    "transfer_date": "2026-02-16"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-12-22"
   },
   {
     "event_id": "OE-SHA-000051-01",
@@ -25115,17 +24083,9 @@
     "event_id": "OE-SHA-000052-01",
     "property_id": "PROP-SHA-000052",
     "from_owner_id": "HOWN-SHA-000052-00",
-    "to_owner_id": "HOWN-SHA-000052-01",
-    "transfer_type": "sale",
-    "transfer_date": "2008-10-20"
-  },
-  {
-    "event_id": "OE-SHA-000052-02",
-    "property_id": "PROP-SHA-000052",
-    "from_owner_id": "HOWN-SHA-000052-01",
     "to_owner_id": "OWN-SHA-000052",
-    "transfer_type": "sale",
-    "transfer_date": "2011-11-18"
+    "transfer_type": "establishment",
+    "transfer_date": "2008-10-20"
   },
   {
     "event_id": "OE-SHA-000053-01",
@@ -25204,7 +24164,7 @@
     "property_id": "PROP-SHA-000058",
     "from_owner_id": "HOWN-SHA-000058-00",
     "to_owner_id": "OWN-SHA-000058",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2011-04-13"
   },
   {
@@ -25315,57 +24275,17 @@
     "event_id": "OE-SHA-000066-01",
     "property_id": "PROP-SHA-000066",
     "from_owner_id": "HOWN-SHA-000066-00",
-    "to_owner_id": "HOWN-SHA-000066-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2003-08-05"
-  },
-  {
-    "event_id": "OE-SHA-000066-02",
-    "property_id": "PROP-SHA-000066",
-    "from_owner_id": "HOWN-SHA-000066-01",
     "to_owner_id": "OWN-SHA-000066",
-    "transfer_type": "gift",
-    "transfer_date": "2006-09-02"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2015-08-05"
   },
   {
     "event_id": "OE-SHA-000067-01",
     "property_id": "PROP-SHA-000067",
     "from_owner_id": "HOWN-SHA-000067-00",
-    "to_owner_id": "HOWN-SHA-000067-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2016-01-16"
-  },
-  {
-    "event_id": "OE-SHA-000067-02",
-    "property_id": "PROP-SHA-000067",
-    "from_owner_id": "HOWN-SHA-000067-01",
-    "to_owner_id": "HOWN-SHA-000067-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2019-02-13"
-  },
-  {
-    "event_id": "OE-SHA-000067-03",
-    "property_id": "PROP-SHA-000067",
-    "from_owner_id": "HOWN-SHA-000067-02",
-    "to_owner_id": "HOWN-SHA-000067-03",
-    "transfer_type": "settlement",
-    "transfer_date": "2022-03-13"
-  },
-  {
-    "event_id": "OE-SHA-000067-04",
-    "property_id": "PROP-SHA-000067",
-    "from_owner_id": "HOWN-SHA-000067-03",
-    "to_owner_id": "HOWN-SHA-000067-04",
-    "transfer_type": "settlement",
-    "transfer_date": "2025-04-10"
-  },
-  {
-    "event_id": "OE-SHA-000067-05",
-    "property_id": "PROP-SHA-000067",
-    "from_owner_id": "HOWN-SHA-000067-04",
     "to_owner_id": "OWN-SHA-000067",
-    "transfer_type": "inheritance",
-    "transfer_date": "2028-05-08"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-01-16"
   },
   {
     "event_id": "OE-SHA-000068-01",
@@ -26219,17 +25139,9 @@
     "event_id": "OE-SHA-000124-01",
     "property_id": "PROP-SHA-000124",
     "from_owner_id": "HOWN-SHA-000124-00",
-    "to_owner_id": "HOWN-SHA-000124-01",
-    "transfer_type": "sale",
-    "transfer_date": "2018-10-20"
-  },
-  {
-    "event_id": "OE-SHA-000124-02",
-    "property_id": "PROP-SHA-000124",
-    "from_owner_id": "HOWN-SHA-000124-01",
     "to_owner_id": "OWN-SHA-000124",
-    "transfer_type": "sale",
-    "transfer_date": "2021-11-17"
+    "transfer_type": "government_allocation",
+    "transfer_date": "2018-10-20"
   },
   {
     "event_id": "OE-SHA-000125-01",
@@ -26315,25 +25227,9 @@
     "event_id": "OE-SHA-000129-01",
     "property_id": "PROP-SHA-000129",
     "from_owner_id": "HOWN-SHA-000129-00",
-    "to_owner_id": "HOWN-SHA-000129-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2012-11-02"
-  },
-  {
-    "event_id": "OE-SHA-000129-02",
-    "property_id": "PROP-SHA-000129",
-    "from_owner_id": "HOWN-SHA-000129-01",
-    "to_owner_id": "HOWN-SHA-000129-02",
-    "transfer_type": "inheritance",
-    "transfer_date": "2015-12-01"
-  },
-  {
-    "event_id": "OE-SHA-000129-03",
-    "property_id": "PROP-SHA-000129",
-    "from_owner_id": "HOWN-SHA-000129-02",
     "to_owner_id": "OWN-SHA-000129",
-    "transfer_type": "gift",
-    "transfer_date": "2018-12-29"
+    "transfer_type": "establishment",
+    "transfer_date": "2014-11-02"
   },
   {
     "event_id": "OE-SHA-000130-01",
@@ -26475,17 +25371,9 @@
     "event_id": "OE-SHA-000141-01",
     "property_id": "PROP-SHA-000141",
     "from_owner_id": "HOWN-SHA-000141-00",
-    "to_owner_id": "HOWN-SHA-000141-01",
-    "transfer_type": "gift",
-    "transfer_date": "2016-11-14"
-  },
-  {
-    "event_id": "OE-SHA-000141-02",
-    "property_id": "PROP-SHA-000141",
-    "from_owner_id": "HOWN-SHA-000141-01",
     "to_owner_id": "OWN-SHA-000141",
-    "transfer_type": "sale",
-    "transfer_date": "2019-12-13"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-11-14"
   },
   {
     "event_id": "OE-SHA-000142-01",
@@ -26556,7 +25444,7 @@
     "property_id": "PROP-SHA-000145",
     "from_owner_id": "HOWN-SHA-000145-00",
     "to_owner_id": "OWN-SHA-000145",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2009-07-11"
   },
   {
@@ -26596,7 +25484,7 @@
     "property_id": "PROP-SHA-000147",
     "from_owner_id": "HOWN-SHA-000147-00",
     "to_owner_id": "OWN-SHA-000147",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2010-05-09"
   },
   {
@@ -26604,7 +25492,7 @@
     "property_id": "PROP-SHA-000148",
     "from_owner_id": "HOWN-SHA-000148-00",
     "to_owner_id": "OWN-SHA-000148",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2017-10-20"
   },
   {
@@ -26667,25 +25555,9 @@
     "event_id": "OE-SHA-000151-01",
     "property_id": "PROP-SHA-000151",
     "from_owner_id": "HOWN-SHA-000151-00",
-    "to_owner_id": "HOWN-SHA-000151-01",
-    "transfer_type": "sale",
-    "transfer_date": "2007-01-04"
-  },
-  {
-    "event_id": "OE-SHA-000151-02",
-    "property_id": "PROP-SHA-000151",
-    "from_owner_id": "HOWN-SHA-000151-01",
-    "to_owner_id": "HOWN-SHA-000151-02",
-    "transfer_type": "gift",
-    "transfer_date": "2010-02-01"
-  },
-  {
-    "event_id": "OE-SHA-000151-03",
-    "property_id": "PROP-SHA-000151",
-    "from_owner_id": "HOWN-SHA-000151-02",
     "to_owner_id": "OWN-SHA-000151",
-    "transfer_type": "gift",
-    "transfer_date": "2013-03-01"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-01-04"
   },
   {
     "event_id": "OE-SHA-000152-01",
@@ -26707,24 +25579,16 @@
     "event_id": "OE-SHA-000153-01",
     "property_id": "PROP-SHA-000153",
     "from_owner_id": "HOWN-SHA-000153-00",
-    "to_owner_id": "HOWN-SHA-000153-01",
-    "transfer_type": "sale",
-    "transfer_date": "2013-11-02"
-  },
-  {
-    "event_id": "OE-SHA-000153-02",
-    "property_id": "PROP-SHA-000153",
-    "from_owner_id": "HOWN-SHA-000153-01",
     "to_owner_id": "OWN-SHA-000153",
-    "transfer_type": "sale",
-    "transfer_date": "2016-11-30"
+    "transfer_type": "establishment",
+    "transfer_date": "2013-11-02"
   },
   {
     "event_id": "OE-SHA-000154-01",
     "property_id": "PROP-SHA-000154",
     "from_owner_id": "HOWN-SHA-000154-00",
     "to_owner_id": "OWN-SHA-000154",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2020-04-13"
   },
   {
@@ -27252,7 +26116,7 @@
     "property_id": "PROP-SHA-000184",
     "from_owner_id": "HOWN-SHA-000184-00",
     "to_owner_id": "OWN-SHA-000184",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2009-10-08"
   },
   {
@@ -27572,16 +26436,16 @@
     "property_id": "PROP-SHA-000200",
     "from_owner_id": "HOWN-SHA-000200-00",
     "to_owner_id": "HOWN-SHA-000200-01",
-    "transfer_type": "gift",
-    "transfer_date": "2013-06-15"
+    "transfer_type": "inheritance",
+    "transfer_date": "2017-06-15"
   },
   {
     "event_id": "OE-SHA-000200-02",
     "property_id": "PROP-SHA-000200",
     "from_owner_id": "HOWN-SHA-000200-01",
     "to_owner_id": "OWN-SHA-000200",
-    "transfer_type": "inheritance",
-    "transfer_date": "2016-07-13"
+    "transfer_type": "sale",
+    "transfer_date": "2020-07-13"
   },
   {
     "event_id": "OE-SHA-000201-01",
@@ -27683,17 +26547,9 @@
     "event_id": "OE-SHA-000206-01",
     "property_id": "PROP-SHA-000206",
     "from_owner_id": "HOWN-SHA-000206-00",
-    "to_owner_id": "HOWN-SHA-000206-01",
-    "transfer_type": "sale",
-    "transfer_date": "2020-12-10"
-  },
-  {
-    "event_id": "OE-SHA-000206-02",
-    "property_id": "PROP-SHA-000206",
-    "from_owner_id": "HOWN-SHA-000206-01",
     "to_owner_id": "OWN-SHA-000206",
-    "transfer_type": "sale",
-    "transfer_date": "2024-01-08"
+    "transfer_type": "establishment",
+    "transfer_date": "2020-12-10"
   },
   {
     "event_id": "OE-SHA-000207-01",
@@ -27740,7 +26596,7 @@
     "property_id": "PROP-SHA-000209",
     "from_owner_id": "HOWN-SHA-000209-00",
     "to_owner_id": "OWN-SHA-000209",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2015-03-21"
   },
   {
@@ -27819,49 +26675,17 @@
     "event_id": "OE-SHA-000214-01",
     "property_id": "PROP-SHA-000214",
     "from_owner_id": "HOWN-SHA-000214-00",
-    "to_owner_id": "HOWN-SHA-000214-01",
-    "transfer_type": "settlement",
-    "transfer_date": "2019-04-01"
-  },
-  {
-    "event_id": "OE-SHA-000214-02",
-    "property_id": "PROP-SHA-000214",
-    "from_owner_id": "HOWN-SHA-000214-01",
-    "to_owner_id": "HOWN-SHA-000214-02",
-    "transfer_type": "sale",
-    "transfer_date": "2022-04-29"
-  },
-  {
-    "event_id": "OE-SHA-000214-03",
-    "property_id": "PROP-SHA-000214",
-    "from_owner_id": "HOWN-SHA-000214-02",
-    "to_owner_id": "HOWN-SHA-000214-03",
-    "transfer_type": "sale",
-    "transfer_date": "2025-05-27"
-  },
-  {
-    "event_id": "OE-SHA-000214-04",
-    "property_id": "PROP-SHA-000214",
-    "from_owner_id": "HOWN-SHA-000214-03",
     "to_owner_id": "OWN-SHA-000214",
-    "transfer_type": "inheritance",
-    "transfer_date": "2028-06-24"
+    "transfer_type": "establishment",
+    "transfer_date": "2011-04-01"
   },
   {
     "event_id": "OE-SHA-000215-01",
     "property_id": "PROP-SHA-000215",
     "from_owner_id": "HOWN-SHA-000215-00",
-    "to_owner_id": "HOWN-SHA-000215-01",
-    "transfer_type": "sale",
-    "transfer_date": "2006-09-12"
-  },
-  {
-    "event_id": "OE-SHA-000215-02",
-    "property_id": "PROP-SHA-000215",
-    "from_owner_id": "HOWN-SHA-000215-01",
     "to_owner_id": "OWN-SHA-000215",
-    "transfer_type": "sale",
-    "transfer_date": "2009-10-10"
+    "transfer_type": "establishment",
+    "transfer_date": "2018-09-12"
   },
   {
     "event_id": "OE-SHA-000216-01",
@@ -27876,7 +26700,7 @@
     "property_id": "PROP-SHA-000217",
     "from_owner_id": "HOWN-SHA-000217-00",
     "to_owner_id": "OWN-SHA-000217",
-    "transfer_type": "inheritance",
+    "transfer_type": "government_allocation",
     "transfer_date": "2019-07-11"
   },
   {
@@ -27956,47 +26780,23 @@
     "property_id": "PROP-SHA-000224",
     "from_owner_id": "HOWN-SHA-000224-00",
     "to_owner_id": "OWN-SHA-000224",
-    "transfer_type": "inheritance",
+    "transfer_type": "establishment",
     "transfer_date": "2016-06-15"
   },
   {
     "event_id": "OE-SHA-000225-01",
     "property_id": "PROP-SHA-000225",
     "from_owner_id": "HOWN-SHA-000225-00",
-    "to_owner_id": "HOWN-SHA-000225-01",
-    "transfer_type": "gift",
-    "transfer_date": "2016-11-02"
-  },
-  {
-    "event_id": "OE-SHA-000225-02",
-    "property_id": "PROP-SHA-000225",
-    "from_owner_id": "HOWN-SHA-000225-01",
-    "to_owner_id": "HOWN-SHA-000225-02",
-    "transfer_type": "settlement",
-    "transfer_date": "2019-12-01"
-  },
-  {
-    "event_id": "OE-SHA-000225-03",
-    "property_id": "PROP-SHA-000225",
-    "from_owner_id": "HOWN-SHA-000225-02",
-    "to_owner_id": "HOWN-SHA-000225-03",
-    "transfer_type": "settlement",
-    "transfer_date": "2022-12-29"
-  },
-  {
-    "event_id": "OE-SHA-000225-04",
-    "property_id": "PROP-SHA-000225",
-    "from_owner_id": "HOWN-SHA-000225-03",
     "to_owner_id": "OWN-SHA-000225",
-    "transfer_type": "gift",
-    "transfer_date": "2026-01-26"
+    "transfer_type": "establishment",
+    "transfer_date": "2010-11-02"
   },
   {
     "event_id": "OE-SHA-000226-01",
     "property_id": "PROP-SHA-000226",
     "from_owner_id": "HOWN-SHA-000226-00",
     "to_owner_id": "OWN-SHA-000226",
-    "transfer_type": "sale",
+    "transfer_type": "establishment",
     "transfer_date": "2017-04-13"
   },
   {
@@ -28019,25 +26819,9 @@
     "event_id": "OE-SHA-000228-01",
     "property_id": "PROP-SHA-000228",
     "from_owner_id": "HOWN-SHA-000228-00",
-    "to_owner_id": "HOWN-SHA-000228-01",
-    "transfer_type": "inheritance",
-    "transfer_date": "2017-02-11"
-  },
-  {
-    "event_id": "OE-SHA-000228-02",
-    "property_id": "PROP-SHA-000228",
-    "from_owner_id": "HOWN-SHA-000228-01",
-    "to_owner_id": "HOWN-SHA-000228-02",
-    "transfer_type": "gift",
-    "transfer_date": "2020-03-11"
-  },
-  {
-    "event_id": "OE-SHA-000228-03",
-    "property_id": "PROP-SHA-000228",
-    "from_owner_id": "HOWN-SHA-000228-02",
     "to_owner_id": "OWN-SHA-000228",
-    "transfer_type": "sale",
-    "transfer_date": "2023-04-09"
+    "transfer_type": "establishment",
+    "transfer_date": "2018-02-11"
   },
   {
     "event_id": "OE-SHA-000229-01",
