@@ -1,0 +1,182 @@
+{
+  "common_fields": [
+    "document_id",
+    "property_id",
+    "document_type",
+    "status",
+    "issue_date",
+    "last_updated",
+    "issuing_authority",
+    "document_number",
+    "remarks"
+  ],
+  "status_values": [
+    "available",
+    "missing",
+    "expired"
+  ],
+  "document_types": [
+    {
+      "document_type": "sale_deed",
+      "file": "data/generated/documents/sale_deeds.json",
+      "additional_fields": [
+        "seller_name",
+        "buyer_name",
+        "registration_number",
+        "registration_date",
+        "market_value"
+      ]
+    },
+    {
+      "document_type": "mother_deed",
+      "file": "data/generated/documents/mother_deeds.json",
+      "additional_fields": [
+        "parent_document_number",
+        "ownership_chain_length",
+        "origin_year"
+      ]
+    },
+    {
+      "document_type": "encumbrance_certificate",
+      "file": "data/generated/documents/encumbrance_certificates.json",
+      "additional_fields": [
+        "ec_period_from",
+        "ec_period_to",
+        "encumbrance_count",
+        "active_encumbrance"
+      ]
+    },
+    {
+      "document_type": "property_tax_receipt",
+      "file": "data/generated/documents/property_tax_receipts.json",
+      "additional_fields": [
+        "financial_year",
+        "tax_amount",
+        "paid_amount",
+        "pending_amount"
+      ]
+    },
+    {
+      "document_type": "mutation_record",
+      "file": "data/generated/documents/mutation_records.json",
+      "additional_fields": [
+        "mutation_number",
+        "mutation_date",
+        "reason"
+      ]
+    },
+    {
+      "document_type": "survey_map",
+      "file": "data/generated/documents/survey_maps.json",
+      "additional_fields": [
+        "survey_number",
+        "plot_area_sqyd",
+        "survey_date"
+      ]
+    },
+    {
+      "document_type": "rtc_record",
+      "file": "data/generated/documents/rtc_records.json",
+      "additional_fields": [
+        "survey_number",
+        "land_type",
+        "cultivation_status"
+      ]
+    },
+    {
+      "document_type": "khata_certificate",
+      "file": "data/generated/documents/khata_certificates.json",
+      "additional_fields": [
+        "khata_number",
+        "owner_name"
+      ]
+    },
+    {
+      "document_type": "khata_extract",
+      "file": "data/generated/documents/khata_extracts.json",
+      "additional_fields": [
+        "khata_number",
+        "assessment_value"
+      ]
+    },
+    {
+      "document_type": "building_approval_plan",
+      "file": "data/generated/documents/building_approval_plans.json",
+      "additional_fields": [
+        "approval_number",
+        "approved_floors",
+        "approval_date"
+      ]
+    },
+    {
+      "document_type": "layout_approval",
+      "file": "data/generated/documents/layout_approvals.json",
+      "additional_fields": [
+        "layout_number",
+        "approved_by",
+        "approval_date"
+      ]
+    },
+    {
+      "document_type": "land_conversion_certificate",
+      "file": "data/generated/documents/land_conversion_certificates.json",
+      "additional_fields": [
+        "conversion_type",
+        "conversion_date"
+      ]
+    },
+    {
+      "document_type": "occupancy_certificate",
+      "file": "data/generated/documents/occupancy_certificates.json",
+      "additional_fields": [
+        "building_type",
+        "occupancy_date"
+      ]
+    },
+    {
+      "document_type": "completion_certificate",
+      "file": "data/generated/documents/completion_certificates.json",
+      "additional_fields": [
+        "completion_date",
+        "approved_structure"
+      ]
+    },
+    {
+      "document_type": "noc",
+      "file": "data/generated/documents/nocs.json",
+      "additional_fields": [
+        "issuing_department",
+        "valid_until"
+      ]
+    },
+    {
+      "document_type": "identity_proof",
+      "file": "data/generated/documents/identity_proofs.json",
+      "additional_fields": [
+        "owner_id",
+        "proof_type",
+        "proof_last4"
+      ]
+    },
+    {
+      "document_type": "power_of_attorney",
+      "file": "data/generated/documents/power_of_attorneys.json",
+      "additional_fields": [
+        "principal_name",
+        "agent_name",
+        "valid_until"
+      ]
+    },
+    {
+      "document_type": "court_dispute_record",
+      "file": "data/generated/documents/court_dispute_records.json",
+      "additional_fields": [
+        "case_number",
+        "court_name",
+        "case_type",
+        "case_status"
+      ]
+    }
+  ],
+  "field_note": "court_dispute_record uses case_status for the case state so the common document status field remains available/missing/expired."
+}

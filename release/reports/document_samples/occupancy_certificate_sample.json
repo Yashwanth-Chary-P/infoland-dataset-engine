@@ -1,0 +1,41 @@
+[
+  {
+    "document_id": "DOC-OCCUPANCY-CERTIFICATE-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "occupancy_certificate",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "OCC-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "building_type": "residential_plot",
+    "occupancy_date": "2010-12-22"
+  },
+  {
+    "document_id": "DOC-OCCUPANCY-CERTIFICATE-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "occupancy_certificate",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "OCC-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "building_type": "residential_plot",
+    "occupancy_date": "2017-05-09"
+  },
+  {
+    "document_id": "DOC-OCCUPANCY-CERTIFICATE-KOK-000004",
+    "property_id": "PROP-KOK-000004",
+    "document_type": "occupancy_certificate",
+    "status": "available",
+    "issue_date": "2017-11-07",
+    "last_updated": "2022-11-06",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "OCC-KOK-000004",
+    "remarks": "Available in generated source packet",
+    "building_type": "villa",
+    "occupancy_date": "2018-10-20"
+  }
+]

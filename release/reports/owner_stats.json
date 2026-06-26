@@ -1,0 +1,33 @@
+{
+  "owner_type_distribution": {
+    "government": 10,
+    "individual": 1354,
+    "organization": 269
+  },
+  "source_region_distribution": {
+    "kokapet": 806,
+    "mokila": 592,
+    "shankarpally": 235
+  },
+  "organization_vs_individual": {
+    "individual": 1354,
+    "organization": 269,
+    "government": 10
+  },
+  "ownership_transfer_distribution": {
+    "1": 543,
+    "2": 620,
+    "3": 327,
+    "4": 114,
+    "5": 29
+  },
+  "ownership_chain_length_distribution": {
+    "1": 543,
+    "2": 620,
+    "3": 327,
+    "4": 114,
+    "5": 29
+  },
+  "owners_per_property_min": 1,
+  "owners_per_property_max": 1
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "DOC-MUTATION-RECORD-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "mutation_record",
+    "status": "expired",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Revenue Department",
+    "document_number": "MUT-KOK-000001",
+    "remarks": "Document requires renewal or updated extract",
+    "mutation_number": "MUT-000001",
+    "mutation_date": "2012-08-25",
+    "reason": "sale"
+  },
+  {
+    "document_id": "DOC-MUTATION-RECORD-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "mutation_record",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Revenue Department",
+    "document_number": "MUT-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "mutation_number": "MUT-000002",
+    "mutation_date": "2010-02-05",
+    "reason": "sale"
+  },
+  {
+    "document_id": "DOC-MUTATION-RECORD-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "mutation_record",
+    "status": "expired",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Revenue Department",
+    "document_number": "MUT-KOK-000003",
+    "remarks": "Document requires renewal or updated extract",
+    "mutation_number": "MUT-000003",
+    "mutation_date": "2016-06-23",
+    "reason": "inheritance"
+  }
+]

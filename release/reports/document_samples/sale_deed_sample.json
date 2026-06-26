@@ -1,0 +1,50 @@
+[
+  {
+    "document_id": "DOC-SALE-DEED-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "sale_deed",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Sub-Registrar Office",
+    "document_number": "SAL-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "seller_name": "Ananya Iyer",
+    "buyer_name": "Vikram Menon",
+    "registration_number": "REG-0000001",
+    "registration_date": "2012-07-11",
+    "market_value": 8943480
+  },
+  {
+    "document_id": "DOC-SALE-DEED-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "sale_deed",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Sub-Registrar Office",
+    "document_number": "SAL-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "seller_name": "Sanjana Goud",
+    "buyer_name": "Priya Singh",
+    "registration_number": "REG-0000002",
+    "registration_date": "2009-12-22",
+    "market_value": 8948160
+  },
+  {
+    "document_id": "DOC-SALE-DEED-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "sale_deed",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Sub-Registrar Office",
+    "document_number": "SAL-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "seller_name": "Priya Goud",
+    "buyer_name": "Vikram Patel",
+    "registration_number": "REG-0000003",
+    "registration_date": "2016-05-09",
+    "market_value": 8943480
+  }
+]

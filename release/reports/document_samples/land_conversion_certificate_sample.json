@@ -1,0 +1,41 @@
+[
+  {
+    "document_id": "DOC-LAND-CONVERSION-CERTIFICATE-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "land_conversion_certificate",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Telangana Revenue Department",
+    "document_number": "LAN-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "conversion_type": "agricultural_to_residential",
+    "conversion_date": "2012-03-13"
+  },
+  {
+    "document_id": "DOC-LAND-CONVERSION-CERTIFICATE-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "land_conversion_certificate",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Telangana Revenue Department",
+    "document_number": "LAN-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "conversion_type": "agricultural_to_residential",
+    "conversion_date": "2009-08-24"
+  },
+  {
+    "document_id": "DOC-LAND-CONVERSION-CERTIFICATE-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "land_conversion_certificate",
+    "status": "expired",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Telangana Revenue Department",
+    "document_number": "LAN-KOK-000003",
+    "remarks": "Document requires renewal or updated extract",
+    "conversion_type": "agricultural_to_residential",
+    "conversion_date": "2016-01-10"
+  }
+]

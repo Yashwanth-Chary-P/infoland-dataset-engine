@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "DOC-RTC-RECORD-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "rtc_record",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Mandal Revenue Office",
+    "document_number": "RTC-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0001",
+    "land_type": "dry",
+    "cultivation_status": "not_cultivated"
+  },
+  {
+    "document_id": "DOC-RTC-RECORD-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "rtc_record",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Mandal Revenue Office",
+    "document_number": "RTC-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0002",
+    "land_type": "dry",
+    "cultivation_status": "not_cultivated"
+  },
+  {
+    "document_id": "DOC-RTC-RECORD-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "rtc_record",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Mandal Revenue Office",
+    "document_number": "RTC-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0003",
+    "land_type": "dry",
+    "cultivation_status": "not_cultivated"
+  }
+]

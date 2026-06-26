@@ -1,0 +1,8 @@
+{
+  "total_tax_records": 1633,
+  "status_distribution": {
+    "paid": 1404,
+    "pending": 229
+  },
+  "pending_amount_total": 2786659
+}

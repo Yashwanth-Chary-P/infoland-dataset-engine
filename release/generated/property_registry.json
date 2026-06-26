@@ -1,0 +1,6534 @@
+[
+  {
+    "property_id": "PROP-KOK-000001",
+    "owner_id": "OWN-KOK-000001"
+  },
+  {
+    "property_id": "PROP-KOK-000002",
+    "owner_id": "OWN-KOK-000002"
+  },
+  {
+    "property_id": "PROP-KOK-000003",
+    "owner_id": "OWN-KOK-000003"
+  },
+  {
+    "property_id": "PROP-KOK-000004",
+    "owner_id": "OWN-KOK-000004"
+  },
+  {
+    "property_id": "PROP-KOK-000005",
+    "owner_id": "OWN-KOK-000005"
+  },
+  {
+    "property_id": "PROP-KOK-000006",
+    "owner_id": "OWN-KOK-000006"
+  },
+  {
+    "property_id": "PROP-KOK-000007",
+    "owner_id": "OWN-KOK-000007"
+  },
+  {
+    "property_id": "PROP-KOK-000008",
+    "owner_id": "OWN-KOK-000008"
+  },
+  {
+    "property_id": "PROP-KOK-000009",
+    "owner_id": "OWN-KOK-000009"
+  },
+  {
+    "property_id": "PROP-KOK-000010",
+    "owner_id": "OWN-KOK-000010"
+  },
+  {
+    "property_id": "PROP-KOK-000011",
+    "owner_id": "OWN-KOK-000011"
+  },
+  {
+    "property_id": "PROP-KOK-000012",
+    "owner_id": "OWN-KOK-000012"
+  },
+  {
+    "property_id": "PROP-KOK-000013",
+    "owner_id": "OWN-KOK-000013"
+  },
+  {
+    "property_id": "PROP-KOK-000014",
+    "owner_id": "OWN-KOK-000014"
+  },
+  {
+    "property_id": "PROP-KOK-000015",
+    "owner_id": "OWN-KOK-000015"
+  },
+  {
+    "property_id": "PROP-KOK-000016",
+    "owner_id": "OWN-KOK-000016"
+  },
+  {
+    "property_id": "PROP-KOK-000017",
+    "owner_id": "OWN-KOK-000017"
+  },
+  {
+    "property_id": "PROP-KOK-000018",
+    "owner_id": "OWN-KOK-000018"
+  },
+  {
+    "property_id": "PROP-KOK-000019",
+    "owner_id": "OWN-KOK-000019"
+  },
+  {
+    "property_id": "PROP-KOK-000020",
+    "owner_id": "OWN-KOK-000020"
+  },
+  {
+    "property_id": "PROP-KOK-000021",
+    "owner_id": "OWN-KOK-000021"
+  },
+  {
+    "property_id": "PROP-KOK-000022",
+    "owner_id": "OWN-KOK-000022"
+  },
+  {
+    "property_id": "PROP-KOK-000023",
+    "owner_id": "OWN-KOK-000023"
+  },
+  {
+    "property_id": "PROP-KOK-000024",
+    "owner_id": "OWN-KOK-000024"
+  },
+  {
+    "property_id": "PROP-KOK-000025",
+    "owner_id": "OWN-KOK-000025"
+  },
+  {
+    "property_id": "PROP-KOK-000026",
+    "owner_id": "OWN-KOK-000026"
+  },
+  {
+    "property_id": "PROP-KOK-000027",
+    "owner_id": "OWN-KOK-000027"
+  },
+  {
+    "property_id": "PROP-KOK-000028",
+    "owner_id": "OWN-KOK-000028"
+  },
+  {
+    "property_id": "PROP-KOK-000029",
+    "owner_id": "OWN-KOK-000029"
+  },
+  {
+    "property_id": "PROP-KOK-000030",
+    "owner_id": "OWN-KOK-000030"
+  },
+  {
+    "property_id": "PROP-KOK-000031",
+    "owner_id": "OWN-KOK-000031"
+  },
+  {
+    "property_id": "PROP-KOK-000032",
+    "owner_id": "OWN-KOK-000032"
+  },
+  {
+    "property_id": "PROP-KOK-000033",
+    "owner_id": "OWN-KOK-000033"
+  },
+  {
+    "property_id": "PROP-KOK-000034",
+    "owner_id": "OWN-KOK-000034"
+  },
+  {
+    "property_id": "PROP-KOK-000035",
+    "owner_id": "OWN-KOK-000035"
+  },
+  {
+    "property_id": "PROP-KOK-000036",
+    "owner_id": "OWN-KOK-000036"
+  },
+  {
+    "property_id": "PROP-KOK-000037",
+    "owner_id": "OWN-KOK-000037"
+  },
+  {
+    "property_id": "PROP-KOK-000038",
+    "owner_id": "OWN-KOK-000038"
+  },
+  {
+    "property_id": "PROP-KOK-000039",
+    "owner_id": "OWN-KOK-000039"
+  },
+  {
+    "property_id": "PROP-KOK-000040",
+    "owner_id": "OWN-KOK-000040"
+  },
+  {
+    "property_id": "PROP-KOK-000041",
+    "owner_id": "OWN-KOK-000041"
+  },
+  {
+    "property_id": "PROP-KOK-000042",
+    "owner_id": "OWN-KOK-000042"
+  },
+  {
+    "property_id": "PROP-KOK-000043",
+    "owner_id": "OWN-KOK-000043"
+  },
+  {
+    "property_id": "PROP-KOK-000044",
+    "owner_id": "OWN-KOK-000044"
+  },
+  {
+    "property_id": "PROP-KOK-000045",
+    "owner_id": "OWN-KOK-000045"
+  },
+  {
+    "property_id": "PROP-KOK-000046",
+    "owner_id": "OWN-KOK-000046"
+  },
+  {
+    "property_id": "PROP-KOK-000047",
+    "owner_id": "OWN-KOK-000047"
+  },
+  {
+    "property_id": "PROP-KOK-000048",
+    "owner_id": "OWN-KOK-000048"
+  },
+  {
+    "property_id": "PROP-KOK-000049",
+    "owner_id": "OWN-KOK-000049"
+  },
+  {
+    "property_id": "PROP-KOK-000050",
+    "owner_id": "OWN-KOK-000050"
+  },
+  {
+    "property_id": "PROP-KOK-000051",
+    "owner_id": "OWN-KOK-000051"
+  },
+  {
+    "property_id": "PROP-KOK-000052",
+    "owner_id": "OWN-KOK-000052"
+  },
+  {
+    "property_id": "PROP-KOK-000053",
+    "owner_id": "OWN-KOK-000053"
+  },
+  {
+    "property_id": "PROP-KOK-000054",
+    "owner_id": "OWN-KOK-000054"
+  },
+  {
+    "property_id": "PROP-KOK-000055",
+    "owner_id": "OWN-KOK-000055"
+  },
+  {
+    "property_id": "PROP-KOK-000056",
+    "owner_id": "OWN-KOK-000056"
+  },
+  {
+    "property_id": "PROP-KOK-000057",
+    "owner_id": "OWN-KOK-000057"
+  },
+  {
+    "property_id": "PROP-KOK-000058",
+    "owner_id": "OWN-KOK-000058"
+  },
+  {
+    "property_id": "PROP-KOK-000059",
+    "owner_id": "OWN-KOK-000059"
+  },
+  {
+    "property_id": "PROP-KOK-000060",
+    "owner_id": "OWN-KOK-000060"
+  },
+  {
+    "property_id": "PROP-KOK-000061",
+    "owner_id": "OWN-KOK-000061"
+  },
+  {
+    "property_id": "PROP-KOK-000062",
+    "owner_id": "OWN-KOK-000062"
+  },
+  {
+    "property_id": "PROP-KOK-000063",
+    "owner_id": "OWN-KOK-000063"
+  },
+  {
+    "property_id": "PROP-KOK-000064",
+    "owner_id": "OWN-KOK-000064"
+  },
+  {
+    "property_id": "PROP-KOK-000065",
+    "owner_id": "OWN-KOK-000065"
+  },
+  {
+    "property_id": "PROP-KOK-000066",
+    "owner_id": "OWN-KOK-000066"
+  },
+  {
+    "property_id": "PROP-KOK-000067",
+    "owner_id": "OWN-KOK-000067"
+  },
+  {
+    "property_id": "PROP-KOK-000068",
+    "owner_id": "OWN-KOK-000068"
+  },
+  {
+    "property_id": "PROP-KOK-000069",
+    "owner_id": "OWN-KOK-000069"
+  },
+  {
+    "property_id": "PROP-KOK-000070",
+    "owner_id": "OWN-KOK-000070"
+  },
+  {
+    "property_id": "PROP-KOK-000071",
+    "owner_id": "OWN-KOK-000071"
+  },
+  {
+    "property_id": "PROP-KOK-000072",
+    "owner_id": "OWN-KOK-000072"
+  },
+  {
+    "property_id": "PROP-KOK-000073",
+    "owner_id": "OWN-KOK-000073"
+  },
+  {
+    "property_id": "PROP-KOK-000074",
+    "owner_id": "OWN-KOK-000074"
+  },
+  {
+    "property_id": "PROP-KOK-000075",
+    "owner_id": "OWN-KOK-000075"
+  },
+  {
+    "property_id": "PROP-KOK-000076",
+    "owner_id": "OWN-KOK-000076"
+  },
+  {
+    "property_id": "PROP-KOK-000077",
+    "owner_id": "OWN-KOK-000077"
+  },
+  {
+    "property_id": "PROP-KOK-000078",
+    "owner_id": "OWN-KOK-000078"
+  },
+  {
+    "property_id": "PROP-KOK-000079",
+    "owner_id": "OWN-KOK-000079"
+  },
+  {
+    "property_id": "PROP-KOK-000080",
+    "owner_id": "OWN-KOK-000080"
+  },
+  {
+    "property_id": "PROP-KOK-000081",
+    "owner_id": "OWN-KOK-000081"
+  },
+  {
+    "property_id": "PROP-KOK-000082",
+    "owner_id": "OWN-KOK-000082"
+  },
+  {
+    "property_id": "PROP-KOK-000083",
+    "owner_id": "OWN-KOK-000083"
+  },
+  {
+    "property_id": "PROP-KOK-000084",
+    "owner_id": "OWN-KOK-000084"
+  },
+  {
+    "property_id": "PROP-KOK-000085",
+    "owner_id": "OWN-KOK-000085"
+  },
+  {
+    "property_id": "PROP-KOK-000086",
+    "owner_id": "OWN-KOK-000086"
+  },
+  {
+    "property_id": "PROP-KOK-000087",
+    "owner_id": "OWN-KOK-000087"
+  },
+  {
+    "property_id": "PROP-KOK-000088",
+    "owner_id": "OWN-KOK-000088"
+  },
+  {
+    "property_id": "PROP-KOK-000089",
+    "owner_id": "OWN-KOK-000089"
+  },
+  {
+    "property_id": "PROP-KOK-000090",
+    "owner_id": "OWN-KOK-000090"
+  },
+  {
+    "property_id": "PROP-KOK-000091",
+    "owner_id": "OWN-KOK-000091"
+  },
+  {
+    "property_id": "PROP-KOK-000092",
+    "owner_id": "OWN-KOK-000092"
+  },
+  {
+    "property_id": "PROP-KOK-000093",
+    "owner_id": "OWN-KOK-000093"
+  },
+  {
+    "property_id": "PROP-KOK-000094",
+    "owner_id": "OWN-KOK-000094"
+  },
+  {
+    "property_id": "PROP-KOK-000095",
+    "owner_id": "OWN-KOK-000095"
+  },
+  {
+    "property_id": "PROP-KOK-000096",
+    "owner_id": "OWN-KOK-000096"
+  },
+  {
+    "property_id": "PROP-KOK-000097",
+    "owner_id": "OWN-KOK-000097"
+  },
+  {
+    "property_id": "PROP-KOK-000098",
+    "owner_id": "OWN-KOK-000098"
+  },
+  {
+    "property_id": "PROP-KOK-000099",
+    "owner_id": "OWN-KOK-000099"
+  },
+  {
+    "property_id": "PROP-KOK-000100",
+    "owner_id": "OWN-KOK-000100"
+  },
+  {
+    "property_id": "PROP-KOK-000101",
+    "owner_id": "OWN-KOK-000101"
+  },
+  {
+    "property_id": "PROP-KOK-000102",
+    "owner_id": "OWN-KOK-000102"
+  },
+  {
+    "property_id": "PROP-KOK-000103",
+    "owner_id": "OWN-KOK-000103"
+  },
+  {
+    "property_id": "PROP-KOK-000104",
+    "owner_id": "OWN-KOK-000104"
+  },
+  {
+    "property_id": "PROP-KOK-000105",
+    "owner_id": "OWN-KOK-000105"
+  },
+  {
+    "property_id": "PROP-KOK-000106",
+    "owner_id": "OWN-KOK-000106"
+  },
+  {
+    "property_id": "PROP-KOK-000107",
+    "owner_id": "OWN-KOK-000107"
+  },
+  {
+    "property_id": "PROP-KOK-000108",
+    "owner_id": "OWN-KOK-000108"
+  },
+  {
+    "property_id": "PROP-KOK-000109",
+    "owner_id": "OWN-KOK-000109"
+  },
+  {
+    "property_id": "PROP-KOK-000110",
+    "owner_id": "OWN-KOK-000110"
+  },
+  {
+    "property_id": "PROP-KOK-000111",
+    "owner_id": "OWN-KOK-000111"
+  },
+  {
+    "property_id": "PROP-KOK-000112",
+    "owner_id": "OWN-KOK-000112"
+  },
+  {
+    "property_id": "PROP-KOK-000113",
+    "owner_id": "OWN-KOK-000113"
+  },
+  {
+    "property_id": "PROP-KOK-000114",
+    "owner_id": "OWN-KOK-000114"
+  },
+  {
+    "property_id": "PROP-KOK-000115",
+    "owner_id": "OWN-KOK-000115"
+  },
+  {
+    "property_id": "PROP-KOK-000116",
+    "owner_id": "OWN-KOK-000116"
+  },
+  {
+    "property_id": "PROP-KOK-000117",
+    "owner_id": "OWN-KOK-000117"
+  },
+  {
+    "property_id": "PROP-KOK-000118",
+    "owner_id": "OWN-KOK-000118"
+  },
+  {
+    "property_id": "PROP-KOK-000119",
+    "owner_id": "OWN-KOK-000119"
+  },
+  {
+    "property_id": "PROP-KOK-000120",
+    "owner_id": "OWN-KOK-000120"
+  },
+  {
+    "property_id": "PROP-KOK-000121",
+    "owner_id": "OWN-KOK-000121"
+  },
+  {
+    "property_id": "PROP-KOK-000122",
+    "owner_id": "OWN-KOK-000122"
+  },
+  {
+    "property_id": "PROP-KOK-000123",
+    "owner_id": "OWN-KOK-000123"
+  },
+  {
+    "property_id": "PROP-KOK-000124",
+    "owner_id": "OWN-KOK-000124"
+  },
+  {
+    "property_id": "PROP-KOK-000125",
+    "owner_id": "OWN-KOK-000125"
+  },
+  {
+    "property_id": "PROP-KOK-000126",
+    "owner_id": "OWN-KOK-000126"
+  },
+  {
+    "property_id": "PROP-KOK-000127",
+    "owner_id": "OWN-KOK-000127"
+  },
+  {
+    "property_id": "PROP-KOK-000128",
+    "owner_id": "OWN-KOK-000128"
+  },
+  {
+    "property_id": "PROP-KOK-000129",
+    "owner_id": "OWN-KOK-000129"
+  },
+  {
+    "property_id": "PROP-KOK-000130",
+    "owner_id": "OWN-KOK-000130"
+  },
+  {
+    "property_id": "PROP-KOK-000131",
+    "owner_id": "OWN-KOK-000131"
+  },
+  {
+    "property_id": "PROP-KOK-000132",
+    "owner_id": "OWN-KOK-000132"
+  },
+  {
+    "property_id": "PROP-KOK-000133",
+    "owner_id": "OWN-KOK-000133"
+  },
+  {
+    "property_id": "PROP-KOK-000134",
+    "owner_id": "OWN-KOK-000134"
+  },
+  {
+    "property_id": "PROP-KOK-000135",
+    "owner_id": "OWN-KOK-000135"
+  },
+  {
+    "property_id": "PROP-KOK-000136",
+    "owner_id": "OWN-KOK-000136"
+  },
+  {
+    "property_id": "PROP-KOK-000137",
+    "owner_id": "OWN-KOK-000137"
+  },
+  {
+    "property_id": "PROP-KOK-000138",
+    "owner_id": "OWN-KOK-000138"
+  },
+  {
+    "property_id": "PROP-KOK-000139",
+    "owner_id": "OWN-KOK-000139"
+  },
+  {
+    "property_id": "PROP-KOK-000140",
+    "owner_id": "OWN-KOK-000140"
+  },
+  {
+    "property_id": "PROP-KOK-000141",
+    "owner_id": "OWN-KOK-000141"
+  },
+  {
+    "property_id": "PROP-KOK-000142",
+    "owner_id": "OWN-KOK-000142"
+  },
+  {
+    "property_id": "PROP-KOK-000143",
+    "owner_id": "OWN-KOK-000143"
+  },
+  {
+    "property_id": "PROP-KOK-000144",
+    "owner_id": "OWN-KOK-000144"
+  },
+  {
+    "property_id": "PROP-KOK-000145",
+    "owner_id": "OWN-KOK-000145"
+  },
+  {
+    "property_id": "PROP-KOK-000146",
+    "owner_id": "OWN-KOK-000146"
+  },
+  {
+    "property_id": "PROP-KOK-000147",
+    "owner_id": "OWN-KOK-000147"
+  },
+  {
+    "property_id": "PROP-KOK-000148",
+    "owner_id": "OWN-KOK-000148"
+  },
+  {
+    "property_id": "PROP-KOK-000149",
+    "owner_id": "OWN-KOK-000149"
+  },
+  {
+    "property_id": "PROP-KOK-000150",
+    "owner_id": "OWN-KOK-000150"
+  },
+  {
+    "property_id": "PROP-KOK-000151",
+    "owner_id": "OWN-KOK-000151"
+  },
+  {
+    "property_id": "PROP-KOK-000152",
+    "owner_id": "OWN-KOK-000152"
+  },
+  {
+    "property_id": "PROP-KOK-000153",
+    "owner_id": "OWN-KOK-000153"
+  },
+  {
+    "property_id": "PROP-KOK-000154",
+    "owner_id": "OWN-KOK-000154"
+  },
+  {
+    "property_id": "PROP-KOK-000155",
+    "owner_id": "OWN-KOK-000155"
+  },
+  {
+    "property_id": "PROP-KOK-000156",
+    "owner_id": "OWN-KOK-000156"
+  },
+  {
+    "property_id": "PROP-KOK-000157",
+    "owner_id": "OWN-KOK-000157"
+  },
+  {
+    "property_id": "PROP-KOK-000158",
+    "owner_id": "OWN-KOK-000158"
+  },
+  {
+    "property_id": "PROP-KOK-000159",
+    "owner_id": "OWN-KOK-000159"
+  },
+  {
+    "property_id": "PROP-KOK-000160",
+    "owner_id": "OWN-KOK-000160"
+  },
+  {
+    "property_id": "PROP-KOK-000161",
+    "owner_id": "OWN-KOK-000161"
+  },
+  {
+    "property_id": "PROP-KOK-000162",
+    "owner_id": "OWN-KOK-000162"
+  },
+  {
+    "property_id": "PROP-KOK-000163",
+    "owner_id": "OWN-KOK-000163"
+  },
+  {
+    "property_id": "PROP-KOK-000164",
+    "owner_id": "OWN-KOK-000164"
+  },
+  {
+    "property_id": "PROP-KOK-000165",
+    "owner_id": "OWN-KOK-000165"
+  },
+  {
+    "property_id": "PROP-KOK-000166",
+    "owner_id": "OWN-KOK-000166"
+  },
+  {
+    "property_id": "PROP-KOK-000167",
+    "owner_id": "OWN-KOK-000167"
+  },
+  {
+    "property_id": "PROP-KOK-000168",
+    "owner_id": "OWN-KOK-000168"
+  },
+  {
+    "property_id": "PROP-KOK-000169",
+    "owner_id": "OWN-KOK-000169"
+  },
+  {
+    "property_id": "PROP-KOK-000170",
+    "owner_id": "OWN-KOK-000170"
+  },
+  {
+    "property_id": "PROP-KOK-000171",
+    "owner_id": "OWN-KOK-000171"
+  },
+  {
+    "property_id": "PROP-KOK-000172",
+    "owner_id": "OWN-KOK-000172"
+  },
+  {
+    "property_id": "PROP-KOK-000173",
+    "owner_id": "OWN-KOK-000173"
+  },
+  {
+    "property_id": "PROP-KOK-000174",
+    "owner_id": "OWN-KOK-000174"
+  },
+  {
+    "property_id": "PROP-KOK-000175",
+    "owner_id": "OWN-KOK-000175"
+  },
+  {
+    "property_id": "PROP-KOK-000176",
+    "owner_id": "OWN-KOK-000176"
+  },
+  {
+    "property_id": "PROP-KOK-000177",
+    "owner_id": "OWN-KOK-000177"
+  },
+  {
+    "property_id": "PROP-KOK-000178",
+    "owner_id": "OWN-KOK-000178"
+  },
+  {
+    "property_id": "PROP-KOK-000179",
+    "owner_id": "OWN-KOK-000179"
+  },
+  {
+    "property_id": "PROP-KOK-000180",
+    "owner_id": "OWN-KOK-000180"
+  },
+  {
+    "property_id": "PROP-KOK-000181",
+    "owner_id": "OWN-KOK-000181"
+  },
+  {
+    "property_id": "PROP-KOK-000182",
+    "owner_id": "OWN-KOK-000182"
+  },
+  {
+    "property_id": "PROP-KOK-000183",
+    "owner_id": "OWN-KOK-000183"
+  },
+  {
+    "property_id": "PROP-KOK-000184",
+    "owner_id": "OWN-KOK-000184"
+  },
+  {
+    "property_id": "PROP-KOK-000185",
+    "owner_id": "OWN-KOK-000185"
+  },
+  {
+    "property_id": "PROP-KOK-000186",
+    "owner_id": "OWN-KOK-000186"
+  },
+  {
+    "property_id": "PROP-KOK-000187",
+    "owner_id": "OWN-KOK-000187"
+  },
+  {
+    "property_id": "PROP-KOK-000188",
+    "owner_id": "OWN-KOK-000188"
+  },
+  {
+    "property_id": "PROP-KOK-000189",
+    "owner_id": "OWN-KOK-000189"
+  },
+  {
+    "property_id": "PROP-KOK-000190",
+    "owner_id": "OWN-KOK-000190"
+  },
+  {
+    "property_id": "PROP-KOK-000191",
+    "owner_id": "OWN-KOK-000191"
+  },
+  {
+    "property_id": "PROP-KOK-000192",
+    "owner_id": "OWN-KOK-000192"
+  },
+  {
+    "property_id": "PROP-KOK-000193",
+    "owner_id": "OWN-KOK-000193"
+  },
+  {
+    "property_id": "PROP-KOK-000194",
+    "owner_id": "OWN-KOK-000194"
+  },
+  {
+    "property_id": "PROP-KOK-000195",
+    "owner_id": "OWN-KOK-000195"
+  },
+  {
+    "property_id": "PROP-KOK-000196",
+    "owner_id": "OWN-KOK-000196"
+  },
+  {
+    "property_id": "PROP-KOK-000197",
+    "owner_id": "OWN-KOK-000197"
+  },
+  {
+    "property_id": "PROP-KOK-000198",
+    "owner_id": "OWN-KOK-000198"
+  },
+  {
+    "property_id": "PROP-KOK-000199",
+    "owner_id": "OWN-KOK-000199"
+  },
+  {
+    "property_id": "PROP-KOK-000200",
+    "owner_id": "OWN-KOK-000200"
+  },
+  {
+    "property_id": "PROP-KOK-000201",
+    "owner_id": "OWN-KOK-000201"
+  },
+  {
+    "property_id": "PROP-KOK-000202",
+    "owner_id": "OWN-KOK-000202"
+  },
+  {
+    "property_id": "PROP-KOK-000203",
+    "owner_id": "OWN-KOK-000203"
+  },
+  {
+    "property_id": "PROP-KOK-000204",
+    "owner_id": "OWN-KOK-000204"
+  },
+  {
+    "property_id": "PROP-KOK-000205",
+    "owner_id": "OWN-KOK-000205"
+  },
+  {
+    "property_id": "PROP-KOK-000206",
+    "owner_id": "OWN-KOK-000206"
+  },
+  {
+    "property_id": "PROP-KOK-000207",
+    "owner_id": "OWN-KOK-000207"
+  },
+  {
+    "property_id": "PROP-KOK-000208",
+    "owner_id": "OWN-KOK-000208"
+  },
+  {
+    "property_id": "PROP-KOK-000209",
+    "owner_id": "OWN-KOK-000209"
+  },
+  {
+    "property_id": "PROP-KOK-000210",
+    "owner_id": "OWN-KOK-000210"
+  },
+  {
+    "property_id": "PROP-KOK-000211",
+    "owner_id": "OWN-KOK-000211"
+  },
+  {
+    "property_id": "PROP-KOK-000212",
+    "owner_id": "OWN-KOK-000212"
+  },
+  {
+    "property_id": "PROP-KOK-000213",
+    "owner_id": "OWN-KOK-000213"
+  },
+  {
+    "property_id": "PROP-KOK-000214",
+    "owner_id": "OWN-KOK-000214"
+  },
+  {
+    "property_id": "PROP-KOK-000215",
+    "owner_id": "OWN-KOK-000215"
+  },
+  {
+    "property_id": "PROP-KOK-000216",
+    "owner_id": "OWN-KOK-000216"
+  },
+  {
+    "property_id": "PROP-KOK-000217",
+    "owner_id": "OWN-KOK-000217"
+  },
+  {
+    "property_id": "PROP-KOK-000218",
+    "owner_id": "OWN-KOK-000218"
+  },
+  {
+    "property_id": "PROP-KOK-000219",
+    "owner_id": "OWN-KOK-000219"
+  },
+  {
+    "property_id": "PROP-KOK-000220",
+    "owner_id": "OWN-KOK-000220"
+  },
+  {
+    "property_id": "PROP-KOK-000221",
+    "owner_id": "OWN-KOK-000221"
+  },
+  {
+    "property_id": "PROP-KOK-000222",
+    "owner_id": "OWN-KOK-000222"
+  },
+  {
+    "property_id": "PROP-KOK-000223",
+    "owner_id": "OWN-KOK-000223"
+  },
+  {
+    "property_id": "PROP-KOK-000224",
+    "owner_id": "OWN-KOK-000224"
+  },
+  {
+    "property_id": "PROP-KOK-000225",
+    "owner_id": "OWN-KOK-000225"
+  },
+  {
+    "property_id": "PROP-KOK-000226",
+    "owner_id": "OWN-KOK-000226"
+  },
+  {
+    "property_id": "PROP-KOK-000227",
+    "owner_id": "OWN-KOK-000227"
+  },
+  {
+    "property_id": "PROP-KOK-000228",
+    "owner_id": "OWN-KOK-000228"
+  },
+  {
+    "property_id": "PROP-KOK-000229",
+    "owner_id": "OWN-KOK-000229"
+  },
+  {
+    "property_id": "PROP-KOK-000230",
+    "owner_id": "OWN-KOK-000230"
+  },
+  {
+    "property_id": "PROP-KOK-000231",
+    "owner_id": "OWN-KOK-000231"
+  },
+  {
+    "property_id": "PROP-KOK-000232",
+    "owner_id": "OWN-KOK-000232"
+  },
+  {
+    "property_id": "PROP-KOK-000233",
+    "owner_id": "OWN-KOK-000233"
+  },
+  {
+    "property_id": "PROP-KOK-000234",
+    "owner_id": "OWN-KOK-000234"
+  },
+  {
+    "property_id": "PROP-KOK-000235",
+    "owner_id": "OWN-KOK-000235"
+  },
+  {
+    "property_id": "PROP-KOK-000236",
+    "owner_id": "OWN-KOK-000236"
+  },
+  {
+    "property_id": "PROP-KOK-000237",
+    "owner_id": "OWN-KOK-000237"
+  },
+  {
+    "property_id": "PROP-KOK-000238",
+    "owner_id": "OWN-KOK-000238"
+  },
+  {
+    "property_id": "PROP-KOK-000239",
+    "owner_id": "OWN-KOK-000239"
+  },
+  {
+    "property_id": "PROP-KOK-000240",
+    "owner_id": "OWN-KOK-000240"
+  },
+  {
+    "property_id": "PROP-KOK-000241",
+    "owner_id": "OWN-KOK-000241"
+  },
+  {
+    "property_id": "PROP-KOK-000242",
+    "owner_id": "OWN-KOK-000242"
+  },
+  {
+    "property_id": "PROP-KOK-000243",
+    "owner_id": "OWN-KOK-000243"
+  },
+  {
+    "property_id": "PROP-KOK-000244",
+    "owner_id": "OWN-KOK-000244"
+  },
+  {
+    "property_id": "PROP-KOK-000245",
+    "owner_id": "OWN-KOK-000245"
+  },
+  {
+    "property_id": "PROP-KOK-000246",
+    "owner_id": "OWN-KOK-000246"
+  },
+  {
+    "property_id": "PROP-KOK-000247",
+    "owner_id": "OWN-KOK-000247"
+  },
+  {
+    "property_id": "PROP-KOK-000248",
+    "owner_id": "OWN-KOK-000248"
+  },
+  {
+    "property_id": "PROP-KOK-000249",
+    "owner_id": "OWN-KOK-000249"
+  },
+  {
+    "property_id": "PROP-KOK-000250",
+    "owner_id": "OWN-KOK-000250"
+  },
+  {
+    "property_id": "PROP-KOK-000251",
+    "owner_id": "OWN-KOK-000251"
+  },
+  {
+    "property_id": "PROP-KOK-000252",
+    "owner_id": "OWN-KOK-000252"
+  },
+  {
+    "property_id": "PROP-KOK-000253",
+    "owner_id": "OWN-KOK-000253"
+  },
+  {
+    "property_id": "PROP-KOK-000254",
+    "owner_id": "OWN-KOK-000254"
+  },
+  {
+    "property_id": "PROP-KOK-000255",
+    "owner_id": "OWN-KOK-000255"
+  },
+  {
+    "property_id": "PROP-KOK-000256",
+    "owner_id": "OWN-KOK-000256"
+  },
+  {
+    "property_id": "PROP-KOK-000257",
+    "owner_id": "OWN-KOK-000257"
+  },
+  {
+    "property_id": "PROP-KOK-000258",
+    "owner_id": "OWN-KOK-000258"
+  },
+  {
+    "property_id": "PROP-KOK-000259",
+    "owner_id": "OWN-KOK-000259"
+  },
+  {
+    "property_id": "PROP-KOK-000260",
+    "owner_id": "OWN-KOK-000260"
+  },
+  {
+    "property_id": "PROP-KOK-000261",
+    "owner_id": "OWN-KOK-000261"
+  },
+  {
+    "property_id": "PROP-KOK-000262",
+    "owner_id": "OWN-KOK-000262"
+  },
+  {
+    "property_id": "PROP-KOK-000263",
+    "owner_id": "OWN-KOK-000263"
+  },
+  {
+    "property_id": "PROP-KOK-000264",
+    "owner_id": "OWN-KOK-000264"
+  },
+  {
+    "property_id": "PROP-KOK-000265",
+    "owner_id": "OWN-KOK-000265"
+  },
+  {
+    "property_id": "PROP-KOK-000266",
+    "owner_id": "OWN-KOK-000266"
+  },
+  {
+    "property_id": "PROP-KOK-000267",
+    "owner_id": "OWN-KOK-000267"
+  },
+  {
+    "property_id": "PROP-KOK-000268",
+    "owner_id": "OWN-KOK-000268"
+  },
+  {
+    "property_id": "PROP-KOK-000269",
+    "owner_id": "OWN-KOK-000269"
+  },
+  {
+    "property_id": "PROP-KOK-000270",
+    "owner_id": "OWN-KOK-000270"
+  },
+  {
+    "property_id": "PROP-KOK-000271",
+    "owner_id": "OWN-KOK-000271"
+  },
+  {
+    "property_id": "PROP-KOK-000272",
+    "owner_id": "OWN-KOK-000272"
+  },
+  {
+    "property_id": "PROP-KOK-000273",
+    "owner_id": "OWN-KOK-000273"
+  },
+  {
+    "property_id": "PROP-KOK-000274",
+    "owner_id": "OWN-KOK-000274"
+  },
+  {
+    "property_id": "PROP-KOK-000275",
+    "owner_id": "OWN-KOK-000275"
+  },
+  {
+    "property_id": "PROP-KOK-000276",
+    "owner_id": "OWN-KOK-000276"
+  },
+  {
+    "property_id": "PROP-KOK-000277",
+    "owner_id": "OWN-KOK-000277"
+  },
+  {
+    "property_id": "PROP-KOK-000278",
+    "owner_id": "OWN-KOK-000278"
+  },
+  {
+    "property_id": "PROP-KOK-000279",
+    "owner_id": "OWN-KOK-000279"
+  },
+  {
+    "property_id": "PROP-KOK-000280",
+    "owner_id": "OWN-KOK-000280"
+  },
+  {
+    "property_id": "PROP-KOK-000281",
+    "owner_id": "OWN-KOK-000281"
+  },
+  {
+    "property_id": "PROP-KOK-000282",
+    "owner_id": "OWN-KOK-000282"
+  },
+  {
+    "property_id": "PROP-KOK-000283",
+    "owner_id": "OWN-KOK-000283"
+  },
+  {
+    "property_id": "PROP-KOK-000284",
+    "owner_id": "OWN-KOK-000284"
+  },
+  {
+    "property_id": "PROP-KOK-000285",
+    "owner_id": "OWN-KOK-000285"
+  },
+  {
+    "property_id": "PROP-KOK-000286",
+    "owner_id": "OWN-KOK-000286"
+  },
+  {
+    "property_id": "PROP-KOK-000287",
+    "owner_id": "OWN-KOK-000287"
+  },
+  {
+    "property_id": "PROP-KOK-000288",
+    "owner_id": "OWN-KOK-000288"
+  },
+  {
+    "property_id": "PROP-KOK-000289",
+    "owner_id": "OWN-KOK-000289"
+  },
+  {
+    "property_id": "PROP-KOK-000290",
+    "owner_id": "OWN-KOK-000290"
+  },
+  {
+    "property_id": "PROP-KOK-000291",
+    "owner_id": "OWN-KOK-000291"
+  },
+  {
+    "property_id": "PROP-KOK-000292",
+    "owner_id": "OWN-KOK-000292"
+  },
+  {
+    "property_id": "PROP-KOK-000293",
+    "owner_id": "OWN-KOK-000293"
+  },
+  {
+    "property_id": "PROP-KOK-000294",
+    "owner_id": "OWN-KOK-000294"
+  },
+  {
+    "property_id": "PROP-KOK-000295",
+    "owner_id": "OWN-KOK-000295"
+  },
+  {
+    "property_id": "PROP-KOK-000296",
+    "owner_id": "OWN-KOK-000296"
+  },
+  {
+    "property_id": "PROP-KOK-000297",
+    "owner_id": "OWN-KOK-000297"
+  },
+  {
+    "property_id": "PROP-KOK-000298",
+    "owner_id": "OWN-KOK-000298"
+  },
+  {
+    "property_id": "PROP-KOK-000299",
+    "owner_id": "OWN-KOK-000299"
+  },
+  {
+    "property_id": "PROP-KOK-000300",
+    "owner_id": "OWN-KOK-000300"
+  },
+  {
+    "property_id": "PROP-KOK-000301",
+    "owner_id": "OWN-KOK-000301"
+  },
+  {
+    "property_id": "PROP-KOK-000302",
+    "owner_id": "OWN-KOK-000302"
+  },
+  {
+    "property_id": "PROP-KOK-000303",
+    "owner_id": "OWN-KOK-000303"
+  },
+  {
+    "property_id": "PROP-KOK-000304",
+    "owner_id": "OWN-KOK-000304"
+  },
+  {
+    "property_id": "PROP-KOK-000305",
+    "owner_id": "OWN-KOK-000305"
+  },
+  {
+    "property_id": "PROP-KOK-000306",
+    "owner_id": "OWN-KOK-000306"
+  },
+  {
+    "property_id": "PROP-KOK-000307",
+    "owner_id": "OWN-KOK-000307"
+  },
+  {
+    "property_id": "PROP-KOK-000308",
+    "owner_id": "OWN-KOK-000308"
+  },
+  {
+    "property_id": "PROP-KOK-000309",
+    "owner_id": "OWN-KOK-000309"
+  },
+  {
+    "property_id": "PROP-KOK-000310",
+    "owner_id": "OWN-KOK-000310"
+  },
+  {
+    "property_id": "PROP-KOK-000311",
+    "owner_id": "OWN-KOK-000311"
+  },
+  {
+    "property_id": "PROP-KOK-000312",
+    "owner_id": "OWN-KOK-000312"
+  },
+  {
+    "property_id": "PROP-KOK-000313",
+    "owner_id": "OWN-KOK-000313"
+  },
+  {
+    "property_id": "PROP-KOK-000314",
+    "owner_id": "OWN-KOK-000314"
+  },
+  {
+    "property_id": "PROP-KOK-000315",
+    "owner_id": "OWN-KOK-000315"
+  },
+  {
+    "property_id": "PROP-KOK-000316",
+    "owner_id": "OWN-KOK-000316"
+  },
+  {
+    "property_id": "PROP-KOK-000317",
+    "owner_id": "OWN-KOK-000317"
+  },
+  {
+    "property_id": "PROP-KOK-000318",
+    "owner_id": "OWN-KOK-000318"
+  },
+  {
+    "property_id": "PROP-KOK-000319",
+    "owner_id": "OWN-KOK-000319"
+  },
+  {
+    "property_id": "PROP-KOK-000320",
+    "owner_id": "OWN-KOK-000320"
+  },
+  {
+    "property_id": "PROP-KOK-000321",
+    "owner_id": "OWN-KOK-000321"
+  },
+  {
+    "property_id": "PROP-KOK-000322",
+    "owner_id": "OWN-KOK-000322"
+  },
+  {
+    "property_id": "PROP-KOK-000323",
+    "owner_id": "OWN-KOK-000323"
+  },
+  {
+    "property_id": "PROP-KOK-000324",
+    "owner_id": "OWN-KOK-000324"
+  },
+  {
+    "property_id": "PROP-KOK-000325",
+    "owner_id": "OWN-KOK-000325"
+  },
+  {
+    "property_id": "PROP-KOK-000326",
+    "owner_id": "OWN-KOK-000326"
+  },
+  {
+    "property_id": "PROP-KOK-000327",
+    "owner_id": "OWN-KOK-000327"
+  },
+  {
+    "property_id": "PROP-KOK-000328",
+    "owner_id": "OWN-KOK-000328"
+  },
+  {
+    "property_id": "PROP-KOK-000329",
+    "owner_id": "OWN-KOK-000329"
+  },
+  {
+    "property_id": "PROP-KOK-000330",
+    "owner_id": "OWN-KOK-000330"
+  },
+  {
+    "property_id": "PROP-KOK-000331",
+    "owner_id": "OWN-KOK-000331"
+  },
+  {
+    "property_id": "PROP-KOK-000332",
+    "owner_id": "OWN-KOK-000332"
+  },
+  {
+    "property_id": "PROP-KOK-000333",
+    "owner_id": "OWN-KOK-000333"
+  },
+  {
+    "property_id": "PROP-KOK-000334",
+    "owner_id": "OWN-KOK-000334"
+  },
+  {
+    "property_id": "PROP-KOK-000335",
+    "owner_id": "OWN-KOK-000335"
+  },
+  {
+    "property_id": "PROP-KOK-000336",
+    "owner_id": "OWN-KOK-000336"
+  },
+  {
+    "property_id": "PROP-KOK-000337",
+    "owner_id": "OWN-KOK-000337"
+  },
+  {
+    "property_id": "PROP-KOK-000338",
+    "owner_id": "OWN-KOK-000338"
+  },
+  {
+    "property_id": "PROP-KOK-000339",
+    "owner_id": "OWN-KOK-000339"
+  },
+  {
+    "property_id": "PROP-KOK-000340",
+    "owner_id": "OWN-KOK-000340"
+  },
+  {
+    "property_id": "PROP-KOK-000341",
+    "owner_id": "OWN-KOK-000341"
+  },
+  {
+    "property_id": "PROP-KOK-000342",
+    "owner_id": "OWN-KOK-000342"
+  },
+  {
+    "property_id": "PROP-KOK-000343",
+    "owner_id": "OWN-KOK-000343"
+  },
+  {
+    "property_id": "PROP-KOK-000344",
+    "owner_id": "OWN-KOK-000344"
+  },
+  {
+    "property_id": "PROP-KOK-000345",
+    "owner_id": "OWN-KOK-000345"
+  },
+  {
+    "property_id": "PROP-KOK-000346",
+    "owner_id": "OWN-KOK-000346"
+  },
+  {
+    "property_id": "PROP-KOK-000347",
+    "owner_id": "OWN-KOK-000347"
+  },
+  {
+    "property_id": "PROP-KOK-000348",
+    "owner_id": "OWN-KOK-000348"
+  },
+  {
+    "property_id": "PROP-KOK-000349",
+    "owner_id": "OWN-KOK-000349"
+  },
+  {
+    "property_id": "PROP-KOK-000350",
+    "owner_id": "OWN-KOK-000350"
+  },
+  {
+    "property_id": "PROP-KOK-000351",
+    "owner_id": "OWN-KOK-000351"
+  },
+  {
+    "property_id": "PROP-KOK-000352",
+    "owner_id": "OWN-KOK-000352"
+  },
+  {
+    "property_id": "PROP-KOK-000353",
+    "owner_id": "OWN-KOK-000353"
+  },
+  {
+    "property_id": "PROP-KOK-000354",
+    "owner_id": "OWN-KOK-000354"
+  },
+  {
+    "property_id": "PROP-KOK-000355",
+    "owner_id": "OWN-KOK-000355"
+  },
+  {
+    "property_id": "PROP-KOK-000356",
+    "owner_id": "OWN-KOK-000356"
+  },
+  {
+    "property_id": "PROP-KOK-000357",
+    "owner_id": "OWN-KOK-000357"
+  },
+  {
+    "property_id": "PROP-KOK-000358",
+    "owner_id": "OWN-KOK-000358"
+  },
+  {
+    "property_id": "PROP-KOK-000359",
+    "owner_id": "OWN-KOK-000359"
+  },
+  {
+    "property_id": "PROP-KOK-000360",
+    "owner_id": "OWN-KOK-000360"
+  },
+  {
+    "property_id": "PROP-KOK-000361",
+    "owner_id": "OWN-KOK-000361"
+  },
+  {
+    "property_id": "PROP-KOK-000362",
+    "owner_id": "OWN-KOK-000362"
+  },
+  {
+    "property_id": "PROP-KOK-000363",
+    "owner_id": "OWN-KOK-000363"
+  },
+  {
+    "property_id": "PROP-KOK-000364",
+    "owner_id": "OWN-KOK-000364"
+  },
+  {
+    "property_id": "PROP-KOK-000365",
+    "owner_id": "OWN-KOK-000365"
+  },
+  {
+    "property_id": "PROP-KOK-000366",
+    "owner_id": "OWN-KOK-000366"
+  },
+  {
+    "property_id": "PROP-KOK-000367",
+    "owner_id": "OWN-KOK-000367"
+  },
+  {
+    "property_id": "PROP-KOK-000368",
+    "owner_id": "OWN-KOK-000368"
+  },
+  {
+    "property_id": "PROP-KOK-000369",
+    "owner_id": "OWN-KOK-000369"
+  },
+  {
+    "property_id": "PROP-KOK-000370",
+    "owner_id": "OWN-KOK-000370"
+  },
+  {
+    "property_id": "PROP-KOK-000371",
+    "owner_id": "OWN-KOK-000371"
+  },
+  {
+    "property_id": "PROP-KOK-000372",
+    "owner_id": "OWN-KOK-000372"
+  },
+  {
+    "property_id": "PROP-KOK-000373",
+    "owner_id": "OWN-KOK-000373"
+  },
+  {
+    "property_id": "PROP-KOK-000374",
+    "owner_id": "OWN-KOK-000374"
+  },
+  {
+    "property_id": "PROP-KOK-000375",
+    "owner_id": "OWN-KOK-000375"
+  },
+  {
+    "property_id": "PROP-KOK-000376",
+    "owner_id": "OWN-KOK-000376"
+  },
+  {
+    "property_id": "PROP-KOK-000377",
+    "owner_id": "OWN-KOK-000377"
+  },
+  {
+    "property_id": "PROP-KOK-000378",
+    "owner_id": "OWN-KOK-000378"
+  },
+  {
+    "property_id": "PROP-KOK-000379",
+    "owner_id": "OWN-KOK-000379"
+  },
+  {
+    "property_id": "PROP-KOK-000380",
+    "owner_id": "OWN-KOK-000380"
+  },
+  {
+    "property_id": "PROP-KOK-000381",
+    "owner_id": "OWN-KOK-000381"
+  },
+  {
+    "property_id": "PROP-KOK-000382",
+    "owner_id": "OWN-KOK-000382"
+  },
+  {
+    "property_id": "PROP-KOK-000383",
+    "owner_id": "OWN-KOK-000383"
+  },
+  {
+    "property_id": "PROP-KOK-000384",
+    "owner_id": "OWN-KOK-000384"
+  },
+  {
+    "property_id": "PROP-KOK-000385",
+    "owner_id": "OWN-KOK-000385"
+  },
+  {
+    "property_id": "PROP-KOK-000386",
+    "owner_id": "OWN-KOK-000386"
+  },
+  {
+    "property_id": "PROP-KOK-000387",
+    "owner_id": "OWN-KOK-000387"
+  },
+  {
+    "property_id": "PROP-KOK-000388",
+    "owner_id": "OWN-KOK-000388"
+  },
+  {
+    "property_id": "PROP-KOK-000389",
+    "owner_id": "OWN-KOK-000389"
+  },
+  {
+    "property_id": "PROP-KOK-000390",
+    "owner_id": "OWN-KOK-000390"
+  },
+  {
+    "property_id": "PROP-KOK-000391",
+    "owner_id": "OWN-KOK-000391"
+  },
+  {
+    "property_id": "PROP-KOK-000392",
+    "owner_id": "OWN-KOK-000392"
+  },
+  {
+    "property_id": "PROP-KOK-000393",
+    "owner_id": "OWN-KOK-000393"
+  },
+  {
+    "property_id": "PROP-KOK-000394",
+    "owner_id": "OWN-KOK-000394"
+  },
+  {
+    "property_id": "PROP-KOK-000395",
+    "owner_id": "OWN-KOK-000395"
+  },
+  {
+    "property_id": "PROP-KOK-000396",
+    "owner_id": "OWN-KOK-000396"
+  },
+  {
+    "property_id": "PROP-KOK-000397",
+    "owner_id": "OWN-KOK-000397"
+  },
+  {
+    "property_id": "PROP-KOK-000398",
+    "owner_id": "OWN-KOK-000398"
+  },
+  {
+    "property_id": "PROP-KOK-000399",
+    "owner_id": "OWN-KOK-000399"
+  },
+  {
+    "property_id": "PROP-KOK-000400",
+    "owner_id": "OWN-KOK-000400"
+  },
+  {
+    "property_id": "PROP-KOK-000401",
+    "owner_id": "OWN-KOK-000401"
+  },
+  {
+    "property_id": "PROP-KOK-000402",
+    "owner_id": "OWN-KOK-000402"
+  },
+  {
+    "property_id": "PROP-KOK-000403",
+    "owner_id": "OWN-KOK-000403"
+  },
+  {
+    "property_id": "PROP-KOK-000404",
+    "owner_id": "OWN-KOK-000404"
+  },
+  {
+    "property_id": "PROP-KOK-000405",
+    "owner_id": "OWN-KOK-000405"
+  },
+  {
+    "property_id": "PROP-KOK-000406",
+    "owner_id": "OWN-KOK-000406"
+  },
+  {
+    "property_id": "PROP-KOK-000407",
+    "owner_id": "OWN-KOK-000407"
+  },
+  {
+    "property_id": "PROP-KOK-000408",
+    "owner_id": "OWN-KOK-000408"
+  },
+  {
+    "property_id": "PROP-KOK-000409",
+    "owner_id": "OWN-KOK-000409"
+  },
+  {
+    "property_id": "PROP-KOK-000410",
+    "owner_id": "OWN-KOK-000410"
+  },
+  {
+    "property_id": "PROP-KOK-000411",
+    "owner_id": "OWN-KOK-000411"
+  },
+  {
+    "property_id": "PROP-KOK-000412",
+    "owner_id": "OWN-KOK-000412"
+  },
+  {
+    "property_id": "PROP-KOK-000413",
+    "owner_id": "OWN-KOK-000413"
+  },
+  {
+    "property_id": "PROP-KOK-000414",
+    "owner_id": "OWN-KOK-000414"
+  },
+  {
+    "property_id": "PROP-KOK-000415",
+    "owner_id": "OWN-KOK-000415"
+  },
+  {
+    "property_id": "PROP-KOK-000416",
+    "owner_id": "OWN-KOK-000416"
+  },
+  {
+    "property_id": "PROP-KOK-000417",
+    "owner_id": "OWN-KOK-000417"
+  },
+  {
+    "property_id": "PROP-KOK-000418",
+    "owner_id": "OWN-KOK-000418"
+  },
+  {
+    "property_id": "PROP-KOK-000419",
+    "owner_id": "OWN-KOK-000419"
+  },
+  {
+    "property_id": "PROP-KOK-000420",
+    "owner_id": "OWN-KOK-000420"
+  },
+  {
+    "property_id": "PROP-KOK-000421",
+    "owner_id": "OWN-KOK-000421"
+  },
+  {
+    "property_id": "PROP-KOK-000422",
+    "owner_id": "OWN-KOK-000422"
+  },
+  {
+    "property_id": "PROP-KOK-000423",
+    "owner_id": "OWN-KOK-000423"
+  },
+  {
+    "property_id": "PROP-KOK-000424",
+    "owner_id": "OWN-KOK-000424"
+  },
+  {
+    "property_id": "PROP-KOK-000425",
+    "owner_id": "OWN-KOK-000425"
+  },
+  {
+    "property_id": "PROP-KOK-000426",
+    "owner_id": "OWN-KOK-000426"
+  },
+  {
+    "property_id": "PROP-KOK-000427",
+    "owner_id": "OWN-KOK-000427"
+  },
+  {
+    "property_id": "PROP-KOK-000428",
+    "owner_id": "OWN-KOK-000428"
+  },
+  {
+    "property_id": "PROP-KOK-000429",
+    "owner_id": "OWN-KOK-000429"
+  },
+  {
+    "property_id": "PROP-KOK-000430",
+    "owner_id": "OWN-KOK-000430"
+  },
+  {
+    "property_id": "PROP-KOK-000431",
+    "owner_id": "OWN-KOK-000431"
+  },
+  {
+    "property_id": "PROP-KOK-000432",
+    "owner_id": "OWN-KOK-000432"
+  },
+  {
+    "property_id": "PROP-KOK-000433",
+    "owner_id": "OWN-KOK-000433"
+  },
+  {
+    "property_id": "PROP-KOK-000434",
+    "owner_id": "OWN-KOK-000434"
+  },
+  {
+    "property_id": "PROP-KOK-000435",
+    "owner_id": "OWN-KOK-000435"
+  },
+  {
+    "property_id": "PROP-KOK-000436",
+    "owner_id": "OWN-KOK-000436"
+  },
+  {
+    "property_id": "PROP-KOK-000437",
+    "owner_id": "OWN-KOK-000437"
+  },
+  {
+    "property_id": "PROP-KOK-000438",
+    "owner_id": "OWN-KOK-000438"
+  },
+  {
+    "property_id": "PROP-KOK-000439",
+    "owner_id": "OWN-KOK-000439"
+  },
+  {
+    "property_id": "PROP-KOK-000440",
+    "owner_id": "OWN-KOK-000440"
+  },
+  {
+    "property_id": "PROP-KOK-000441",
+    "owner_id": "OWN-KOK-000441"
+  },
+  {
+    "property_id": "PROP-KOK-000442",
+    "owner_id": "OWN-KOK-000442"
+  },
+  {
+    "property_id": "PROP-KOK-000443",
+    "owner_id": "OWN-KOK-000443"
+  },
+  {
+    "property_id": "PROP-KOK-000444",
+    "owner_id": "OWN-KOK-000444"
+  },
+  {
+    "property_id": "PROP-KOK-000445",
+    "owner_id": "OWN-KOK-000445"
+  },
+  {
+    "property_id": "PROP-KOK-000446",
+    "owner_id": "OWN-KOK-000446"
+  },
+  {
+    "property_id": "PROP-KOK-000447",
+    "owner_id": "OWN-KOK-000447"
+  },
+  {
+    "property_id": "PROP-KOK-000448",
+    "owner_id": "OWN-KOK-000448"
+  },
+  {
+    "property_id": "PROP-KOK-000449",
+    "owner_id": "OWN-KOK-000449"
+  },
+  {
+    "property_id": "PROP-KOK-000450",
+    "owner_id": "OWN-KOK-000450"
+  },
+  {
+    "property_id": "PROP-KOK-000451",
+    "owner_id": "OWN-KOK-000451"
+  },
+  {
+    "property_id": "PROP-KOK-000452",
+    "owner_id": "OWN-KOK-000452"
+  },
+  {
+    "property_id": "PROP-KOK-000453",
+    "owner_id": "OWN-KOK-000453"
+  },
+  {
+    "property_id": "PROP-KOK-000454",
+    "owner_id": "OWN-KOK-000454"
+  },
+  {
+    "property_id": "PROP-KOK-000455",
+    "owner_id": "OWN-KOK-000455"
+  },
+  {
+    "property_id": "PROP-KOK-000456",
+    "owner_id": "OWN-KOK-000456"
+  },
+  {
+    "property_id": "PROP-KOK-000457",
+    "owner_id": "OWN-KOK-000457"
+  },
+  {
+    "property_id": "PROP-KOK-000458",
+    "owner_id": "OWN-KOK-000458"
+  },
+  {
+    "property_id": "PROP-KOK-000459",
+    "owner_id": "OWN-KOK-000459"
+  },
+  {
+    "property_id": "PROP-KOK-000460",
+    "owner_id": "OWN-KOK-000460"
+  },
+  {
+    "property_id": "PROP-KOK-000461",
+    "owner_id": "OWN-KOK-000461"
+  },
+  {
+    "property_id": "PROP-KOK-000462",
+    "owner_id": "OWN-KOK-000462"
+  },
+  {
+    "property_id": "PROP-KOK-000463",
+    "owner_id": "OWN-KOK-000463"
+  },
+  {
+    "property_id": "PROP-KOK-000464",
+    "owner_id": "OWN-KOK-000464"
+  },
+  {
+    "property_id": "PROP-KOK-000465",
+    "owner_id": "OWN-KOK-000465"
+  },
+  {
+    "property_id": "PROP-KOK-000466",
+    "owner_id": "OWN-KOK-000466"
+  },
+  {
+    "property_id": "PROP-KOK-000467",
+    "owner_id": "OWN-KOK-000467"
+  },
+  {
+    "property_id": "PROP-KOK-000468",
+    "owner_id": "OWN-KOK-000468"
+  },
+  {
+    "property_id": "PROP-KOK-000469",
+    "owner_id": "OWN-KOK-000469"
+  },
+  {
+    "property_id": "PROP-KOK-000470",
+    "owner_id": "OWN-KOK-000470"
+  },
+  {
+    "property_id": "PROP-KOK-000471",
+    "owner_id": "OWN-KOK-000471"
+  },
+  {
+    "property_id": "PROP-KOK-000472",
+    "owner_id": "OWN-KOK-000472"
+  },
+  {
+    "property_id": "PROP-KOK-000473",
+    "owner_id": "OWN-KOK-000473"
+  },
+  {
+    "property_id": "PROP-KOK-000474",
+    "owner_id": "OWN-KOK-000474"
+  },
+  {
+    "property_id": "PROP-KOK-000475",
+    "owner_id": "OWN-KOK-000475"
+  },
+  {
+    "property_id": "PROP-KOK-000476",
+    "owner_id": "OWN-KOK-000476"
+  },
+  {
+    "property_id": "PROP-KOK-000477",
+    "owner_id": "OWN-KOK-000477"
+  },
+  {
+    "property_id": "PROP-KOK-000478",
+    "owner_id": "OWN-KOK-000478"
+  },
+  {
+    "property_id": "PROP-KOK-000479",
+    "owner_id": "OWN-KOK-000479"
+  },
+  {
+    "property_id": "PROP-KOK-000480",
+    "owner_id": "OWN-KOK-000480"
+  },
+  {
+    "property_id": "PROP-KOK-000481",
+    "owner_id": "OWN-KOK-000481"
+  },
+  {
+    "property_id": "PROP-KOK-000482",
+    "owner_id": "OWN-KOK-000482"
+  },
+  {
+    "property_id": "PROP-KOK-000483",
+    "owner_id": "OWN-KOK-000483"
+  },
+  {
+    "property_id": "PROP-KOK-000484",
+    "owner_id": "OWN-KOK-000484"
+  },
+  {
+    "property_id": "PROP-KOK-000485",
+    "owner_id": "OWN-KOK-000485"
+  },
+  {
+    "property_id": "PROP-KOK-000486",
+    "owner_id": "OWN-KOK-000486"
+  },
+  {
+    "property_id": "PROP-KOK-000487",
+    "owner_id": "OWN-KOK-000487"
+  },
+  {
+    "property_id": "PROP-KOK-000488",
+    "owner_id": "OWN-KOK-000488"
+  },
+  {
+    "property_id": "PROP-KOK-000489",
+    "owner_id": "OWN-KOK-000489"
+  },
+  {
+    "property_id": "PROP-KOK-000490",
+    "owner_id": "OWN-KOK-000490"
+  },
+  {
+    "property_id": "PROP-KOK-000491",
+    "owner_id": "OWN-KOK-000491"
+  },
+  {
+    "property_id": "PROP-KOK-000492",
+    "owner_id": "OWN-KOK-000492"
+  },
+  {
+    "property_id": "PROP-KOK-000493",
+    "owner_id": "OWN-KOK-000493"
+  },
+  {
+    "property_id": "PROP-KOK-000494",
+    "owner_id": "OWN-KOK-000494"
+  },
+  {
+    "property_id": "PROP-KOK-000495",
+    "owner_id": "OWN-KOK-000495"
+  },
+  {
+    "property_id": "PROP-KOK-000496",
+    "owner_id": "OWN-KOK-000496"
+  },
+  {
+    "property_id": "PROP-KOK-000497",
+    "owner_id": "OWN-KOK-000497"
+  },
+  {
+    "property_id": "PROP-KOK-000498",
+    "owner_id": "OWN-KOK-000498"
+  },
+  {
+    "property_id": "PROP-KOK-000499",
+    "owner_id": "OWN-KOK-000499"
+  },
+  {
+    "property_id": "PROP-KOK-000500",
+    "owner_id": "OWN-KOK-000500"
+  },
+  {
+    "property_id": "PROP-KOK-000501",
+    "owner_id": "OWN-KOK-000501"
+  },
+  {
+    "property_id": "PROP-KOK-000502",
+    "owner_id": "OWN-KOK-000502"
+  },
+  {
+    "property_id": "PROP-KOK-000503",
+    "owner_id": "OWN-KOK-000503"
+  },
+  {
+    "property_id": "PROP-KOK-000504",
+    "owner_id": "OWN-KOK-000504"
+  },
+  {
+    "property_id": "PROP-KOK-000505",
+    "owner_id": "OWN-KOK-000505"
+  },
+  {
+    "property_id": "PROP-KOK-000506",
+    "owner_id": "OWN-KOK-000506"
+  },
+  {
+    "property_id": "PROP-KOK-000507",
+    "owner_id": "OWN-KOK-000507"
+  },
+  {
+    "property_id": "PROP-KOK-000508",
+    "owner_id": "OWN-KOK-000508"
+  },
+  {
+    "property_id": "PROP-KOK-000509",
+    "owner_id": "OWN-KOK-000509"
+  },
+  {
+    "property_id": "PROP-KOK-000510",
+    "owner_id": "OWN-KOK-000510"
+  },
+  {
+    "property_id": "PROP-KOK-000511",
+    "owner_id": "OWN-KOK-000511"
+  },
+  {
+    "property_id": "PROP-KOK-000512",
+    "owner_id": "OWN-KOK-000512"
+  },
+  {
+    "property_id": "PROP-KOK-000513",
+    "owner_id": "OWN-KOK-000513"
+  },
+  {
+    "property_id": "PROP-KOK-000514",
+    "owner_id": "OWN-KOK-000514"
+  },
+  {
+    "property_id": "PROP-KOK-000515",
+    "owner_id": "OWN-KOK-000515"
+  },
+  {
+    "property_id": "PROP-KOK-000516",
+    "owner_id": "OWN-KOK-000516"
+  },
+  {
+    "property_id": "PROP-KOK-000517",
+    "owner_id": "OWN-KOK-000517"
+  },
+  {
+    "property_id": "PROP-KOK-000518",
+    "owner_id": "OWN-KOK-000518"
+  },
+  {
+    "property_id": "PROP-KOK-000519",
+    "owner_id": "OWN-KOK-000519"
+  },
+  {
+    "property_id": "PROP-KOK-000520",
+    "owner_id": "OWN-KOK-000520"
+  },
+  {
+    "property_id": "PROP-KOK-000521",
+    "owner_id": "OWN-KOK-000521"
+  },
+  {
+    "property_id": "PROP-KOK-000522",
+    "owner_id": "OWN-KOK-000522"
+  },
+  {
+    "property_id": "PROP-KOK-000523",
+    "owner_id": "OWN-KOK-000523"
+  },
+  {
+    "property_id": "PROP-KOK-000524",
+    "owner_id": "OWN-KOK-000524"
+  },
+  {
+    "property_id": "PROP-KOK-000525",
+    "owner_id": "OWN-KOK-000525"
+  },
+  {
+    "property_id": "PROP-KOK-000526",
+    "owner_id": "OWN-KOK-000526"
+  },
+  {
+    "property_id": "PROP-KOK-000527",
+    "owner_id": "OWN-KOK-000527"
+  },
+  {
+    "property_id": "PROP-KOK-000528",
+    "owner_id": "OWN-KOK-000528"
+  },
+  {
+    "property_id": "PROP-KOK-000529",
+    "owner_id": "OWN-KOK-000529"
+  },
+  {
+    "property_id": "PROP-KOK-000530",
+    "owner_id": "OWN-KOK-000530"
+  },
+  {
+    "property_id": "PROP-KOK-000531",
+    "owner_id": "OWN-KOK-000531"
+  },
+  {
+    "property_id": "PROP-KOK-000532",
+    "owner_id": "OWN-KOK-000532"
+  },
+  {
+    "property_id": "PROP-KOK-000533",
+    "owner_id": "OWN-KOK-000533"
+  },
+  {
+    "property_id": "PROP-KOK-000534",
+    "owner_id": "OWN-KOK-000534"
+  },
+  {
+    "property_id": "PROP-KOK-000535",
+    "owner_id": "OWN-KOK-000535"
+  },
+  {
+    "property_id": "PROP-KOK-000536",
+    "owner_id": "OWN-KOK-000536"
+  },
+  {
+    "property_id": "PROP-KOK-000537",
+    "owner_id": "OWN-KOK-000537"
+  },
+  {
+    "property_id": "PROP-KOK-000538",
+    "owner_id": "OWN-KOK-000538"
+  },
+  {
+    "property_id": "PROP-KOK-000539",
+    "owner_id": "OWN-KOK-000539"
+  },
+  {
+    "property_id": "PROP-KOK-000540",
+    "owner_id": "OWN-KOK-000540"
+  },
+  {
+    "property_id": "PROP-KOK-000541",
+    "owner_id": "OWN-KOK-000541"
+  },
+  {
+    "property_id": "PROP-KOK-000542",
+    "owner_id": "OWN-KOK-000542"
+  },
+  {
+    "property_id": "PROP-KOK-000543",
+    "owner_id": "OWN-KOK-000543"
+  },
+  {
+    "property_id": "PROP-KOK-000544",
+    "owner_id": "OWN-KOK-000544"
+  },
+  {
+    "property_id": "PROP-KOK-000545",
+    "owner_id": "OWN-KOK-000545"
+  },
+  {
+    "property_id": "PROP-KOK-000546",
+    "owner_id": "OWN-KOK-000546"
+  },
+  {
+    "property_id": "PROP-KOK-000547",
+    "owner_id": "OWN-KOK-000547"
+  },
+  {
+    "property_id": "PROP-KOK-000548",
+    "owner_id": "OWN-KOK-000548"
+  },
+  {
+    "property_id": "PROP-KOK-000549",
+    "owner_id": "OWN-KOK-000549"
+  },
+  {
+    "property_id": "PROP-KOK-000550",
+    "owner_id": "OWN-KOK-000550"
+  },
+  {
+    "property_id": "PROP-KOK-000551",
+    "owner_id": "OWN-KOK-000551"
+  },
+  {
+    "property_id": "PROP-KOK-000552",
+    "owner_id": "OWN-KOK-000552"
+  },
+  {
+    "property_id": "PROP-KOK-000553",
+    "owner_id": "OWN-KOK-000553"
+  },
+  {
+    "property_id": "PROP-KOK-000554",
+    "owner_id": "OWN-KOK-000554"
+  },
+  {
+    "property_id": "PROP-KOK-000555",
+    "owner_id": "OWN-KOK-000555"
+  },
+  {
+    "property_id": "PROP-KOK-000556",
+    "owner_id": "OWN-KOK-000556"
+  },
+  {
+    "property_id": "PROP-KOK-000557",
+    "owner_id": "OWN-KOK-000557"
+  },
+  {
+    "property_id": "PROP-KOK-000558",
+    "owner_id": "OWN-KOK-000558"
+  },
+  {
+    "property_id": "PROP-KOK-000559",
+    "owner_id": "OWN-KOK-000559"
+  },
+  {
+    "property_id": "PROP-KOK-000560",
+    "owner_id": "OWN-KOK-000560"
+  },
+  {
+    "property_id": "PROP-KOK-000561",
+    "owner_id": "OWN-KOK-000561"
+  },
+  {
+    "property_id": "PROP-KOK-000562",
+    "owner_id": "OWN-KOK-000562"
+  },
+  {
+    "property_id": "PROP-KOK-000563",
+    "owner_id": "OWN-KOK-000563"
+  },
+  {
+    "property_id": "PROP-KOK-000564",
+    "owner_id": "OWN-KOK-000564"
+  },
+  {
+    "property_id": "PROP-KOK-000565",
+    "owner_id": "OWN-KOK-000565"
+  },
+  {
+    "property_id": "PROP-KOK-000566",
+    "owner_id": "OWN-KOK-000566"
+  },
+  {
+    "property_id": "PROP-KOK-000567",
+    "owner_id": "OWN-KOK-000567"
+  },
+  {
+    "property_id": "PROP-KOK-000568",
+    "owner_id": "OWN-KOK-000568"
+  },
+  {
+    "property_id": "PROP-KOK-000569",
+    "owner_id": "OWN-KOK-000569"
+  },
+  {
+    "property_id": "PROP-KOK-000570",
+    "owner_id": "OWN-KOK-000570"
+  },
+  {
+    "property_id": "PROP-KOK-000571",
+    "owner_id": "OWN-KOK-000571"
+  },
+  {
+    "property_id": "PROP-KOK-000572",
+    "owner_id": "OWN-KOK-000572"
+  },
+  {
+    "property_id": "PROP-KOK-000573",
+    "owner_id": "OWN-KOK-000573"
+  },
+  {
+    "property_id": "PROP-KOK-000574",
+    "owner_id": "OWN-KOK-000574"
+  },
+  {
+    "property_id": "PROP-KOK-000575",
+    "owner_id": "OWN-KOK-000575"
+  },
+  {
+    "property_id": "PROP-KOK-000576",
+    "owner_id": "OWN-KOK-000576"
+  },
+  {
+    "property_id": "PROP-KOK-000577",
+    "owner_id": "OWN-KOK-000577"
+  },
+  {
+    "property_id": "PROP-KOK-000578",
+    "owner_id": "OWN-KOK-000578"
+  },
+  {
+    "property_id": "PROP-KOK-000579",
+    "owner_id": "OWN-KOK-000579"
+  },
+  {
+    "property_id": "PROP-KOK-000580",
+    "owner_id": "OWN-KOK-000580"
+  },
+  {
+    "property_id": "PROP-KOK-000581",
+    "owner_id": "OWN-KOK-000581"
+  },
+  {
+    "property_id": "PROP-KOK-000582",
+    "owner_id": "OWN-KOK-000582"
+  },
+  {
+    "property_id": "PROP-KOK-000583",
+    "owner_id": "OWN-KOK-000583"
+  },
+  {
+    "property_id": "PROP-KOK-000584",
+    "owner_id": "OWN-KOK-000584"
+  },
+  {
+    "property_id": "PROP-KOK-000585",
+    "owner_id": "OWN-KOK-000585"
+  },
+  {
+    "property_id": "PROP-KOK-000586",
+    "owner_id": "OWN-KOK-000586"
+  },
+  {
+    "property_id": "PROP-KOK-000587",
+    "owner_id": "OWN-KOK-000587"
+  },
+  {
+    "property_id": "PROP-KOK-000588",
+    "owner_id": "OWN-KOK-000588"
+  },
+  {
+    "property_id": "PROP-KOK-000589",
+    "owner_id": "OWN-KOK-000589"
+  },
+  {
+    "property_id": "PROP-KOK-000590",
+    "owner_id": "OWN-KOK-000590"
+  },
+  {
+    "property_id": "PROP-KOK-000591",
+    "owner_id": "OWN-KOK-000591"
+  },
+  {
+    "property_id": "PROP-KOK-000592",
+    "owner_id": "OWN-KOK-000592"
+  },
+  {
+    "property_id": "PROP-KOK-000593",
+    "owner_id": "OWN-KOK-000593"
+  },
+  {
+    "property_id": "PROP-KOK-000594",
+    "owner_id": "OWN-KOK-000594"
+  },
+  {
+    "property_id": "PROP-KOK-000595",
+    "owner_id": "OWN-KOK-000595"
+  },
+  {
+    "property_id": "PROP-KOK-000596",
+    "owner_id": "OWN-KOK-000596"
+  },
+  {
+    "property_id": "PROP-KOK-000597",
+    "owner_id": "OWN-KOK-000597"
+  },
+  {
+    "property_id": "PROP-KOK-000598",
+    "owner_id": "OWN-KOK-000598"
+  },
+  {
+    "property_id": "PROP-KOK-000599",
+    "owner_id": "OWN-KOK-000599"
+  },
+  {
+    "property_id": "PROP-KOK-000600",
+    "owner_id": "OWN-KOK-000600"
+  },
+  {
+    "property_id": "PROP-KOK-000601",
+    "owner_id": "OWN-KOK-000601"
+  },
+  {
+    "property_id": "PROP-KOK-000602",
+    "owner_id": "OWN-KOK-000602"
+  },
+  {
+    "property_id": "PROP-KOK-000603",
+    "owner_id": "OWN-KOK-000603"
+  },
+  {
+    "property_id": "PROP-KOK-000604",
+    "owner_id": "OWN-KOK-000604"
+  },
+  {
+    "property_id": "PROP-KOK-000605",
+    "owner_id": "OWN-KOK-000605"
+  },
+  {
+    "property_id": "PROP-KOK-000606",
+    "owner_id": "OWN-KOK-000606"
+  },
+  {
+    "property_id": "PROP-KOK-000607",
+    "owner_id": "OWN-KOK-000607"
+  },
+  {
+    "property_id": "PROP-KOK-000608",
+    "owner_id": "OWN-KOK-000608"
+  },
+  {
+    "property_id": "PROP-KOK-000609",
+    "owner_id": "OWN-KOK-000609"
+  },
+  {
+    "property_id": "PROP-KOK-000610",
+    "owner_id": "OWN-KOK-000610"
+  },
+  {
+    "property_id": "PROP-KOK-000611",
+    "owner_id": "OWN-KOK-000611"
+  },
+  {
+    "property_id": "PROP-KOK-000612",
+    "owner_id": "OWN-KOK-000612"
+  },
+  {
+    "property_id": "PROP-KOK-000613",
+    "owner_id": "OWN-KOK-000613"
+  },
+  {
+    "property_id": "PROP-KOK-000614",
+    "owner_id": "OWN-KOK-000614"
+  },
+  {
+    "property_id": "PROP-KOK-000615",
+    "owner_id": "OWN-KOK-000615"
+  },
+  {
+    "property_id": "PROP-KOK-000616",
+    "owner_id": "OWN-KOK-000616"
+  },
+  {
+    "property_id": "PROP-KOK-000617",
+    "owner_id": "OWN-KOK-000617"
+  },
+  {
+    "property_id": "PROP-KOK-000618",
+    "owner_id": "OWN-KOK-000618"
+  },
+  {
+    "property_id": "PROP-KOK-000619",
+    "owner_id": "OWN-KOK-000619"
+  },
+  {
+    "property_id": "PROP-KOK-000620",
+    "owner_id": "OWN-KOK-000620"
+  },
+  {
+    "property_id": "PROP-KOK-000621",
+    "owner_id": "OWN-KOK-000621"
+  },
+  {
+    "property_id": "PROP-KOK-000622",
+    "owner_id": "OWN-KOK-000622"
+  },
+  {
+    "property_id": "PROP-KOK-000623",
+    "owner_id": "OWN-KOK-000623"
+  },
+  {
+    "property_id": "PROP-KOK-000624",
+    "owner_id": "OWN-KOK-000624"
+  },
+  {
+    "property_id": "PROP-KOK-000625",
+    "owner_id": "OWN-KOK-000625"
+  },
+  {
+    "property_id": "PROP-KOK-000626",
+    "owner_id": "OWN-KOK-000626"
+  },
+  {
+    "property_id": "PROP-KOK-000627",
+    "owner_id": "OWN-KOK-000627"
+  },
+  {
+    "property_id": "PROP-KOK-000628",
+    "owner_id": "OWN-KOK-000628"
+  },
+  {
+    "property_id": "PROP-KOK-000629",
+    "owner_id": "OWN-KOK-000629"
+  },
+  {
+    "property_id": "PROP-KOK-000630",
+    "owner_id": "OWN-KOK-000630"
+  },
+  {
+    "property_id": "PROP-KOK-000631",
+    "owner_id": "OWN-KOK-000631"
+  },
+  {
+    "property_id": "PROP-KOK-000632",
+    "owner_id": "OWN-KOK-000632"
+  },
+  {
+    "property_id": "PROP-KOK-000633",
+    "owner_id": "OWN-KOK-000633"
+  },
+  {
+    "property_id": "PROP-KOK-000634",
+    "owner_id": "OWN-KOK-000634"
+  },
+  {
+    "property_id": "PROP-KOK-000635",
+    "owner_id": "OWN-KOK-000635"
+  },
+  {
+    "property_id": "PROP-KOK-000636",
+    "owner_id": "OWN-KOK-000636"
+  },
+  {
+    "property_id": "PROP-KOK-000637",
+    "owner_id": "OWN-KOK-000637"
+  },
+  {
+    "property_id": "PROP-KOK-000638",
+    "owner_id": "OWN-KOK-000638"
+  },
+  {
+    "property_id": "PROP-KOK-000639",
+    "owner_id": "OWN-KOK-000639"
+  },
+  {
+    "property_id": "PROP-KOK-000640",
+    "owner_id": "OWN-KOK-000640"
+  },
+  {
+    "property_id": "PROP-KOK-000641",
+    "owner_id": "OWN-KOK-000641"
+  },
+  {
+    "property_id": "PROP-KOK-000642",
+    "owner_id": "OWN-KOK-000642"
+  },
+  {
+    "property_id": "PROP-KOK-000643",
+    "owner_id": "OWN-KOK-000643"
+  },
+  {
+    "property_id": "PROP-KOK-000644",
+    "owner_id": "OWN-KOK-000644"
+  },
+  {
+    "property_id": "PROP-KOK-000645",
+    "owner_id": "OWN-KOK-000645"
+  },
+  {
+    "property_id": "PROP-KOK-000646",
+    "owner_id": "OWN-KOK-000646"
+  },
+  {
+    "property_id": "PROP-KOK-000647",
+    "owner_id": "OWN-KOK-000647"
+  },
+  {
+    "property_id": "PROP-KOK-000648",
+    "owner_id": "OWN-KOK-000648"
+  },
+  {
+    "property_id": "PROP-KOK-000649",
+    "owner_id": "OWN-KOK-000649"
+  },
+  {
+    "property_id": "PROP-KOK-000650",
+    "owner_id": "OWN-KOK-000650"
+  },
+  {
+    "property_id": "PROP-KOK-000651",
+    "owner_id": "OWN-KOK-000651"
+  },
+  {
+    "property_id": "PROP-KOK-000652",
+    "owner_id": "OWN-KOK-000652"
+  },
+  {
+    "property_id": "PROP-KOK-000653",
+    "owner_id": "OWN-KOK-000653"
+  },
+  {
+    "property_id": "PROP-KOK-000654",
+    "owner_id": "OWN-KOK-000654"
+  },
+  {
+    "property_id": "PROP-KOK-000655",
+    "owner_id": "OWN-KOK-000655"
+  },
+  {
+    "property_id": "PROP-KOK-000656",
+    "owner_id": "OWN-KOK-000656"
+  },
+  {
+    "property_id": "PROP-KOK-000657",
+    "owner_id": "OWN-KOK-000657"
+  },
+  {
+    "property_id": "PROP-KOK-000658",
+    "owner_id": "OWN-KOK-000658"
+  },
+  {
+    "property_id": "PROP-KOK-000659",
+    "owner_id": "OWN-KOK-000659"
+  },
+  {
+    "property_id": "PROP-KOK-000660",
+    "owner_id": "OWN-KOK-000660"
+  },
+  {
+    "property_id": "PROP-KOK-000661",
+    "owner_id": "OWN-KOK-000661"
+  },
+  {
+    "property_id": "PROP-KOK-000662",
+    "owner_id": "OWN-KOK-000662"
+  },
+  {
+    "property_id": "PROP-KOK-000663",
+    "owner_id": "OWN-KOK-000663"
+  },
+  {
+    "property_id": "PROP-KOK-000664",
+    "owner_id": "OWN-KOK-000664"
+  },
+  {
+    "property_id": "PROP-KOK-000665",
+    "owner_id": "OWN-KOK-000665"
+  },
+  {
+    "property_id": "PROP-KOK-000666",
+    "owner_id": "OWN-KOK-000666"
+  },
+  {
+    "property_id": "PROP-KOK-000667",
+    "owner_id": "OWN-KOK-000667"
+  },
+  {
+    "property_id": "PROP-KOK-000668",
+    "owner_id": "OWN-KOK-000668"
+  },
+  {
+    "property_id": "PROP-KOK-000669",
+    "owner_id": "OWN-KOK-000669"
+  },
+  {
+    "property_id": "PROP-KOK-000670",
+    "owner_id": "OWN-KOK-000670"
+  },
+  {
+    "property_id": "PROP-KOK-000671",
+    "owner_id": "OWN-KOK-000671"
+  },
+  {
+    "property_id": "PROP-KOK-000672",
+    "owner_id": "OWN-KOK-000672"
+  },
+  {
+    "property_id": "PROP-KOK-000673",
+    "owner_id": "OWN-KOK-000673"
+  },
+  {
+    "property_id": "PROP-KOK-000674",
+    "owner_id": "OWN-KOK-000674"
+  },
+  {
+    "property_id": "PROP-KOK-000675",
+    "owner_id": "OWN-KOK-000675"
+  },
+  {
+    "property_id": "PROP-KOK-000676",
+    "owner_id": "OWN-KOK-000676"
+  },
+  {
+    "property_id": "PROP-KOK-000677",
+    "owner_id": "OWN-KOK-000677"
+  },
+  {
+    "property_id": "PROP-KOK-000678",
+    "owner_id": "OWN-KOK-000678"
+  },
+  {
+    "property_id": "PROP-KOK-000679",
+    "owner_id": "OWN-KOK-000679"
+  },
+  {
+    "property_id": "PROP-KOK-000680",
+    "owner_id": "OWN-KOK-000680"
+  },
+  {
+    "property_id": "PROP-KOK-000681",
+    "owner_id": "OWN-KOK-000681"
+  },
+  {
+    "property_id": "PROP-KOK-000682",
+    "owner_id": "OWN-KOK-000682"
+  },
+  {
+    "property_id": "PROP-KOK-000683",
+    "owner_id": "OWN-KOK-000683"
+  },
+  {
+    "property_id": "PROP-KOK-000684",
+    "owner_id": "OWN-KOK-000684"
+  },
+  {
+    "property_id": "PROP-KOK-000685",
+    "owner_id": "OWN-KOK-000685"
+  },
+  {
+    "property_id": "PROP-KOK-000686",
+    "owner_id": "OWN-KOK-000686"
+  },
+  {
+    "property_id": "PROP-KOK-000687",
+    "owner_id": "OWN-KOK-000687"
+  },
+  {
+    "property_id": "PROP-KOK-000688",
+    "owner_id": "OWN-KOK-000688"
+  },
+  {
+    "property_id": "PROP-KOK-000689",
+    "owner_id": "OWN-KOK-000689"
+  },
+  {
+    "property_id": "PROP-KOK-000690",
+    "owner_id": "OWN-KOK-000690"
+  },
+  {
+    "property_id": "PROP-KOK-000691",
+    "owner_id": "OWN-KOK-000691"
+  },
+  {
+    "property_id": "PROP-KOK-000692",
+    "owner_id": "OWN-KOK-000692"
+  },
+  {
+    "property_id": "PROP-KOK-000693",
+    "owner_id": "OWN-KOK-000693"
+  },
+  {
+    "property_id": "PROP-KOK-000694",
+    "owner_id": "OWN-KOK-000694"
+  },
+  {
+    "property_id": "PROP-KOK-000695",
+    "owner_id": "OWN-KOK-000695"
+  },
+  {
+    "property_id": "PROP-KOK-000696",
+    "owner_id": "OWN-KOK-000696"
+  },
+  {
+    "property_id": "PROP-KOK-000697",
+    "owner_id": "OWN-KOK-000697"
+  },
+  {
+    "property_id": "PROP-KOK-000698",
+    "owner_id": "OWN-KOK-000698"
+  },
+  {
+    "property_id": "PROP-KOK-000699",
+    "owner_id": "OWN-KOK-000699"
+  },
+  {
+    "property_id": "PROP-KOK-000700",
+    "owner_id": "OWN-KOK-000700"
+  },
+  {
+    "property_id": "PROP-KOK-000701",
+    "owner_id": "OWN-KOK-000701"
+  },
+  {
+    "property_id": "PROP-KOK-000702",
+    "owner_id": "OWN-KOK-000702"
+  },
+  {
+    "property_id": "PROP-KOK-000703",
+    "owner_id": "OWN-KOK-000703"
+  },
+  {
+    "property_id": "PROP-KOK-000704",
+    "owner_id": "OWN-KOK-000704"
+  },
+  {
+    "property_id": "PROP-KOK-000705",
+    "owner_id": "OWN-KOK-000705"
+  },
+  {
+    "property_id": "PROP-KOK-000706",
+    "owner_id": "OWN-KOK-000706"
+  },
+  {
+    "property_id": "PROP-KOK-000707",
+    "owner_id": "OWN-KOK-000707"
+  },
+  {
+    "property_id": "PROP-KOK-000708",
+    "owner_id": "OWN-KOK-000708"
+  },
+  {
+    "property_id": "PROP-KOK-000709",
+    "owner_id": "OWN-KOK-000709"
+  },
+  {
+    "property_id": "PROP-KOK-000710",
+    "owner_id": "OWN-KOK-000710"
+  },
+  {
+    "property_id": "PROP-KOK-000711",
+    "owner_id": "OWN-KOK-000711"
+  },
+  {
+    "property_id": "PROP-KOK-000712",
+    "owner_id": "OWN-KOK-000712"
+  },
+  {
+    "property_id": "PROP-KOK-000713",
+    "owner_id": "OWN-KOK-000713"
+  },
+  {
+    "property_id": "PROP-KOK-000714",
+    "owner_id": "OWN-KOK-000714"
+  },
+  {
+    "property_id": "PROP-KOK-000715",
+    "owner_id": "OWN-KOK-000715"
+  },
+  {
+    "property_id": "PROP-KOK-000716",
+    "owner_id": "OWN-KOK-000716"
+  },
+  {
+    "property_id": "PROP-KOK-000717",
+    "owner_id": "OWN-KOK-000717"
+  },
+  {
+    "property_id": "PROP-KOK-000718",
+    "owner_id": "OWN-KOK-000718"
+  },
+  {
+    "property_id": "PROP-KOK-000719",
+    "owner_id": "OWN-KOK-000719"
+  },
+  {
+    "property_id": "PROP-KOK-000720",
+    "owner_id": "OWN-KOK-000720"
+  },
+  {
+    "property_id": "PROP-KOK-000721",
+    "owner_id": "OWN-KOK-000721"
+  },
+  {
+    "property_id": "PROP-KOK-000722",
+    "owner_id": "OWN-KOK-000722"
+  },
+  {
+    "property_id": "PROP-KOK-000723",
+    "owner_id": "OWN-KOK-000723"
+  },
+  {
+    "property_id": "PROP-KOK-000724",
+    "owner_id": "OWN-KOK-000724"
+  },
+  {
+    "property_id": "PROP-KOK-000725",
+    "owner_id": "OWN-KOK-000725"
+  },
+  {
+    "property_id": "PROP-KOK-000726",
+    "owner_id": "OWN-KOK-000726"
+  },
+  {
+    "property_id": "PROP-KOK-000727",
+    "owner_id": "OWN-KOK-000727"
+  },
+  {
+    "property_id": "PROP-KOK-000728",
+    "owner_id": "OWN-KOK-000728"
+  },
+  {
+    "property_id": "PROP-KOK-000729",
+    "owner_id": "OWN-KOK-000729"
+  },
+  {
+    "property_id": "PROP-KOK-000730",
+    "owner_id": "OWN-KOK-000730"
+  },
+  {
+    "property_id": "PROP-KOK-000731",
+    "owner_id": "OWN-KOK-000731"
+  },
+  {
+    "property_id": "PROP-KOK-000732",
+    "owner_id": "OWN-KOK-000732"
+  },
+  {
+    "property_id": "PROP-KOK-000733",
+    "owner_id": "OWN-KOK-000733"
+  },
+  {
+    "property_id": "PROP-KOK-000734",
+    "owner_id": "OWN-KOK-000734"
+  },
+  {
+    "property_id": "PROP-KOK-000735",
+    "owner_id": "OWN-KOK-000735"
+  },
+  {
+    "property_id": "PROP-KOK-000736",
+    "owner_id": "OWN-KOK-000736"
+  },
+  {
+    "property_id": "PROP-KOK-000737",
+    "owner_id": "OWN-KOK-000737"
+  },
+  {
+    "property_id": "PROP-KOK-000738",
+    "owner_id": "OWN-KOK-000738"
+  },
+  {
+    "property_id": "PROP-KOK-000739",
+    "owner_id": "OWN-KOK-000739"
+  },
+  {
+    "property_id": "PROP-KOK-000740",
+    "owner_id": "OWN-KOK-000740"
+  },
+  {
+    "property_id": "PROP-KOK-000741",
+    "owner_id": "OWN-KOK-000741"
+  },
+  {
+    "property_id": "PROP-KOK-000742",
+    "owner_id": "OWN-KOK-000742"
+  },
+  {
+    "property_id": "PROP-KOK-000743",
+    "owner_id": "OWN-KOK-000743"
+  },
+  {
+    "property_id": "PROP-KOK-000744",
+    "owner_id": "OWN-KOK-000744"
+  },
+  {
+    "property_id": "PROP-KOK-000745",
+    "owner_id": "OWN-KOK-000745"
+  },
+  {
+    "property_id": "PROP-KOK-000746",
+    "owner_id": "OWN-KOK-000746"
+  },
+  {
+    "property_id": "PROP-KOK-000747",
+    "owner_id": "OWN-KOK-000747"
+  },
+  {
+    "property_id": "PROP-KOK-000748",
+    "owner_id": "OWN-KOK-000748"
+  },
+  {
+    "property_id": "PROP-KOK-000749",
+    "owner_id": "OWN-KOK-000749"
+  },
+  {
+    "property_id": "PROP-KOK-000750",
+    "owner_id": "OWN-KOK-000750"
+  },
+  {
+    "property_id": "PROP-KOK-000751",
+    "owner_id": "OWN-KOK-000751"
+  },
+  {
+    "property_id": "PROP-KOK-000752",
+    "owner_id": "OWN-KOK-000752"
+  },
+  {
+    "property_id": "PROP-KOK-000753",
+    "owner_id": "OWN-KOK-000753"
+  },
+  {
+    "property_id": "PROP-KOK-000754",
+    "owner_id": "OWN-KOK-000754"
+  },
+  {
+    "property_id": "PROP-KOK-000755",
+    "owner_id": "OWN-KOK-000755"
+  },
+  {
+    "property_id": "PROP-KOK-000756",
+    "owner_id": "OWN-KOK-000756"
+  },
+  {
+    "property_id": "PROP-KOK-000757",
+    "owner_id": "OWN-KOK-000757"
+  },
+  {
+    "property_id": "PROP-KOK-000758",
+    "owner_id": "OWN-KOK-000758"
+  },
+  {
+    "property_id": "PROP-KOK-000759",
+    "owner_id": "OWN-KOK-000759"
+  },
+  {
+    "property_id": "PROP-KOK-000760",
+    "owner_id": "OWN-KOK-000760"
+  },
+  {
+    "property_id": "PROP-KOK-000761",
+    "owner_id": "OWN-KOK-000761"
+  },
+  {
+    "property_id": "PROP-KOK-000762",
+    "owner_id": "OWN-KOK-000762"
+  },
+  {
+    "property_id": "PROP-KOK-000763",
+    "owner_id": "OWN-KOK-000763"
+  },
+  {
+    "property_id": "PROP-KOK-000764",
+    "owner_id": "OWN-KOK-000764"
+  },
+  {
+    "property_id": "PROP-KOK-000765",
+    "owner_id": "OWN-KOK-000765"
+  },
+  {
+    "property_id": "PROP-KOK-000766",
+    "owner_id": "OWN-KOK-000766"
+  },
+  {
+    "property_id": "PROP-KOK-000767",
+    "owner_id": "OWN-KOK-000767"
+  },
+  {
+    "property_id": "PROP-KOK-000768",
+    "owner_id": "OWN-KOK-000768"
+  },
+  {
+    "property_id": "PROP-KOK-000769",
+    "owner_id": "OWN-KOK-000769"
+  },
+  {
+    "property_id": "PROP-KOK-000770",
+    "owner_id": "OWN-KOK-000770"
+  },
+  {
+    "property_id": "PROP-KOK-000771",
+    "owner_id": "OWN-KOK-000771"
+  },
+  {
+    "property_id": "PROP-KOK-000772",
+    "owner_id": "OWN-KOK-000772"
+  },
+  {
+    "property_id": "PROP-KOK-000773",
+    "owner_id": "OWN-KOK-000773"
+  },
+  {
+    "property_id": "PROP-KOK-000774",
+    "owner_id": "OWN-KOK-000774"
+  },
+  {
+    "property_id": "PROP-KOK-000775",
+    "owner_id": "OWN-KOK-000775"
+  },
+  {
+    "property_id": "PROP-KOK-000776",
+    "owner_id": "OWN-KOK-000776"
+  },
+  {
+    "property_id": "PROP-KOK-000777",
+    "owner_id": "OWN-KOK-000777"
+  },
+  {
+    "property_id": "PROP-KOK-000778",
+    "owner_id": "OWN-KOK-000778"
+  },
+  {
+    "property_id": "PROP-KOK-000779",
+    "owner_id": "OWN-KOK-000779"
+  },
+  {
+    "property_id": "PROP-KOK-000780",
+    "owner_id": "OWN-KOK-000780"
+  },
+  {
+    "property_id": "PROP-KOK-000781",
+    "owner_id": "OWN-KOK-000781"
+  },
+  {
+    "property_id": "PROP-KOK-000782",
+    "owner_id": "OWN-KOK-000782"
+  },
+  {
+    "property_id": "PROP-KOK-000783",
+    "owner_id": "OWN-KOK-000783"
+  },
+  {
+    "property_id": "PROP-KOK-000784",
+    "owner_id": "OWN-KOK-000784"
+  },
+  {
+    "property_id": "PROP-KOK-000785",
+    "owner_id": "OWN-KOK-000785"
+  },
+  {
+    "property_id": "PROP-KOK-000786",
+    "owner_id": "OWN-KOK-000786"
+  },
+  {
+    "property_id": "PROP-KOK-000787",
+    "owner_id": "OWN-KOK-000787"
+  },
+  {
+    "property_id": "PROP-KOK-000788",
+    "owner_id": "OWN-KOK-000788"
+  },
+  {
+    "property_id": "PROP-KOK-000789",
+    "owner_id": "OWN-KOK-000789"
+  },
+  {
+    "property_id": "PROP-KOK-000790",
+    "owner_id": "OWN-KOK-000790"
+  },
+  {
+    "property_id": "PROP-KOK-000791",
+    "owner_id": "OWN-KOK-000791"
+  },
+  {
+    "property_id": "PROP-KOK-000792",
+    "owner_id": "OWN-KOK-000792"
+  },
+  {
+    "property_id": "PROP-KOK-000793",
+    "owner_id": "OWN-KOK-000793"
+  },
+  {
+    "property_id": "PROP-KOK-000794",
+    "owner_id": "OWN-KOK-000794"
+  },
+  {
+    "property_id": "PROP-KOK-000795",
+    "owner_id": "OWN-KOK-000795"
+  },
+  {
+    "property_id": "PROP-KOK-000796",
+    "owner_id": "OWN-KOK-000796"
+  },
+  {
+    "property_id": "PROP-KOK-000797",
+    "owner_id": "OWN-KOK-000797"
+  },
+  {
+    "property_id": "PROP-KOK-000798",
+    "owner_id": "OWN-KOK-000798"
+  },
+  {
+    "property_id": "PROP-KOK-000799",
+    "owner_id": "OWN-KOK-000799"
+  },
+  {
+    "property_id": "PROP-KOK-000800",
+    "owner_id": "OWN-KOK-000800"
+  },
+  {
+    "property_id": "PROP-KOK-000801",
+    "owner_id": "OWN-KOK-000801"
+  },
+  {
+    "property_id": "PROP-KOK-000802",
+    "owner_id": "OWN-KOK-000802"
+  },
+  {
+    "property_id": "PROP-KOK-000803",
+    "owner_id": "OWN-KOK-000803"
+  },
+  {
+    "property_id": "PROP-KOK-000804",
+    "owner_id": "OWN-KOK-000804"
+  },
+  {
+    "property_id": "PROP-KOK-000805",
+    "owner_id": "OWN-KOK-000805"
+  },
+  {
+    "property_id": "PROP-KOK-000806",
+    "owner_id": "OWN-KOK-000806"
+  },
+  {
+    "property_id": "PROP-MOK-000001",
+    "owner_id": "OWN-MOK-000001"
+  },
+  {
+    "property_id": "PROP-MOK-000002",
+    "owner_id": "OWN-MOK-000002"
+  },
+  {
+    "property_id": "PROP-MOK-000003",
+    "owner_id": "OWN-MOK-000003"
+  },
+  {
+    "property_id": "PROP-MOK-000004",
+    "owner_id": "OWN-MOK-000004"
+  },
+  {
+    "property_id": "PROP-MOK-000005",
+    "owner_id": "OWN-MOK-000005"
+  },
+  {
+    "property_id": "PROP-MOK-000006",
+    "owner_id": "OWN-MOK-000006"
+  },
+  {
+    "property_id": "PROP-MOK-000007",
+    "owner_id": "OWN-MOK-000007"
+  },
+  {
+    "property_id": "PROP-MOK-000008",
+    "owner_id": "OWN-MOK-000008"
+  },
+  {
+    "property_id": "PROP-MOK-000009",
+    "owner_id": "OWN-MOK-000009"
+  },
+  {
+    "property_id": "PROP-MOK-000010",
+    "owner_id": "OWN-MOK-000010"
+  },
+  {
+    "property_id": "PROP-MOK-000011",
+    "owner_id": "OWN-MOK-000011"
+  },
+  {
+    "property_id": "PROP-MOK-000012",
+    "owner_id": "OWN-MOK-000012"
+  },
+  {
+    "property_id": "PROP-MOK-000013",
+    "owner_id": "OWN-MOK-000013"
+  },
+  {
+    "property_id": "PROP-MOK-000014",
+    "owner_id": "OWN-MOK-000014"
+  },
+  {
+    "property_id": "PROP-MOK-000015",
+    "owner_id": "OWN-MOK-000015"
+  },
+  {
+    "property_id": "PROP-MOK-000016",
+    "owner_id": "OWN-MOK-000016"
+  },
+  {
+    "property_id": "PROP-MOK-000017",
+    "owner_id": "OWN-MOK-000017"
+  },
+  {
+    "property_id": "PROP-MOK-000018",
+    "owner_id": "OWN-MOK-000018"
+  },
+  {
+    "property_id": "PROP-MOK-000019",
+    "owner_id": "OWN-MOK-000019"
+  },
+  {
+    "property_id": "PROP-MOK-000020",
+    "owner_id": "OWN-MOK-000020"
+  },
+  {
+    "property_id": "PROP-MOK-000021",
+    "owner_id": "OWN-MOK-000021"
+  },
+  {
+    "property_id": "PROP-MOK-000022",
+    "owner_id": "OWN-MOK-000022"
+  },
+  {
+    "property_id": "PROP-MOK-000023",
+    "owner_id": "OWN-MOK-000023"
+  },
+  {
+    "property_id": "PROP-MOK-000024",
+    "owner_id": "OWN-MOK-000024"
+  },
+  {
+    "property_id": "PROP-MOK-000025",
+    "owner_id": "OWN-MOK-000025"
+  },
+  {
+    "property_id": "PROP-MOK-000026",
+    "owner_id": "OWN-MOK-000026"
+  },
+  {
+    "property_id": "PROP-MOK-000027",
+    "owner_id": "OWN-MOK-000027"
+  },
+  {
+    "property_id": "PROP-MOK-000028",
+    "owner_id": "OWN-MOK-000028"
+  },
+  {
+    "property_id": "PROP-MOK-000029",
+    "owner_id": "OWN-MOK-000029"
+  },
+  {
+    "property_id": "PROP-MOK-000030",
+    "owner_id": "OWN-MOK-000030"
+  },
+  {
+    "property_id": "PROP-MOK-000031",
+    "owner_id": "OWN-MOK-000031"
+  },
+  {
+    "property_id": "PROP-MOK-000032",
+    "owner_id": "OWN-MOK-000032"
+  },
+  {
+    "property_id": "PROP-MOK-000033",
+    "owner_id": "OWN-MOK-000033"
+  },
+  {
+    "property_id": "PROP-MOK-000034",
+    "owner_id": "OWN-MOK-000034"
+  },
+  {
+    "property_id": "PROP-MOK-000035",
+    "owner_id": "OWN-MOK-000035"
+  },
+  {
+    "property_id": "PROP-MOK-000036",
+    "owner_id": "OWN-MOK-000036"
+  },
+  {
+    "property_id": "PROP-MOK-000037",
+    "owner_id": "OWN-MOK-000037"
+  },
+  {
+    "property_id": "PROP-MOK-000038",
+    "owner_id": "OWN-MOK-000038"
+  },
+  {
+    "property_id": "PROP-MOK-000039",
+    "owner_id": "OWN-MOK-000039"
+  },
+  {
+    "property_id": "PROP-MOK-000040",
+    "owner_id": "OWN-MOK-000040"
+  },
+  {
+    "property_id": "PROP-MOK-000041",
+    "owner_id": "OWN-MOK-000041"
+  },
+  {
+    "property_id": "PROP-MOK-000042",
+    "owner_id": "OWN-MOK-000042"
+  },
+  {
+    "property_id": "PROP-MOK-000043",
+    "owner_id": "OWN-MOK-000043"
+  },
+  {
+    "property_id": "PROP-MOK-000044",
+    "owner_id": "OWN-MOK-000044"
+  },
+  {
+    "property_id": "PROP-MOK-000045",
+    "owner_id": "OWN-MOK-000045"
+  },
+  {
+    "property_id": "PROP-MOK-000046",
+    "owner_id": "OWN-MOK-000046"
+  },
+  {
+    "property_id": "PROP-MOK-000047",
+    "owner_id": "OWN-MOK-000047"
+  },
+  {
+    "property_id": "PROP-MOK-000048",
+    "owner_id": "OWN-MOK-000048"
+  },
+  {
+    "property_id": "PROP-MOK-000049",
+    "owner_id": "OWN-MOK-000049"
+  },
+  {
+    "property_id": "PROP-MOK-000050",
+    "owner_id": "OWN-MOK-000050"
+  },
+  {
+    "property_id": "PROP-MOK-000051",
+    "owner_id": "OWN-MOK-000051"
+  },
+  {
+    "property_id": "PROP-MOK-000052",
+    "owner_id": "OWN-MOK-000052"
+  },
+  {
+    "property_id": "PROP-MOK-000053",
+    "owner_id": "OWN-MOK-000053"
+  },
+  {
+    "property_id": "PROP-MOK-000054",
+    "owner_id": "OWN-MOK-000054"
+  },
+  {
+    "property_id": "PROP-MOK-000055",
+    "owner_id": "OWN-MOK-000055"
+  },
+  {
+    "property_id": "PROP-MOK-000056",
+    "owner_id": "OWN-MOK-000056"
+  },
+  {
+    "property_id": "PROP-MOK-000057",
+    "owner_id": "OWN-MOK-000057"
+  },
+  {
+    "property_id": "PROP-MOK-000058",
+    "owner_id": "OWN-MOK-000058"
+  },
+  {
+    "property_id": "PROP-MOK-000059",
+    "owner_id": "OWN-MOK-000059"
+  },
+  {
+    "property_id": "PROP-MOK-000060",
+    "owner_id": "OWN-MOK-000060"
+  },
+  {
+    "property_id": "PROP-MOK-000061",
+    "owner_id": "OWN-MOK-000061"
+  },
+  {
+    "property_id": "PROP-MOK-000062",
+    "owner_id": "OWN-MOK-000062"
+  },
+  {
+    "property_id": "PROP-MOK-000063",
+    "owner_id": "OWN-MOK-000063"
+  },
+  {
+    "property_id": "PROP-MOK-000064",
+    "owner_id": "OWN-MOK-000064"
+  },
+  {
+    "property_id": "PROP-MOK-000065",
+    "owner_id": "OWN-MOK-000065"
+  },
+  {
+    "property_id": "PROP-MOK-000066",
+    "owner_id": "OWN-MOK-000066"
+  },
+  {
+    "property_id": "PROP-MOK-000067",
+    "owner_id": "OWN-MOK-000067"
+  },
+  {
+    "property_id": "PROP-MOK-000068",
+    "owner_id": "OWN-MOK-000068"
+  },
+  {
+    "property_id": "PROP-MOK-000069",
+    "owner_id": "OWN-MOK-000069"
+  },
+  {
+    "property_id": "PROP-MOK-000070",
+    "owner_id": "OWN-MOK-000070"
+  },
+  {
+    "property_id": "PROP-MOK-000071",
+    "owner_id": "OWN-MOK-000071"
+  },
+  {
+    "property_id": "PROP-MOK-000072",
+    "owner_id": "OWN-MOK-000072"
+  },
+  {
+    "property_id": "PROP-MOK-000073",
+    "owner_id": "OWN-MOK-000073"
+  },
+  {
+    "property_id": "PROP-MOK-000074",
+    "owner_id": "OWN-MOK-000074"
+  },
+  {
+    "property_id": "PROP-MOK-000075",
+    "owner_id": "OWN-MOK-000075"
+  },
+  {
+    "property_id": "PROP-MOK-000076",
+    "owner_id": "OWN-MOK-000076"
+  },
+  {
+    "property_id": "PROP-MOK-000077",
+    "owner_id": "OWN-MOK-000077"
+  },
+  {
+    "property_id": "PROP-MOK-000078",
+    "owner_id": "OWN-MOK-000078"
+  },
+  {
+    "property_id": "PROP-MOK-000079",
+    "owner_id": "OWN-MOK-000079"
+  },
+  {
+    "property_id": "PROP-MOK-000080",
+    "owner_id": "OWN-MOK-000080"
+  },
+  {
+    "property_id": "PROP-MOK-000081",
+    "owner_id": "OWN-MOK-000081"
+  },
+  {
+    "property_id": "PROP-MOK-000082",
+    "owner_id": "OWN-MOK-000082"
+  },
+  {
+    "property_id": "PROP-MOK-000083",
+    "owner_id": "OWN-MOK-000083"
+  },
+  {
+    "property_id": "PROP-MOK-000084",
+    "owner_id": "OWN-MOK-000084"
+  },
+  {
+    "property_id": "PROP-MOK-000085",
+    "owner_id": "OWN-MOK-000085"
+  },
+  {
+    "property_id": "PROP-MOK-000086",
+    "owner_id": "OWN-MOK-000086"
+  },
+  {
+    "property_id": "PROP-MOK-000087",
+    "owner_id": "OWN-MOK-000087"
+  },
+  {
+    "property_id": "PROP-MOK-000088",
+    "owner_id": "OWN-MOK-000088"
+  },
+  {
+    "property_id": "PROP-MOK-000089",
+    "owner_id": "OWN-MOK-000089"
+  },
+  {
+    "property_id": "PROP-MOK-000090",
+    "owner_id": "OWN-MOK-000090"
+  },
+  {
+    "property_id": "PROP-MOK-000091",
+    "owner_id": "OWN-MOK-000091"
+  },
+  {
+    "property_id": "PROP-MOK-000092",
+    "owner_id": "OWN-MOK-000092"
+  },
+  {
+    "property_id": "PROP-MOK-000093",
+    "owner_id": "OWN-MOK-000093"
+  },
+  {
+    "property_id": "PROP-MOK-000094",
+    "owner_id": "OWN-MOK-000094"
+  },
+  {
+    "property_id": "PROP-MOK-000095",
+    "owner_id": "OWN-MOK-000095"
+  },
+  {
+    "property_id": "PROP-MOK-000096",
+    "owner_id": "OWN-MOK-000096"
+  },
+  {
+    "property_id": "PROP-MOK-000097",
+    "owner_id": "OWN-MOK-000097"
+  },
+  {
+    "property_id": "PROP-MOK-000098",
+    "owner_id": "OWN-MOK-000098"
+  },
+  {
+    "property_id": "PROP-MOK-000099",
+    "owner_id": "OWN-MOK-000099"
+  },
+  {
+    "property_id": "PROP-MOK-000100",
+    "owner_id": "OWN-MOK-000100"
+  },
+  {
+    "property_id": "PROP-MOK-000101",
+    "owner_id": "OWN-MOK-000101"
+  },
+  {
+    "property_id": "PROP-MOK-000102",
+    "owner_id": "OWN-MOK-000102"
+  },
+  {
+    "property_id": "PROP-MOK-000103",
+    "owner_id": "OWN-MOK-000103"
+  },
+  {
+    "property_id": "PROP-MOK-000104",
+    "owner_id": "OWN-MOK-000104"
+  },
+  {
+    "property_id": "PROP-MOK-000105",
+    "owner_id": "OWN-MOK-000105"
+  },
+  {
+    "property_id": "PROP-MOK-000106",
+    "owner_id": "OWN-MOK-000106"
+  },
+  {
+    "property_id": "PROP-MOK-000107",
+    "owner_id": "OWN-MOK-000107"
+  },
+  {
+    "property_id": "PROP-MOK-000108",
+    "owner_id": "OWN-MOK-000108"
+  },
+  {
+    "property_id": "PROP-MOK-000109",
+    "owner_id": "OWN-MOK-000109"
+  },
+  {
+    "property_id": "PROP-MOK-000110",
+    "owner_id": "OWN-MOK-000110"
+  },
+  {
+    "property_id": "PROP-MOK-000111",
+    "owner_id": "OWN-MOK-000111"
+  },
+  {
+    "property_id": "PROP-MOK-000112",
+    "owner_id": "OWN-MOK-000112"
+  },
+  {
+    "property_id": "PROP-MOK-000113",
+    "owner_id": "OWN-MOK-000113"
+  },
+  {
+    "property_id": "PROP-MOK-000114",
+    "owner_id": "OWN-MOK-000114"
+  },
+  {
+    "property_id": "PROP-MOK-000115",
+    "owner_id": "OWN-MOK-000115"
+  },
+  {
+    "property_id": "PROP-MOK-000116",
+    "owner_id": "OWN-MOK-000116"
+  },
+  {
+    "property_id": "PROP-MOK-000117",
+    "owner_id": "OWN-MOK-000117"
+  },
+  {
+    "property_id": "PROP-MOK-000118",
+    "owner_id": "OWN-MOK-000118"
+  },
+  {
+    "property_id": "PROP-MOK-000119",
+    "owner_id": "OWN-MOK-000119"
+  },
+  {
+    "property_id": "PROP-MOK-000120",
+    "owner_id": "OWN-MOK-000120"
+  },
+  {
+    "property_id": "PROP-MOK-000121",
+    "owner_id": "OWN-MOK-000121"
+  },
+  {
+    "property_id": "PROP-MOK-000122",
+    "owner_id": "OWN-MOK-000122"
+  },
+  {
+    "property_id": "PROP-MOK-000123",
+    "owner_id": "OWN-MOK-000123"
+  },
+  {
+    "property_id": "PROP-MOK-000124",
+    "owner_id": "OWN-MOK-000124"
+  },
+  {
+    "property_id": "PROP-MOK-000125",
+    "owner_id": "OWN-MOK-000125"
+  },
+  {
+    "property_id": "PROP-MOK-000126",
+    "owner_id": "OWN-MOK-000126"
+  },
+  {
+    "property_id": "PROP-MOK-000127",
+    "owner_id": "OWN-MOK-000127"
+  },
+  {
+    "property_id": "PROP-MOK-000128",
+    "owner_id": "OWN-MOK-000128"
+  },
+  {
+    "property_id": "PROP-MOK-000129",
+    "owner_id": "OWN-MOK-000129"
+  },
+  {
+    "property_id": "PROP-MOK-000130",
+    "owner_id": "OWN-MOK-000130"
+  },
+  {
+    "property_id": "PROP-MOK-000131",
+    "owner_id": "OWN-MOK-000131"
+  },
+  {
+    "property_id": "PROP-MOK-000132",
+    "owner_id": "OWN-MOK-000132"
+  },
+  {
+    "property_id": "PROP-MOK-000133",
+    "owner_id": "OWN-MOK-000133"
+  },
+  {
+    "property_id": "PROP-MOK-000134",
+    "owner_id": "OWN-MOK-000134"
+  },
+  {
+    "property_id": "PROP-MOK-000135",
+    "owner_id": "OWN-MOK-000135"
+  },
+  {
+    "property_id": "PROP-MOK-000136",
+    "owner_id": "OWN-MOK-000136"
+  },
+  {
+    "property_id": "PROP-MOK-000137",
+    "owner_id": "OWN-MOK-000137"
+  },
+  {
+    "property_id": "PROP-MOK-000138",
+    "owner_id": "OWN-MOK-000138"
+  },
+  {
+    "property_id": "PROP-MOK-000139",
+    "owner_id": "OWN-MOK-000139"
+  },
+  {
+    "property_id": "PROP-MOK-000140",
+    "owner_id": "OWN-MOK-000140"
+  },
+  {
+    "property_id": "PROP-MOK-000141",
+    "owner_id": "OWN-MOK-000141"
+  },
+  {
+    "property_id": "PROP-MOK-000142",
+    "owner_id": "OWN-MOK-000142"
+  },
+  {
+    "property_id": "PROP-MOK-000143",
+    "owner_id": "OWN-MOK-000143"
+  },
+  {
+    "property_id": "PROP-MOK-000144",
+    "owner_id": "OWN-MOK-000144"
+  },
+  {
+    "property_id": "PROP-MOK-000145",
+    "owner_id": "OWN-MOK-000145"
+  },
+  {
+    "property_id": "PROP-MOK-000146",
+    "owner_id": "OWN-MOK-000146"
+  },
+  {
+    "property_id": "PROP-MOK-000147",
+    "owner_id": "OWN-MOK-000147"
+  },
+  {
+    "property_id": "PROP-MOK-000148",
+    "owner_id": "OWN-MOK-000148"
+  },
+  {
+    "property_id": "PROP-MOK-000149",
+    "owner_id": "OWN-MOK-000149"
+  },
+  {
+    "property_id": "PROP-MOK-000150",
+    "owner_id": "OWN-MOK-000150"
+  },
+  {
+    "property_id": "PROP-MOK-000151",
+    "owner_id": "OWN-MOK-000151"
+  },
+  {
+    "property_id": "PROP-MOK-000152",
+    "owner_id": "OWN-MOK-000152"
+  },
+  {
+    "property_id": "PROP-MOK-000153",
+    "owner_id": "OWN-MOK-000153"
+  },
+  {
+    "property_id": "PROP-MOK-000154",
+    "owner_id": "OWN-MOK-000154"
+  },
+  {
+    "property_id": "PROP-MOK-000155",
+    "owner_id": "OWN-MOK-000155"
+  },
+  {
+    "property_id": "PROP-MOK-000156",
+    "owner_id": "OWN-MOK-000156"
+  },
+  {
+    "property_id": "PROP-MOK-000157",
+    "owner_id": "OWN-MOK-000157"
+  },
+  {
+    "property_id": "PROP-MOK-000158",
+    "owner_id": "OWN-MOK-000158"
+  },
+  {
+    "property_id": "PROP-MOK-000159",
+    "owner_id": "OWN-MOK-000159"
+  },
+  {
+    "property_id": "PROP-MOK-000160",
+    "owner_id": "OWN-MOK-000160"
+  },
+  {
+    "property_id": "PROP-MOK-000161",
+    "owner_id": "OWN-MOK-000161"
+  },
+  {
+    "property_id": "PROP-MOK-000162",
+    "owner_id": "OWN-MOK-000162"
+  },
+  {
+    "property_id": "PROP-MOK-000163",
+    "owner_id": "OWN-MOK-000163"
+  },
+  {
+    "property_id": "PROP-MOK-000164",
+    "owner_id": "OWN-MOK-000164"
+  },
+  {
+    "property_id": "PROP-MOK-000165",
+    "owner_id": "OWN-MOK-000165"
+  },
+  {
+    "property_id": "PROP-MOK-000166",
+    "owner_id": "OWN-MOK-000166"
+  },
+  {
+    "property_id": "PROP-MOK-000167",
+    "owner_id": "OWN-MOK-000167"
+  },
+  {
+    "property_id": "PROP-MOK-000168",
+    "owner_id": "OWN-MOK-000168"
+  },
+  {
+    "property_id": "PROP-MOK-000169",
+    "owner_id": "OWN-MOK-000169"
+  },
+  {
+    "property_id": "PROP-MOK-000170",
+    "owner_id": "OWN-MOK-000170"
+  },
+  {
+    "property_id": "PROP-MOK-000171",
+    "owner_id": "OWN-MOK-000171"
+  },
+  {
+    "property_id": "PROP-MOK-000172",
+    "owner_id": "OWN-MOK-000172"
+  },
+  {
+    "property_id": "PROP-MOK-000173",
+    "owner_id": "OWN-MOK-000173"
+  },
+  {
+    "property_id": "PROP-MOK-000174",
+    "owner_id": "OWN-MOK-000174"
+  },
+  {
+    "property_id": "PROP-MOK-000175",
+    "owner_id": "OWN-MOK-000175"
+  },
+  {
+    "property_id": "PROP-MOK-000176",
+    "owner_id": "OWN-MOK-000176"
+  },
+  {
+    "property_id": "PROP-MOK-000177",
+    "owner_id": "OWN-MOK-000177"
+  },
+  {
+    "property_id": "PROP-MOK-000178",
+    "owner_id": "OWN-MOK-000178"
+  },
+  {
+    "property_id": "PROP-MOK-000179",
+    "owner_id": "OWN-MOK-000179"
+  },
+  {
+    "property_id": "PROP-MOK-000180",
+    "owner_id": "OWN-MOK-000180"
+  },
+  {
+    "property_id": "PROP-MOK-000181",
+    "owner_id": "OWN-MOK-000181"
+  },
+  {
+    "property_id": "PROP-MOK-000182",
+    "owner_id": "OWN-MOK-000182"
+  },
+  {
+    "property_id": "PROP-MOK-000183",
+    "owner_id": "OWN-MOK-000183"
+  },
+  {
+    "property_id": "PROP-MOK-000184",
+    "owner_id": "OWN-MOK-000184"
+  },
+  {
+    "property_id": "PROP-MOK-000185",
+    "owner_id": "OWN-MOK-000185"
+  },
+  {
+    "property_id": "PROP-MOK-000186",
+    "owner_id": "OWN-MOK-000186"
+  },
+  {
+    "property_id": "PROP-MOK-000187",
+    "owner_id": "OWN-MOK-000187"
+  },
+  {
+    "property_id": "PROP-MOK-000188",
+    "owner_id": "OWN-MOK-000188"
+  },
+  {
+    "property_id": "PROP-MOK-000189",
+    "owner_id": "OWN-MOK-000189"
+  },
+  {
+    "property_id": "PROP-MOK-000190",
+    "owner_id": "OWN-MOK-000190"
+  },
+  {
+    "property_id": "PROP-MOK-000191",
+    "owner_id": "OWN-MOK-000191"
+  },
+  {
+    "property_id": "PROP-MOK-000192",
+    "owner_id": "OWN-MOK-000192"
+  },
+  {
+    "property_id": "PROP-MOK-000193",
+    "owner_id": "OWN-MOK-000193"
+  },
+  {
+    "property_id": "PROP-MOK-000194",
+    "owner_id": "OWN-MOK-000194"
+  },
+  {
+    "property_id": "PROP-MOK-000195",
+    "owner_id": "OWN-MOK-000195"
+  },
+  {
+    "property_id": "PROP-MOK-000196",
+    "owner_id": "OWN-MOK-000196"
+  },
+  {
+    "property_id": "PROP-MOK-000197",
+    "owner_id": "OWN-MOK-000197"
+  },
+  {
+    "property_id": "PROP-MOK-000198",
+    "owner_id": "OWN-MOK-000198"
+  },
+  {
+    "property_id": "PROP-MOK-000199",
+    "owner_id": "OWN-MOK-000199"
+  },
+  {
+    "property_id": "PROP-MOK-000200",
+    "owner_id": "OWN-MOK-000200"
+  },
+  {
+    "property_id": "PROP-MOK-000201",
+    "owner_id": "OWN-MOK-000201"
+  },
+  {
+    "property_id": "PROP-MOK-000202",
+    "owner_id": "OWN-MOK-000202"
+  },
+  {
+    "property_id": "PROP-MOK-000203",
+    "owner_id": "OWN-MOK-000203"
+  },
+  {
+    "property_id": "PROP-MOK-000204",
+    "owner_id": "OWN-MOK-000204"
+  },
+  {
+    "property_id": "PROP-MOK-000205",
+    "owner_id": "OWN-MOK-000205"
+  },
+  {
+    "property_id": "PROP-MOK-000206",
+    "owner_id": "OWN-MOK-000206"
+  },
+  {
+    "property_id": "PROP-MOK-000207",
+    "owner_id": "OWN-MOK-000207"
+  },
+  {
+    "property_id": "PROP-MOK-000208",
+    "owner_id": "OWN-MOK-000208"
+  },
+  {
+    "property_id": "PROP-MOK-000209",
+    "owner_id": "OWN-MOK-000209"
+  },
+  {
+    "property_id": "PROP-MOK-000210",
+    "owner_id": "OWN-MOK-000210"
+  },
+  {
+    "property_id": "PROP-MOK-000211",
+    "owner_id": "OWN-MOK-000211"
+  },
+  {
+    "property_id": "PROP-MOK-000212",
+    "owner_id": "OWN-MOK-000212"
+  },
+  {
+    "property_id": "PROP-MOK-000213",
+    "owner_id": "OWN-MOK-000213"
+  },
+  {
+    "property_id": "PROP-MOK-000214",
+    "owner_id": "OWN-MOK-000214"
+  },
+  {
+    "property_id": "PROP-MOK-000215",
+    "owner_id": "OWN-MOK-000215"
+  },
+  {
+    "property_id": "PROP-MOK-000216",
+    "owner_id": "OWN-MOK-000216"
+  },
+  {
+    "property_id": "PROP-MOK-000217",
+    "owner_id": "OWN-MOK-000217"
+  },
+  {
+    "property_id": "PROP-MOK-000218",
+    "owner_id": "OWN-MOK-000218"
+  },
+  {
+    "property_id": "PROP-MOK-000219",
+    "owner_id": "OWN-MOK-000219"
+  },
+  {
+    "property_id": "PROP-MOK-000220",
+    "owner_id": "OWN-MOK-000220"
+  },
+  {
+    "property_id": "PROP-MOK-000221",
+    "owner_id": "OWN-MOK-000221"
+  },
+  {
+    "property_id": "PROP-MOK-000222",
+    "owner_id": "OWN-MOK-000222"
+  },
+  {
+    "property_id": "PROP-MOK-000223",
+    "owner_id": "OWN-MOK-000223"
+  },
+  {
+    "property_id": "PROP-MOK-000224",
+    "owner_id": "OWN-MOK-000224"
+  },
+  {
+    "property_id": "PROP-MOK-000225",
+    "owner_id": "OWN-MOK-000225"
+  },
+  {
+    "property_id": "PROP-MOK-000226",
+    "owner_id": "OWN-MOK-000226"
+  },
+  {
+    "property_id": "PROP-MOK-000227",
+    "owner_id": "OWN-MOK-000227"
+  },
+  {
+    "property_id": "PROP-MOK-000228",
+    "owner_id": "OWN-MOK-000228"
+  },
+  {
+    "property_id": "PROP-MOK-000229",
+    "owner_id": "OWN-MOK-000229"
+  },
+  {
+    "property_id": "PROP-MOK-000230",
+    "owner_id": "OWN-MOK-000230"
+  },
+  {
+    "property_id": "PROP-MOK-000231",
+    "owner_id": "OWN-MOK-000231"
+  },
+  {
+    "property_id": "PROP-MOK-000232",
+    "owner_id": "OWN-MOK-000232"
+  },
+  {
+    "property_id": "PROP-MOK-000233",
+    "owner_id": "OWN-MOK-000233"
+  },
+  {
+    "property_id": "PROP-MOK-000234",
+    "owner_id": "OWN-MOK-000234"
+  },
+  {
+    "property_id": "PROP-MOK-000235",
+    "owner_id": "OWN-MOK-000235"
+  },
+  {
+    "property_id": "PROP-MOK-000236",
+    "owner_id": "OWN-MOK-000236"
+  },
+  {
+    "property_id": "PROP-MOK-000237",
+    "owner_id": "OWN-MOK-000237"
+  },
+  {
+    "property_id": "PROP-MOK-000238",
+    "owner_id": "OWN-MOK-000238"
+  },
+  {
+    "property_id": "PROP-MOK-000239",
+    "owner_id": "OWN-MOK-000239"
+  },
+  {
+    "property_id": "PROP-MOK-000240",
+    "owner_id": "OWN-MOK-000240"
+  },
+  {
+    "property_id": "PROP-MOK-000241",
+    "owner_id": "OWN-MOK-000241"
+  },
+  {
+    "property_id": "PROP-MOK-000242",
+    "owner_id": "OWN-MOK-000242"
+  },
+  {
+    "property_id": "PROP-MOK-000243",
+    "owner_id": "OWN-MOK-000243"
+  },
+  {
+    "property_id": "PROP-MOK-000244",
+    "owner_id": "OWN-MOK-000244"
+  },
+  {
+    "property_id": "PROP-MOK-000245",
+    "owner_id": "OWN-MOK-000245"
+  },
+  {
+    "property_id": "PROP-MOK-000246",
+    "owner_id": "OWN-MOK-000246"
+  },
+  {
+    "property_id": "PROP-MOK-000247",
+    "owner_id": "OWN-MOK-000247"
+  },
+  {
+    "property_id": "PROP-MOK-000248",
+    "owner_id": "OWN-MOK-000248"
+  },
+  {
+    "property_id": "PROP-MOK-000249",
+    "owner_id": "OWN-MOK-000249"
+  },
+  {
+    "property_id": "PROP-MOK-000250",
+    "owner_id": "OWN-MOK-000250"
+  },
+  {
+    "property_id": "PROP-MOK-000251",
+    "owner_id": "OWN-MOK-000251"
+  },
+  {
+    "property_id": "PROP-MOK-000252",
+    "owner_id": "OWN-MOK-000252"
+  },
+  {
+    "property_id": "PROP-MOK-000253",
+    "owner_id": "OWN-MOK-000253"
+  },
+  {
+    "property_id": "PROP-MOK-000254",
+    "owner_id": "OWN-MOK-000254"
+  },
+  {
+    "property_id": "PROP-MOK-000255",
+    "owner_id": "OWN-MOK-000255"
+  },
+  {
+    "property_id": "PROP-MOK-000256",
+    "owner_id": "OWN-MOK-000256"
+  },
+  {
+    "property_id": "PROP-MOK-000257",
+    "owner_id": "OWN-MOK-000257"
+  },
+  {
+    "property_id": "PROP-MOK-000258",
+    "owner_id": "OWN-MOK-000258"
+  },
+  {
+    "property_id": "PROP-MOK-000259",
+    "owner_id": "OWN-MOK-000259"
+  },
+  {
+    "property_id": "PROP-MOK-000260",
+    "owner_id": "OWN-MOK-000260"
+  },
+  {
+    "property_id": "PROP-MOK-000261",
+    "owner_id": "OWN-MOK-000261"
+  },
+  {
+    "property_id": "PROP-MOK-000262",
+    "owner_id": "OWN-MOK-000262"
+  },
+  {
+    "property_id": "PROP-MOK-000263",
+    "owner_id": "OWN-MOK-000263"
+  },
+  {
+    "property_id": "PROP-MOK-000264",
+    "owner_id": "OWN-MOK-000264"
+  },
+  {
+    "property_id": "PROP-MOK-000265",
+    "owner_id": "OWN-MOK-000265"
+  },
+  {
+    "property_id": "PROP-MOK-000266",
+    "owner_id": "OWN-MOK-000266"
+  },
+  {
+    "property_id": "PROP-MOK-000267",
+    "owner_id": "OWN-MOK-000267"
+  },
+  {
+    "property_id": "PROP-MOK-000268",
+    "owner_id": "OWN-MOK-000268"
+  },
+  {
+    "property_id": "PROP-MOK-000269",
+    "owner_id": "OWN-MOK-000269"
+  },
+  {
+    "property_id": "PROP-MOK-000270",
+    "owner_id": "OWN-MOK-000270"
+  },
+  {
+    "property_id": "PROP-MOK-000271",
+    "owner_id": "OWN-MOK-000271"
+  },
+  {
+    "property_id": "PROP-MOK-000272",
+    "owner_id": "OWN-MOK-000272"
+  },
+  {
+    "property_id": "PROP-MOK-000273",
+    "owner_id": "OWN-MOK-000273"
+  },
+  {
+    "property_id": "PROP-MOK-000274",
+    "owner_id": "OWN-MOK-000274"
+  },
+  {
+    "property_id": "PROP-MOK-000275",
+    "owner_id": "OWN-MOK-000275"
+  },
+  {
+    "property_id": "PROP-MOK-000276",
+    "owner_id": "OWN-MOK-000276"
+  },
+  {
+    "property_id": "PROP-MOK-000277",
+    "owner_id": "OWN-MOK-000277"
+  },
+  {
+    "property_id": "PROP-MOK-000278",
+    "owner_id": "OWN-MOK-000278"
+  },
+  {
+    "property_id": "PROP-MOK-000279",
+    "owner_id": "OWN-MOK-000279"
+  },
+  {
+    "property_id": "PROP-MOK-000280",
+    "owner_id": "OWN-MOK-000280"
+  },
+  {
+    "property_id": "PROP-MOK-000281",
+    "owner_id": "OWN-MOK-000281"
+  },
+  {
+    "property_id": "PROP-MOK-000282",
+    "owner_id": "OWN-MOK-000282"
+  },
+  {
+    "property_id": "PROP-MOK-000283",
+    "owner_id": "OWN-MOK-000283"
+  },
+  {
+    "property_id": "PROP-MOK-000284",
+    "owner_id": "OWN-MOK-000284"
+  },
+  {
+    "property_id": "PROP-MOK-000285",
+    "owner_id": "OWN-MOK-000285"
+  },
+  {
+    "property_id": "PROP-MOK-000286",
+    "owner_id": "OWN-MOK-000286"
+  },
+  {
+    "property_id": "PROP-MOK-000287",
+    "owner_id": "OWN-MOK-000287"
+  },
+  {
+    "property_id": "PROP-MOK-000288",
+    "owner_id": "OWN-MOK-000288"
+  },
+  {
+    "property_id": "PROP-MOK-000289",
+    "owner_id": "OWN-MOK-000289"
+  },
+  {
+    "property_id": "PROP-MOK-000290",
+    "owner_id": "OWN-MOK-000290"
+  },
+  {
+    "property_id": "PROP-MOK-000291",
+    "owner_id": "OWN-MOK-000291"
+  },
+  {
+    "property_id": "PROP-MOK-000292",
+    "owner_id": "OWN-MOK-000292"
+  },
+  {
+    "property_id": "PROP-MOK-000293",
+    "owner_id": "OWN-MOK-000293"
+  },
+  {
+    "property_id": "PROP-MOK-000294",
+    "owner_id": "OWN-MOK-000294"
+  },
+  {
+    "property_id": "PROP-MOK-000295",
+    "owner_id": "OWN-MOK-000295"
+  },
+  {
+    "property_id": "PROP-MOK-000296",
+    "owner_id": "OWN-MOK-000296"
+  },
+  {
+    "property_id": "PROP-MOK-000297",
+    "owner_id": "OWN-MOK-000297"
+  },
+  {
+    "property_id": "PROP-MOK-000298",
+    "owner_id": "OWN-MOK-000298"
+  },
+  {
+    "property_id": "PROP-MOK-000299",
+    "owner_id": "OWN-MOK-000299"
+  },
+  {
+    "property_id": "PROP-MOK-000300",
+    "owner_id": "OWN-MOK-000300"
+  },
+  {
+    "property_id": "PROP-MOK-000301",
+    "owner_id": "OWN-MOK-000301"
+  },
+  {
+    "property_id": "PROP-MOK-000302",
+    "owner_id": "OWN-MOK-000302"
+  },
+  {
+    "property_id": "PROP-MOK-000303",
+    "owner_id": "OWN-MOK-000303"
+  },
+  {
+    "property_id": "PROP-MOK-000304",
+    "owner_id": "OWN-MOK-000304"
+  },
+  {
+    "property_id": "PROP-MOK-000305",
+    "owner_id": "OWN-MOK-000305"
+  },
+  {
+    "property_id": "PROP-MOK-000306",
+    "owner_id": "OWN-MOK-000306"
+  },
+  {
+    "property_id": "PROP-MOK-000307",
+    "owner_id": "OWN-MOK-000307"
+  },
+  {
+    "property_id": "PROP-MOK-000308",
+    "owner_id": "OWN-MOK-000308"
+  },
+  {
+    "property_id": "PROP-MOK-000309",
+    "owner_id": "OWN-MOK-000309"
+  },
+  {
+    "property_id": "PROP-MOK-000310",
+    "owner_id": "OWN-MOK-000310"
+  },
+  {
+    "property_id": "PROP-MOK-000311",
+    "owner_id": "OWN-MOK-000311"
+  },
+  {
+    "property_id": "PROP-MOK-000312",
+    "owner_id": "OWN-MOK-000312"
+  },
+  {
+    "property_id": "PROP-MOK-000313",
+    "owner_id": "OWN-MOK-000313"
+  },
+  {
+    "property_id": "PROP-MOK-000314",
+    "owner_id": "OWN-MOK-000314"
+  },
+  {
+    "property_id": "PROP-MOK-000315",
+    "owner_id": "OWN-MOK-000315"
+  },
+  {
+    "property_id": "PROP-MOK-000316",
+    "owner_id": "OWN-MOK-000316"
+  },
+  {
+    "property_id": "PROP-MOK-000317",
+    "owner_id": "OWN-MOK-000317"
+  },
+  {
+    "property_id": "PROP-MOK-000318",
+    "owner_id": "OWN-MOK-000318"
+  },
+  {
+    "property_id": "PROP-MOK-000319",
+    "owner_id": "OWN-MOK-000319"
+  },
+  {
+    "property_id": "PROP-MOK-000320",
+    "owner_id": "OWN-MOK-000320"
+  },
+  {
+    "property_id": "PROP-MOK-000321",
+    "owner_id": "OWN-MOK-000321"
+  },
+  {
+    "property_id": "PROP-MOK-000322",
+    "owner_id": "OWN-MOK-000322"
+  },
+  {
+    "property_id": "PROP-MOK-000323",
+    "owner_id": "OWN-MOK-000323"
+  },
+  {
+    "property_id": "PROP-MOK-000324",
+    "owner_id": "OWN-MOK-000324"
+  },
+  {
+    "property_id": "PROP-MOK-000325",
+    "owner_id": "OWN-MOK-000325"
+  },
+  {
+    "property_id": "PROP-MOK-000326",
+    "owner_id": "OWN-MOK-000326"
+  },
+  {
+    "property_id": "PROP-MOK-000327",
+    "owner_id": "OWN-MOK-000327"
+  },
+  {
+    "property_id": "PROP-MOK-000328",
+    "owner_id": "OWN-MOK-000328"
+  },
+  {
+    "property_id": "PROP-MOK-000329",
+    "owner_id": "OWN-MOK-000329"
+  },
+  {
+    "property_id": "PROP-MOK-000330",
+    "owner_id": "OWN-MOK-000330"
+  },
+  {
+    "property_id": "PROP-MOK-000331",
+    "owner_id": "OWN-MOK-000331"
+  },
+  {
+    "property_id": "PROP-MOK-000332",
+    "owner_id": "OWN-MOK-000332"
+  },
+  {
+    "property_id": "PROP-MOK-000333",
+    "owner_id": "OWN-MOK-000333"
+  },
+  {
+    "property_id": "PROP-MOK-000334",
+    "owner_id": "OWN-MOK-000334"
+  },
+  {
+    "property_id": "PROP-MOK-000335",
+    "owner_id": "OWN-MOK-000335"
+  },
+  {
+    "property_id": "PROP-MOK-000336",
+    "owner_id": "OWN-MOK-000336"
+  },
+  {
+    "property_id": "PROP-MOK-000337",
+    "owner_id": "OWN-MOK-000337"
+  },
+  {
+    "property_id": "PROP-MOK-000338",
+    "owner_id": "OWN-MOK-000338"
+  },
+  {
+    "property_id": "PROP-MOK-000339",
+    "owner_id": "OWN-MOK-000339"
+  },
+  {
+    "property_id": "PROP-MOK-000340",
+    "owner_id": "OWN-MOK-000340"
+  },
+  {
+    "property_id": "PROP-MOK-000341",
+    "owner_id": "OWN-MOK-000341"
+  },
+  {
+    "property_id": "PROP-MOK-000342",
+    "owner_id": "OWN-MOK-000342"
+  },
+  {
+    "property_id": "PROP-MOK-000343",
+    "owner_id": "OWN-MOK-000343"
+  },
+  {
+    "property_id": "PROP-MOK-000344",
+    "owner_id": "OWN-MOK-000344"
+  },
+  {
+    "property_id": "PROP-MOK-000345",
+    "owner_id": "OWN-MOK-000345"
+  },
+  {
+    "property_id": "PROP-MOK-000346",
+    "owner_id": "OWN-MOK-000346"
+  },
+  {
+    "property_id": "PROP-MOK-000347",
+    "owner_id": "OWN-MOK-000347"
+  },
+  {
+    "property_id": "PROP-MOK-000348",
+    "owner_id": "OWN-MOK-000348"
+  },
+  {
+    "property_id": "PROP-MOK-000349",
+    "owner_id": "OWN-MOK-000349"
+  },
+  {
+    "property_id": "PROP-MOK-000350",
+    "owner_id": "OWN-MOK-000350"
+  },
+  {
+    "property_id": "PROP-MOK-000351",
+    "owner_id": "OWN-MOK-000351"
+  },
+  {
+    "property_id": "PROP-MOK-000352",
+    "owner_id": "OWN-MOK-000352"
+  },
+  {
+    "property_id": "PROP-MOK-000353",
+    "owner_id": "OWN-MOK-000353"
+  },
+  {
+    "property_id": "PROP-MOK-000354",
+    "owner_id": "OWN-MOK-000354"
+  },
+  {
+    "property_id": "PROP-MOK-000355",
+    "owner_id": "OWN-MOK-000355"
+  },
+  {
+    "property_id": "PROP-MOK-000356",
+    "owner_id": "OWN-MOK-000356"
+  },
+  {
+    "property_id": "PROP-MOK-000357",
+    "owner_id": "OWN-MOK-000357"
+  },
+  {
+    "property_id": "PROP-MOK-000358",
+    "owner_id": "OWN-MOK-000358"
+  },
+  {
+    "property_id": "PROP-MOK-000359",
+    "owner_id": "OWN-MOK-000359"
+  },
+  {
+    "property_id": "PROP-MOK-000360",
+    "owner_id": "OWN-MOK-000360"
+  },
+  {
+    "property_id": "PROP-MOK-000361",
+    "owner_id": "OWN-MOK-000361"
+  },
+  {
+    "property_id": "PROP-MOK-000362",
+    "owner_id": "OWN-MOK-000362"
+  },
+  {
+    "property_id": "PROP-MOK-000363",
+    "owner_id": "OWN-MOK-000363"
+  },
+  {
+    "property_id": "PROP-MOK-000364",
+    "owner_id": "OWN-MOK-000364"
+  },
+  {
+    "property_id": "PROP-MOK-000365",
+    "owner_id": "OWN-MOK-000365"
+  },
+  {
+    "property_id": "PROP-MOK-000366",
+    "owner_id": "OWN-MOK-000366"
+  },
+  {
+    "property_id": "PROP-MOK-000367",
+    "owner_id": "OWN-MOK-000367"
+  },
+  {
+    "property_id": "PROP-MOK-000368",
+    "owner_id": "OWN-MOK-000368"
+  },
+  {
+    "property_id": "PROP-MOK-000369",
+    "owner_id": "OWN-MOK-000369"
+  },
+  {
+    "property_id": "PROP-MOK-000370",
+    "owner_id": "OWN-MOK-000370"
+  },
+  {
+    "property_id": "PROP-MOK-000371",
+    "owner_id": "OWN-MOK-000371"
+  },
+  {
+    "property_id": "PROP-MOK-000372",
+    "owner_id": "OWN-MOK-000372"
+  },
+  {
+    "property_id": "PROP-MOK-000373",
+    "owner_id": "OWN-MOK-000373"
+  },
+  {
+    "property_id": "PROP-MOK-000374",
+    "owner_id": "OWN-MOK-000374"
+  },
+  {
+    "property_id": "PROP-MOK-000375",
+    "owner_id": "OWN-MOK-000375"
+  },
+  {
+    "property_id": "PROP-MOK-000376",
+    "owner_id": "OWN-MOK-000376"
+  },
+  {
+    "property_id": "PROP-MOK-000377",
+    "owner_id": "OWN-MOK-000377"
+  },
+  {
+    "property_id": "PROP-MOK-000378",
+    "owner_id": "OWN-MOK-000378"
+  },
+  {
+    "property_id": "PROP-MOK-000379",
+    "owner_id": "OWN-MOK-000379"
+  },
+  {
+    "property_id": "PROP-MOK-000380",
+    "owner_id": "OWN-MOK-000380"
+  },
+  {
+    "property_id": "PROP-MOK-000381",
+    "owner_id": "OWN-MOK-000381"
+  },
+  {
+    "property_id": "PROP-MOK-000382",
+    "owner_id": "OWN-MOK-000382"
+  },
+  {
+    "property_id": "PROP-MOK-000383",
+    "owner_id": "OWN-MOK-000383"
+  },
+  {
+    "property_id": "PROP-MOK-000384",
+    "owner_id": "OWN-MOK-000384"
+  },
+  {
+    "property_id": "PROP-MOK-000385",
+    "owner_id": "OWN-MOK-000385"
+  },
+  {
+    "property_id": "PROP-MOK-000386",
+    "owner_id": "OWN-MOK-000386"
+  },
+  {
+    "property_id": "PROP-MOK-000387",
+    "owner_id": "OWN-MOK-000387"
+  },
+  {
+    "property_id": "PROP-MOK-000388",
+    "owner_id": "OWN-MOK-000388"
+  },
+  {
+    "property_id": "PROP-MOK-000389",
+    "owner_id": "OWN-MOK-000389"
+  },
+  {
+    "property_id": "PROP-MOK-000390",
+    "owner_id": "OWN-MOK-000390"
+  },
+  {
+    "property_id": "PROP-MOK-000391",
+    "owner_id": "OWN-MOK-000391"
+  },
+  {
+    "property_id": "PROP-MOK-000392",
+    "owner_id": "OWN-MOK-000392"
+  },
+  {
+    "property_id": "PROP-MOK-000393",
+    "owner_id": "OWN-MOK-000393"
+  },
+  {
+    "property_id": "PROP-MOK-000394",
+    "owner_id": "OWN-MOK-000394"
+  },
+  {
+    "property_id": "PROP-MOK-000395",
+    "owner_id": "OWN-MOK-000395"
+  },
+  {
+    "property_id": "PROP-MOK-000396",
+    "owner_id": "OWN-MOK-000396"
+  },
+  {
+    "property_id": "PROP-MOK-000397",
+    "owner_id": "OWN-MOK-000397"
+  },
+  {
+    "property_id": "PROP-MOK-000398",
+    "owner_id": "OWN-MOK-000398"
+  },
+  {
+    "property_id": "PROP-MOK-000399",
+    "owner_id": "OWN-MOK-000399"
+  },
+  {
+    "property_id": "PROP-MOK-000400",
+    "owner_id": "OWN-MOK-000400"
+  },
+  {
+    "property_id": "PROP-MOK-000401",
+    "owner_id": "OWN-MOK-000401"
+  },
+  {
+    "property_id": "PROP-MOK-000402",
+    "owner_id": "OWN-MOK-000402"
+  },
+  {
+    "property_id": "PROP-MOK-000403",
+    "owner_id": "OWN-MOK-000403"
+  },
+  {
+    "property_id": "PROP-MOK-000404",
+    "owner_id": "OWN-MOK-000404"
+  },
+  {
+    "property_id": "PROP-MOK-000405",
+    "owner_id": "OWN-MOK-000405"
+  },
+  {
+    "property_id": "PROP-MOK-000406",
+    "owner_id": "OWN-MOK-000406"
+  },
+  {
+    "property_id": "PROP-MOK-000407",
+    "owner_id": "OWN-MOK-000407"
+  },
+  {
+    "property_id": "PROP-MOK-000408",
+    "owner_id": "OWN-MOK-000408"
+  },
+  {
+    "property_id": "PROP-MOK-000409",
+    "owner_id": "OWN-MOK-000409"
+  },
+  {
+    "property_id": "PROP-MOK-000410",
+    "owner_id": "OWN-MOK-000410"
+  },
+  {
+    "property_id": "PROP-MOK-000411",
+    "owner_id": "OWN-MOK-000411"
+  },
+  {
+    "property_id": "PROP-MOK-000412",
+    "owner_id": "OWN-MOK-000412"
+  },
+  {
+    "property_id": "PROP-MOK-000413",
+    "owner_id": "OWN-MOK-000413"
+  },
+  {
+    "property_id": "PROP-MOK-000414",
+    "owner_id": "OWN-MOK-000414"
+  },
+  {
+    "property_id": "PROP-MOK-000415",
+    "owner_id": "OWN-MOK-000415"
+  },
+  {
+    "property_id": "PROP-MOK-000416",
+    "owner_id": "OWN-MOK-000416"
+  },
+  {
+    "property_id": "PROP-MOK-000417",
+    "owner_id": "OWN-MOK-000417"
+  },
+  {
+    "property_id": "PROP-MOK-000418",
+    "owner_id": "OWN-MOK-000418"
+  },
+  {
+    "property_id": "PROP-MOK-000419",
+    "owner_id": "OWN-MOK-000419"
+  },
+  {
+    "property_id": "PROP-MOK-000420",
+    "owner_id": "OWN-MOK-000420"
+  },
+  {
+    "property_id": "PROP-MOK-000421",
+    "owner_id": "OWN-MOK-000421"
+  },
+  {
+    "property_id": "PROP-MOK-000422",
+    "owner_id": "OWN-MOK-000422"
+  },
+  {
+    "property_id": "PROP-MOK-000423",
+    "owner_id": "OWN-MOK-000423"
+  },
+  {
+    "property_id": "PROP-MOK-000424",
+    "owner_id": "OWN-MOK-000424"
+  },
+  {
+    "property_id": "PROP-MOK-000425",
+    "owner_id": "OWN-MOK-000425"
+  },
+  {
+    "property_id": "PROP-MOK-000426",
+    "owner_id": "OWN-MOK-000426"
+  },
+  {
+    "property_id": "PROP-MOK-000427",
+    "owner_id": "OWN-MOK-000427"
+  },
+  {
+    "property_id": "PROP-MOK-000428",
+    "owner_id": "OWN-MOK-000428"
+  },
+  {
+    "property_id": "PROP-MOK-000429",
+    "owner_id": "OWN-MOK-000429"
+  },
+  {
+    "property_id": "PROP-MOK-000430",
+    "owner_id": "OWN-MOK-000430"
+  },
+  {
+    "property_id": "PROP-MOK-000431",
+    "owner_id": "OWN-MOK-000431"
+  },
+  {
+    "property_id": "PROP-MOK-000432",
+    "owner_id": "OWN-MOK-000432"
+  },
+  {
+    "property_id": "PROP-MOK-000433",
+    "owner_id": "OWN-MOK-000433"
+  },
+  {
+    "property_id": "PROP-MOK-000434",
+    "owner_id": "OWN-MOK-000434"
+  },
+  {
+    "property_id": "PROP-MOK-000435",
+    "owner_id": "OWN-MOK-000435"
+  },
+  {
+    "property_id": "PROP-MOK-000436",
+    "owner_id": "OWN-MOK-000436"
+  },
+  {
+    "property_id": "PROP-MOK-000437",
+    "owner_id": "OWN-MOK-000437"
+  },
+  {
+    "property_id": "PROP-MOK-000438",
+    "owner_id": "OWN-MOK-000438"
+  },
+  {
+    "property_id": "PROP-MOK-000439",
+    "owner_id": "OWN-MOK-000439"
+  },
+  {
+    "property_id": "PROP-MOK-000440",
+    "owner_id": "OWN-MOK-000440"
+  },
+  {
+    "property_id": "PROP-MOK-000441",
+    "owner_id": "OWN-MOK-000441"
+  },
+  {
+    "property_id": "PROP-MOK-000442",
+    "owner_id": "OWN-MOK-000442"
+  },
+  {
+    "property_id": "PROP-MOK-000443",
+    "owner_id": "OWN-MOK-000443"
+  },
+  {
+    "property_id": "PROP-MOK-000444",
+    "owner_id": "OWN-MOK-000444"
+  },
+  {
+    "property_id": "PROP-MOK-000445",
+    "owner_id": "OWN-MOK-000445"
+  },
+  {
+    "property_id": "PROP-MOK-000446",
+    "owner_id": "OWN-MOK-000446"
+  },
+  {
+    "property_id": "PROP-MOK-000447",
+    "owner_id": "OWN-MOK-000447"
+  },
+  {
+    "property_id": "PROP-MOK-000448",
+    "owner_id": "OWN-MOK-000448"
+  },
+  {
+    "property_id": "PROP-MOK-000449",
+    "owner_id": "OWN-MOK-000449"
+  },
+  {
+    "property_id": "PROP-MOK-000450",
+    "owner_id": "OWN-MOK-000450"
+  },
+  {
+    "property_id": "PROP-MOK-000451",
+    "owner_id": "OWN-MOK-000451"
+  },
+  {
+    "property_id": "PROP-MOK-000452",
+    "owner_id": "OWN-MOK-000452"
+  },
+  {
+    "property_id": "PROP-MOK-000453",
+    "owner_id": "OWN-MOK-000453"
+  },
+  {
+    "property_id": "PROP-MOK-000454",
+    "owner_id": "OWN-MOK-000454"
+  },
+  {
+    "property_id": "PROP-MOK-000455",
+    "owner_id": "OWN-MOK-000455"
+  },
+  {
+    "property_id": "PROP-MOK-000456",
+    "owner_id": "OWN-MOK-000456"
+  },
+  {
+    "property_id": "PROP-MOK-000457",
+    "owner_id": "OWN-MOK-000457"
+  },
+  {
+    "property_id": "PROP-MOK-000458",
+    "owner_id": "OWN-MOK-000458"
+  },
+  {
+    "property_id": "PROP-MOK-000459",
+    "owner_id": "OWN-MOK-000459"
+  },
+  {
+    "property_id": "PROP-MOK-000460",
+    "owner_id": "OWN-MOK-000460"
+  },
+  {
+    "property_id": "PROP-MOK-000461",
+    "owner_id": "OWN-MOK-000461"
+  },
+  {
+    "property_id": "PROP-MOK-000462",
+    "owner_id": "OWN-MOK-000462"
+  },
+  {
+    "property_id": "PROP-MOK-000463",
+    "owner_id": "OWN-MOK-000463"
+  },
+  {
+    "property_id": "PROP-MOK-000464",
+    "owner_id": "OWN-MOK-000464"
+  },
+  {
+    "property_id": "PROP-MOK-000465",
+    "owner_id": "OWN-MOK-000465"
+  },
+  {
+    "property_id": "PROP-MOK-000466",
+    "owner_id": "OWN-MOK-000466"
+  },
+  {
+    "property_id": "PROP-MOK-000467",
+    "owner_id": "OWN-MOK-000467"
+  },
+  {
+    "property_id": "PROP-MOK-000468",
+    "owner_id": "OWN-MOK-000468"
+  },
+  {
+    "property_id": "PROP-MOK-000469",
+    "owner_id": "OWN-MOK-000469"
+  },
+  {
+    "property_id": "PROP-MOK-000470",
+    "owner_id": "OWN-MOK-000470"
+  },
+  {
+    "property_id": "PROP-MOK-000471",
+    "owner_id": "OWN-MOK-000471"
+  },
+  {
+    "property_id": "PROP-MOK-000472",
+    "owner_id": "OWN-MOK-000472"
+  },
+  {
+    "property_id": "PROP-MOK-000473",
+    "owner_id": "OWN-MOK-000473"
+  },
+  {
+    "property_id": "PROP-MOK-000474",
+    "owner_id": "OWN-MOK-000474"
+  },
+  {
+    "property_id": "PROP-MOK-000475",
+    "owner_id": "OWN-MOK-000475"
+  },
+  {
+    "property_id": "PROP-MOK-000476",
+    "owner_id": "OWN-MOK-000476"
+  },
+  {
+    "property_id": "PROP-MOK-000477",
+    "owner_id": "OWN-MOK-000477"
+  },
+  {
+    "property_id": "PROP-MOK-000478",
+    "owner_id": "OWN-MOK-000478"
+  },
+  {
+    "property_id": "PROP-MOK-000479",
+    "owner_id": "OWN-MOK-000479"
+  },
+  {
+    "property_id": "PROP-MOK-000480",
+    "owner_id": "OWN-MOK-000480"
+  },
+  {
+    "property_id": "PROP-MOK-000481",
+    "owner_id": "OWN-MOK-000481"
+  },
+  {
+    "property_id": "PROP-MOK-000482",
+    "owner_id": "OWN-MOK-000482"
+  },
+  {
+    "property_id": "PROP-MOK-000483",
+    "owner_id": "OWN-MOK-000483"
+  },
+  {
+    "property_id": "PROP-MOK-000484",
+    "owner_id": "OWN-MOK-000484"
+  },
+  {
+    "property_id": "PROP-MOK-000485",
+    "owner_id": "OWN-MOK-000485"
+  },
+  {
+    "property_id": "PROP-MOK-000486",
+    "owner_id": "OWN-MOK-000486"
+  },
+  {
+    "property_id": "PROP-MOK-000487",
+    "owner_id": "OWN-MOK-000487"
+  },
+  {
+    "property_id": "PROP-MOK-000488",
+    "owner_id": "OWN-MOK-000488"
+  },
+  {
+    "property_id": "PROP-MOK-000489",
+    "owner_id": "OWN-MOK-000489"
+  },
+  {
+    "property_id": "PROP-MOK-000490",
+    "owner_id": "OWN-MOK-000490"
+  },
+  {
+    "property_id": "PROP-MOK-000491",
+    "owner_id": "OWN-MOK-000491"
+  },
+  {
+    "property_id": "PROP-MOK-000492",
+    "owner_id": "OWN-MOK-000492"
+  },
+  {
+    "property_id": "PROP-MOK-000493",
+    "owner_id": "OWN-MOK-000493"
+  },
+  {
+    "property_id": "PROP-MOK-000494",
+    "owner_id": "OWN-MOK-000494"
+  },
+  {
+    "property_id": "PROP-MOK-000495",
+    "owner_id": "OWN-MOK-000495"
+  },
+  {
+    "property_id": "PROP-MOK-000496",
+    "owner_id": "OWN-MOK-000496"
+  },
+  {
+    "property_id": "PROP-MOK-000497",
+    "owner_id": "OWN-MOK-000497"
+  },
+  {
+    "property_id": "PROP-MOK-000498",
+    "owner_id": "OWN-MOK-000498"
+  },
+  {
+    "property_id": "PROP-MOK-000499",
+    "owner_id": "OWN-MOK-000499"
+  },
+  {
+    "property_id": "PROP-MOK-000500",
+    "owner_id": "OWN-MOK-000500"
+  },
+  {
+    "property_id": "PROP-MOK-000501",
+    "owner_id": "OWN-MOK-000501"
+  },
+  {
+    "property_id": "PROP-MOK-000502",
+    "owner_id": "OWN-MOK-000502"
+  },
+  {
+    "property_id": "PROP-MOK-000503",
+    "owner_id": "OWN-MOK-000503"
+  },
+  {
+    "property_id": "PROP-MOK-000504",
+    "owner_id": "OWN-MOK-000504"
+  },
+  {
+    "property_id": "PROP-MOK-000505",
+    "owner_id": "OWN-MOK-000505"
+  },
+  {
+    "property_id": "PROP-MOK-000506",
+    "owner_id": "OWN-MOK-000506"
+  },
+  {
+    "property_id": "PROP-MOK-000507",
+    "owner_id": "OWN-MOK-000507"
+  },
+  {
+    "property_id": "PROP-MOK-000508",
+    "owner_id": "OWN-MOK-000508"
+  },
+  {
+    "property_id": "PROP-MOK-000509",
+    "owner_id": "OWN-MOK-000509"
+  },
+  {
+    "property_id": "PROP-MOK-000510",
+    "owner_id": "OWN-MOK-000510"
+  },
+  {
+    "property_id": "PROP-MOK-000511",
+    "owner_id": "OWN-MOK-000511"
+  },
+  {
+    "property_id": "PROP-MOK-000512",
+    "owner_id": "OWN-MOK-000512"
+  },
+  {
+    "property_id": "PROP-MOK-000513",
+    "owner_id": "OWN-MOK-000513"
+  },
+  {
+    "property_id": "PROP-MOK-000514",
+    "owner_id": "OWN-MOK-000514"
+  },
+  {
+    "property_id": "PROP-MOK-000515",
+    "owner_id": "OWN-MOK-000515"
+  },
+  {
+    "property_id": "PROP-MOK-000516",
+    "owner_id": "OWN-MOK-000516"
+  },
+  {
+    "property_id": "PROP-MOK-000517",
+    "owner_id": "OWN-MOK-000517"
+  },
+  {
+    "property_id": "PROP-MOK-000518",
+    "owner_id": "OWN-MOK-000518"
+  },
+  {
+    "property_id": "PROP-MOK-000519",
+    "owner_id": "OWN-MOK-000519"
+  },
+  {
+    "property_id": "PROP-MOK-000520",
+    "owner_id": "OWN-MOK-000520"
+  },
+  {
+    "property_id": "PROP-MOK-000521",
+    "owner_id": "OWN-MOK-000521"
+  },
+  {
+    "property_id": "PROP-MOK-000522",
+    "owner_id": "OWN-MOK-000522"
+  },
+  {
+    "property_id": "PROP-MOK-000523",
+    "owner_id": "OWN-MOK-000523"
+  },
+  {
+    "property_id": "PROP-MOK-000524",
+    "owner_id": "OWN-MOK-000524"
+  },
+  {
+    "property_id": "PROP-MOK-000525",
+    "owner_id": "OWN-MOK-000525"
+  },
+  {
+    "property_id": "PROP-MOK-000526",
+    "owner_id": "OWN-MOK-000526"
+  },
+  {
+    "property_id": "PROP-MOK-000527",
+    "owner_id": "OWN-MOK-000527"
+  },
+  {
+    "property_id": "PROP-MOK-000528",
+    "owner_id": "OWN-MOK-000528"
+  },
+  {
+    "property_id": "PROP-MOK-000529",
+    "owner_id": "OWN-MOK-000529"
+  },
+  {
+    "property_id": "PROP-MOK-000530",
+    "owner_id": "OWN-MOK-000530"
+  },
+  {
+    "property_id": "PROP-MOK-000531",
+    "owner_id": "OWN-MOK-000531"
+  },
+  {
+    "property_id": "PROP-MOK-000532",
+    "owner_id": "OWN-MOK-000532"
+  },
+  {
+    "property_id": "PROP-MOK-000533",
+    "owner_id": "OWN-MOK-000533"
+  },
+  {
+    "property_id": "PROP-MOK-000534",
+    "owner_id": "OWN-MOK-000534"
+  },
+  {
+    "property_id": "PROP-MOK-000535",
+    "owner_id": "OWN-MOK-000535"
+  },
+  {
+    "property_id": "PROP-MOK-000536",
+    "owner_id": "OWN-MOK-000536"
+  },
+  {
+    "property_id": "PROP-MOK-000537",
+    "owner_id": "OWN-MOK-000537"
+  },
+  {
+    "property_id": "PROP-MOK-000538",
+    "owner_id": "OWN-MOK-000538"
+  },
+  {
+    "property_id": "PROP-MOK-000539",
+    "owner_id": "OWN-MOK-000539"
+  },
+  {
+    "property_id": "PROP-MOK-000540",
+    "owner_id": "OWN-MOK-000540"
+  },
+  {
+    "property_id": "PROP-MOK-000541",
+    "owner_id": "OWN-MOK-000541"
+  },
+  {
+    "property_id": "PROP-MOK-000542",
+    "owner_id": "OWN-MOK-000542"
+  },
+  {
+    "property_id": "PROP-MOK-000543",
+    "owner_id": "OWN-MOK-000543"
+  },
+  {
+    "property_id": "PROP-MOK-000544",
+    "owner_id": "OWN-MOK-000544"
+  },
+  {
+    "property_id": "PROP-MOK-000545",
+    "owner_id": "OWN-MOK-000545"
+  },
+  {
+    "property_id": "PROP-MOK-000546",
+    "owner_id": "OWN-MOK-000546"
+  },
+  {
+    "property_id": "PROP-MOK-000547",
+    "owner_id": "OWN-MOK-000547"
+  },
+  {
+    "property_id": "PROP-MOK-000548",
+    "owner_id": "OWN-MOK-000548"
+  },
+  {
+    "property_id": "PROP-MOK-000549",
+    "owner_id": "OWN-MOK-000549"
+  },
+  {
+    "property_id": "PROP-MOK-000550",
+    "owner_id": "OWN-MOK-000550"
+  },
+  {
+    "property_id": "PROP-MOK-000551",
+    "owner_id": "OWN-MOK-000551"
+  },
+  {
+    "property_id": "PROP-MOK-000552",
+    "owner_id": "OWN-MOK-000552"
+  },
+  {
+    "property_id": "PROP-MOK-000553",
+    "owner_id": "OWN-MOK-000553"
+  },
+  {
+    "property_id": "PROP-MOK-000554",
+    "owner_id": "OWN-MOK-000554"
+  },
+  {
+    "property_id": "PROP-MOK-000555",
+    "owner_id": "OWN-MOK-000555"
+  },
+  {
+    "property_id": "PROP-MOK-000556",
+    "owner_id": "OWN-MOK-000556"
+  },
+  {
+    "property_id": "PROP-MOK-000557",
+    "owner_id": "OWN-MOK-000557"
+  },
+  {
+    "property_id": "PROP-MOK-000558",
+    "owner_id": "OWN-MOK-000558"
+  },
+  {
+    "property_id": "PROP-MOK-000559",
+    "owner_id": "OWN-MOK-000559"
+  },
+  {
+    "property_id": "PROP-MOK-000560",
+    "owner_id": "OWN-MOK-000560"
+  },
+  {
+    "property_id": "PROP-MOK-000561",
+    "owner_id": "OWN-MOK-000561"
+  },
+  {
+    "property_id": "PROP-MOK-000562",
+    "owner_id": "OWN-MOK-000562"
+  },
+  {
+    "property_id": "PROP-MOK-000563",
+    "owner_id": "OWN-MOK-000563"
+  },
+  {
+    "property_id": "PROP-MOK-000564",
+    "owner_id": "OWN-MOK-000564"
+  },
+  {
+    "property_id": "PROP-MOK-000565",
+    "owner_id": "OWN-MOK-000565"
+  },
+  {
+    "property_id": "PROP-MOK-000566",
+    "owner_id": "OWN-MOK-000566"
+  },
+  {
+    "property_id": "PROP-MOK-000567",
+    "owner_id": "OWN-MOK-000567"
+  },
+  {
+    "property_id": "PROP-MOK-000568",
+    "owner_id": "OWN-MOK-000568"
+  },
+  {
+    "property_id": "PROP-MOK-000569",
+    "owner_id": "OWN-MOK-000569"
+  },
+  {
+    "property_id": "PROP-MOK-000570",
+    "owner_id": "OWN-MOK-000570"
+  },
+  {
+    "property_id": "PROP-MOK-000571",
+    "owner_id": "OWN-MOK-000571"
+  },
+  {
+    "property_id": "PROP-MOK-000572",
+    "owner_id": "OWN-MOK-000572"
+  },
+  {
+    "property_id": "PROP-MOK-000573",
+    "owner_id": "OWN-MOK-000573"
+  },
+  {
+    "property_id": "PROP-MOK-000574",
+    "owner_id": "OWN-MOK-000574"
+  },
+  {
+    "property_id": "PROP-MOK-000575",
+    "owner_id": "OWN-MOK-000575"
+  },
+  {
+    "property_id": "PROP-MOK-000576",
+    "owner_id": "OWN-MOK-000576"
+  },
+  {
+    "property_id": "PROP-MOK-000577",
+    "owner_id": "OWN-MOK-000577"
+  },
+  {
+    "property_id": "PROP-MOK-000578",
+    "owner_id": "OWN-MOK-000578"
+  },
+  {
+    "property_id": "PROP-MOK-000579",
+    "owner_id": "OWN-MOK-000579"
+  },
+  {
+    "property_id": "PROP-MOK-000580",
+    "owner_id": "OWN-MOK-000580"
+  },
+  {
+    "property_id": "PROP-MOK-000581",
+    "owner_id": "OWN-MOK-000581"
+  },
+  {
+    "property_id": "PROP-MOK-000582",
+    "owner_id": "OWN-MOK-000582"
+  },
+  {
+    "property_id": "PROP-MOK-000583",
+    "owner_id": "OWN-MOK-000583"
+  },
+  {
+    "property_id": "PROP-MOK-000584",
+    "owner_id": "OWN-MOK-000584"
+  },
+  {
+    "property_id": "PROP-MOK-000585",
+    "owner_id": "OWN-MOK-000585"
+  },
+  {
+    "property_id": "PROP-MOK-000586",
+    "owner_id": "OWN-MOK-000586"
+  },
+  {
+    "property_id": "PROP-MOK-000587",
+    "owner_id": "OWN-MOK-000587"
+  },
+  {
+    "property_id": "PROP-MOK-000588",
+    "owner_id": "OWN-MOK-000588"
+  },
+  {
+    "property_id": "PROP-MOK-000589",
+    "owner_id": "OWN-MOK-000589"
+  },
+  {
+    "property_id": "PROP-MOK-000590",
+    "owner_id": "OWN-MOK-000590"
+  },
+  {
+    "property_id": "PROP-MOK-000591",
+    "owner_id": "OWN-MOK-000591"
+  },
+  {
+    "property_id": "PROP-MOK-000592",
+    "owner_id": "OWN-MOK-000592"
+  },
+  {
+    "property_id": "PROP-SHA-000001",
+    "owner_id": "OWN-SHA-000001"
+  },
+  {
+    "property_id": "PROP-SHA-000002",
+    "owner_id": "OWN-SHA-000002"
+  },
+  {
+    "property_id": "PROP-SHA-000003",
+    "owner_id": "OWN-SHA-000003"
+  },
+  {
+    "property_id": "PROP-SHA-000004",
+    "owner_id": "OWN-SHA-000004"
+  },
+  {
+    "property_id": "PROP-SHA-000005",
+    "owner_id": "OWN-SHA-000005"
+  },
+  {
+    "property_id": "PROP-SHA-000006",
+    "owner_id": "OWN-SHA-000006"
+  },
+  {
+    "property_id": "PROP-SHA-000007",
+    "owner_id": "OWN-SHA-000007"
+  },
+  {
+    "property_id": "PROP-SHA-000008",
+    "owner_id": "OWN-SHA-000008"
+  },
+  {
+    "property_id": "PROP-SHA-000009",
+    "owner_id": "OWN-SHA-000009"
+  },
+  {
+    "property_id": "PROP-SHA-000010",
+    "owner_id": "OWN-SHA-000010"
+  },
+  {
+    "property_id": "PROP-SHA-000011",
+    "owner_id": "OWN-SHA-000011"
+  },
+  {
+    "property_id": "PROP-SHA-000012",
+    "owner_id": "OWN-SHA-000012"
+  },
+  {
+    "property_id": "PROP-SHA-000013",
+    "owner_id": "OWN-SHA-000013"
+  },
+  {
+    "property_id": "PROP-SHA-000014",
+    "owner_id": "OWN-SHA-000014"
+  },
+  {
+    "property_id": "PROP-SHA-000015",
+    "owner_id": "OWN-SHA-000015"
+  },
+  {
+    "property_id": "PROP-SHA-000016",
+    "owner_id": "OWN-SHA-000016"
+  },
+  {
+    "property_id": "PROP-SHA-000017",
+    "owner_id": "OWN-SHA-000017"
+  },
+  {
+    "property_id": "PROP-SHA-000018",
+    "owner_id": "OWN-SHA-000018"
+  },
+  {
+    "property_id": "PROP-SHA-000019",
+    "owner_id": "OWN-SHA-000019"
+  },
+  {
+    "property_id": "PROP-SHA-000020",
+    "owner_id": "OWN-SHA-000020"
+  },
+  {
+    "property_id": "PROP-SHA-000021",
+    "owner_id": "OWN-SHA-000021"
+  },
+  {
+    "property_id": "PROP-SHA-000022",
+    "owner_id": "OWN-SHA-000022"
+  },
+  {
+    "property_id": "PROP-SHA-000023",
+    "owner_id": "OWN-SHA-000023"
+  },
+  {
+    "property_id": "PROP-SHA-000024",
+    "owner_id": "OWN-SHA-000024"
+  },
+  {
+    "property_id": "PROP-SHA-000025",
+    "owner_id": "OWN-SHA-000025"
+  },
+  {
+    "property_id": "PROP-SHA-000026",
+    "owner_id": "OWN-SHA-000026"
+  },
+  {
+    "property_id": "PROP-SHA-000027",
+    "owner_id": "OWN-SHA-000027"
+  },
+  {
+    "property_id": "PROP-SHA-000028",
+    "owner_id": "OWN-SHA-000028"
+  },
+  {
+    "property_id": "PROP-SHA-000029",
+    "owner_id": "OWN-SHA-000029"
+  },
+  {
+    "property_id": "PROP-SHA-000030",
+    "owner_id": "OWN-SHA-000030"
+  },
+  {
+    "property_id": "PROP-SHA-000031",
+    "owner_id": "OWN-SHA-000031"
+  },
+  {
+    "property_id": "PROP-SHA-000032",
+    "owner_id": "OWN-SHA-000032"
+  },
+  {
+    "property_id": "PROP-SHA-000033",
+    "owner_id": "OWN-SHA-000033"
+  },
+  {
+    "property_id": "PROP-SHA-000034",
+    "owner_id": "OWN-SHA-000034"
+  },
+  {
+    "property_id": "PROP-SHA-000035",
+    "owner_id": "OWN-SHA-000035"
+  },
+  {
+    "property_id": "PROP-SHA-000036",
+    "owner_id": "OWN-SHA-000036"
+  },
+  {
+    "property_id": "PROP-SHA-000037",
+    "owner_id": "OWN-SHA-000037"
+  },
+  {
+    "property_id": "PROP-SHA-000038",
+    "owner_id": "OWN-SHA-000038"
+  },
+  {
+    "property_id": "PROP-SHA-000039",
+    "owner_id": "OWN-SHA-000039"
+  },
+  {
+    "property_id": "PROP-SHA-000040",
+    "owner_id": "OWN-SHA-000040"
+  },
+  {
+    "property_id": "PROP-SHA-000041",
+    "owner_id": "OWN-SHA-000041"
+  },
+  {
+    "property_id": "PROP-SHA-000042",
+    "owner_id": "OWN-SHA-000042"
+  },
+  {
+    "property_id": "PROP-SHA-000043",
+    "owner_id": "OWN-SHA-000043"
+  },
+  {
+    "property_id": "PROP-SHA-000044",
+    "owner_id": "OWN-SHA-000044"
+  },
+  {
+    "property_id": "PROP-SHA-000045",
+    "owner_id": "OWN-SHA-000045"
+  },
+  {
+    "property_id": "PROP-SHA-000046",
+    "owner_id": "OWN-SHA-000046"
+  },
+  {
+    "property_id": "PROP-SHA-000047",
+    "owner_id": "OWN-SHA-000047"
+  },
+  {
+    "property_id": "PROP-SHA-000048",
+    "owner_id": "OWN-SHA-000048"
+  },
+  {
+    "property_id": "PROP-SHA-000049",
+    "owner_id": "OWN-SHA-000049"
+  },
+  {
+    "property_id": "PROP-SHA-000050",
+    "owner_id": "OWN-SHA-000050"
+  },
+  {
+    "property_id": "PROP-SHA-000051",
+    "owner_id": "OWN-SHA-000051"
+  },
+  {
+    "property_id": "PROP-SHA-000052",
+    "owner_id": "OWN-SHA-000052"
+  },
+  {
+    "property_id": "PROP-SHA-000053",
+    "owner_id": "OWN-SHA-000053"
+  },
+  {
+    "property_id": "PROP-SHA-000054",
+    "owner_id": "OWN-SHA-000054"
+  },
+  {
+    "property_id": "PROP-SHA-000055",
+    "owner_id": "OWN-SHA-000055"
+  },
+  {
+    "property_id": "PROP-SHA-000056",
+    "owner_id": "OWN-SHA-000056"
+  },
+  {
+    "property_id": "PROP-SHA-000057",
+    "owner_id": "OWN-SHA-000057"
+  },
+  {
+    "property_id": "PROP-SHA-000058",
+    "owner_id": "OWN-SHA-000058"
+  },
+  {
+    "property_id": "PROP-SHA-000059",
+    "owner_id": "OWN-SHA-000059"
+  },
+  {
+    "property_id": "PROP-SHA-000060",
+    "owner_id": "OWN-SHA-000060"
+  },
+  {
+    "property_id": "PROP-SHA-000061",
+    "owner_id": "OWN-SHA-000061"
+  },
+  {
+    "property_id": "PROP-SHA-000062",
+    "owner_id": "OWN-SHA-000062"
+  },
+  {
+    "property_id": "PROP-SHA-000063",
+    "owner_id": "OWN-SHA-000063"
+  },
+  {
+    "property_id": "PROP-SHA-000064",
+    "owner_id": "OWN-SHA-000064"
+  },
+  {
+    "property_id": "PROP-SHA-000065",
+    "owner_id": "OWN-SHA-000065"
+  },
+  {
+    "property_id": "PROP-SHA-000066",
+    "owner_id": "OWN-SHA-000066"
+  },
+  {
+    "property_id": "PROP-SHA-000067",
+    "owner_id": "OWN-SHA-000067"
+  },
+  {
+    "property_id": "PROP-SHA-000068",
+    "owner_id": "OWN-SHA-000068"
+  },
+  {
+    "property_id": "PROP-SHA-000069",
+    "owner_id": "OWN-SHA-000069"
+  },
+  {
+    "property_id": "PROP-SHA-000070",
+    "owner_id": "OWN-SHA-000070"
+  },
+  {
+    "property_id": "PROP-SHA-000071",
+    "owner_id": "OWN-SHA-000071"
+  },
+  {
+    "property_id": "PROP-SHA-000072",
+    "owner_id": "OWN-SHA-000072"
+  },
+  {
+    "property_id": "PROP-SHA-000073",
+    "owner_id": "OWN-SHA-000073"
+  },
+  {
+    "property_id": "PROP-SHA-000074",
+    "owner_id": "OWN-SHA-000074"
+  },
+  {
+    "property_id": "PROP-SHA-000075",
+    "owner_id": "OWN-SHA-000075"
+  },
+  {
+    "property_id": "PROP-SHA-000076",
+    "owner_id": "OWN-SHA-000076"
+  },
+  {
+    "property_id": "PROP-SHA-000077",
+    "owner_id": "OWN-SHA-000077"
+  },
+  {
+    "property_id": "PROP-SHA-000078",
+    "owner_id": "OWN-SHA-000078"
+  },
+  {
+    "property_id": "PROP-SHA-000079",
+    "owner_id": "OWN-SHA-000079"
+  },
+  {
+    "property_id": "PROP-SHA-000080",
+    "owner_id": "OWN-SHA-000080"
+  },
+  {
+    "property_id": "PROP-SHA-000081",
+    "owner_id": "OWN-SHA-000081"
+  },
+  {
+    "property_id": "PROP-SHA-000082",
+    "owner_id": "OWN-SHA-000082"
+  },
+  {
+    "property_id": "PROP-SHA-000083",
+    "owner_id": "OWN-SHA-000083"
+  },
+  {
+    "property_id": "PROP-SHA-000084",
+    "owner_id": "OWN-SHA-000084"
+  },
+  {
+    "property_id": "PROP-SHA-000085",
+    "owner_id": "OWN-SHA-000085"
+  },
+  {
+    "property_id": "PROP-SHA-000086",
+    "owner_id": "OWN-SHA-000086"
+  },
+  {
+    "property_id": "PROP-SHA-000087",
+    "owner_id": "OWN-SHA-000087"
+  },
+  {
+    "property_id": "PROP-SHA-000088",
+    "owner_id": "OWN-SHA-000088"
+  },
+  {
+    "property_id": "PROP-SHA-000089",
+    "owner_id": "OWN-SHA-000089"
+  },
+  {
+    "property_id": "PROP-SHA-000090",
+    "owner_id": "OWN-SHA-000090"
+  },
+  {
+    "property_id": "PROP-SHA-000091",
+    "owner_id": "OWN-SHA-000091"
+  },
+  {
+    "property_id": "PROP-SHA-000092",
+    "owner_id": "OWN-SHA-000092"
+  },
+  {
+    "property_id": "PROP-SHA-000093",
+    "owner_id": "OWN-SHA-000093"
+  },
+  {
+    "property_id": "PROP-SHA-000094",
+    "owner_id": "OWN-SHA-000094"
+  },
+  {
+    "property_id": "PROP-SHA-000095",
+    "owner_id": "OWN-SHA-000095"
+  },
+  {
+    "property_id": "PROP-SHA-000096",
+    "owner_id": "OWN-SHA-000096"
+  },
+  {
+    "property_id": "PROP-SHA-000097",
+    "owner_id": "OWN-SHA-000097"
+  },
+  {
+    "property_id": "PROP-SHA-000098",
+    "owner_id": "OWN-SHA-000098"
+  },
+  {
+    "property_id": "PROP-SHA-000099",
+    "owner_id": "OWN-SHA-000099"
+  },
+  {
+    "property_id": "PROP-SHA-000100",
+    "owner_id": "OWN-SHA-000100"
+  },
+  {
+    "property_id": "PROP-SHA-000101",
+    "owner_id": "OWN-SHA-000101"
+  },
+  {
+    "property_id": "PROP-SHA-000102",
+    "owner_id": "OWN-SHA-000102"
+  },
+  {
+    "property_id": "PROP-SHA-000103",
+    "owner_id": "OWN-SHA-000103"
+  },
+  {
+    "property_id": "PROP-SHA-000104",
+    "owner_id": "OWN-SHA-000104"
+  },
+  {
+    "property_id": "PROP-SHA-000105",
+    "owner_id": "OWN-SHA-000105"
+  },
+  {
+    "property_id": "PROP-SHA-000106",
+    "owner_id": "OWN-SHA-000106"
+  },
+  {
+    "property_id": "PROP-SHA-000107",
+    "owner_id": "OWN-SHA-000107"
+  },
+  {
+    "property_id": "PROP-SHA-000108",
+    "owner_id": "OWN-SHA-000108"
+  },
+  {
+    "property_id": "PROP-SHA-000109",
+    "owner_id": "OWN-SHA-000109"
+  },
+  {
+    "property_id": "PROP-SHA-000110",
+    "owner_id": "OWN-SHA-000110"
+  },
+  {
+    "property_id": "PROP-SHA-000111",
+    "owner_id": "OWN-SHA-000111"
+  },
+  {
+    "property_id": "PROP-SHA-000112",
+    "owner_id": "OWN-SHA-000112"
+  },
+  {
+    "property_id": "PROP-SHA-000113",
+    "owner_id": "OWN-SHA-000113"
+  },
+  {
+    "property_id": "PROP-SHA-000114",
+    "owner_id": "OWN-SHA-000114"
+  },
+  {
+    "property_id": "PROP-SHA-000115",
+    "owner_id": "OWN-SHA-000115"
+  },
+  {
+    "property_id": "PROP-SHA-000116",
+    "owner_id": "OWN-SHA-000116"
+  },
+  {
+    "property_id": "PROP-SHA-000117",
+    "owner_id": "OWN-SHA-000117"
+  },
+  {
+    "property_id": "PROP-SHA-000118",
+    "owner_id": "OWN-SHA-000118"
+  },
+  {
+    "property_id": "PROP-SHA-000119",
+    "owner_id": "OWN-SHA-000119"
+  },
+  {
+    "property_id": "PROP-SHA-000120",
+    "owner_id": "OWN-SHA-000120"
+  },
+  {
+    "property_id": "PROP-SHA-000121",
+    "owner_id": "OWN-SHA-000121"
+  },
+  {
+    "property_id": "PROP-SHA-000122",
+    "owner_id": "OWN-SHA-000122"
+  },
+  {
+    "property_id": "PROP-SHA-000123",
+    "owner_id": "OWN-SHA-000123"
+  },
+  {
+    "property_id": "PROP-SHA-000124",
+    "owner_id": "OWN-SHA-000124"
+  },
+  {
+    "property_id": "PROP-SHA-000125",
+    "owner_id": "OWN-SHA-000125"
+  },
+  {
+    "property_id": "PROP-SHA-000126",
+    "owner_id": "OWN-SHA-000126"
+  },
+  {
+    "property_id": "PROP-SHA-000127",
+    "owner_id": "OWN-SHA-000127"
+  },
+  {
+    "property_id": "PROP-SHA-000128",
+    "owner_id": "OWN-SHA-000128"
+  },
+  {
+    "property_id": "PROP-SHA-000129",
+    "owner_id": "OWN-SHA-000129"
+  },
+  {
+    "property_id": "PROP-SHA-000130",
+    "owner_id": "OWN-SHA-000130"
+  },
+  {
+    "property_id": "PROP-SHA-000131",
+    "owner_id": "OWN-SHA-000131"
+  },
+  {
+    "property_id": "PROP-SHA-000132",
+    "owner_id": "OWN-SHA-000132"
+  },
+  {
+    "property_id": "PROP-SHA-000133",
+    "owner_id": "OWN-SHA-000133"
+  },
+  {
+    "property_id": "PROP-SHA-000134",
+    "owner_id": "OWN-SHA-000134"
+  },
+  {
+    "property_id": "PROP-SHA-000135",
+    "owner_id": "OWN-SHA-000135"
+  },
+  {
+    "property_id": "PROP-SHA-000136",
+    "owner_id": "OWN-SHA-000136"
+  },
+  {
+    "property_id": "PROP-SHA-000137",
+    "owner_id": "OWN-SHA-000137"
+  },
+  {
+    "property_id": "PROP-SHA-000138",
+    "owner_id": "OWN-SHA-000138"
+  },
+  {
+    "property_id": "PROP-SHA-000139",
+    "owner_id": "OWN-SHA-000139"
+  },
+  {
+    "property_id": "PROP-SHA-000140",
+    "owner_id": "OWN-SHA-000140"
+  },
+  {
+    "property_id": "PROP-SHA-000141",
+    "owner_id": "OWN-SHA-000141"
+  },
+  {
+    "property_id": "PROP-SHA-000142",
+    "owner_id": "OWN-SHA-000142"
+  },
+  {
+    "property_id": "PROP-SHA-000143",
+    "owner_id": "OWN-SHA-000143"
+  },
+  {
+    "property_id": "PROP-SHA-000144",
+    "owner_id": "OWN-SHA-000144"
+  },
+  {
+    "property_id": "PROP-SHA-000145",
+    "owner_id": "OWN-SHA-000145"
+  },
+  {
+    "property_id": "PROP-SHA-000146",
+    "owner_id": "OWN-SHA-000146"
+  },
+  {
+    "property_id": "PROP-SHA-000147",
+    "owner_id": "OWN-SHA-000147"
+  },
+  {
+    "property_id": "PROP-SHA-000148",
+    "owner_id": "OWN-SHA-000148"
+  },
+  {
+    "property_id": "PROP-SHA-000149",
+    "owner_id": "OWN-SHA-000149"
+  },
+  {
+    "property_id": "PROP-SHA-000150",
+    "owner_id": "OWN-SHA-000150"
+  },
+  {
+    "property_id": "PROP-SHA-000151",
+    "owner_id": "OWN-SHA-000151"
+  },
+  {
+    "property_id": "PROP-SHA-000152",
+    "owner_id": "OWN-SHA-000152"
+  },
+  {
+    "property_id": "PROP-SHA-000153",
+    "owner_id": "OWN-SHA-000153"
+  },
+  {
+    "property_id": "PROP-SHA-000154",
+    "owner_id": "OWN-SHA-000154"
+  },
+  {
+    "property_id": "PROP-SHA-000155",
+    "owner_id": "OWN-SHA-000155"
+  },
+  {
+    "property_id": "PROP-SHA-000156",
+    "owner_id": "OWN-SHA-000156"
+  },
+  {
+    "property_id": "PROP-SHA-000157",
+    "owner_id": "OWN-SHA-000157"
+  },
+  {
+    "property_id": "PROP-SHA-000158",
+    "owner_id": "OWN-SHA-000158"
+  },
+  {
+    "property_id": "PROP-SHA-000159",
+    "owner_id": "OWN-SHA-000159"
+  },
+  {
+    "property_id": "PROP-SHA-000160",
+    "owner_id": "OWN-SHA-000160"
+  },
+  {
+    "property_id": "PROP-SHA-000161",
+    "owner_id": "OWN-SHA-000161"
+  },
+  {
+    "property_id": "PROP-SHA-000162",
+    "owner_id": "OWN-SHA-000162"
+  },
+  {
+    "property_id": "PROP-SHA-000163",
+    "owner_id": "OWN-SHA-000163"
+  },
+  {
+    "property_id": "PROP-SHA-000164",
+    "owner_id": "OWN-SHA-000164"
+  },
+  {
+    "property_id": "PROP-SHA-000165",
+    "owner_id": "OWN-SHA-000165"
+  },
+  {
+    "property_id": "PROP-SHA-000166",
+    "owner_id": "OWN-SHA-000166"
+  },
+  {
+    "property_id": "PROP-SHA-000167",
+    "owner_id": "OWN-SHA-000167"
+  },
+  {
+    "property_id": "PROP-SHA-000168",
+    "owner_id": "OWN-SHA-000168"
+  },
+  {
+    "property_id": "PROP-SHA-000169",
+    "owner_id": "OWN-SHA-000169"
+  },
+  {
+    "property_id": "PROP-SHA-000170",
+    "owner_id": "OWN-SHA-000170"
+  },
+  {
+    "property_id": "PROP-SHA-000171",
+    "owner_id": "OWN-SHA-000171"
+  },
+  {
+    "property_id": "PROP-SHA-000172",
+    "owner_id": "OWN-SHA-000172"
+  },
+  {
+    "property_id": "PROP-SHA-000173",
+    "owner_id": "OWN-SHA-000173"
+  },
+  {
+    "property_id": "PROP-SHA-000174",
+    "owner_id": "OWN-SHA-000174"
+  },
+  {
+    "property_id": "PROP-SHA-000175",
+    "owner_id": "OWN-SHA-000175"
+  },
+  {
+    "property_id": "PROP-SHA-000176",
+    "owner_id": "OWN-SHA-000176"
+  },
+  {
+    "property_id": "PROP-SHA-000177",
+    "owner_id": "OWN-SHA-000177"
+  },
+  {
+    "property_id": "PROP-SHA-000178",
+    "owner_id": "OWN-SHA-000178"
+  },
+  {
+    "property_id": "PROP-SHA-000179",
+    "owner_id": "OWN-SHA-000179"
+  },
+  {
+    "property_id": "PROP-SHA-000180",
+    "owner_id": "OWN-SHA-000180"
+  },
+  {
+    "property_id": "PROP-SHA-000181",
+    "owner_id": "OWN-SHA-000181"
+  },
+  {
+    "property_id": "PROP-SHA-000182",
+    "owner_id": "OWN-SHA-000182"
+  },
+  {
+    "property_id": "PROP-SHA-000183",
+    "owner_id": "OWN-SHA-000183"
+  },
+  {
+    "property_id": "PROP-SHA-000184",
+    "owner_id": "OWN-SHA-000184"
+  },
+  {
+    "property_id": "PROP-SHA-000185",
+    "owner_id": "OWN-SHA-000185"
+  },
+  {
+    "property_id": "PROP-SHA-000186",
+    "owner_id": "OWN-SHA-000186"
+  },
+  {
+    "property_id": "PROP-SHA-000187",
+    "owner_id": "OWN-SHA-000187"
+  },
+  {
+    "property_id": "PROP-SHA-000188",
+    "owner_id": "OWN-SHA-000188"
+  },
+  {
+    "property_id": "PROP-SHA-000189",
+    "owner_id": "OWN-SHA-000189"
+  },
+  {
+    "property_id": "PROP-SHA-000190",
+    "owner_id": "OWN-SHA-000190"
+  },
+  {
+    "property_id": "PROP-SHA-000191",
+    "owner_id": "OWN-SHA-000191"
+  },
+  {
+    "property_id": "PROP-SHA-000192",
+    "owner_id": "OWN-SHA-000192"
+  },
+  {
+    "property_id": "PROP-SHA-000193",
+    "owner_id": "OWN-SHA-000193"
+  },
+  {
+    "property_id": "PROP-SHA-000194",
+    "owner_id": "OWN-SHA-000194"
+  },
+  {
+    "property_id": "PROP-SHA-000195",
+    "owner_id": "OWN-SHA-000195"
+  },
+  {
+    "property_id": "PROP-SHA-000196",
+    "owner_id": "OWN-SHA-000196"
+  },
+  {
+    "property_id": "PROP-SHA-000197",
+    "owner_id": "OWN-SHA-000197"
+  },
+  {
+    "property_id": "PROP-SHA-000198",
+    "owner_id": "OWN-SHA-000198"
+  },
+  {
+    "property_id": "PROP-SHA-000199",
+    "owner_id": "OWN-SHA-000199"
+  },
+  {
+    "property_id": "PROP-SHA-000200",
+    "owner_id": "OWN-SHA-000200"
+  },
+  {
+    "property_id": "PROP-SHA-000201",
+    "owner_id": "OWN-SHA-000201"
+  },
+  {
+    "property_id": "PROP-SHA-000202",
+    "owner_id": "OWN-SHA-000202"
+  },
+  {
+    "property_id": "PROP-SHA-000203",
+    "owner_id": "OWN-SHA-000203"
+  },
+  {
+    "property_id": "PROP-SHA-000204",
+    "owner_id": "OWN-SHA-000204"
+  },
+  {
+    "property_id": "PROP-SHA-000205",
+    "owner_id": "OWN-SHA-000205"
+  },
+  {
+    "property_id": "PROP-SHA-000206",
+    "owner_id": "OWN-SHA-000206"
+  },
+  {
+    "property_id": "PROP-SHA-000207",
+    "owner_id": "OWN-SHA-000207"
+  },
+  {
+    "property_id": "PROP-SHA-000208",
+    "owner_id": "OWN-SHA-000208"
+  },
+  {
+    "property_id": "PROP-SHA-000209",
+    "owner_id": "OWN-SHA-000209"
+  },
+  {
+    "property_id": "PROP-SHA-000210",
+    "owner_id": "OWN-SHA-000210"
+  },
+  {
+    "property_id": "PROP-SHA-000211",
+    "owner_id": "OWN-SHA-000211"
+  },
+  {
+    "property_id": "PROP-SHA-000212",
+    "owner_id": "OWN-SHA-000212"
+  },
+  {
+    "property_id": "PROP-SHA-000213",
+    "owner_id": "OWN-SHA-000213"
+  },
+  {
+    "property_id": "PROP-SHA-000214",
+    "owner_id": "OWN-SHA-000214"
+  },
+  {
+    "property_id": "PROP-SHA-000215",
+    "owner_id": "OWN-SHA-000215"
+  },
+  {
+    "property_id": "PROP-SHA-000216",
+    "owner_id": "OWN-SHA-000216"
+  },
+  {
+    "property_id": "PROP-SHA-000217",
+    "owner_id": "OWN-SHA-000217"
+  },
+  {
+    "property_id": "PROP-SHA-000218",
+    "owner_id": "OWN-SHA-000218"
+  },
+  {
+    "property_id": "PROP-SHA-000219",
+    "owner_id": "OWN-SHA-000219"
+  },
+  {
+    "property_id": "PROP-SHA-000220",
+    "owner_id": "OWN-SHA-000220"
+  },
+  {
+    "property_id": "PROP-SHA-000221",
+    "owner_id": "OWN-SHA-000221"
+  },
+  {
+    "property_id": "PROP-SHA-000222",
+    "owner_id": "OWN-SHA-000222"
+  },
+  {
+    "property_id": "PROP-SHA-000223",
+    "owner_id": "OWN-SHA-000223"
+  },
+  {
+    "property_id": "PROP-SHA-000224",
+    "owner_id": "OWN-SHA-000224"
+  },
+  {
+    "property_id": "PROP-SHA-000225",
+    "owner_id": "OWN-SHA-000225"
+  },
+  {
+    "property_id": "PROP-SHA-000226",
+    "owner_id": "OWN-SHA-000226"
+  },
+  {
+    "property_id": "PROP-SHA-000227",
+    "owner_id": "OWN-SHA-000227"
+  },
+  {
+    "property_id": "PROP-SHA-000228",
+    "owner_id": "OWN-SHA-000228"
+  },
+  {
+    "property_id": "PROP-SHA-000229",
+    "owner_id": "OWN-SHA-000229"
+  },
+  {
+    "property_id": "PROP-SHA-000230",
+    "owner_id": "OWN-SHA-000230"
+  },
+  {
+    "property_id": "PROP-SHA-000231",
+    "owner_id": "OWN-SHA-000231"
+  },
+  {
+    "property_id": "PROP-SHA-000232",
+    "owner_id": "OWN-SHA-000232"
+  },
+  {
+    "property_id": "PROP-SHA-000233",
+    "owner_id": "OWN-SHA-000233"
+  },
+  {
+    "property_id": "PROP-SHA-000234",
+    "owner_id": "OWN-SHA-000234"
+  },
+  {
+    "property_id": "PROP-SHA-000235",
+    "owner_id": "OWN-SHA-000235"
+  }
+]

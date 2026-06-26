@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "DOC-COURT-DISPUTE-RECORD-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "court_dispute_record",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Civil Court",
+    "document_number": "COU-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "case_number": "NIL-000002",
+    "court_name": "Kokapet Civil Court",
+    "case_type": "none",
+    "case_status": "no_case"
+  },
+  {
+    "document_id": "DOC-COURT-DISPUTE-RECORD-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "court_dispute_record",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Civil Court",
+    "document_number": "COU-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "case_number": "NIL-000003",
+    "court_name": "Kokapet Civil Court",
+    "case_type": "none",
+    "case_status": "no_case"
+  },
+  {
+    "document_id": "DOC-COURT-DISPUTE-RECORD-KOK-000005",
+    "property_id": "PROP-KOK-000005",
+    "document_type": "court_dispute_record",
+    "status": "available",
+    "issue_date": "2006-03-28",
+    "last_updated": "2007-03-28",
+    "issuing_authority": "Kokapet Civil Court",
+    "document_number": "COU-KOK-000005",
+    "remarks": "Court dispute record linked to court_disputes collection",
+    "case_number": "CS-000005-2025",
+    "court_name": "Kokapet Civil Court",
+    "case_type": "sale_agreement_dispute",
+    "case_status": "closed"
+  }
+]

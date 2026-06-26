@@ -1,0 +1,41 @@
+[
+  {
+    "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "completion_certificate",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "COM-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2010-11-17",
+    "approved_structure": "residential_plot"
+  },
+  {
+    "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "completion_certificate",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "COM-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2017-04-04",
+    "approved_structure": "residential_plot"
+  },
+  {
+    "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000004",
+    "property_id": "PROP-KOK-000004",
+    "document_type": "completion_certificate",
+    "status": "expired",
+    "issue_date": "2017-11-07",
+    "last_updated": "2022-11-06",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "COM-KOK-000004",
+    "remarks": "Document requires renewal or updated extract",
+    "completion_date": "2018-09-15",
+    "approved_structure": "villa"
+  }
+]

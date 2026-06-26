@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "DOC-POWER-OF-ATTORNEY-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "power_of_attorney",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Notary and Registration Office",
+    "document_number": "POW-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "principal_name": "Vikram Menon",
+    "agent_name": "Kiran Kumar",
+    "valid_until": "2027-12-31"
+  },
+  {
+    "document_id": "DOC-POWER-OF-ATTORNEY-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "power_of_attorney",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Notary and Registration Office",
+    "document_number": "POW-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "principal_name": "Priya Singh",
+    "agent_name": "Sanjana Kumar",
+    "valid_until": "2027-12-31"
+  },
+  {
+    "document_id": "DOC-POWER-OF-ATTORNEY-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "power_of_attorney",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Notary and Registration Office",
+    "document_number": "POW-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "principal_name": "Vikram Patel",
+    "agent_name": "Kiran Iyer",
+    "valid_until": "2027-12-31"
+  }
+]

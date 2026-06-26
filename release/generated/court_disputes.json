@@ -1,0 +1,392 @@
+[
+  {
+    "dispute_id": "DISP-KOK-000005",
+    "property_id": "PROP-KOK-000005",
+    "case_type": "sale_agreement_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000041",
+    "property_id": "PROP-KOK-000041",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000047",
+    "property_id": "PROP-KOK-000047",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000060",
+    "property_id": "PROP-KOK-000060",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000075",
+    "property_id": "PROP-KOK-000075",
+    "case_type": "inheritance_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000112",
+    "property_id": "PROP-KOK-000112",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000199",
+    "property_id": "PROP-KOK-000199",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000244",
+    "property_id": "PROP-KOK-000244",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000251",
+    "property_id": "PROP-KOK-000251",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000279",
+    "property_id": "PROP-KOK-000279",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000357",
+    "property_id": "PROP-KOK-000357",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000370",
+    "property_id": "PROP-KOK-000370",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000396",
+    "property_id": "PROP-KOK-000396",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000402",
+    "property_id": "PROP-KOK-000402",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000412",
+    "property_id": "PROP-KOK-000412",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000417",
+    "property_id": "PROP-KOK-000417",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000419",
+    "property_id": "PROP-KOK-000419",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000424",
+    "property_id": "PROP-KOK-000424",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000436",
+    "property_id": "PROP-KOK-000436",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000465",
+    "property_id": "PROP-KOK-000465",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000498",
+    "property_id": "PROP-KOK-000498",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000508",
+    "property_id": "PROP-KOK-000508",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000514",
+    "property_id": "PROP-KOK-000514",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000536",
+    "property_id": "PROP-KOK-000536",
+    "case_type": "sale_agreement_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000550",
+    "property_id": "PROP-KOK-000550",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000566",
+    "property_id": "PROP-KOK-000566",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000572",
+    "property_id": "PROP-KOK-000572",
+    "case_type": "sale_agreement_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000599",
+    "property_id": "PROP-KOK-000599",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000602",
+    "property_id": "PROP-KOK-000602",
+    "case_type": "title_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000606",
+    "property_id": "PROP-KOK-000606",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000620",
+    "property_id": "PROP-KOK-000620",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000634",
+    "property_id": "PROP-KOK-000634",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000649",
+    "property_id": "PROP-KOK-000649",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000660",
+    "property_id": "PROP-KOK-000660",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000771",
+    "property_id": "PROP-KOK-000771",
+    "case_type": "inheritance_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000802",
+    "property_id": "PROP-KOK-000802",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000012",
+    "property_id": "PROP-MOK-000012",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000016",
+    "property_id": "PROP-MOK-000016",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000121",
+    "property_id": "PROP-MOK-000121",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000123",
+    "property_id": "PROP-MOK-000123",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000153",
+    "property_id": "PROP-MOK-000153",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000176",
+    "property_id": "PROP-MOK-000176",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000204",
+    "property_id": "PROP-MOK-000204",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000233",
+    "property_id": "PROP-MOK-000233",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000342",
+    "property_id": "PROP-MOK-000342",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000380",
+    "property_id": "PROP-MOK-000380",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000442",
+    "property_id": "PROP-MOK-000442",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000450",
+    "property_id": "PROP-MOK-000450",
+    "case_type": "inheritance_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-MOK-000458",
+    "property_id": "PROP-MOK-000458",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000460",
+    "property_id": "PROP-MOK-000460",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000476",
+    "property_id": "PROP-MOK-000476",
+    "case_type": "inheritance_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-MOK-000478",
+    "property_id": "PROP-MOK-000478",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000487",
+    "property_id": "PROP-MOK-000487",
+    "case_type": "inheritance_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000492",
+    "property_id": "PROP-MOK-000492",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-MOK-000493",
+    "property_id": "PROP-MOK-000493",
+    "case_type": "inheritance_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-MOK-000531",
+    "property_id": "PROP-MOK-000531",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000547",
+    "property_id": "PROP-MOK-000547",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-MOK-000556",
+    "property_id": "PROP-MOK-000556",
+    "case_type": "title_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-MOK-000558",
+    "property_id": "PROP-MOK-000558",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-MOK-000582",
+    "property_id": "PROP-MOK-000582",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-SHA-000007",
+    "property_id": "PROP-SHA-000007",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-SHA-000057",
+    "property_id": "PROP-SHA-000057",
+    "case_type": "title_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-SHA-000099",
+    "property_id": "PROP-SHA-000099",
+    "case_type": "sale_agreement_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-SHA-000173",
+    "property_id": "PROP-SHA-000173",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-SHA-000201",
+    "property_id": "PROP-SHA-000201",
+    "case_type": "boundary_dispute",
+    "status": "closed"
+  }
+]

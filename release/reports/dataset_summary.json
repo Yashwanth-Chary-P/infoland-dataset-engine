@@ -1,0 +1,33 @@
+{
+  "generation_seed": 20260623,
+  "source_datasets": [
+    "data/master/master_properties.json",
+    "data/generated/property_profiles.json",
+    "data/generated/synthetic_pois.json"
+  ],
+  "record_counts": {
+    "properties": 1633,
+    "property_profiles": 1633,
+    "pois": 95,
+    "owners": 1633,
+    "ownership_events": 3365,
+    "property_registry": 1633,
+    "property_metadata": 1633,
+    "property_timeline": 1633,
+    "property_health_summary": 1633,
+    "documents_all": 29394,
+    "loans": 294,
+    "tax_records": 1633,
+    "court_disputes": 65
+  },
+  "data_condition_distribution": {
+    "clean": 730,
+    "high_risk_candidate": 150,
+    "minor_issues": 527,
+    "moderate_issues": 226
+  },
+  "verification_workflow_distribution": {
+    "complete_property_verification": 1505,
+    "institutional_property": 128
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "DOC-ENCUMBRANCE-CERTIFICATE-KOK-000001",
+    "property_id": "PROP-KOK-000001",
+    "document_type": "encumbrance_certificate",
+    "status": "available",
+    "issue_date": "2012-07-26",
+    "last_updated": "2014-07-26",
+    "issuing_authority": "Kokapet Registration Department",
+    "document_number": "ENC-KOK-000001",
+    "remarks": "Available in generated source packet",
+    "ec_period_from": "2007-07-13",
+    "ec_period_to": "2026-03-31",
+    "encumbrance_count": 0,
+    "active_encumbrance": false
+  },
+  {
+    "document_id": "DOC-ENCUMBRANCE-CERTIFICATE-KOK-000002",
+    "property_id": "PROP-KOK-000002",
+    "document_type": "encumbrance_certificate",
+    "status": "available",
+    "issue_date": "2010-01-07",
+    "last_updated": "2013-01-06",
+    "issuing_authority": "Kokapet Registration Department",
+    "document_number": "ENC-KOK-000002",
+    "remarks": "Available in generated source packet",
+    "ec_period_from": "2004-12-23",
+    "ec_period_to": "2026-03-31",
+    "encumbrance_count": 0,
+    "active_encumbrance": false
+  },
+  {
+    "document_id": "DOC-ENCUMBRANCE-CERTIFICATE-KOK-000003",
+    "property_id": "PROP-KOK-000003",
+    "document_type": "encumbrance_certificate",
+    "status": "available",
+    "issue_date": "2016-05-26",
+    "last_updated": "2020-05-25",
+    "issuing_authority": "Kokapet Registration Department",
+    "document_number": "ENC-KOK-000003",
+    "remarks": "Available in generated source packet",
+    "ec_period_from": "2011-05-11",
+    "ec_period_to": "2026-03-31",
+    "encumbrance_count": 0,
+    "active_encumbrance": false
+  }
+]
