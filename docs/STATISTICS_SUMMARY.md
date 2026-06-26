@@ -1,85 +1,91 @@
 # Statistics Summary
 
-## Property Counts
+Dataset Engine v1 freeze — regenerated after institutional refinement.
 
-| Value | Count |
+## Geographic
+
+| Metric | Value |
 | --- | --- |
-| kokapet | 806 |
-| mokila | 592 |
-| shankarpally | 235 |
+| total_properties | 1633 |
+| average_area_sq_m | 198.76 |
+| median_area_sq_m | 148.87 |
+
+### Region Distribution
+
+| Region | Count | Density share |
+| --- | --- | --- |
+| kokapet | 806 | 0.4936 |
+| mokila | 592 | 0.3625 |
+| shankarpally | 235 | 0.1439 |
+
+### Coordinate Bounds
+
+| Bound | Value |
+| --- | --- |
+| min_lat | 17.3845736 |
+| max_lat | 17.4547757 |
+| min_lon | 78.1265175 |
+| max_lon | 78.343193 |
 
 ## Property Classes
 
 | Value | Count |
 | --- | --- |
-| apartment | 82 |
-| commercial | 82 |
-| government | 16 |
-| hospital | 16 |
-| park | 33 |
-| residential_plot | 1225 |
-| school | 16 |
-| villa | 163 |
+| residential_plot | 1234 |
+| villa | 153 |
+| apartment | 50 |
+| commercial | 68 |
+| school | 19 |
+| hospital | 13 |
+| clinic | 8 |
+| government | 10 |
+| community_center | 13 |
+| religious | 8 |
+| park | 28 |
+| industrial | 7 |
+| vacant_land | 22 |
 
 ## Sale Status
 
 | Value | Count |
 | --- | --- |
-| for_sale | 323 |
-| not_for_sale | 1310 |
+| for_sale | 313 |
+| not_for_sale | 1320 |
 
-## Document Counts
-
-| Value | Count |
-| --- | --- |
-| building_approval_plan | 1633 |
-| completion_certificate | 1633 |
-| court_dispute_record | 1633 |
-| encumbrance_certificate | 1633 |
-| identity_proof | 1633 |
-| khata_certificate | 1633 |
-| khata_extract | 1633 |
-| land_conversion_certificate | 1633 |
-| layout_approval | 1633 |
-| mother_deed | 1633 |
-| mutation_record | 1633 |
-| noc | 1633 |
-| occupancy_certificate | 1633 |
-| power_of_attorney | 1633 |
-| property_tax_receipt | 1633 |
-| rtc_record | 1633 |
-| sale_deed | 1633 |
-| survey_map | 1633 |
-
-Total documents: 29394.
-
-## Document Completeness
+## Verification Workflow
 
 | Value | Count |
 | --- | --- |
-| average_10_12 | 220 |
-| excellent_16_18 | 653 |
-| good_13_15 | 572 |
-| poor_6_9 | 188 |
+| complete_property_verification | 1505 |
+| institutional_property | 128 |
 
-## Document Status
+## Ownership
 
-| Value | Count |
+| Metric | Value |
 | --- | --- |
-| available | 21455 |
-| expired | 1462 |
-| missing | 6477 |
+| individual owners | 1354 |
+| organization owners | 269 |
+| government owners | 10 |
 
-## Coverage
+### Ownership Chain Length
 
-| Metric | Count |
+| Transfers | Properties |
 | --- | --- |
-| properties_with_sale_deed | 1490 |
-| properties_with_mother_deed | 1509 |
-| properties_with_ec | 1561 |
-| properties_with_loans | 294 |
-| properties_with_pending_tax | 229 |
-| properties_with_disputes | 65 |
+| 1 | 543 |
+| 2 | 620 |
+| 3 | 327 |
+| 4 | 114 |
+| 5 | 29 |
+
+## Documents
+
+Total documents: 29394 (18 records per property).
+
+| Status | Count |
+| --- | --- |
+| available | 20405 |
+| expired | 1353 |
+| missing | 7636 |
 
 ## Loans
 
@@ -87,16 +93,19 @@ Total documents: 29394.
 | --- | --- |
 | total_loans | 294 |
 | properties_with_loans | 294 |
-| status_distribution | {'active': 161, 'closed': 133} |
-| loan_type_distribution | {'commercial_mortgage': 11, 'home_loan': 283} |
-| active_outstanding_amount_total | 687800000 |
+| active | 160 |
+| closed | 134 |
+| home_loan | 282 |
+| commercial_mortgage | 12 |
+| active_outstanding_amount_total | 632600000 |
 
 ## Taxes
 
 | Metric | Value |
 | --- | --- |
 | total_tax_records | 1633 |
-| status_distribution | {'paid': 1404, 'pending': 229} |
+| paid | 1404 |
+| pending | 229 |
 | pending_amount_total | 2919562 |
 
 ## Disputes
@@ -105,36 +114,42 @@ Total documents: 29394.
 | --- | --- |
 | total_disputes | 65 |
 | properties_with_disputes | 65 |
-| status_distribution | {'active': 46, 'closed': 19} |
-| case_type_distribution | {'boundary_dispute': 20, 'inheritance_dispute': 13, 'sale_agreement_dispute': 15, 'title_dispute': 17} |
+| active | 46 |
+| closed | 19 |
 
-## Validation Results
+## Institutional Summary
 
 | Metric | Value |
 | --- | --- |
-| orphan_owners | 0 |
-| orphan_documents | 0 |
-| orphan_loans | 0 |
-| orphan_tax_records | 0 |
-| orphan_disputes | 0 |
-| invalid_property_references | 0 |
-| ownership_chain_errors | 0 |
-| registry_errors | 0 |
-| duplicate_current_owners | 0 |
-| missing_current_owners | 0 |
-| document_merge_count_mismatch | 0 |
-| duplicate_owner_ids | 0 |
-| duplicate_event_ids | 0 |
-| duplicate_loan_ids | 0 |
-| duplicate_tax_ids | 0 |
-| duplicate_dispute_ids | 0 |
-| duplicate_document_ids | 0 |
-| court_dispute_document_errors | 0 |
-| active_loan_ec_errors | 0 |
-| pending_tax_receipt_errors | 0 |
-| health_summary_errors | 0 |
-| timeline_errors | 0 |
+| institutional_properties | 128 |
+| institutional_available_documents | 614 |
+| institutional_missing_documents | 1673 |
 
-## Future Improvements (Not Implemented)
+## POI Markers
 
-Add trend snapshots for future dataset releases.
+| poi_type | Count |
+| --- | --- |
+| school | 18 |
+| hospital | 12 |
+| park | 25 |
+| commercial_hub | 20 |
+| government_office | 8 |
+| community_center | 12 |
+
+All 95 POIs are anchored to existing building centroids via `property_id`.
+
+## Dataset Health
+
+| Metric | Value |
+| --- | --- |
+| clean_properties | 730 |
+| minor_issues | 527 |
+| moderate_issues | 226 |
+| high_risk_candidates | 150 |
+| validation_success_rate | 1.0 |
+| consistency_score | 1.0 |
+| coverage_score | 0.7402 |
+
+## Validation Results
+
+All consistency metrics: 0 errors. Status: `passed`.
