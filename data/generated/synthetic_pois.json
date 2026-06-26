@@ -1,762 +1,857 @@
 [
   {
-    "lat": 17.38997783,
-    "lon": 78.34046474,
+    "lat": 17.38510305,
+    "lon": 78.33543045,
     "name": "Green Valley School",
     "poi_id": "POI-00001",
     "poi_type": "school",
+    "property_id": "PROP-KOK-000697",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.39361929,
-    "lon": 78.33827622,
+    "lat": 17.39175154,
+    "lon": 78.34174009,
     "name": "Sri Chaitanya School",
     "poi_id": "POI-00002",
     "poi_type": "school",
+    "property_id": "PROP-KOK-000658",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42810791,
-    "lon": 78.19753259,
+    "lat": 17.38705538,
+    "lon": 78.34088125,
     "name": "Oakridge Learning Center",
     "poi_id": "POI-00003",
     "poi_type": "school",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000689",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.45241906,
-    "lon": 78.13139963,
+    "lat": 17.39486002,
+    "lon": 78.33893016,
     "name": "Silver Oaks Academy",
     "poi_id": "POI-00004",
     "poi_type": "school",
-    "source_region": "shankarpally"
+    "property_id": "PROP-KOK-000630",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.38634953,
-    "lon": 78.33588409,
+    "lat": 17.3947459,
+    "lon": 78.33701435,
     "name": "Vidya Valley School",
     "poi_id": "POI-00005",
     "poi_type": "school",
+    "property_id": "PROP-KOK-000743",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.38887857,
-    "lon": 78.33421239,
+    "lat": 17.38752625,
+    "lon": 78.33863186,
     "name": "Green Valley School 2",
     "poi_id": "POI-00006",
     "poi_type": "school",
+    "property_id": "PROP-KOK-000645",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.43301504,
-    "lon": 78.21144345,
+    "lat": 17.45384745,
+    "lon": 78.13657185,
     "name": "Sri Chaitanya School 2",
     "poi_id": "POI-00007",
     "poi_type": "school",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000145",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.45054519,
-    "lon": 78.12728417,
+    "lat": 17.42254619,
+    "lon": 78.21074153,
     "name": "Oakridge Learning Center 2",
     "poi_id": "POI-00008",
     "poi_type": "school",
-    "source_region": "shankarpally"
+    "property_id": "PROP-MOK-000426",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.39208571,
-    "lon": 78.33743136,
+    "lat": 17.39444422,
+    "lon": 78.33950556,
     "name": "Silver Oaks Academy 2",
     "poi_id": "POI-00009",
     "poi_type": "school",
+    "property_id": "PROP-KOK-000745",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.39063373,
-    "lon": 78.33414807,
+    "lat": 17.39479425,
+    "lon": 78.33652842,
     "name": "Vidya Valley School 2",
     "poi_id": "POI-00010",
     "poi_type": "school",
+    "property_id": "PROP-KOK-000742",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42978639,
-    "lon": 78.20896978,
+    "lat": 17.395126,
+    "lon": 78.336556,
     "name": "Green Valley School 3",
     "poi_id": "POI-00011",
     "poi_type": "school",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000741",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.45253633,
-    "lon": 78.13484257,
+    "lat": 17.45459336,
+    "lon": 78.13506118,
     "name": "Sri Chaitanya School 3",
     "poi_id": "POI-00012",
     "poi_type": "school",
+    "property_id": "PROP-SHA-000154",
     "source_region": "shankarpally"
   },
   {
-    "lat": 17.38897877,
-    "lon": 78.3365323,
+    "lat": 17.42259131,
+    "lon": 78.21059843,
     "name": "Oakridge Learning Center 3",
     "poi_id": "POI-00013",
     "poi_type": "school",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000425",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38941731,
-    "lon": 78.33144397,
+    "lat": 17.45271105,
+    "lon": 78.12801915,
     "name": "Silver Oaks Academy 3",
     "poi_id": "POI-00014",
     "poi_type": "school",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000044",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.43303629,
-    "lon": 78.20742827,
+    "lat": 17.42267191,
+    "lon": 78.2105046,
     "name": "Vidya Valley School 3",
     "poi_id": "POI-00015",
     "poi_type": "school",
+    "property_id": "PROP-MOK-000424",
     "source_region": "mokila"
   },
   {
-    "lat": 17.4535561,
-    "lon": 78.13404315,
+    "lat": 17.45270055,
+    "lon": 78.12873697,
     "name": "Green Valley School 4",
     "poi_id": "POI-00016",
     "poi_type": "school",
+    "property_id": "PROP-SHA-000050",
     "source_region": "shankarpally"
   },
   {
-    "lat": 17.38988772,
-    "lon": 78.33595829,
+    "lat": 17.4547261,
+    "lon": 78.1337216,
     "name": "Sri Chaitanya School 4",
     "poi_id": "POI-00017",
     "poi_type": "school",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000215",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.38949537,
-    "lon": 78.33752067,
+    "lat": 17.45201734,
+    "lon": 78.12821582,
     "name": "Oakridge Learning Center 4",
     "poi_id": "POI-00018",
     "poi_type": "school",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000058",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.38837141,
-    "lon": 78.3386627,
+    "lat": 17.3876015,
+    "lon": 78.34260675,
     "name": "City Care Hospital",
     "poi_id": "POI-00019",
     "poi_type": "hospital",
+    "property_id": "PROP-KOK-000430",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42578936,
-    "lon": 78.19896547,
+    "lat": 17.45374754,
+    "lon": 78.13738572,
     "name": "Apollo Community Clinic",
     "poi_id": "POI-00020",
     "poi_type": "hospital",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000141",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.45049514,
-    "lon": 78.13549569,
+    "lat": 17.38462819,
+    "lon": 78.33924012,
     "name": "LifeCare Hospital",
     "poi_id": "POI-00021",
     "poi_type": "hospital",
-    "source_region": "shankarpally"
+    "property_id": "PROP-KOK-000723",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.38308509,
-    "lon": 78.33532728,
+    "lat": 17.38481979,
+    "lon": 78.33608993,
     "name": "MedPlus Health Center",
     "poi_id": "POI-00022",
     "poi_type": "hospital",
+    "property_id": "PROP-KOK-000698",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.39104013,
-    "lon": 78.3320176,
+    "lat": 17.38508043,
+    "lon": 78.33923662,
     "name": "Sanjeevani Clinic",
     "poi_id": "POI-00023",
     "poi_type": "hospital",
+    "property_id": "PROP-KOK-000731",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42622135,
-    "lon": 78.20796603,
+    "lat": 17.42304996,
+    "lon": 78.21238112,
     "name": "City Care Hospital 2",
     "poi_id": "POI-00024",
     "poi_type": "hospital",
+    "property_id": "PROP-MOK-000418",
     "source_region": "mokila"
   },
   {
-    "lat": 17.45283897,
-    "lon": 78.13142162,
+    "lat": 17.42684258,
+    "lon": 78.20916213,
     "name": "Apollo Community Clinic 2",
     "poi_id": "POI-00025",
     "poi_type": "hospital",
-    "source_region": "shankarpally"
+    "property_id": "PROP-MOK-000502",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38630148,
-    "lon": 78.33940113,
+    "lat": 17.45162224,
+    "lon": 78.13238737,
     "name": "LifeCare Hospital 2",
     "poi_id": "POI-00026",
     "poi_type": "hospital",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000224",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.38684291,
-    "lon": 78.33801618,
+    "lat": 17.38930167,
+    "lon": 78.34163989,
     "name": "MedPlus Health Center 2",
     "poi_id": "POI-00027",
     "poi_type": "hospital",
+    "property_id": "PROP-KOK-000752",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.43029433,
-    "lon": 78.20680998,
+    "lat": 17.45323649,
+    "lon": 78.13600891,
     "name": "Sanjeevani Clinic 2",
     "poi_id": "POI-00028",
     "poi_type": "hospital",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000148",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.44990493,
-    "lon": 78.1287845,
+    "lat": 17.45198322,
+    "lon": 78.12651751,
     "name": "City Care Hospital 3",
     "poi_id": "POI-00029",
     "poi_type": "hospital",
+    "property_id": "PROP-SHA-000047",
     "source_region": "shankarpally"
   },
   {
-    "lat": 17.38395493,
-    "lon": 78.3371665,
+    "lat": 17.42499292,
+    "lon": 78.20831741,
     "name": "Apollo Community Clinic 3",
     "poi_id": "POI-00030",
     "poi_type": "hospital",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000508",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.44897191,
-    "lon": 78.1305562,
+    "lat": 17.38521062,
+    "lon": 78.33764049,
     "name": "Central Park",
     "poi_id": "POI-00031",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-KOK-000718",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.39520702,
-    "lon": 78.34121325,
+    "lat": 17.4521912,
+    "lon": 78.13557573,
     "name": "Lake View Park",
     "poi_id": "POI-00032",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000206",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.39192959,
-    "lon": 78.34216091,
+    "lat": 17.45377615,
+    "lon": 78.13006289,
     "name": "Green Meadows Park",
     "poi_id": "POI-00033",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000052",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.42916651,
-    "lon": 78.20989422,
+    "lat": 17.38985184,
+    "lon": 78.33325852,
     "name": "Urban Grove Park",
     "poi_id": "POI-00034",
     "poi_type": "park",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000127",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.45152612,
-    "lon": 78.13172426,
+    "lat": 17.38676363,
+    "lon": 78.33995514,
     "name": "Sunrise Children's Park",
     "poi_id": "POI-00035",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-KOK-000692",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.38509536,
-    "lon": 78.33839563,
+    "lat": 17.38699787,
+    "lon": 78.33985254,
     "name": "Central Park 2",
     "poi_id": "POI-00036",
     "poi_type": "park",
+    "property_id": "PROP-KOK-000690",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.38775921,
-    "lon": 78.33695635,
+    "lat": 17.4508653,
+    "lon": 78.1295647,
     "name": "Lake View Park 2",
     "poi_id": "POI-00037",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000067",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.42996884,
-    "lon": 78.20921335,
+    "lat": 17.38496976,
+    "lon": 78.33657922,
     "name": "Green Meadows Park 2",
     "poi_id": "POI-00038",
     "poi_type": "park",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000714",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.45178469,
-    "lon": 78.12673643,
+    "lat": 17.3890955,
+    "lon": 78.33292749,
     "name": "Urban Grove Park 2",
     "poi_id": "POI-00039",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-KOK-000457",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.38766053,
-    "lon": 78.33417278,
+    "lat": 17.43141427,
+    "lon": 78.20780516,
     "name": "Sunrise Children's Park 2",
     "poi_id": "POI-00040",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000017",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38725711,
-    "lon": 78.33206996,
+    "lat": 17.45135368,
+    "lon": 78.13972501,
     "name": "Central Park 3",
     "poi_id": "POI-00041",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000153",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.42492042,
-    "lon": 78.20925076,
+    "lat": 17.3900898,
+    "lon": 78.336551,
     "name": "Lake View Park 3",
     "poi_id": "POI-00042",
     "poi_type": "park",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000513",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.4511453,
-    "lon": 78.1357144,
+    "lat": 17.43198783,
+    "lon": 78.20853104,
     "name": "Green Meadows Park 3",
     "poi_id": "POI-00043",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-MOK-000023",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38713936,
-    "lon": 78.33784445,
+    "lat": 17.4317594,
+    "lon": 78.2085007,
     "name": "Urban Grove Park 3",
     "poi_id": "POI-00044",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000024",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38973165,
-    "lon": 78.33443657,
+    "lat": 17.3859765,
+    "lon": 78.33641305,
     "name": "Sunrise Children's Park 3",
     "poi_id": "POI-00045",
     "poi_type": "park",
+    "property_id": "PROP-KOK-000136",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42566399,
-    "lon": 78.2097847,
+    "lat": 17.43215162,
+    "lon": 78.20894686,
     "name": "Central Park 4",
     "poi_id": "POI-00046",
     "poi_type": "park",
+    "property_id": "PROP-MOK-000031",
     "source_region": "mokila"
   },
   {
-    "lat": 17.45157659,
-    "lon": 78.13151974,
+    "lat": 17.4319854,
+    "lon": 78.2102075,
     "name": "Lake View Park 4",
     "poi_id": "POI-00047",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-MOK-000055",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38607303,
-    "lon": 78.33339008,
+    "lat": 17.43145574,
+    "lon": 78.20908837,
     "name": "Green Meadows Park 4",
     "poi_id": "POI-00048",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000037",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38577511,
-    "lon": 78.34377859,
+    "lat": 17.43149338,
+    "lon": 78.20884904,
     "name": "Urban Grove Park 4",
     "poi_id": "POI-00049",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000038",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.42437405,
-    "lon": 78.21032343,
+    "lat": 17.3877868,
+    "lon": 78.33938555,
     "name": "Sunrise Children's Park 4",
     "poi_id": "POI-00050",
     "poi_type": "park",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000534",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.45083101,
-    "lon": 78.1358735,
+    "lat": 17.4322069,
+    "lon": 78.20856625,
     "name": "Central Park 5",
     "poi_id": "POI-00051",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-MOK-000022",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.3906291,
-    "lon": 78.3369605,
+    "lat": 17.43149745,
+    "lon": 78.2103825,
     "name": "Lake View Park 5",
     "poi_id": "POI-00052",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000060",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.39157492,
-    "lon": 78.33675683,
+    "lat": 17.43145099,
+    "lon": 78.21076552,
     "name": "Green Meadows Park 5",
     "poi_id": "POI-00053",
     "poi_type": "park",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000068",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.42442407,
-    "lon": 78.21118381,
+    "lat": 17.4317085,
+    "lon": 78.20888405,
     "name": "Urban Grove Park 5",
     "poi_id": "POI-00054",
     "poi_type": "park",
+    "property_id": "PROP-MOK-000035",
     "source_region": "mokila"
   },
   {
-    "lat": 17.45395886,
-    "lon": 78.12659273,
+    "lat": 17.43183618,
+    "lon": 78.20953749,
     "name": "Sunrise Children's Park 5",
     "poi_id": "POI-00055",
     "poi_type": "park",
-    "source_region": "shankarpally"
+    "property_id": "PROP-MOK-000045",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38726996,
-    "lon": 78.33875396,
+    "lat": 17.3867239,
+    "lon": 78.33475424,
     "name": "Kokapet Market Hub",
     "poi_id": "POI-00056",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000652",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.3882803,
-    "lon": 78.33394525,
+    "lat": 17.38704063,
+    "lon": 78.34044645,
     "name": "Mokila Business Center",
     "poi_id": "POI-00057",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000654",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.4324243,
-    "lon": 78.21001583,
+    "lat": 17.39064248,
+    "lon": 78.33919016,
     "name": "Shankarpally Retail Plaza",
     "poi_id": "POI-00058",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000641",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.43422047,
-    "lon": 78.20738415,
+    "lat": 17.39387271,
+    "lon": 78.34077299,
     "name": "InfoLand Commercial Hub",
     "poi_id": "POI-00059",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000655",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.38966628,
-    "lon": 78.34067013,
+    "lat": 17.38704987,
+    "lon": 78.34003723,
     "name": "Metro Trade Center",
     "poi_id": "POI-00060",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000653",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.38783414,
-    "lon": 78.33234667,
+    "lat": 17.38591927,
+    "lon": 78.33700013,
     "name": "Kokapet Market Hub 2",
     "poi_id": "POI-00061",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000429",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.43288937,
-    "lon": 78.20846,
+    "lat": 17.42661012,
+    "lon": 78.2105394,
     "name": "Mokila Business Center 2",
     "poi_id": "POI-00062",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-MOK-000467",
     "source_region": "mokila"
   },
   {
-    "lat": 17.42981285,
-    "lon": 78.21235708,
+    "lat": 17.3846201,
+    "lon": 78.33707405,
     "name": "Shankarpally Retail Plaza 2",
     "poi_id": "POI-00063",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000715",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.39554415,
-    "lon": 78.33724816,
+    "lat": 17.45140777,
+    "lon": 78.1287554,
     "name": "InfoLand Commercial Hub 2",
     "poi_id": "POI-00064",
     "poi_type": "commercial_hub",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000032",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.39121558,
-    "lon": 78.33524315,
+    "lat": 17.393413,
+    "lon": 78.34056503,
     "name": "Metro Trade Center 2",
     "poi_id": "POI-00065",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000656",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.4268368,
-    "lon": 78.20897382,
+    "lat": 17.45303335,
+    "lon": 78.1318062,
     "name": "Kokapet Market Hub 3",
     "poi_id": "POI-00066",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000082",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.4271581,
-    "lon": 78.21075955,
+    "lat": 17.43286121,
+    "lon": 78.20805371,
     "name": "Mokila Business Center 3",
     "poi_id": "POI-00067",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-MOK-000383",
     "source_region": "mokila"
   },
   {
-    "lat": 17.39455447,
-    "lon": 78.33794566,
+    "lat": 17.3903039,
+    "lon": 78.333326,
     "name": "Shankarpally Retail Plaza 3",
     "poi_id": "POI-00068",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000625",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.39082058,
-    "lon": 78.33041737,
+    "lat": 17.39421345,
+    "lon": 78.334796,
     "name": "InfoLand Commercial Hub 3",
     "poi_id": "POI-00069",
     "poi_type": "commercial_hub",
+    "property_id": "PROP-KOK-000184",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.43273261,
-    "lon": 78.20131275,
+    "lat": 17.45190295,
+    "lon": 78.132468,
     "name": "Metro Trade Center 3",
     "poi_id": "POI-00070",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000122",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.43227922,
-    "lon": 78.19938286,
+    "lat": 17.45445914,
+    "lon": 78.13251045,
     "name": "Kokapet Market Hub 4",
     "poi_id": "POI-00071",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000208",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.38415452,
-    "lon": 78.33674501,
+    "lat": 17.45435315,
+    "lon": 78.1328009,
     "name": "Mokila Business Center 4",
     "poi_id": "POI-00072",
     "poi_type": "commercial_hub",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000222",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.39016773,
-    "lon": 78.33164532,
+    "lat": 17.4514494,
+    "lon": 78.1277826,
     "name": "Shankarpally Retail Plaza 4",
     "poi_id": "POI-00073",
     "poi_type": "commercial_hub",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000030",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.42322276,
-    "lon": 78.20935986,
+    "lat": 17.45465891,
+    "lon": 78.13398613,
     "name": "InfoLand Commercial Hub 4",
     "poi_id": "POI-00074",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000216",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.42523885,
-    "lon": 78.21154813,
+    "lat": 17.4537856,
+    "lon": 78.1371563,
     "name": "Metro Trade Center 4",
     "poi_id": "POI-00075",
     "poi_type": "commercial_hub",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000135",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.43108386,
-    "lon": 78.20840085,
+    "lat": 17.39441827,
+    "lon": 78.33988581,
     "name": "Municipal Service Center",
     "poi_id": "POI-00076",
     "poi_type": "government_office",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000510",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.42953971,
-    "lon": 78.21135978,
+    "lat": 17.38933633,
+    "lon": 78.33672879,
     "name": "Revenue Assistance Office",
     "poi_id": "POI-00077",
     "poi_type": "government_office",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000527",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.39459684,
-    "lon": 78.33458218,
+    "lat": 17.45169615,
+    "lon": 78.13348645,
     "name": "Citizen Services Center",
     "poi_id": "POI-00078",
     "poi_type": "government_office",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000124",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.39133835,
-    "lon": 78.33494572,
+    "lat": 17.388652,
+    "lon": 78.3327999,
     "name": "Local Administration Office",
     "poi_id": "POI-00079",
     "poi_type": "government_office",
+    "property_id": "PROP-KOK-000454",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42945182,
-    "lon": 78.20895015,
+    "lat": 17.43246185,
+    "lon": 78.2083671,
     "name": "Municipal Service Center 2",
     "poi_id": "POI-00080",
     "poi_type": "government_office",
+    "property_id": "PROP-MOK-000019",
     "source_region": "mokila"
   },
   {
-    "lat": 17.42395077,
-    "lon": 78.2120754,
+    "lat": 17.45464228,
+    "lon": 78.13456985,
     "name": "Revenue Assistance Office 2",
     "poi_id": "POI-00081",
     "poi_type": "government_office",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000217",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.38800843,
-    "lon": 78.33516663,
+    "lat": 17.43132443,
+    "lon": 78.20843847,
     "name": "Citizen Services Center 2",
     "poi_id": "POI-00082",
     "poi_type": "government_office",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000026",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.38873255,
-    "lon": 78.33716655,
+    "lat": 17.4508932,
+    "lon": 78.12917148,
     "name": "Local Administration Office 2",
     "poi_id": "POI-00083",
     "poi_type": "government_office",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000066",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.43203831,
-    "lon": 78.2089464,
+    "lat": 17.39037102,
+    "lon": 78.33270036,
     "name": "Community Hall",
     "poi_id": "POI-00084",
     "poi_type": "community_center",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000623",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.42901406,
-    "lon": 78.21035204,
+    "lat": 17.3863318,
+    "lon": 78.34103585,
     "name": "Neighborhood Activity Center",
     "poi_id": "POI-00085",
     "poi_type": "community_center",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000688",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.38844885,
-    "lon": 78.3351227,
+    "lat": 17.39223873,
+    "lon": 78.33465704,
     "name": "Residents Welfare Center",
     "poi_id": "POI-00086",
     "poi_type": "community_center",
+    "property_id": "PROP-KOK-000139",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.39056225,
-    "lon": 78.33784852,
+    "lat": 17.38574725,
+    "lon": 78.3364953,
     "name": "Civic Community Center",
     "poi_id": "POI-00087",
     "poi_type": "community_center",
+    "property_id": "PROP-KOK-000711",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42094495,
-    "lon": 78.21212655,
+    "lat": 17.38911688,
+    "lon": 78.33634343,
     "name": "Community Hall 2",
     "poi_id": "POI-00088",
     "poi_type": "community_center",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000515",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.42511482,
-    "lon": 78.21047267,
+    "lat": 17.45415867,
+    "lon": 78.13421041,
     "name": "Neighborhood Activity Center 2",
     "poi_id": "POI-00089",
     "poi_type": "community_center",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000214",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.3882935,
-    "lon": 78.33781003,
+    "lat": 17.4263782,
+    "lon": 78.21118339,
     "name": "Residents Welfare Center 2",
     "poi_id": "POI-00090",
     "poi_type": "community_center",
-    "source_region": "kokapet"
+    "property_id": "PROP-MOK-000430",
+    "source_region": "mokila"
   },
   {
-    "lat": 17.39093928,
-    "lon": 78.33475386,
+    "lat": 17.38913913,
+    "lon": 78.34190207,
     "name": "Civic Community Center 2",
     "poi_id": "POI-00091",
     "poi_type": "community_center",
+    "property_id": "PROP-KOK-000753",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.42637274,
-    "lon": 78.21053723,
+    "lat": 17.38657572,
+    "lon": 78.33996413,
     "name": "Community Hall 3",
     "poi_id": "POI-00092",
     "poi_type": "community_center",
-    "source_region": "mokila"
+    "property_id": "PROP-KOK-000691",
+    "source_region": "kokapet"
   },
   {
-    "lat": 17.42675838,
-    "lon": 78.20892115,
+    "lat": 17.45372248,
+    "lon": 78.13273882,
     "name": "Neighborhood Activity Center 3",
     "poi_id": "POI-00093",
     "poi_type": "community_center",
-    "source_region": "mokila"
+    "property_id": "PROP-SHA-000225",
+    "source_region": "shankarpally"
   },
   {
-    "lat": 17.39442566,
-    "lon": 78.33675299,
+    "lat": 17.38494079,
+    "lon": 78.33706758,
     "name": "Residents Welfare Center 3",
     "poi_id": "POI-00094",
     "poi_type": "community_center",
+    "property_id": "PROP-KOK-000717",
     "source_region": "kokapet"
   },
   {
-    "lat": 17.39221157,
-    "lon": 78.33343848,
+    "lat": 17.45447825,
+    "lon": 78.13235635,
     "name": "Civic Community Center 3",
     "poi_id": "POI-00095",
     "poi_type": "community_center",
-    "source_region": "kokapet"
+    "property_id": "PROP-SHA-000209",
+    "source_region": "shankarpally"
   }
 ]
