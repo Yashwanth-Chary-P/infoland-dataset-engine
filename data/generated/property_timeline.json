@@ -860,12 +860,8 @@
         "event_date": "2012-04-13"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2012-05-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-05-13"
       }
     ]
   },
@@ -1583,12 +1579,8 @@
         "event_date": "2019-07-23"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2019-09-06"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-08-22"
       }
     ]
   },
@@ -2058,16 +2050,8 @@
         "event_date": "2009-06-15"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-07-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-08-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-07-15"
       }
     ]
   },
@@ -2778,8 +2762,16 @@
         "event_date": "2015-04-09"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2015-05-19"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2015-05-24"
+      },
+      {
+        "event_type": "loan_closed",
+        "event_date": "2017-04-18"
       },
       {
         "event_type": "tax_paid",
@@ -3282,23 +3274,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-01-04"
+        "event_date": "2014-01-04"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-01-04"
+        "event_date": "2014-01-04"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-02-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-03-18"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-02-03"
       }
     ]
   },
@@ -3522,12 +3506,8 @@
         "event_date": "2011-10-08"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2011-11-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-11-07"
       }
     ]
   },
@@ -3590,27 +3570,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-01-16"
+        "event_date": "2020-01-16"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-01-16"
+        "event_date": "2020-01-16"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-02-13"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2025-03-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2025-04-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-02-15"
       }
     ]
   },
@@ -3619,19 +3587,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2009-06-03"
+        "event_date": "2013-06-03"
       },
       {
         "event_type": "registration",
-        "event_date": "2009-06-03"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-07-01"
+        "event_date": "2013-06-03"
       },
       {
         "event_type": "mutation_updated",
-        "event_date": "2012-08-15"
+        "event_date": "2013-07-18"
       },
       {
         "event_type": "tax_paid",
@@ -4234,31 +4198,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2003-01-16"
+        "event_date": "2019-01-16"
       },
       {
         "event_type": "registration",
-        "event_date": "2003-01-16"
+        "event_date": "2019-01-16"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2006-02-13"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2009-03-13"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2009-04-22"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2009-04-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-02-15"
       }
     ]
   },
@@ -6409,19 +6357,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-12-22"
+        "event_date": "2012-12-22"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-12-22"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-01-19"
+        "event_date": "2012-12-22"
       },
       {
         "event_type": "mutation_updated",
-        "event_date": "2023-03-05"
+        "event_date": "2013-02-05"
       },
       {
         "event_type": "tax_paid",
@@ -7558,12 +7502,8 @@
         "event_date": "2020-06-03"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2020-07-18"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-07-03"
       }
     ]
   },
@@ -8249,23 +8189,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-04-01"
+        "event_date": "2020-04-01"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-04-01"
+        "event_date": "2020-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-04-29"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-06-13"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-05-01"
       }
     ]
   },
@@ -9760,12 +9692,8 @@
         "event_date": "2009-08-17"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-10-01"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-09-16"
       }
     ]
   },
@@ -11074,31 +11002,19 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2007-01-04"
+        "event_date": "2015-01-04"
       },
       {
         "event_type": "registration",
-        "event_date": "2007-01-04"
+        "event_date": "2015-01-04"
       },
       {
         "event_type": "ownership_transfer",
-        "event_date": "2010-02-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2013-03-01"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2013-04-10"
+        "event_date": "2018-02-01"
       },
       {
         "event_type": "mutation_updated",
-        "event_date": "2013-04-15"
-      },
-      {
-        "event_type": "loan_closed",
-        "event_date": "2015-03-11"
+        "event_date": "2018-03-18"
       },
       {
         "event_type": "tax_paid",
@@ -11537,27 +11453,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2011-04-01"
+        "event_date": "2015-04-01"
       },
       {
         "event_type": "registration",
-        "event_date": "2011-04-01"
+        "event_date": "2015-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-04-29"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-05-27"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-07-11"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-05-01"
       }
     ]
   },
@@ -11612,23 +11516,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2012-07-11"
+        "event_date": "2010-07-11"
       },
       {
         "event_type": "registration",
-        "event_date": "2012-07-11"
+        "event_date": "2010-07-11"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-08-09"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2015-09-23"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-08-10"
       }
     ]
   },
@@ -12197,23 +12093,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-04-01"
+        "event_date": "2014-04-01"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-04-01"
+        "event_date": "2014-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-04-29"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-06-13"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-05-01"
       }
     ]
   },
@@ -12272,27 +12160,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2020-07-11"
+        "event_date": "2009-07-11"
       },
       {
         "event_type": "registration",
-        "event_date": "2020-07-11"
+        "event_date": "2009-07-11"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-08-09"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2026-09-06"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2026-10-21"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-08-10"
       }
     ]
   },
@@ -12614,8 +12490,16 @@
         "event_date": "2020-03-11"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2020-04-20"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2020-04-25"
+      },
+      {
+        "event_type": "loan_closed",
+        "event_date": "2022-03-21"
       },
       {
         "event_type": "tax_paid",
@@ -12878,23 +12762,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2014-09-12"
+        "event_date": "2020-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "2014-09-12"
+        "event_date": "2020-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-10-10"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-11-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-10-12"
       }
     ]
   },
@@ -13264,12 +13140,8 @@
         "event_date": "2008-12-10"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-01-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-01-09"
       }
     ]
   },
@@ -13488,16 +13360,8 @@
         "event_date": "2021-05-27"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2024-06-24"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2024-08-03"
-      },
-      {
         "event_type": "mutation_updated",
-        "event_date": "2024-08-08"
+        "event_date": "2021-07-11"
       },
       {
         "event_type": "tax_paid",
@@ -13704,12 +13568,8 @@
         "event_date": "2016-08-17"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2016-10-01"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-09-16"
       }
     ]
   },
@@ -13764,23 +13624,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2012-11-02"
+        "event_date": "2011-11-02"
       },
       {
         "event_type": "registration",
-        "event_date": "2012-11-02"
+        "event_date": "2011-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-12-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2016-01-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-12-02"
       }
     ]
   },
@@ -13822,23 +13674,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2010-08-31"
+        "event_date": "2012-08-31"
       },
       {
         "event_type": "registration",
-        "event_date": "2010-08-31"
+        "event_date": "2012-08-31"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2013-09-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2013-11-12"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-09-30"
       }
     ]
   },
@@ -13972,27 +13816,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2008-03-20"
+        "event_date": "2015-03-21"
       },
       {
         "event_type": "registration",
-        "event_date": "2008-03-20"
+        "event_date": "2015-03-21"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2011-04-18"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-05-16"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2014-06-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-04-20"
       }
     ]
   },
@@ -14170,27 +14002,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2014-09-12"
+        "event_date": "2018-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "2014-09-12"
+        "event_date": "2018-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-10-10"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-11-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-12-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2018-10-12"
       }
     ]
   },
@@ -14348,12 +14168,8 @@
         "event_date": "2015-08-17"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2015-10-01"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-09-16"
       }
     ]
   },
@@ -16174,8 +15990,16 @@
         "event_date": "2016-02-28"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2016-04-08"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2016-04-13"
+      },
+      {
+        "event_type": "loan_closed",
+        "event_date": "2018-03-09"
       },
       {
         "event_type": "tax_paid",
@@ -16837,20 +16661,8 @@
         "event_date": "2014-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-10-10"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-11-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-12-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-10-12"
       }
     ]
   },
@@ -16859,23 +16671,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2009-01-30"
+        "event_date": "2008-01-30"
       },
       {
         "event_type": "registration",
-        "event_date": "2009-01-30"
+        "event_date": "2008-01-30"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-02-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-04-13"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2008-02-29"
       }
     ]
   },
@@ -17016,12 +16820,8 @@
         "event_date": "2011-08-17"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2011-10-01"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-09-16"
       }
     ]
   },
@@ -17120,8 +16920,16 @@
         "event_date": "2015-06-09"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2015-07-19"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2015-07-24"
+      },
+      {
+        "event_type": "court_dispute_filed",
+        "event_date": "2015-10-07"
       },
       {
         "event_type": "tax_paid",
@@ -17191,8 +16999,16 @@
         "event_date": "2019-08-21"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2019-09-30"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2019-10-05"
+      },
+      {
+        "event_type": "loan_closed",
+        "event_date": "2021-08-30"
       },
       {
         "event_type": "tax_paid",
@@ -17392,27 +17208,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-11-14"
+        "event_date": "2012-11-14"
       },
       {
         "event_type": "registration",
-        "event_date": "2016-11-14"
+        "event_date": "2012-11-14"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-12-13"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-01-10"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2023-02-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-12-14"
       }
     ]
   },
@@ -17515,8 +17319,16 @@
         "event_date": "2020-09-05"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2020-10-15"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2020-10-20"
+      },
+      {
+        "event_type": "court_dispute_filed",
+        "event_date": "2021-01-03"
       },
       {
         "event_type": "tax_paid",
@@ -17619,6 +17431,10 @@
         "event_date": "2019-04-06"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2019-05-16"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2019-05-21"
       },
@@ -17646,6 +17462,10 @@
       {
         "event_type": "ownership_transfer",
         "event_date": "2025-10-12"
+      },
+      {
+        "event_type": "loan_created",
+        "event_date": "2025-11-21"
       },
       {
         "event_type": "mutation_updated",
@@ -17729,23 +17549,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-04-13"
+        "event_date": "2012-04-13"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-04-13"
+        "event_date": "2012-04-13"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-05-11"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-06-25"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-05-13"
       }
     ]
   },
@@ -17790,8 +17602,16 @@
         "event_date": "2022-04-08"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2022-05-18"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2022-05-23"
+      },
+      {
+        "event_type": "court_dispute_filed",
+        "event_date": "2022-08-06"
       },
       {
         "event_type": "tax_paid",
@@ -17911,12 +17731,8 @@
         "event_date": "2009-03-21"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-05-05"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-04-20"
       }
     ]
   },
@@ -18522,12 +18338,8 @@
         "event_date": "2014-10-08"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2014-11-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-11-07"
       }
     ]
   },
@@ -18536,23 +18348,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2004-03-20"
+        "event_date": "2008-03-20"
       },
       {
         "event_type": "registration",
-        "event_date": "2004-03-20"
+        "event_date": "2008-03-20"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2007-04-18"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2007-06-02"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2008-04-19"
       }
     ]
   },
@@ -18568,16 +18372,8 @@
         "event_date": "2015-08-05"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-09-02"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-10-17"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-09-04"
       }
     ]
   },
@@ -18586,23 +18382,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2011-01-16"
+        "event_date": "2010-01-16"
       },
       {
         "event_type": "registration",
-        "event_date": "2011-01-16"
+        "event_date": "2010-01-16"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-02-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2014-03-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-02-15"
       }
     ]
   },
@@ -18611,35 +18399,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-06-03"
+        "event_date": "2016-06-03"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-06-03"
+        "event_date": "2016-06-03"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-07-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2021-07-29"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2021-09-12"
-      },
-      {
-        "event_type": "court_dispute_filed",
-        "event_date": "2021-11-26"
-      },
-      {
-        "event_type": "court_dispute_closed",
-        "event_date": "2023-02-19"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-07-03"
       }
     ]
   },
@@ -18731,27 +18499,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2013-01-30"
+        "event_date": "2018-01-30"
       },
       {
         "event_type": "registration",
-        "event_date": "2013-01-30"
+        "event_date": "2018-01-30"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2016-02-28"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-03-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2019-05-12"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2018-03-01"
       }
     ]
   },
@@ -18767,12 +18523,8 @@
         "event_date": "2012-07-11"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2012-08-25"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-08-10"
       }
     ]
   },
@@ -18781,35 +18533,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2007-12-22"
+        "event_date": "2019-12-22"
       },
       {
         "event_type": "registration",
-        "event_date": "2007-12-22"
+        "event_date": "2019-12-22"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2011-01-19"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-02-16"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-03-16"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-04-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-05-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-01-21"
       }
     ]
   },
@@ -19181,12 +18913,8 @@
         "event_date": "2019-05-21"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2019-07-05"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-06-20"
       }
     ]
   },
@@ -19253,47 +18981,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-08-05"
+        "event_date": "2014-08-05"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-08-05"
+        "event_date": "2014-08-05"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-09-02"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2025-09-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2028-10-28"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2031-11-26"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2032-01-05"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2032-01-10"
-      },
-      {
-        "event_type": "court_dispute_filed",
-        "event_date": "2032-03-25"
-      },
-      {
-        "event_type": "court_dispute_closed",
-        "event_date": "2033-06-18"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-09-04"
       }
     ]
   },
@@ -19363,12 +19059,8 @@
         "event_date": "2009-11-14"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-12-29"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-12-14"
       }
     ]
   },
@@ -19384,16 +19076,8 @@
         "event_date": "2016-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-04-30"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2019-06-14"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-05-01"
       }
     ]
   },
@@ -19498,23 +19182,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2010-05-09"
+        "event_date": "2012-05-09"
       },
       {
         "event_type": "registration",
-        "event_date": "2010-05-09"
+        "event_date": "2012-05-09"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2013-06-06"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2013-07-21"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-06-08"
       }
     ]
   },
@@ -19718,23 +19394,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2018-08-31"
+        "event_date": "2016-08-31"
       },
       {
         "event_type": "registration",
-        "event_date": "2018-08-31"
+        "event_date": "2016-08-31"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2021-09-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2021-11-12"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-09-30"
       }
     ]
   },
@@ -19913,23 +19581,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-08-05"
+        "event_date": "2013-08-05"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-08-05"
+        "event_date": "2013-08-05"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-09-02"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-10-17"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-09-04"
       }
     ]
   },
@@ -20007,16 +19667,8 @@
         "event_date": "2008-11-14"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2011-12-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-01-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2008-12-14"
       }
     ]
   },
@@ -20032,12 +19684,8 @@
         "event_date": "2015-04-01"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2015-05-16"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-05-01"
       }
     ]
   },
@@ -20046,27 +19694,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "1997-09-12"
+        "event_date": "2009-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "1997-09-12"
+        "event_date": "2009-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2000-10-10"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2003-11-08"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2003-12-23"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-10-12"
       }
     ]
   },
@@ -20100,27 +19736,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2020-07-11"
+        "event_date": "2010-07-11"
       },
       {
         "event_type": "registration",
-        "event_date": "2020-07-11"
+        "event_date": "2010-07-11"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-08-09"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2026-09-06"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2026-10-21"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-08-10"
       }
     ]
   },
@@ -20306,12 +19930,8 @@
         "event_date": "2020-06-15"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2020-07-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-07-15"
       }
     ]
   },
@@ -20320,35 +19940,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2017-11-02"
+        "event_date": "2014-11-02"
       },
       {
         "event_type": "registration",
-        "event_date": "2017-11-02"
+        "event_date": "2014-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-11-30"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-12-29"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2027-01-26"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2027-03-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2027-03-12"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-12-02"
       }
     ]
   },
@@ -21402,23 +21002,19 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2006-05-09"
+        "event_date": "2018-05-09"
       },
       {
         "event_type": "registration",
-        "event_date": "2006-05-09"
+        "event_date": "2018-05-09"
       },
       {
         "event_type": "ownership_transfer",
-        "event_date": "2009-06-06"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-07-04"
+        "event_date": "2021-06-06"
       },
       {
         "event_type": "mutation_updated",
-        "event_date": "2012-08-18"
+        "event_date": "2021-07-21"
       },
       {
         "event_type": "tax_paid",
@@ -21471,12 +21067,8 @@
         "event_date": "2010-03-09"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2010-04-23"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-04-08"
       }
     ]
   },
@@ -21614,6 +21206,10 @@
       {
         "event_type": "mutation_updated",
         "event_date": "2016-07-23"
+      },
+      {
+        "event_type": "court_dispute_filed",
+        "event_date": "2016-10-06"
       },
       {
         "event_type": "loan_closed",
@@ -22158,27 +21754,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2012-03-20"
+        "event_date": "2010-03-21"
       },
       {
         "event_type": "registration",
-        "event_date": "2012-03-20"
+        "event_date": "2010-03-21"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-04-18"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-05-16"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-06-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-04-20"
       }
     ]
   },
@@ -22219,16 +21803,8 @@
         "event_date": "2012-01-16"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-02-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2015-03-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-02-15"
       }
     ]
   },
@@ -22295,23 +21871,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-04-01"
+        "event_date": "2019-04-01"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-04-01"
+        "event_date": "2019-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-04-29"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-06-13"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-05-01"
       }
     ]
   },
@@ -22320,27 +21888,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2006-09-12"
+        "event_date": "2013-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "2006-09-12"
+        "event_date": "2013-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2009-10-10"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-11-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-12-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-10-12"
       }
     ]
   },
@@ -22349,27 +21905,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2013-01-30"
+        "event_date": "2020-01-30"
       },
       {
         "event_type": "registration",
-        "event_date": "2013-01-30"
+        "event_date": "2020-01-30"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2016-02-28"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-03-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2019-05-12"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-02-29"
       }
     ]
   },
@@ -22403,27 +21947,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2011-12-22"
+        "event_date": "2008-12-22"
       },
       {
         "event_type": "registration",
-        "event_date": "2011-12-22"
+        "event_date": "2008-12-22"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-01-19"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-02-16"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-04-02"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-01-21"
       }
     ]
   },
@@ -22432,39 +21964,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2010-05-09"
+        "event_date": "2015-05-09"
       },
       {
         "event_type": "registration",
-        "event_date": "2010-05-09"
+        "event_date": "2015-05-09"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2013-06-06"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2016-07-04"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-08-02"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-08-30"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-10-14"
-      },
-      {
-        "event_type": "court_dispute_filed",
-        "event_date": "2022-12-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-06-08"
       }
     ]
   },
@@ -22564,31 +22072,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-01-04"
+        "event_date": "2018-01-04"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-01-04"
+        "event_date": "2018-01-04"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-02-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2025-03-01"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2025-04-10"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2025-04-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2018-02-03"
       }
     ]
   },
@@ -22691,12 +22183,8 @@
         "event_date": "2019-08-31"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2019-10-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-09-30"
       }
     ]
   },
@@ -22733,12 +22221,8 @@
         "event_date": "2020-07-23"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2020-09-06"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-08-22"
       }
     ]
   },
@@ -22754,12 +22238,8 @@
         "event_date": "2014-12-10"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2015-01-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-01-09"
       }
     ]
   },
@@ -22768,27 +22248,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2006-05-21"
+        "event_date": "2008-05-21"
       },
       {
         "event_type": "registration",
-        "event_date": "2006-05-21"
+        "event_date": "2008-05-21"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2009-06-18"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-07-16"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-08-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2008-06-20"
       }
     ]
   },
@@ -22837,16 +22305,8 @@
         "event_date": "2009-03-21"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2012-04-18"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-06-02"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-04-20"
       }
     ]
   },
@@ -22864,6 +22324,10 @@
       {
         "event_type": "ownership_transfer",
         "event_date": "2014-09-02"
+      },
+      {
+        "event_type": "loan_created",
+        "event_date": "2014-10-12"
       },
       {
         "event_type": "mutation_updated",
@@ -22930,23 +22394,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-11-14"
+        "event_date": "2011-11-14"
       },
       {
         "event_type": "registration",
-        "event_date": "2016-11-14"
+        "event_date": "2011-11-14"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-12-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-01-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-12-14"
       }
     ]
   },
@@ -23046,27 +22502,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2012-07-11"
+        "event_date": "2013-07-11"
       },
       {
         "event_type": "registration",
-        "event_date": "2012-07-11"
+        "event_date": "2013-07-11"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-08-09"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-09-06"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-10-21"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-08-10"
       }
     ]
   },
@@ -23195,23 +22639,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-08-17"
+        "event_date": "2009-08-17"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-08-17"
+        "event_date": "2009-08-17"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-09-14"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-10-29"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-09-16"
       }
     ]
   },
@@ -23220,23 +22656,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2007-01-04"
+        "event_date": "2017-01-04"
       },
       {
         "event_type": "registration",
-        "event_date": "2007-01-04"
+        "event_date": "2017-01-04"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2010-02-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2010-03-18"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-02-03"
       }
     ]
   },
@@ -23270,39 +22698,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2020-11-02"
+        "event_date": "2017-11-02"
       },
       {
         "event_type": "registration",
-        "event_date": "2020-11-02"
+        "event_date": "2017-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-12-01"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2026-12-29"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2030-01-26"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2033-02-23"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2033-04-04"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2033-04-09"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-12-02"
       }
     ]
   },
@@ -23318,20 +22722,8 @@
         "event_date": "2011-04-13"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-05-11"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-06-08"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-07-23"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-05-13"
       }
     ]
   },
@@ -23376,12 +22768,8 @@
         "event_date": "2012-02-11"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2012-03-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-03-12"
       }
     ]
   },
@@ -23397,16 +22785,8 @@
         "event_date": "2019-07-23"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-08-20"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-10-04"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-08-22"
       }
     ]
   },
@@ -23519,23 +22899,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-08-05"
+        "event_date": "2015-08-05"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-08-05"
+        "event_date": "2015-08-05"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-09-02"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-10-17"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-09-04"
       }
     ]
   },
@@ -23569,35 +22941,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "1997-06-03"
+        "event_date": "2016-06-03"
       },
       {
         "event_type": "registration",
-        "event_date": "1997-06-03"
+        "event_date": "2016-06-03"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2000-07-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2003-07-30"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2006-08-27"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2009-09-24"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2009-11-08"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-07-03"
       }
     ]
   },
@@ -23642,12 +22994,8 @@
         "event_date": "2017-04-01"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2017-05-16"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-05-01"
       }
     ]
   },
@@ -23743,35 +23091,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2011-12-22"
+        "event_date": "2019-12-22"
       },
       {
         "event_type": "registration",
-        "event_date": "2011-12-22"
+        "event_date": "2019-12-22"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-01-19"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-02-16"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2018-03-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-04-02"
-      },
-      {
-        "event_type": "loan_closed",
-        "event_date": "2020-02-26"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-01-21"
       }
     ]
   },
@@ -24632,23 +23960,19 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2010-08-31"
+        "event_date": "2018-08-31"
       },
       {
         "event_type": "registration",
-        "event_date": "2010-08-31"
+        "event_date": "2018-08-31"
       },
       {
         "event_type": "ownership_transfer",
-        "event_date": "2013-09-28"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2016-10-26"
+        "event_date": "2021-09-28"
       },
       {
         "event_type": "mutation_updated",
-        "event_date": "2016-12-10"
+        "event_date": "2021-11-12"
       },
       {
         "event_type": "tax_paid",
@@ -26971,23 +26295,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-12-22"
+        "event_date": "2014-12-22"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-12-22"
+        "event_date": "2014-12-22"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-01-19"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2023-03-05"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-01-21"
       }
     ]
   },
@@ -28999,35 +28315,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2011-08-17"
+        "event_date": "2013-08-17"
       },
       {
         "event_type": "registration",
-        "event_date": "2011-08-17"
+        "event_date": "2013-08-17"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-09-14"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-10-12"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2017-11-21"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-11-26"
-      },
-      {
-        "event_type": "loan_closed",
-        "event_date": "2019-10-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-09-16"
       }
     ]
   },
@@ -29086,31 +28382,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2007-11-02"
+        "event_date": "2008-11-02"
       },
       {
         "event_type": "registration",
-        "event_date": "2007-11-02"
+        "event_date": "2008-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2010-11-30"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2013-12-28"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-01-25"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-03-11"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2008-12-02"
       }
     ]
   },
@@ -29294,23 +28574,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2020-03-20"
+        "event_date": "2012-03-20"
       },
       {
         "event_type": "registration",
-        "event_date": "2020-03-20"
+        "event_date": "2012-03-20"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-04-18"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2023-06-02"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-04-19"
       }
     ]
   },
@@ -29388,16 +28660,8 @@
         "event_date": "2020-06-03"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-07-02"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2023-08-16"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-07-03"
       }
     ]
   },
@@ -29725,6 +28989,10 @@
         "event_date": "2026-12-29"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2027-02-07"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2027-02-12"
       }
@@ -30012,8 +29280,16 @@
         "event_date": "2020-07-01"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2020-08-10"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2020-08-15"
+      },
+      {
+        "event_type": "loan_closed",
+        "event_date": "2022-07-11"
       },
       {
         "event_type": "tax_paid",
@@ -31134,39 +30410,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2017-03-21"
+        "event_date": "2009-03-21"
       },
       {
         "event_type": "registration",
-        "event_date": "2017-03-21"
+        "event_date": "2009-03-21"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-04-18"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-05-17"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2026-06-14"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2026-07-24"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2026-07-29"
-      },
-      {
-        "event_type": "court_dispute_filed",
-        "event_date": "2026-10-12"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-04-20"
       }
     ]
   },
@@ -31236,16 +30488,8 @@
         "event_date": "2017-06-03"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-07-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-08-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-07-03"
       }
     ]
   },
@@ -31493,16 +30737,8 @@
         "event_date": "2015-03-09"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-04-06"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2018-05-21"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-04-08"
       }
     ]
   },
@@ -31544,31 +30780,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-01-04"
+        "event_date": "2017-01-04"
       },
       {
         "event_type": "registration",
-        "event_date": "2016-01-04"
+        "event_date": "2017-01-04"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-02-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-03-01"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2022-04-10"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-04-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-02-03"
       }
     ]
   },
@@ -31584,12 +30804,8 @@
         "event_date": "2010-06-15"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2010-07-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-07-15"
       }
     ]
   },
@@ -31888,35 +31104,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2015-01-16"
+        "event_date": "2010-01-16"
       },
       {
         "event_type": "registration",
-        "event_date": "2015-01-16"
+        "event_date": "2010-01-16"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-02-13"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2021-03-13"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2021-04-22"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2021-04-27"
-      },
-      {
-        "event_type": "loan_closed",
-        "event_date": "2023-03-23"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-02-15"
       }
     ]
   },
@@ -32561,23 +31757,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2017-06-03"
+        "event_date": "2015-06-03"
       },
       {
         "event_type": "registration",
-        "event_date": "2017-06-03"
+        "event_date": "2015-06-03"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-07-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-08-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-07-03"
       }
     ]
   },
@@ -32618,12 +31806,8 @@
         "event_date": "2016-04-01"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2016-05-16"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-05-01"
       }
     ]
   },
@@ -32867,20 +32051,8 @@
         "event_date": "2015-01-04"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-02-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2021-03-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2021-04-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-02-03"
       }
     ]
   },
@@ -32946,12 +32118,8 @@
         "event_date": "2009-04-13"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-05-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-05-13"
       }
     ]
   },
@@ -32996,12 +32164,8 @@
         "event_date": "2010-02-11"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2010-03-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-03-13"
       }
     ]
   },
@@ -33084,12 +32248,8 @@
         "event_date": "2012-10-08"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2012-11-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-11-07"
       }
     ]
   },
@@ -33098,23 +32258,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2020-03-20"
+        "event_date": "2019-03-21"
       },
       {
         "event_type": "registration",
-        "event_date": "2020-03-20"
+        "event_date": "2019-03-21"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-04-18"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2023-06-02"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-04-20"
       }
     ]
   },
@@ -33123,23 +32275,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2011-08-05"
+        "event_date": "2013-08-05"
       },
       {
         "event_type": "registration",
-        "event_date": "2011-08-05"
+        "event_date": "2013-08-05"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2014-09-02"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2014-10-17"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-09-04"
       }
     ]
   },
@@ -33262,12 +32406,8 @@
         "event_date": "2015-04-01"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2015-05-16"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-05-01"
       }
     ]
   },
@@ -33276,27 +32416,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2018-09-12"
+        "event_date": "2009-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "2018-09-12"
+        "event_date": "2009-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2021-10-10"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2024-11-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2024-12-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-10-12"
       }
     ]
   },
@@ -33305,23 +32433,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2005-01-30"
+        "event_date": "2016-01-30"
       },
       {
         "event_type": "registration",
-        "event_date": "2005-01-30"
+        "event_date": "2016-01-30"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2008-02-28"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2008-04-13"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-02-29"
       }
     ]
   },
@@ -33548,12 +32668,8 @@
         "event_date": "2020-06-15"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2020-07-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-07-15"
       }
     ]
   },
@@ -35294,16 +34410,8 @@
         "event_date": "2012-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-04-30"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2015-06-14"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-05-01"
       }
     ]
   },
@@ -35390,12 +34498,8 @@
         "event_date": "2014-12-22"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2015-02-05"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-01-21"
       }
     ]
   },
@@ -35429,27 +34533,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2002-10-20"
+        "event_date": "2015-10-20"
       },
       {
         "event_type": "registration",
-        "event_date": "2002-10-20"
+        "event_date": "2015-10-20"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2005-11-17"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2008-12-15"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2009-01-29"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-11-19"
       }
     ]
   },
@@ -38071,23 +37163,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2007-12-10"
+        "event_date": "2015-12-10"
       },
       {
         "event_type": "registration",
-        "event_date": "2007-12-10"
+        "event_date": "2015-12-10"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2011-01-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2011-02-21"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-01-09"
       }
     ]
   },
@@ -38852,12 +37936,8 @@
         "event_date": "2017-06-03"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2017-07-18"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-07-03"
       }
     ]
   },
@@ -38928,23 +38008,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2014-09-12"
+        "event_date": "2012-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "2014-09-12"
+        "event_date": "2012-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2017-10-10"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-11-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2012-10-12"
       }
     ]
   },
@@ -39011,27 +38083,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-12-22"
+        "event_date": "2020-12-22"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-12-22"
+        "event_date": "2020-12-22"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-01-19"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2026-02-16"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2026-04-02"
+        "event_type": "institutional_record_updated",
+        "event_date": "2021-01-21"
       }
     ]
   },
@@ -39080,16 +38140,8 @@
         "event_date": "2008-10-20"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2011-11-18"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2012-01-02"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2008-11-19"
       }
     ]
   },
@@ -39230,12 +38282,8 @@
         "event_date": "2011-04-13"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2011-05-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-05-13"
       }
     ]
   },
@@ -39419,31 +38467,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2003-08-05"
+        "event_date": "2015-08-05"
       },
       {
         "event_type": "registration",
-        "event_date": "2003-08-05"
+        "event_date": "2015-08-05"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2006-09-02"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2006-10-12"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2006-10-17"
-      },
-      {
-        "event_type": "loan_closed",
-        "event_date": "2008-09-11"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-09-04"
       }
     ]
   },
@@ -39452,35 +38484,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-01-16"
+        "event_date": "2010-01-16"
       },
       {
         "event_type": "registration",
-        "event_date": "2016-01-16"
+        "event_date": "2010-01-16"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-02-13"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-03-13"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2025-04-10"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2028-05-08"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2028-06-22"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-02-15"
       }
     ]
   },
@@ -40916,16 +39928,8 @@
         "event_date": "2018-10-20"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2021-11-17"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2022-01-01"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2018-11-19"
       }
     ]
   },
@@ -41042,27 +40046,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2012-11-02"
+        "event_date": "2014-11-02"
       },
       {
         "event_type": "registration",
-        "event_date": "2012-11-02"
+        "event_date": "2014-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2015-12-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2018-12-29"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2019-02-12"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2014-12-02"
       }
     ]
   },
@@ -41334,23 +40326,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-11-14"
+        "event_date": "2020-11-14"
       },
       {
         "event_type": "registration",
-        "event_date": "2016-11-14"
+        "event_date": "2020-11-14"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-12-13"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2020-01-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-12-14"
       }
     ]
   },
@@ -41449,12 +40433,8 @@
         "event_date": "2009-07-11"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-08-25"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-08-10"
       }
     ]
   },
@@ -41507,12 +40487,8 @@
         "event_date": "2010-05-09"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2010-06-23"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-06-08"
       }
     ]
   },
@@ -41528,12 +40504,8 @@
         "event_date": "2017-10-20"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2017-12-04"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-11-19"
       }
     ]
   },
@@ -41608,27 +40580,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2007-01-04"
+        "event_date": "2013-01-04"
       },
       {
         "event_type": "registration",
-        "event_date": "2007-01-04"
+        "event_date": "2013-01-04"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2010-02-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2013-03-01"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2013-04-15"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-02-03"
       }
     ]
   },
@@ -41669,16 +40629,8 @@
         "event_date": "2013-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2016-11-30"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2017-01-14"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2013-12-02"
       }
     ]
   },
@@ -41694,12 +40646,8 @@
         "event_date": "2020-04-13"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2020-05-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2020-05-13"
       }
     ]
   },
@@ -42002,6 +40950,10 @@
       {
         "event_type": "ownership_transfer",
         "event_date": "2020-07-01"
+      },
+      {
+        "event_type": "loan_created",
+        "event_date": "2020-08-10"
       },
       {
         "event_type": "mutation_updated",
@@ -42516,12 +41468,8 @@
         "event_date": "2009-10-08"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2009-11-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2009-11-07"
       }
     ]
   },
@@ -42607,8 +41555,16 @@
         "event_date": "2022-02-13"
       },
       {
+        "event_type": "loan_created",
+        "event_date": "2022-03-25"
+      },
+      {
         "event_type": "mutation_updated",
         "event_date": "2022-03-30"
+      },
+      {
+        "event_type": "loan_closed",
+        "event_date": "2024-02-23"
       },
       {
         "event_type": "tax_paid",
@@ -42949,19 +41905,19 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2013-06-15"
+        "event_date": "2017-06-15"
       },
       {
         "event_type": "registration",
-        "event_date": "2013-06-15"
+        "event_date": "2017-06-15"
       },
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-07-13"
+        "event_date": "2020-07-13"
       },
       {
         "event_type": "mutation_updated",
-        "event_date": "2016-08-27"
+        "event_date": "2020-08-27"
       },
       {
         "event_type": "tax_paid",
@@ -43122,16 +42078,8 @@
         "event_date": "2020-12-10"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2024-01-08"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2024-02-22"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2021-01-09"
       }
     ]
   },
@@ -43209,12 +42157,8 @@
         "event_date": "2015-03-21"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2015-05-05"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2015-04-20"
       }
     ]
   },
@@ -43335,31 +42279,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2019-04-01"
+        "event_date": "2011-04-01"
       },
       {
         "event_type": "registration",
-        "event_date": "2019-04-01"
+        "event_date": "2011-04-01"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-04-29"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2025-05-27"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2028-06-24"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2028-08-08"
+        "event_type": "institutional_record_updated",
+        "event_date": "2011-05-01"
       }
     ]
   },
@@ -43368,23 +42296,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2006-09-12"
+        "event_date": "2018-09-12"
       },
       {
         "event_type": "registration",
-        "event_date": "2006-09-12"
+        "event_date": "2018-09-12"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2009-10-10"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2009-11-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2018-10-12"
       }
     ]
   },
@@ -43421,12 +42341,8 @@
         "event_date": "2019-07-11"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2019-08-25"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2019-08-10"
       }
     ]
   },
@@ -43584,12 +42500,8 @@
         "event_date": "2016-06-15"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2016-07-30"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2016-07-15"
       }
     ]
   },
@@ -43598,35 +42510,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2016-11-02"
+        "event_date": "2010-11-02"
       },
       {
         "event_type": "registration",
-        "event_date": "2016-11-02"
+        "event_date": "2010-11-02"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2019-12-01"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2022-12-29"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2026-01-26"
-      },
-      {
-        "event_type": "loan_created",
-        "event_date": "2026-03-07"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2026-03-12"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2010-12-02"
       }
     ]
   },
@@ -43642,12 +42534,8 @@
         "event_date": "2017-04-13"
       },
       {
-        "event_type": "mutation_updated",
-        "event_date": "2017-05-28"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2017-05-13"
       }
     ]
   },
@@ -43681,27 +42569,15 @@
     "events": [
       {
         "event_type": "ownership_transfer",
-        "event_date": "2017-02-11"
+        "event_date": "2018-02-11"
       },
       {
         "event_type": "registration",
-        "event_date": "2017-02-11"
+        "event_date": "2018-02-11"
       },
       {
-        "event_type": "ownership_transfer",
-        "event_date": "2020-03-11"
-      },
-      {
-        "event_type": "ownership_transfer",
-        "event_date": "2023-04-09"
-      },
-      {
-        "event_type": "mutation_updated",
-        "event_date": "2023-05-24"
-      },
-      {
-        "event_type": "tax_paid",
-        "event_date": "2026-03-20"
+        "event_type": "institutional_record_updated",
+        "event_date": "2018-03-13"
       }
     ]
   },

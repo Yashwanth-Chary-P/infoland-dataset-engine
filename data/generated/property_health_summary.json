@@ -265,8 +265,8 @@
   },
   {
     "property_id": "PROP-KOK-000034",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -481,8 +481,8 @@
   },
   {
     "property_id": "PROP-KOK-000061",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -633,8 +633,8 @@
   },
   {
     "property_id": "PROP-KOK-000080",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -1009,8 +1009,8 @@
   },
   {
     "property_id": "PROP-KOK-000127",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -1081,8 +1081,8 @@
   },
   {
     "property_id": "PROP-KOK-000136",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -1105,16 +1105,16 @@
   },
   {
     "property_id": "PROP-KOK-000139",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000140",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 16,
+    "missing_document_count": 2,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -1297,11 +1297,11 @@
   },
   {
     "property_id": "PROP-KOK-000163",
-    "document_count": 10,
-    "missing_document_count": 8,
-    "active_loan_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000164",
@@ -1845,7 +1845,7 @@
     "missing_document_count": 9,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000232",
@@ -1929,8 +1929,8 @@
   },
   {
     "property_id": "PROP-KOK-000242",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 18,
+    "missing_document_count": 0,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -1949,7 +1949,7 @@
     "missing_document_count": 12,
     "active_loan_count": 1,
     "court_dispute_count": 1,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000245",
@@ -2005,7 +2005,7 @@
     "missing_document_count": 11,
     "active_loan_count": 0,
     "court_dispute_count": 1,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000252",
@@ -2265,8 +2265,8 @@
   },
   {
     "property_id": "PROP-KOK-000284",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -2473,8 +2473,8 @@
   },
   {
     "property_id": "PROP-KOK-000310",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -2921,8 +2921,8 @@
   },
   {
     "property_id": "PROP-KOK-000366",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -3313,8 +3313,8 @@
   },
   {
     "property_id": "PROP-KOK-000415",
-    "document_count": 10,
-    "missing_document_count": 8,
+    "document_count": 13,
+    "missing_document_count": 5,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -3389,7 +3389,7 @@
     "missing_document_count": 10,
     "active_loan_count": 0,
     "court_dispute_count": 1,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000425",
@@ -3413,7 +3413,7 @@
     "missing_document_count": 6,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000428",
@@ -3433,11 +3433,11 @@
   },
   {
     "property_id": "PROP-KOK-000430",
-    "document_count": 12,
-    "missing_document_count": 6,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000431",
@@ -3457,8 +3457,8 @@
   },
   {
     "property_id": "PROP-KOK-000433",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -3625,8 +3625,8 @@
   },
   {
     "property_id": "PROP-KOK-000454",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -3649,8 +3649,8 @@
   },
   {
     "property_id": "PROP-KOK-000457",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -3825,8 +3825,8 @@
   },
   {
     "property_id": "PROP-KOK-000479",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -3945,8 +3945,8 @@
   },
   {
     "property_id": "PROP-KOK-000494",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4009,11 +4009,11 @@
   },
   {
     "property_id": "PROP-KOK-000502",
-    "document_count": 10,
-    "missing_document_count": 8,
-    "active_loan_count": 1,
+    "document_count": 14,
+    "missing_document_count": 4,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000503",
@@ -4073,8 +4073,8 @@
   },
   {
     "property_id": "PROP-KOK-000510",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4097,8 +4097,8 @@
   },
   {
     "property_id": "PROP-KOK-000513",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4113,8 +4113,8 @@
   },
   {
     "property_id": "PROP-KOK-000515",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4161,8 +4161,8 @@
   },
   {
     "property_id": "PROP-KOK-000521",
-    "document_count": 11,
-    "missing_document_count": 7,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4209,8 +4209,8 @@
   },
   {
     "property_id": "PROP-KOK-000527",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4265,8 +4265,8 @@
   },
   {
     "property_id": "PROP-KOK-000534",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -4977,16 +4977,16 @@
   },
   {
     "property_id": "PROP-KOK-000623",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000624",
-    "document_count": 12,
-    "missing_document_count": 6,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5005,7 +5005,7 @@
     "missing_document_count": 11,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000627",
@@ -5033,8 +5033,8 @@
   },
   {
     "property_id": "PROP-KOK-000630",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5067,8 +5067,8 @@
     "property_id": "PROP-KOK-000634",
     "document_count": 9,
     "missing_document_count": 9,
-    "active_loan_count": 0,
-    "court_dispute_count": 0,
+    "active_loan_count": 1,
+    "court_dispute_count": 1,
     "pending_tax_count": 1
   },
   {
@@ -5153,8 +5153,8 @@
   },
   {
     "property_id": "PROP-KOK-000645",
-    "document_count": 10,
-    "missing_document_count": 8,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5187,8 +5187,8 @@
     "property_id": "PROP-KOK-000649",
     "document_count": 8,
     "missing_document_count": 10,
-    "active_loan_count": 0,
-    "court_dispute_count": 0,
+    "active_loan_count": 1,
+    "court_dispute_count": 1,
     "pending_tax_count": 1
   },
   {
@@ -5219,7 +5219,7 @@
     "property_id": "PROP-KOK-000653",
     "document_count": 14,
     "missing_document_count": 4,
-    "active_loan_count": 0,
+    "active_loan_count": 1,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
@@ -5227,7 +5227,7 @@
     "property_id": "PROP-KOK-000654",
     "document_count": 10,
     "missing_document_count": 8,
-    "active_loan_count": 0,
+    "active_loan_count": 1,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
@@ -5257,8 +5257,8 @@
   },
   {
     "property_id": "PROP-KOK-000658",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5275,8 +5275,8 @@
     "property_id": "PROP-KOK-000660",
     "document_count": 7,
     "missing_document_count": 11,
-    "active_loan_count": 0,
-    "court_dispute_count": 0,
+    "active_loan_count": 1,
+    "court_dispute_count": 1,
     "pending_tax_count": 0
   },
   {
@@ -5313,8 +5313,8 @@
   },
   {
     "property_id": "PROP-KOK-000665",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5497,42 +5497,42 @@
   },
   {
     "property_id": "PROP-KOK-000688",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000689",
-    "document_count": 12,
-    "missing_document_count": 6,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000690",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000691",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000692",
-    "document_count": 8,
-    "missing_document_count": 10,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
-    "court_dispute_count": 1,
+    "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
@@ -5561,16 +5561,16 @@
   },
   {
     "property_id": "PROP-KOK-000696",
-    "document_count": 11,
-    "missing_document_count": 7,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000697",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5581,7 +5581,7 @@
     "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000699",
@@ -5681,8 +5681,8 @@
   },
   {
     "property_id": "PROP-KOK-000711",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5701,15 +5701,15 @@
     "missing_document_count": 11,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-KOK-000714",
-    "document_count": 7,
-    "missing_document_count": 11,
-    "active_loan_count": 1,
-    "court_dispute_count": 1,
-    "pending_tax_count": 1
+    "document_count": 3,
+    "missing_document_count": 15,
+    "active_loan_count": 0,
+    "court_dispute_count": 0,
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000715",
@@ -5729,16 +5729,16 @@
   },
   {
     "property_id": "PROP-KOK-000717",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000718",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5777,8 +5777,8 @@
   },
   {
     "property_id": "PROP-KOK-000723",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5841,8 +5841,8 @@
   },
   {
     "property_id": "PROP-KOK-000731",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5897,8 +5897,8 @@
   },
   {
     "property_id": "PROP-KOK-000738",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5921,24 +5921,24 @@
   },
   {
     "property_id": "PROP-KOK-000741",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000742",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000743",
-    "document_count": 7,
-    "missing_document_count": 11,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -5953,8 +5953,8 @@
   },
   {
     "property_id": "PROP-KOK-000745",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6009,19 +6009,19 @@
   },
   {
     "property_id": "PROP-KOK-000752",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000753",
-    "document_count": 7,
-    "missing_document_count": 11,
-    "active_loan_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000754",
@@ -6353,11 +6353,11 @@
   },
   {
     "property_id": "PROP-KOK-000795",
-    "document_count": 12,
-    "missing_document_count": 6,
+    "document_count": 15,
+    "missing_document_count": 3,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-KOK-000796",
@@ -6369,8 +6369,8 @@
   },
   {
     "property_id": "PROP-KOK-000797",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6412,7 +6412,7 @@
     "document_count": 8,
     "missing_document_count": 10,
     "active_loan_count": 0,
-    "court_dispute_count": 0,
+    "court_dispute_count": 1,
     "pending_tax_count": 1
   },
   {
@@ -6577,8 +6577,8 @@
   },
   {
     "property_id": "PROP-MOK-000017",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6593,8 +6593,8 @@
   },
   {
     "property_id": "PROP-MOK-000019",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6617,24 +6617,24 @@
   },
   {
     "property_id": "PROP-MOK-000022",
-    "document_count": 11,
-    "missing_document_count": 7,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000023",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000024",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6649,8 +6649,8 @@
   },
   {
     "property_id": "PROP-MOK-000026",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6660,8 +6660,8 @@
     "document_count": 6,
     "missing_document_count": 12,
     "active_loan_count": 0,
-    "court_dispute_count": 1,
-    "pending_tax_count": 1
+    "court_dispute_count": 0,
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000028",
@@ -6689,9 +6689,9 @@
   },
   {
     "property_id": "PROP-MOK-000031",
-    "document_count": 12,
-    "missing_document_count": 6,
-    "active_loan_count": 1,
+    "document_count": 3,
+    "missing_document_count": 15,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
@@ -6721,8 +6721,8 @@
   },
   {
     "property_id": "PROP-MOK-000035",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6737,24 +6737,24 @@
   },
   {
     "property_id": "PROP-MOK-000037",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000038",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000039",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6769,8 +6769,8 @@
   },
   {
     "property_id": "PROP-MOK-000041",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6779,7 +6779,7 @@
     "property_id": "PROP-MOK-000042",
     "document_count": 15,
     "missing_document_count": 3,
-    "active_loan_count": 0,
+    "active_loan_count": 1,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
@@ -6801,8 +6801,8 @@
   },
   {
     "property_id": "PROP-MOK-000045",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6833,8 +6833,8 @@
   },
   {
     "property_id": "PROP-MOK-000049",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6873,16 +6873,16 @@
   },
   {
     "property_id": "PROP-MOK-000054",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000055",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6897,16 +6897,16 @@
   },
   {
     "property_id": "PROP-MOK-000057",
-    "document_count": 8,
-    "missing_document_count": 10,
-    "active_loan_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000058",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6921,16 +6921,16 @@
   },
   {
     "property_id": "PROP-MOK-000060",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000061",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6969,8 +6969,8 @@
   },
   {
     "property_id": "PROP-MOK-000066",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -6985,11 +6985,11 @@
   },
   {
     "property_id": "PROP-MOK-000068",
-    "document_count": 6,
-    "missing_document_count": 12,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000069",
@@ -7001,8 +7001,8 @@
   },
   {
     "property_id": "PROP-MOK-000070",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -7033,8 +7033,8 @@
   },
   {
     "property_id": "PROP-MOK-000074",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -7297,11 +7297,11 @@
   },
   {
     "property_id": "PROP-MOK-000107",
-    "document_count": 10,
-    "missing_document_count": 8,
+    "document_count": 13,
+    "missing_document_count": 5,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000108",
@@ -7637,7 +7637,7 @@
     "missing_document_count": 8,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000150",
@@ -7993,8 +7993,8 @@
   },
   {
     "property_id": "PROP-MOK-000194",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -8085,7 +8085,7 @@
     "missing_document_count": 7,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000206",
@@ -8325,7 +8325,7 @@
     "missing_document_count": 9,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000236",
@@ -8601,11 +8601,11 @@
   },
   {
     "property_id": "PROP-MOK-000270",
-    "document_count": 11,
-    "missing_document_count": 7,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000271",
@@ -8625,8 +8625,8 @@
   },
   {
     "property_id": "PROP-MOK-000273",
-    "document_count": 6,
-    "missing_document_count": 12,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -8645,7 +8645,7 @@
     "missing_document_count": 8,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000276",
@@ -8689,8 +8689,8 @@
   },
   {
     "property_id": "PROP-MOK-000281",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -8713,8 +8713,8 @@
   },
   {
     "property_id": "PROP-MOK-000284",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -8819,7 +8819,7 @@
     "property_id": "PROP-MOK-000297",
     "document_count": 13,
     "missing_document_count": 5,
-    "active_loan_count": 0,
+    "active_loan_count": 1,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
@@ -9265,10 +9265,10 @@
   },
   {
     "property_id": "PROP-MOK-000353",
-    "document_count": 8,
-    "missing_document_count": 10,
-    "active_loan_count": 1,
-    "court_dispute_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
+    "active_loan_count": 0,
+    "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
@@ -9289,8 +9289,8 @@
   },
   {
     "property_id": "PROP-MOK-000356",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9361,8 +9361,8 @@
   },
   {
     "property_id": "PROP-MOK-000365",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9379,14 +9379,14 @@
     "property_id": "PROP-MOK-000367",
     "document_count": 6,
     "missing_document_count": 12,
-    "active_loan_count": 1,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000368",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9473,11 +9473,11 @@
   },
   {
     "property_id": "PROP-MOK-000379",
-    "document_count": 11,
-    "missing_document_count": 7,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000380",
@@ -9673,8 +9673,8 @@
   },
   {
     "property_id": "PROP-MOK-000404",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9689,8 +9689,8 @@
   },
   {
     "property_id": "PROP-MOK-000406",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9761,8 +9761,8 @@
   },
   {
     "property_id": "PROP-MOK-000415",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9785,8 +9785,8 @@
   },
   {
     "property_id": "PROP-MOK-000418",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9797,12 +9797,12 @@
     "missing_document_count": 6,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000420",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9833,24 +9833,24 @@
   },
   {
     "property_id": "PROP-MOK-000424",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000425",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000426",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9881,24 +9881,24 @@
   },
   {
     "property_id": "PROP-MOK-000430",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000431",
-    "document_count": 10,
-    "missing_document_count": 8,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000432",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -9961,8 +9961,8 @@
   },
   {
     "property_id": "PROP-MOK-000440",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -10457,8 +10457,8 @@
   },
   {
     "property_id": "PROP-MOK-000502",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -10489,8 +10489,8 @@
   },
   {
     "property_id": "PROP-MOK-000506",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -10505,11 +10505,11 @@
   },
   {
     "property_id": "PROP-MOK-000508",
-    "document_count": 8,
-    "missing_document_count": 10,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-MOK-000509",
@@ -10565,7 +10565,7 @@
     "missing_document_count": 6,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000516",
@@ -10725,7 +10725,7 @@
     "missing_document_count": 6,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000536",
@@ -10901,7 +10901,7 @@
     "missing_document_count": 6,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000558",
@@ -11093,7 +11093,7 @@
     "missing_document_count": 7,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000582",
@@ -11101,7 +11101,7 @@
     "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 1,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-MOK-000583",
@@ -11253,7 +11253,7 @@
     "missing_document_count": 6,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-SHA-000010",
@@ -11289,8 +11289,8 @@
   },
   {
     "property_id": "PROP-SHA-000014",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -11529,8 +11529,8 @@
   },
   {
     "property_id": "PROP-SHA-000044",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -11553,8 +11553,8 @@
   },
   {
     "property_id": "PROP-SHA-000047",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -11577,8 +11577,8 @@
   },
   {
     "property_id": "PROP-SHA-000050",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -11593,8 +11593,8 @@
   },
   {
     "property_id": "PROP-SHA-000052",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -11641,8 +11641,8 @@
   },
   {
     "property_id": "PROP-SHA-000058",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -11705,19 +11705,19 @@
   },
   {
     "property_id": "PROP-SHA-000066",
-    "document_count": 11,
-    "missing_document_count": 7,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000067",
-    "document_count": 6,
-    "missing_document_count": 12,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000068",
@@ -11909,7 +11909,7 @@
     "missing_document_count": 7,
     "active_loan_count": 1,
     "court_dispute_count": 0,
-    "pending_tax_count": 0
+    "pending_tax_count": 1
   },
   {
     "property_id": "PROP-SHA-000092",
@@ -12169,8 +12169,8 @@
   },
   {
     "property_id": "PROP-SHA-000124",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12209,8 +12209,8 @@
   },
   {
     "property_id": "PROP-SHA-000129",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12305,8 +12305,8 @@
   },
   {
     "property_id": "PROP-SHA-000141",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12337,8 +12337,8 @@
   },
   {
     "property_id": "PROP-SHA-000145",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12353,16 +12353,16 @@
   },
   {
     "property_id": "PROP-SHA-000147",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000148",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12385,8 +12385,8 @@
   },
   {
     "property_id": "PROP-SHA-000151",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12401,16 +12401,16 @@
   },
   {
     "property_id": "PROP-SHA-000153",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000154",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12491,7 +12491,7 @@
     "property_id": "PROP-SHA-000164",
     "document_count": 15,
     "missing_document_count": 3,
-    "active_loan_count": 0,
+    "active_loan_count": 1,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
@@ -12649,8 +12649,8 @@
   },
   {
     "property_id": "PROP-SHA-000184",
-    "document_count": 16,
-    "missing_document_count": 2,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12777,8 +12777,8 @@
   },
   {
     "property_id": "PROP-SHA-000200",
-    "document_count": 15,
-    "missing_document_count": 3,
+    "document_count": 18,
+    "missing_document_count": 0,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12825,8 +12825,8 @@
   },
   {
     "property_id": "PROP-SHA-000206",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12849,8 +12849,8 @@
   },
   {
     "property_id": "PROP-SHA-000209",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12889,16 +12889,16 @@
   },
   {
     "property_id": "PROP-SHA-000214",
-    "document_count": 10,
-    "missing_document_count": 8,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000215",
-    "document_count": 14,
-    "missing_document_count": 4,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12913,8 +12913,8 @@
   },
   {
     "property_id": "PROP-SHA-000217",
-    "document_count": 17,
-    "missing_document_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -12969,24 +12969,24 @@
   },
   {
     "property_id": "PROP-SHA-000224",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000225",
-    "document_count": 9,
-    "missing_document_count": 9,
-    "active_loan_count": 1,
+    "document_count": 5,
+    "missing_document_count": 13,
+    "active_loan_count": 0,
     "court_dispute_count": 0,
-    "pending_tax_count": 1
+    "pending_tax_count": 0
   },
   {
     "property_id": "PROP-SHA-000226",
-    "document_count": 18,
-    "missing_document_count": 0,
+    "document_count": 6,
+    "missing_document_count": 12,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
@@ -13001,8 +13001,8 @@
   },
   {
     "property_id": "PROP-SHA-000228",
-    "document_count": 13,
-    "missing_document_count": 5,
+    "document_count": 3,
+    "missing_document_count": 15,
     "active_loan_count": 0,
     "court_dispute_count": 0,
     "pending_tax_count": 0
