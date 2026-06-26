@@ -10,7 +10,7 @@
     "property_profiles": 1633,
     "pois": 95,
     "owners": 1633,
-    "ownership_events": 3517,
+    "ownership_events": 3365,
     "property_registry": 1633,
     "property_metadata": 1633,
     "property_timeline": 1633,
@@ -21,9 +21,13 @@
     "court_disputes": 65
   },
   "data_condition_distribution": {
-    "clean": 653,
-    "high_risk_candidate": 163,
-    "minor_issues": 572,
-    "moderate_issues": 245
+    "clean": 730,
+    "high_risk_candidate": 150,
+    "minor_issues": 527,
+    "moderate_issues": 226
+  },
+  "verification_workflow_distribution": {
+    "complete_property_verification": 1505,
+    "institutional_property": 128
   }
 }

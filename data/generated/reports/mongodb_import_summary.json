@@ -14,7 +14,7 @@
     {
       "collection": "ownership_events",
       "path": "data/generated/ownership_events.json",
-      "record_count": 3517
+      "record_count": 3365
     },
     {
       "collection": "property_metadata",

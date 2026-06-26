@@ -1,38 +1,88 @@
 {
-  "properties_with_sale_deed": 1490,
-  "properties_with_mother_deed": 1509,
-  "properties_with_ec": 1561,
+  "properties_with_sale_deed": 1378,
+  "properties_with_mother_deed": 1392,
+  "properties_with_ec": 1441,
   "properties_with_loans": 294,
   "properties_with_pending_tax": 229,
   "properties_with_disputes": 65,
   "coverage_by_document_type": {
-    "sale_deed": 1490,
-    "mother_deed": 1509,
-    "encumbrance_certificate": 1561,
-    "property_tax_receipt": 1633,
-    "mutation_record": 1498,
-    "survey_map": 1494,
-    "rtc_record": 1277,
-    "khata_certificate": 1488,
-    "khata_extract": 1510,
-    "building_approval_plan": 908,
-    "layout_approval": 1295,
-    "land_conversion_certificate": 1294,
-    "occupancy_certificate": 906,
-    "completion_certificate": 908,
-    "noc": 892,
-    "identity_proof": 1633,
-    "power_of_attorney": 871,
-    "court_dispute_record": 750
+    "sale_deed": 1378,
+    "mother_deed": 1392,
+    "encumbrance_certificate": 1441,
+    "property_tax_receipt": 1512,
+    "mutation_record": 1396,
+    "survey_map": 1505,
+    "rtc_record": 1248,
+    "khata_certificate": 1475,
+    "khata_extract": 1391,
+    "building_approval_plan": 879,
+    "layout_approval": 1275,
+    "land_conversion_certificate": 1269,
+    "occupancy_certificate": 871,
+    "completion_certificate": 804,
+    "noc": 834,
+    "identity_proof": 1583,
+    "power_of_attorney": 808,
+    "court_dispute_record": 697
   },
   "coverage_by_sale_status": {
     "for_sale": {
-      "property_count": 323,
-      "document_records": 4434
+      "property_count": 313,
+      "document_records": 4291
     },
     "not_for_sale": {
-      "property_count": 1310,
-      "document_records": 18483
+      "property_count": 1320,
+      "document_records": 17467
     }
+  },
+  "coverage_by_region": {
+    "kokapet": {
+      "property_count": 806,
+      "available_documents": 10842
+    },
+    "mokila": {
+      "property_count": 592,
+      "available_documents": 7792
+    },
+    "shankarpally": {
+      "property_count": 235,
+      "available_documents": 3124
+    }
+  },
+  "institutional": {
+    "institutional_property_counts": {
+      "clinic": 8,
+      "community_center": 13,
+      "government": 10,
+      "hospital": 13,
+      "industrial": 7,
+      "park": 28,
+      "religious": 8,
+      "school": 19,
+      "vacant_land": 22
+    },
+    "institutional_owner_types": {
+      "government": 10,
+      "organization": 118
+    },
+    "institutional_document_coverage": {
+      "available": 614,
+      "expired": 17,
+      "missing": 1673
+    },
+    "institutional_distribution_by_region": {
+      "kokapet": 50,
+      "mokila": 51,
+      "shankarpally": 27
+    }
+  },
+  "dataset_health": {
+    "clean_properties": 730,
+    "minor_issues": 527,
+    "moderate_issues": 226,
+    "high_risk_candidates": 150,
+    "validation_success_rate": 1.0,
+    "consistency_score": 1.0,
+    "coverage_score": 0.7402
   }
 }
