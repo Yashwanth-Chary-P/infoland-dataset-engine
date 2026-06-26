@@ -974,8 +974,8 @@
   {
     "tax_id": "TAX-KOK-000163",
     "property_id": "PROP-KOK-000163",
-    "status": "pending",
-    "pending_amount": 5798
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000164",
@@ -1382,8 +1382,8 @@
   {
     "tax_id": "TAX-KOK-000231",
     "property_id": "PROP-KOK-000231",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 1884
   },
   {
     "tax_id": "TAX-KOK-000232",
@@ -1460,8 +1460,8 @@
   {
     "tax_id": "TAX-KOK-000244",
     "property_id": "PROP-KOK-000244",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 11394
   },
   {
     "tax_id": "TAX-KOK-000245",
@@ -1502,8 +1502,8 @@
   {
     "tax_id": "TAX-KOK-000251",
     "property_id": "PROP-KOK-000251",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 16599
   },
   {
     "tax_id": "TAX-KOK-000252",
@@ -2540,8 +2540,8 @@
   {
     "tax_id": "TAX-KOK-000424",
     "property_id": "PROP-KOK-000424",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 11366
   },
   {
     "tax_id": "TAX-KOK-000425",
@@ -2558,8 +2558,8 @@
   {
     "tax_id": "TAX-KOK-000427",
     "property_id": "PROP-KOK-000427",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 12004
   },
   {
     "tax_id": "TAX-KOK-000428",
@@ -2576,8 +2576,8 @@
   {
     "tax_id": "TAX-KOK-000430",
     "property_id": "PROP-KOK-000430",
-    "status": "pending",
-    "pending_amount": 55700
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000431",
@@ -3008,8 +3008,8 @@
   {
     "tax_id": "TAX-KOK-000502",
     "property_id": "PROP-KOK-000502",
-    "status": "pending",
-    "pending_amount": 10634
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000503",
@@ -3752,8 +3752,8 @@
   {
     "tax_id": "TAX-KOK-000626",
     "property_id": "PROP-KOK-000626",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 28374
   },
   {
     "tax_id": "TAX-KOK-000627",
@@ -4184,8 +4184,8 @@
   {
     "tax_id": "TAX-KOK-000698",
     "property_id": "PROP-KOK-000698",
-    "status": "pending",
-    "pending_amount": 76338
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000699",
@@ -4274,14 +4274,14 @@
   {
     "tax_id": "TAX-KOK-000713",
     "property_id": "PROP-KOK-000713",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 23418
   },
   {
     "tax_id": "TAX-KOK-000714",
     "property_id": "PROP-KOK-000714",
-    "status": "pending",
-    "pending_amount": 12753
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000715",
@@ -4514,8 +4514,8 @@
   {
     "tax_id": "TAX-KOK-000753",
     "property_id": "PROP-KOK-000753",
-    "status": "pending",
-    "pending_amount": 13827
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000754",
@@ -4766,8 +4766,8 @@
   {
     "tax_id": "TAX-KOK-000795",
     "property_id": "PROP-KOK-000795",
-    "status": "pending",
-    "pending_amount": 7848
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-KOK-000796",
@@ -4964,8 +4964,8 @@
   {
     "tax_id": "TAX-MOK-000022",
     "property_id": "PROP-MOK-000022",
-    "status": "pending",
-    "pending_amount": 21206
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000023",
@@ -4994,8 +4994,8 @@
   {
     "tax_id": "TAX-MOK-000027",
     "property_id": "PROP-MOK-000027",
-    "status": "pending",
-    "pending_amount": 12345
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000028",
@@ -5174,8 +5174,8 @@
   {
     "tax_id": "TAX-MOK-000057",
     "property_id": "PROP-MOK-000057",
-    "status": "pending",
-    "pending_amount": 10660
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000058",
@@ -5240,8 +5240,8 @@
   {
     "tax_id": "TAX-MOK-000068",
     "property_id": "PROP-MOK-000068",
-    "status": "pending",
-    "pending_amount": 31431
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000069",
@@ -5474,8 +5474,8 @@
   {
     "tax_id": "TAX-MOK-000107",
     "property_id": "PROP-MOK-000107",
-    "status": "pending",
-    "pending_amount": 20472
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000108",
@@ -5726,8 +5726,8 @@
   {
     "tax_id": "TAX-MOK-000149",
     "property_id": "PROP-MOK-000149",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 22971
   },
   {
     "tax_id": "TAX-MOK-000150",
@@ -6062,8 +6062,8 @@
   {
     "tax_id": "TAX-MOK-000205",
     "property_id": "PROP-MOK-000205",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 17262
   },
   {
     "tax_id": "TAX-MOK-000206",
@@ -6242,8 +6242,8 @@
   {
     "tax_id": "TAX-MOK-000235",
     "property_id": "PROP-MOK-000235",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 12438
   },
   {
     "tax_id": "TAX-MOK-000236",
@@ -6452,8 +6452,8 @@
   {
     "tax_id": "TAX-MOK-000270",
     "property_id": "PROP-MOK-000270",
-    "status": "pending",
-    "pending_amount": 3847
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000271",
@@ -6482,8 +6482,8 @@
   {
     "tax_id": "TAX-MOK-000275",
     "property_id": "PROP-MOK-000275",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 11541
   },
   {
     "tax_id": "TAX-MOK-000276",
@@ -7034,8 +7034,8 @@
   {
     "tax_id": "TAX-MOK-000367",
     "property_id": "PROP-MOK-000367",
-    "status": "pending",
-    "pending_amount": 3600
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000368",
@@ -7106,8 +7106,8 @@
   {
     "tax_id": "TAX-MOK-000379",
     "property_id": "PROP-MOK-000379",
-    "status": "pending",
-    "pending_amount": 3600
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000380",
@@ -7346,8 +7346,8 @@
   {
     "tax_id": "TAX-MOK-000419",
     "property_id": "PROP-MOK-000419",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 7086
   },
   {
     "tax_id": "TAX-MOK-000420",
@@ -7880,8 +7880,8 @@
   {
     "tax_id": "TAX-MOK-000508",
     "property_id": "PROP-MOK-000508",
-    "status": "pending",
-    "pending_amount": 36370
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-MOK-000509",
@@ -7922,8 +7922,8 @@
   {
     "tax_id": "TAX-MOK-000515",
     "property_id": "PROP-MOK-000515",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 10899
   },
   {
     "tax_id": "TAX-MOK-000516",
@@ -8042,8 +8042,8 @@
   {
     "tax_id": "TAX-MOK-000535",
     "property_id": "PROP-MOK-000535",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 6358
   },
   {
     "tax_id": "TAX-MOK-000536",
@@ -8174,8 +8174,8 @@
   {
     "tax_id": "TAX-MOK-000557",
     "property_id": "PROP-MOK-000557",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 9534
   },
   {
     "tax_id": "TAX-MOK-000558",
@@ -8318,14 +8318,14 @@
   {
     "tax_id": "TAX-MOK-000581",
     "property_id": "PROP-MOK-000581",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 35436
   },
   {
     "tax_id": "TAX-MOK-000582",
     "property_id": "PROP-MOK-000582",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 11817
   },
   {
     "tax_id": "TAX-MOK-000583",
@@ -8438,8 +8438,8 @@
   {
     "tax_id": "TAX-SHA-000009",
     "property_id": "PROP-SHA-000009",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 5345
   },
   {
     "tax_id": "TAX-SHA-000010",
@@ -8786,8 +8786,8 @@
   {
     "tax_id": "TAX-SHA-000067",
     "property_id": "PROP-SHA-000067",
-    "status": "pending",
-    "pending_amount": 26370
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-SHA-000068",
@@ -8930,8 +8930,8 @@
   {
     "tax_id": "TAX-SHA-000091",
     "property_id": "PROP-SHA-000091",
-    "status": "paid",
-    "pending_amount": 0
+    "status": "pending",
+    "pending_amount": 5588
   },
   {
     "tax_id": "TAX-SHA-000092",
@@ -9668,8 +9668,8 @@
   {
     "tax_id": "TAX-SHA-000214",
     "property_id": "PROP-SHA-000214",
-    "status": "pending",
-    "pending_amount": 28042
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-SHA-000215",
@@ -9734,8 +9734,8 @@
   {
     "tax_id": "TAX-SHA-000225",
     "property_id": "PROP-SHA-000225",
-    "status": "pending",
-    "pending_amount": 13376
+    "status": "paid",
+    "pending_amount": 0
   },
   {
     "tax_id": "TAX-SHA-000226",

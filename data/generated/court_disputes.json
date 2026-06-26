@@ -186,22 +186,34 @@
     "status": "active"
   },
   {
-    "dispute_id": "DISP-KOK-000692",
-    "property_id": "PROP-KOK-000692",
+    "dispute_id": "DISP-KOK-000634",
+    "property_id": "PROP-KOK-000634",
     "case_type": "title_dispute",
-    "status": "closed"
+    "status": "active"
   },
   {
-    "dispute_id": "DISP-KOK-000714",
-    "property_id": "PROP-KOK-000714",
-    "case_type": "inheritance_dispute",
-    "status": "closed"
+    "dispute_id": "DISP-KOK-000649",
+    "property_id": "PROP-KOK-000649",
+    "case_type": "boundary_dispute",
+    "status": "active"
+  },
+  {
+    "dispute_id": "DISP-KOK-000660",
+    "property_id": "PROP-KOK-000660",
+    "case_type": "boundary_dispute",
+    "status": "active"
   },
   {
     "dispute_id": "DISP-KOK-000771",
     "property_id": "PROP-KOK-000771",
     "case_type": "inheritance_dispute",
     "status": "closed"
+  },
+  {
+    "dispute_id": "DISP-KOK-000802",
+    "property_id": "PROP-KOK-000802",
+    "case_type": "title_dispute",
+    "status": "active"
   },
   {
     "dispute_id": "DISP-MOK-000012",
@@ -213,12 +225,6 @@
     "dispute_id": "DISP-MOK-000016",
     "property_id": "PROP-MOK-000016",
     "case_type": "boundary_dispute",
-    "status": "active"
-  },
-  {
-    "dispute_id": "DISP-MOK-000027",
-    "property_id": "PROP-MOK-000027",
-    "case_type": "title_dispute",
     "status": "active"
   },
   {
@@ -261,12 +267,6 @@
     "dispute_id": "DISP-MOK-000342",
     "property_id": "PROP-MOK-000342",
     "case_type": "inheritance_dispute",
-    "status": "active"
-  },
-  {
-    "dispute_id": "DISP-MOK-000353",
-    "property_id": "PROP-MOK-000353",
-    "case_type": "title_dispute",
     "status": "active"
   },
   {

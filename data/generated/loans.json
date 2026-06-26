@@ -105,6 +105,13 @@
     "outstanding_amount": 2925000
   },
   {
+    "loan_id": "LOAN-KOK-000108",
+    "property_id": "PROP-KOK-000108",
+    "status": "closed",
+    "loan_type": "home_loan",
+    "outstanding_amount": 0
+  },
+  {
     "loan_id": "LOAN-KOK-000112",
     "property_id": "PROP-KOK-000112",
     "status": "closed",
@@ -122,7 +129,7 @@
     "loan_id": "LOAN-KOK-000119",
     "property_id": "PROP-KOK-000119",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
   },
   {
@@ -173,13 +180,6 @@
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 2925000
-  },
-  {
-    "loan_id": "LOAN-KOK-000163",
-    "property_id": "PROP-KOK-000163",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 3175000
   },
   {
     "loan_id": "LOAN-KOK-000164",
@@ -374,7 +374,7 @@
     "loan_id": "LOAN-KOK-000290",
     "property_id": "PROP-KOK-000290",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
   },
   {
@@ -560,13 +560,6 @@
     "outstanding_amount": 3425000
   },
   {
-    "loan_id": "LOAN-KOK-000415",
-    "property_id": "PROP-KOK-000415",
-    "status": "closed",
-    "loan_type": "home_loan",
-    "outstanding_amount": 0
-  },
-  {
     "loan_id": "LOAN-KOK-000418",
     "property_id": "PROP-KOK-000418",
     "status": "active",
@@ -658,18 +651,18 @@
     "outstanding_amount": 3175000
   },
   {
+    "loan_id": "LOAN-KOK-000468",
+    "property_id": "PROP-KOK-000468",
+    "status": "closed",
+    "loan_type": "home_loan",
+    "outstanding_amount": 0
+  },
+  {
     "loan_id": "LOAN-KOK-000484",
     "property_id": "PROP-KOK-000484",
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 6325000
-  },
-  {
-    "loan_id": "LOAN-KOK-000502",
-    "property_id": "PROP-KOK-000502",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 2800000
   },
   {
     "loan_id": "LOAN-KOK-000506",
@@ -805,6 +798,13 @@
     "outstanding_amount": 3050000
   },
   {
+    "loan_id": "LOAN-KOK-000600",
+    "property_id": "PROP-KOK-000600",
+    "status": "closed",
+    "loan_type": "home_loan",
+    "outstanding_amount": 0
+  },
+  {
     "loan_id": "LOAN-KOK-000601",
     "property_id": "PROP-KOK-000601",
     "status": "active",
@@ -816,7 +816,7 @@
     "property_id": "PROP-KOK-000602",
     "status": "active",
     "loan_type": "home_loan",
-    "outstanding_amount": 6825000
+    "outstanding_amount": 10125000
   },
   {
     "loan_id": "LOAN-KOK-000609",
@@ -854,11 +854,53 @@
     "outstanding_amount": 3425000
   },
   {
+    "loan_id": "LOAN-KOK-000634",
+    "property_id": "PROP-KOK-000634",
+    "status": "active",
+    "loan_type": "home_loan",
+    "outstanding_amount": 6075000
+  },
+  {
+    "loan_id": "LOAN-KOK-000637",
+    "property_id": "PROP-KOK-000637",
+    "status": "closed",
+    "loan_type": "home_loan",
+    "outstanding_amount": 0
+  },
+  {
     "loan_id": "LOAN-KOK-000643",
     "property_id": "PROP-KOK-000643",
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 3800000
+  },
+  {
+    "loan_id": "LOAN-KOK-000649",
+    "property_id": "PROP-KOK-000649",
+    "status": "active",
+    "loan_type": "home_loan",
+    "outstanding_amount": 5575000
+  },
+  {
+    "loan_id": "LOAN-KOK-000653",
+    "property_id": "PROP-KOK-000653",
+    "status": "active",
+    "loan_type": "commercial_mortgage",
+    "outstanding_amount": 12875000
+  },
+  {
+    "loan_id": "LOAN-KOK-000654",
+    "property_id": "PROP-KOK-000654",
+    "status": "active",
+    "loan_type": "commercial_mortgage",
+    "outstanding_amount": 13000000
+  },
+  {
+    "loan_id": "LOAN-KOK-000660",
+    "property_id": "PROP-KOK-000660",
+    "status": "active",
+    "loan_type": "home_loan",
+    "outstanding_amount": 6950000
   },
   {
     "loan_id": "LOAN-KOK-000666",
@@ -931,13 +973,6 @@
     "outstanding_amount": 3050000
   },
   {
-    "loan_id": "LOAN-KOK-000714",
-    "property_id": "PROP-KOK-000714",
-    "status": "active",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 13375000
-  },
-  {
     "loan_id": "LOAN-KOK-000722",
     "property_id": "PROP-KOK-000722",
     "status": "active",
@@ -994,13 +1029,6 @@
     "outstanding_amount": 2800000
   },
   {
-    "loan_id": "LOAN-KOK-000753",
-    "property_id": "PROP-KOK-000753",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 6700000
-  },
-  {
     "loan_id": "LOAN-KOK-000767",
     "property_id": "PROP-KOK-000767",
     "status": "closed",
@@ -1012,7 +1040,7 @@
     "property_id": "PROP-KOK-000771",
     "status": "active",
     "loan_type": "home_loan",
-    "outstanding_amount": 6575000
+    "outstanding_amount": 3175000
   },
   {
     "loan_id": "LOAN-KOK-000772",
@@ -1068,28 +1096,21 @@
     "property_id": "PROP-MOK-000012",
     "status": "active",
     "loan_type": "home_loan",
-    "outstanding_amount": 6700000
+    "outstanding_amount": 3300000
   },
   {
     "loan_id": "LOAN-MOK-000020",
     "property_id": "PROP-MOK-000020",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
   },
   {
     "loan_id": "LOAN-MOK-000030",
     "property_id": "PROP-MOK-000030",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
-  },
-  {
-    "loan_id": "LOAN-MOK-000031",
-    "property_id": "PROP-MOK-000031",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 6700000
   },
   {
     "loan_id": "LOAN-MOK-000032",
@@ -1097,6 +1118,13 @@
     "status": "closed",
     "loan_type": "home_loan",
     "outstanding_amount": 0
+  },
+  {
+    "loan_id": "LOAN-MOK-000042",
+    "property_id": "PROP-MOK-000042",
+    "status": "active",
+    "loan_type": "home_loan",
+    "outstanding_amount": 2300000
   },
   {
     "loan_id": "LOAN-MOK-000047",
@@ -1120,13 +1148,6 @@
     "outstanding_amount": 0
   },
   {
-    "loan_id": "LOAN-MOK-000057",
-    "property_id": "PROP-MOK-000057",
-    "status": "active",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 12000000
-  },
-  {
     "loan_id": "LOAN-MOK-000063",
     "property_id": "PROP-MOK-000063",
     "status": "closed",
@@ -1139,13 +1160,6 @@
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 2675000
-  },
-  {
-    "loan_id": "LOAN-MOK-000074",
-    "property_id": "PROP-MOK-000074",
-    "status": "closed",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 0
   },
   {
     "loan_id": "LOAN-MOK-000075",
@@ -1250,7 +1264,7 @@
     "property_id": "PROP-MOK-000164",
     "status": "active",
     "loan_type": "home_loan",
-    "outstanding_amount": 6700000
+    "outstanding_amount": 3300000
   },
   {
     "loan_id": "LOAN-MOK-000165",
@@ -1372,13 +1386,6 @@
     "outstanding_amount": 0
   },
   {
-    "loan_id": "LOAN-MOK-000270",
-    "property_id": "PROP-MOK-000270",
-    "status": "closed",
-    "loan_type": "home_loan",
-    "outstanding_amount": 0
-  },
-  {
     "loan_id": "LOAN-MOK-000272",
     "property_id": "PROP-MOK-000272",
     "status": "active",
@@ -1407,11 +1414,25 @@
     "outstanding_amount": 0
   },
   {
+    "loan_id": "LOAN-MOK-000297",
+    "property_id": "PROP-MOK-000297",
+    "status": "active",
+    "loan_type": "home_loan",
+    "outstanding_amount": 3300000
+  },
+  {
     "loan_id": "LOAN-MOK-000306",
     "property_id": "PROP-MOK-000306",
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 2050000
+  },
+  {
+    "loan_id": "LOAN-MOK-000308",
+    "property_id": "PROP-MOK-000308",
+    "status": "closed",
+    "loan_type": "home_loan",
+    "outstanding_amount": 0
   },
   {
     "loan_id": "LOAN-MOK-000311",
@@ -1463,13 +1484,6 @@
     "outstanding_amount": 2675000
   },
   {
-    "loan_id": "LOAN-MOK-000353",
-    "property_id": "PROP-MOK-000353",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 3175000
-  },
-  {
     "loan_id": "LOAN-MOK-000355",
     "property_id": "PROP-MOK-000355",
     "status": "active",
@@ -1505,13 +1519,6 @@
     "outstanding_amount": 0
   },
   {
-    "loan_id": "LOAN-MOK-000367",
-    "property_id": "PROP-MOK-000367",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 2550000
-  },
-  {
     "loan_id": "LOAN-MOK-000369",
     "property_id": "PROP-MOK-000369",
     "status": "active",
@@ -1528,13 +1535,6 @@
   {
     "loan_id": "LOAN-MOK-000374",
     "property_id": "PROP-MOK-000374",
-    "status": "closed",
-    "loan_type": "home_loan",
-    "outstanding_amount": 0
-  },
-  {
-    "loan_id": "LOAN-MOK-000379",
-    "property_id": "PROP-MOK-000379",
     "status": "closed",
     "loan_type": "home_loan",
     "outstanding_amount": 0
@@ -1613,7 +1613,7 @@
     "loan_id": "LOAN-MOK-000433",
     "property_id": "PROP-MOK-000433",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
   },
   {
@@ -1655,7 +1655,7 @@
     "loan_id": "LOAN-MOK-000458",
     "property_id": "PROP-MOK-000458",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
   },
   {
@@ -1781,28 +1781,28 @@
     "loan_id": "LOAN-MOK-000558",
     "property_id": "PROP-MOK-000558",
     "status": "active",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 12875000
+    "loan_type": "home_loan",
+    "outstanding_amount": 2675000
   },
   {
     "loan_id": "LOAN-MOK-000573",
     "property_id": "PROP-MOK-000573",
     "status": "active",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 12375000
+    "loan_type": "home_loan",
+    "outstanding_amount": 2175000
   },
   {
     "loan_id": "LOAN-MOK-000581",
     "property_id": "PROP-MOK-000581",
     "status": "active",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 13375000
+    "loan_type": "home_loan",
+    "outstanding_amount": 3175000
   },
   {
     "loan_id": "LOAN-MOK-000582",
     "property_id": "PROP-MOK-000582",
     "status": "closed",
-    "loan_type": "commercial_mortgage",
+    "loan_type": "home_loan",
     "outstanding_amount": 0
   },
   {
@@ -1831,7 +1831,7 @@
     "property_id": "PROP-SHA-000007",
     "status": "active",
     "loan_type": "home_loan",
-    "outstanding_amount": 9375000
+    "outstanding_amount": 2675000
   },
   {
     "loan_id": "LOAN-SHA-000009",
@@ -1845,7 +1845,7 @@
     "property_id": "PROP-SHA-000021",
     "status": "active",
     "loan_type": "home_loan",
-    "outstanding_amount": 8750000
+    "outstanding_amount": 2050000
   },
   {
     "loan_id": "LOAN-SHA-000033",
@@ -1888,13 +1888,6 @@
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 2675000
-  },
-  {
-    "loan_id": "LOAN-SHA-000066",
-    "property_id": "PROP-SHA-000066",
-    "status": "closed",
-    "loan_type": "commercial_mortgage",
-    "outstanding_amount": 0
   },
   {
     "loan_id": "LOAN-SHA-000074",
@@ -1998,7 +1991,7 @@
     "loan_id": "LOAN-SHA-000161",
     "property_id": "PROP-SHA-000161",
     "status": "closed",
-    "loan_type": "home_loan",
+    "loan_type": "commercial_mortgage",
     "outstanding_amount": 0
   },
   {
@@ -2007,6 +2000,13 @@
     "status": "closed",
     "loan_type": "home_loan",
     "outstanding_amount": 0
+  },
+  {
+    "loan_id": "LOAN-SHA-000164",
+    "property_id": "PROP-SHA-000164",
+    "status": "active",
+    "loan_type": "home_loan",
+    "outstanding_amount": 3300000
   },
   {
     "loan_id": "LOAN-SHA-000167",
@@ -2018,6 +2018,13 @@
   {
     "loan_id": "LOAN-SHA-000173",
     "property_id": "PROP-SHA-000173",
+    "status": "closed",
+    "loan_type": "home_loan",
+    "outstanding_amount": 0
+  },
+  {
+    "loan_id": "LOAN-SHA-000187",
+    "property_id": "PROP-SHA-000187",
     "status": "closed",
     "loan_type": "home_loan",
     "outstanding_amount": 0
@@ -2049,12 +2056,5 @@
     "status": "active",
     "loan_type": "home_loan",
     "outstanding_amount": 3550000
-  },
-  {
-    "loan_id": "LOAN-SHA-000225",
-    "property_id": "PROP-SHA-000225",
-    "status": "active",
-    "loan_type": "home_loan",
-    "outstanding_amount": 7200000
   }
 ]
