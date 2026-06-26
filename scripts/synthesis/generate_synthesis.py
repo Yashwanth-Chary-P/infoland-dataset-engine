@@ -5,7 +5,6 @@ import hashlib
 import json
 import logging
 import math
-import random
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
@@ -20,15 +19,45 @@ LOGGER = logging.getLogger(__name__)
 EARTH_RADIUS_KM = 6371.0088
 SYNTHESIS_SEED = 20260622
 
-PROPERTY_CLASS_TARGETS = {
-    "residential_plot": 0.75,
+RESIDENTIAL_VERIFICATION_CLASSES = {"residential_plot", "villa", "apartment", "commercial"}
+INSTITUTIONAL_CLASSES = {
+    "school",
+    "hospital",
+    "clinic",
+    "government",
+    "community_center",
+    "religious",
+    "park",
+    "industrial",
+    "vacant_land",
+}
+
+FEATURE_CATEGORY_CLASS = {
+    "apartments": "apartment",
+    "commercial": "commercial",
+    "school": "school",
+    "hospital": "hospital",
+    "government": "government",
+    "park": "park",
+    "religious": "religious",
+    "community": "community_center",
+    "other": "vacant_land",
+}
+
+CANDIDATE_CLASS_TARGETS = {
+    "residential_plot": 0.68,
     "villa": 0.10,
-    "apartment": 0.05,
-    "commercial": 0.05,
-    "government": 0.01,
-    "school": 0.01,
-    "hospital": 0.01,
-    "park": 0.02,
+    "apartment": 0.02,
+    "commercial": 0.04,
+    "school": 0.012,
+    "hospital": 0.008,
+    "clinic": 0.005,
+    "government": 0.006,
+    "community_center": 0.008,
+    "religious": 0.005,
+    "park": 0.018,
+    "industrial": 0.004,
+    "vacant_land": 0.014,
 }
 
 POI_TARGET_COUNTS = {
@@ -38,6 +67,15 @@ POI_TARGET_COUNTS = {
     "commercial_hub": 20,
     "government_office": 8,
     "community_center": 12,
+}
+
+POI_PROPERTY_CLASSES = {
+    "school": ["school"],
+    "hospital": ["hospital", "clinic"],
+    "park": ["park"],
+    "commercial_hub": ["commercial", "industrial"],
+    "government_office": ["government"],
+    "community_center": ["community_center", "religious"],
 }
 
 POI_NAMES = {
@@ -160,24 +198,59 @@ def class_score(point: PropertyPoint, property_class: str) -> float:
     elif property_class == "commercial":
         score += 5.0 if feature == "commercial" or building in {"commercial", "retail"} else 0.0
         score += 2.0 if area >= 300 else 0.5
-    elif property_class == "government":
-        score += 3.0 if area >= 500 else 1.0 if area >= 300 else 0.0
-    elif property_class in {"school", "hospital", "park"}:
+    elif property_class == "industrial":
+        score += 4.0 if area >= 800 else 2.0 if area >= 500 else 0.5
+    elif property_class == "vacant_land":
+        score += 4.0 if area < 120 else 2.0 if area < 250 else 0.5
+    elif property_class in {"government", "school", "hospital", "clinic", "park", "community_center", "religious"}:
         score += 5.0 if area >= 1000 else 2.0 if area >= 500 else 1.0 if area >= 300 else 0.0
     return score
 
 
-def assign_property_classes(points: list[PropertyPoint]) -> dict[str, str]:
-    quotas = quota_counts(len(points), PROPERTY_CLASS_TARGETS)
-    assignments: dict[str, str] = {}
+def direct_property_class(point: PropertyPoint) -> str | None:
+    feature = point.feature_category
+    if feature in FEATURE_CATEGORY_CLASS:
+        mapped = FEATURE_CATEGORY_CLASS[feature]
+        if mapped == "vacant_land":
+            return mapped
+        return mapped
+    if feature == "residential":
+        return "villa" if point.area_sq_m >= 500 else "residential_plot"
+    return None
 
-    # Assign the constrained institutional and large-format classes first.
-    class_order = ["school", "hospital", "park", "government", "commercial", "apartment", "villa", "residential_plot"]
-    remaining = {point.property_id: point for point in points}
+
+def assign_property_classes(points: list[PropertyPoint]) -> dict[str, str]:
+    assignments: dict[str, str] = {}
+    remaining: list[PropertyPoint] = []
+
+    for point in points:
+        direct = direct_property_class(point)
+        if direct is not None:
+            assignments[point.property_id] = direct
+        else:
+            remaining.append(point)
+
+    quotas = quota_counts(len(remaining), CANDIDATE_CLASS_TARGETS)
+    class_order = [
+        "school",
+        "hospital",
+        "clinic",
+        "park",
+        "government",
+        "community_center",
+        "religious",
+        "industrial",
+        "vacant_land",
+        "commercial",
+        "apartment",
+        "villa",
+        "residential_plot",
+    ]
+    pool = {point.property_id: point for point in remaining}
 
     for property_class in class_order:
         ranked = sorted(
-            remaining.values(),
+            pool.values(),
             key=lambda point: (
                 class_score(point, property_class),
                 point.area_sq_m,
@@ -187,9 +260,18 @@ def assign_property_classes(points: list[PropertyPoint]) -> dict[str, str]:
         )
         for point in ranked[: quotas[property_class]]:
             assignments[point.property_id] = property_class
-            remaining.pop(point.property_id, None)
+            pool.pop(point.property_id, None)
+
+    for point in pool.values():
+        assignments[point.property_id] = "residential_plot"
 
     return assignments
+
+
+def verification_workflow(property_class: str) -> str:
+    if property_class in RESIDENTIAL_VERIFICATION_CLASSES:
+        return "complete_property_verification"
+    return "institutional_property"
 
 
 def area_segment(area_sq_m: float) -> str:
@@ -201,52 +283,53 @@ def area_segment(area_sq_m: float) -> str:
 
 
 def sale_status(property_class: str, property_id: str) -> str:
-    if property_class in {"school", "hospital", "government", "park"}:
+    if property_class in INSTITUTIONAL_CLASSES:
         return "not_for_sale"
     threshold = 0.15 if property_class == "commercial" else 0.20
     return "for_sale" if stable_unit(f"sale:{property_id}") < threshold else "not_for_sale"
 
 
-def generate_synthetic_pois(points: list[PropertyPoint]) -> list[dict[str, Any]]:
-    rng = random.Random(SYNTHESIS_SEED)
-    by_region: dict[str, list[PropertyPoint]] = defaultdict(list)
+def generate_synthetic_pois(
+    points: list[PropertyPoint], classes_by_id: dict[str, str]
+) -> list[dict[str, Any]]:
+    by_class: dict[str, list[PropertyPoint]] = defaultdict(list)
     for point in points:
-        by_region[point.source_region].append(point)
+        by_class[classes_by_id[point.property_id]].append(point)
 
-    region_names = sorted(by_region)
-    region_cycle = []
-    max_region_count = max(len(items) for items in by_region.values())
-    for region in region_names:
-        share = len(by_region[region]) / max_region_count
-        region_cycle.extend([region] * max(1, round(share * 4)))
-
-    pois = []
+    used_property_ids: set[str] = set()
+    pois: list[dict[str, Any]] = []
     sequence = 1
-    for poi_type, count in POI_TARGET_COUNTS.items():
-        for idx in range(count):
-            region = region_cycle[(sequence + idx) % len(region_cycle)]
-            anchors = sorted(
-                by_region[region],
-                key=lambda point: (
-                    point.area_sq_m,
-                    stable_unit(f"anchor:{poi_type}:{idx}:{point.property_id}"),
-                ),
-                reverse=True,
-            )
-            anchor = anchors[(idx * 7 + sequence) % len(anchors)]
-            offset_lat = rng.choice([-1, 1]) * rng.uniform(0.0005, 0.002)
-            offset_lon = rng.choice([-1, 1]) * rng.uniform(0.0005, 0.002)
+
+    for poi_type, target_count in POI_TARGET_COUNTS.items():
+        eligible_classes = POI_PROPERTY_CLASSES[poi_type]
+        candidates = [
+            point
+            for property_class in eligible_classes
+            for point in by_class.get(property_class, [])
+            if point.property_id not in used_property_ids
+        ]
+        candidates.sort(
+            key=lambda point: (
+                point.area_sq_m,
+                stable_unit(f"poi-anchor:{poi_type}:{point.property_id}"),
+            ),
+            reverse=True,
+        )
+        selected = candidates[:target_count]
+        for idx, anchor in enumerate(selected):
+            used_property_ids.add(anchor.property_id)
             name_base = POI_NAMES[poi_type][idx % len(POI_NAMES[poi_type])]
             pois.append(
                 {
                     "poi_id": f"POI-{sequence:05d}",
                     "poi_type": poi_type,
+                    "property_id": anchor.property_id,
                     "name": f"{name_base} {idx // len(POI_NAMES[poi_type]) + 1}"
                     if idx >= len(POI_NAMES[poi_type])
                     else name_base,
-                    "lat": round(anchor.lat + offset_lat, 8),
-                    "lon": round(anchor.lon + offset_lon, 8),
-                    "source_region": region,
+                    "lat": round(anchor.lat, 8),
+                    "lon": round(anchor.lon, 8),
+                    "source_region": anchor.source_region,
                 }
             )
             sequence += 1
@@ -335,9 +418,10 @@ def assign_risk_tiers(location_scores: dict[str, int]) -> dict[str, str]:
 
 
 def generate_property_profiles(
-    points: list[PropertyPoint], location_records: list[dict[str, Any]]
+    points: list[PropertyPoint],
+    classes: dict[str, str],
+    location_records: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
-    classes = assign_property_classes(points)
     score_by_property = {record["property_id"]: int(record["location_score"]) for record in location_records}
     risk_tiers = assign_risk_tiers(score_by_property)
     profiles = []
@@ -347,6 +431,7 @@ def generate_property_profiles(
             {
                 "property_id": point.property_id,
                 "property_class": property_class,
+                "verification_workflow": verification_workflow(property_class),
                 "sale_status": sale_status(property_class, point.property_id),
                 "area_segment": area_segment(point.area_sq_m),
                 "location_score": score_by_property[point.property_id],
@@ -398,9 +483,10 @@ def run_synthesis() -> dict[str, Any]:
     points = as_points(properties)
     LOGGER.info("Loaded %s master properties", len(points))
 
-    pois = generate_synthetic_pois(points)
+    classes = assign_property_classes(points)
+    pois = generate_synthetic_pois(points, classes)
     location_records = calculate_location_scores(points, pois)
-    profiles = generate_property_profiles(points, location_records)
+    profiles = generate_property_profiles(points, classes, location_records)
     stats = synthesis_stats(profiles, pois, location_records)
 
     write_json(GENERATED_DIR / "property_profiles.json", profiles)
