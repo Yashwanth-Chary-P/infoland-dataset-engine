@@ -13,7 +13,8 @@ master_properties -> property_profiles -> owners -> ownership_events -> document
 | Entity | Key | Cardinality / Role |
 | --- | --- | --- |
 | master_properties | property_id | Root entity and geometry owner |
-| property_profiles | property_id | 1:1 |
+| property_profiles | property_id | 1:1; includes `property_class` and `verification_workflow` |
+| synthetic_pois | poi_id | Many POIs; each references an existing `property_id` at building centroid |
 | owners | owner_id | 1 current owner per property |
 | ownership_events | event_id | 1:many per property |
 | property_registry | property_id + owner_id | 1:1 current owner bridge |
@@ -24,6 +25,17 @@ master_properties -> property_profiles -> owners -> ownership_events -> document
 | property_metadata | property_id | 1:1 |
 | property_timeline | property_id | 1:1 with nested events |
 | property_health_summary | property_id | 1:1 summary |
+
+## Verification Workflow
+
+| Workflow | Property classes | Legal packet |
+| --- | --- | --- |
+| complete_property_verification | residential_plot, villa, apartment, commercial | Full 18-document residential/commercial packet with owners, transfers, loans, taxes, disputes |
+| institutional_property | school, hospital, clinic, government, community_center, religious, park, industrial, vacant_land | Type-specific institutional documents only |
+
+## POI Policy
+
+`synthetic_pois.json` markers are anchored to classified building polygons. Each POI includes `property_id`, `lat`, and `lon` copied from the source property centroid.
 
 ## Geometry Policy
 
