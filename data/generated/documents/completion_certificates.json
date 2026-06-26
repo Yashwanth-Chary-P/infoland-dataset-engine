@@ -309,7 +309,7 @@
     "document_number": "COM-KOK-000024",
     "remarks": "Available in generated source packet",
     "completion_date": "2020-12-25",
-    "approved_structure": "apartment"
+    "approved_structure": "villa"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000025",
@@ -393,14 +393,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000031",
     "property_id": "PROP-KOK-000031",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-02-18",
-    "last_updated": "2017-02-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000031",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-11-30",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000032",
@@ -432,14 +432,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000034",
     "property_id": "PROP-KOK-000034",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-05-31",
-    "last_updated": "2017-05-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000034",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-03-09",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000035",
@@ -595,7 +595,7 @@
     "document_number": "COM-KOK-000046",
     "remarks": "Available in generated source packet",
     "completion_date": "2008-02-25",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000047",
@@ -699,7 +699,7 @@
     "document_number": "COM-KOK-000054",
     "remarks": "Available in generated source packet",
     "completion_date": "2010-07-13",
-    "approved_structure": "villa"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000055",
@@ -783,14 +783,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000061",
     "property_id": "PROP-KOK-000061",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-10-06",
-    "last_updated": "2021-10-05",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000061",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-06-17",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000062",
@@ -1199,14 +1199,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000093",
     "property_id": "PROP-KOK-000093",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2017-03-01",
+    "last_updated": "2021-02-28",
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-KOK-000093",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2017-10-10",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000094",
@@ -1537,14 +1537,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000119",
     "property_id": "PROP-KOK-000119",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2007-01-23",
+    "last_updated": "2012-01-22",
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-KOK-000119",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2007-08-08",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000120",
@@ -1641,14 +1641,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000127",
     "property_id": "PROP-KOK-000127",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-01-25",
-    "last_updated": "2018-01-24",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000127",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-11-30",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000128",
@@ -1758,14 +1758,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000136",
     "property_id": "PROP-KOK-000136",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-11-07",
-    "last_updated": "2013-11-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000136",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-09-02",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000137",
@@ -1797,26 +1797,26 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000139",
     "property_id": "PROP-KOK-000139",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-02-18",
-    "last_updated": "2024-02-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000139",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-12-12",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000140",
     "property_id": "PROP-KOK-000140",
     "document_type": "completion_certificate",
     "status": "available",
-    "issue_date": "2009-07-07",
-    "last_updated": "2010-07-07",
+    "issue_date": "2013-07-07",
+    "last_updated": "2014-07-07",
     "issuing_authority": "Kokapet Building Permissions Office",
     "document_number": "COM-KOK-000140",
     "remarks": "Available in generated source packet",
-    "completion_date": "2010-04-29",
+    "completion_date": "2014-04-29",
     "approved_structure": "residential_plot"
   },
   {
@@ -2213,14 +2213,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000171",
     "property_id": "PROP-KOK-000171",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2018-07-13",
-    "last_updated": "2020-07-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000171",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-04-04",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000172",
@@ -2389,7 +2389,7 @@
     "document_number": "COM-KOK-000184",
     "remarks": "Available in generated source packet",
     "completion_date": "2014-09-03",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000185",
@@ -2460,14 +2460,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000190",
     "property_id": "PROP-KOK-000190",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2007-06-24",
-    "last_updated": "2008-06-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000190",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2008-02-25",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000191",
@@ -2525,14 +2525,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000195",
     "property_id": "PROP-KOK-000195",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2006-08-06",
+    "last_updated": "2007-08-06",
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-KOK-000195",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2007-04-04",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000196",
@@ -2655,14 +2655,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000205",
     "property_id": "PROP-KOK-000205",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2016-10-30",
-    "last_updated": "2017-10-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000205",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2017-06-18",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000206",
@@ -3097,14 +3097,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000239",
     "property_id": "PROP-KOK-000239",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-01-23",
-    "last_updated": "2020-01-22",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000239",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-08-08",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000240",
@@ -3136,14 +3136,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000242",
     "property_id": "PROP-KOK-000242",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2013-01-07",
+    "last_updated": "2016-01-07",
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-KOK-000242",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2013-11-17",
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000243",
@@ -3546,7 +3546,7 @@
     "document_number": "COM-KOK-000273",
     "remarks": "Available in generated source packet",
     "completion_date": "2013-09-28",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000274",
@@ -3682,14 +3682,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000284",
     "property_id": "PROP-KOK-000284",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-07-31",
-    "last_updated": "2025-07-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000284",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-04-29",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000285",
@@ -3760,14 +3760,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000290",
     "property_id": "PROP-KOK-000290",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2012-02-24",
+    "last_updated": "2013-02-23",
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-KOK-000290",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2012-11-16",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000291",
@@ -3780,7 +3780,7 @@
     "document_number": "COM-KOK-000291",
     "remarks": "Available in generated source packet",
     "completion_date": "2011-04-04",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000292",
@@ -4371,27 +4371,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000337",
     "property_id": "PROP-KOK-000337",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2012-10-30",
-    "last_updated": "2015-10-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000337",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2013-06-06",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000338",
     "property_id": "PROP-KOK-000338",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-04-12",
-    "last_updated": "2024-04-11",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000338",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-11-16",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000339",
@@ -4748,14 +4748,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000366",
     "property_id": "PROP-KOK-000366",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-09-06",
-    "last_updated": "2011-09-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000366",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-07-13",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000367",
@@ -4989,7 +4989,7 @@
     "document_number": "COM-KOK-000384",
     "remarks": "Available in generated source packet",
     "completion_date": "2005-12-26",
-    "approved_structure": "villa"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000385",
@@ -5184,7 +5184,7 @@
     "document_number": "COM-KOK-000399",
     "remarks": "Available in generated source packet",
     "completion_date": "2020-04-15",
-    "approved_structure": "villa"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000400",
@@ -5892,14 +5892,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000454",
     "property_id": "PROP-KOK-000454",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-07-18",
-    "last_updated": "2020-07-16",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000454",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-02-25",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000455",
@@ -5931,14 +5931,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000457",
     "property_id": "PROP-KOK-000457",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-10-30",
-    "last_updated": "2023-10-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000457",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-06-06",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000458",
@@ -5951,7 +5951,7 @@
     "document_number": "COM-KOK-000458",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-11-17",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000459",
@@ -6217,14 +6217,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000479",
     "property_id": "PROP-KOK-000479",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-01-23",
-    "last_updated": "2020-01-22",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000479",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-08-08",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000480",
@@ -6412,14 +6412,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000494",
     "property_id": "PROP-KOK-000494",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-01-07",
-    "last_updated": "2014-01-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000494",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2009-11-05",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000495",
@@ -6562,7 +6562,7 @@
     "document_number": "COM-KOK-000505",
     "remarks": "Document requires renewal or updated extract",
     "completion_date": "2021-06-06",
-    "approved_structure": "apartment"
+    "approved_structure": "villa"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000506",
@@ -6620,14 +6620,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000510",
     "property_id": "PROP-KOK-000510",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2016-09-30",
-    "last_updated": "2017-09-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000510",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2017-07-13",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000511",
@@ -6659,14 +6659,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000513",
     "property_id": "PROP-KOK-000513",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-12-19",
-    "last_updated": "2016-12-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000513",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-09-28",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000514",
@@ -6685,14 +6685,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000515",
     "property_id": "PROP-KOK-000515",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-10-19",
-    "last_updated": "2011-10-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000515",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-07-27",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000516",
@@ -6763,14 +6763,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000521",
     "property_id": "PROP-KOK-000521",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2008-05-14",
-    "last_updated": "2010-05-14",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000521",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2009-02-13",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000522",
@@ -6828,6 +6828,19 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000526",
     "property_id": "PROP-KOK-000526",
     "document_type": "completion_certificate",
+    "status": "available",
+    "issue_date": "2011-05-31",
+    "last_updated": "2013-05-30",
+    "issuing_authority": "Kokapet Building Permissions Office",
+    "document_number": "COM-KOK-000526",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2012-02-25",
+    "approved_structure": "commercial"
+  },
+  {
+    "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000527",
+    "property_id": "PROP-KOK-000527",
+    "document_type": "completion_certificate",
     "status": "missing",
     "issue_date": null,
     "last_updated": null,
@@ -6836,19 +6849,6 @@
     "remarks": "Document not available in source packet",
     "completion_date": null,
     "approved_structure": null
-  },
-  {
-    "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000527",
-    "property_id": "PROP-KOK-000527",
-    "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2014-11-12",
-    "last_updated": "2017-11-11",
-    "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000527",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-08-08",
-    "approved_structure": "government"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000528",
@@ -6932,14 +6932,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000534",
     "property_id": "PROP-KOK-000534",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-10-24",
-    "last_updated": "2020-10-22",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000534",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-07-12",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000535",
@@ -7823,7 +7823,7 @@
     "document_number": "COM-KOK-000602",
     "remarks": "Available in generated source packet",
     "completion_date": "2011-11-17",
-    "approved_structure": "apartment"
+    "approved_structure": "villa"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000603",
@@ -8089,14 +8089,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000623",
     "property_id": "PROP-KOK-000623",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2014-10-19",
-    "last_updated": "2018-10-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000623",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-08-08",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000624",
@@ -8122,7 +8122,7 @@
     "document_number": "COM-KOK-000625",
     "remarks": "Available in generated source packet",
     "completion_date": "2016-06-05",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000626",
@@ -8180,14 +8180,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000630",
     "property_id": "PROP-KOK-000630",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-09-30",
-    "last_updated": "2012-09-29",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000630",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-07-12",
-    "approved_structure": "hospital"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000631",
@@ -8200,7 +8200,7 @@
     "document_number": "COM-KOK-000631",
     "remarks": "Document requires renewal or updated extract",
     "completion_date": "2007-11-30",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000632",
@@ -8213,7 +8213,7 @@
     "document_number": "COM-KOK-000632",
     "remarks": "Available in generated source packet",
     "completion_date": "2013-05-11",
-    "approved_structure": "school"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000633",
@@ -8226,7 +8226,7 @@
     "document_number": "COM-KOK-000633",
     "remarks": "Available in generated source packet",
     "completion_date": "2020-09-27",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000634",
@@ -8239,7 +8239,7 @@
     "document_number": "COM-KOK-000634",
     "remarks": "Available in generated source packet",
     "completion_date": "2010-03-09",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000635",
@@ -8252,7 +8252,7 @@
     "document_number": "COM-KOK-000635",
     "remarks": "Available in generated source packet",
     "completion_date": "2021-07-27",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000636",
@@ -8265,7 +8265,7 @@
     "document_number": "COM-KOK-000636",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-01-07",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000637",
@@ -8278,7 +8278,7 @@
     "document_number": "COM-KOK-000637",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-06-18",
-    "approved_structure": "school"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000638",
@@ -8291,7 +8291,7 @@
     "document_number": "COM-KOK-000638",
     "remarks": "Available in generated source packet",
     "completion_date": "2016-11-04",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000639",
@@ -8304,7 +8304,7 @@
     "document_number": "COM-KOK-000639",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-04-16",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000640",
@@ -8317,7 +8317,7 @@
     "document_number": "COM-KOK-000640",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-09-03",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000641",
@@ -8330,7 +8330,7 @@
     "document_number": "COM-KOK-000641",
     "remarks": "Available in generated source packet",
     "completion_date": "2013-02-13",
-    "approved_structure": "school"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000642",
@@ -8375,14 +8375,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000645",
     "property_id": "PROP-KOK-000645",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-01-12",
-    "last_updated": "2018-01-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000645",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2017-10-10",
-    "approved_structure": "hospital"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000646",
@@ -8395,7 +8395,7 @@
     "document_number": "COM-KOK-000646",
     "remarks": "Available in generated source packet",
     "completion_date": "2016-02-25",
-    "approved_structure": "park"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000647",
@@ -8421,7 +8421,7 @@
     "document_number": "COM-KOK-000648",
     "remarks": "Available in generated source packet",
     "completion_date": "2013-12-26",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000649",
@@ -8434,7 +8434,7 @@
     "document_number": "COM-KOK-000649",
     "remarks": "Document requires renewal or updated extract",
     "completion_date": "2015-06-06",
-    "approved_structure": "school"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000650",
@@ -8460,7 +8460,7 @@
     "document_number": "COM-KOK-000651",
     "remarks": "Available in generated source packet",
     "completion_date": "2019-04-04",
-    "approved_structure": "school"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000652",
@@ -8473,20 +8473,20 @@
     "document_number": "COM-KOK-000652",
     "remarks": "Available in generated source packet",
     "completion_date": "2010-09-15",
-    "approved_structure": "school"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000653",
     "property_id": "PROP-KOK-000653",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "expired",
+    "issue_date": "2016-05-14",
+    "last_updated": "2020-05-13",
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-KOK-000653",
+    "remarks": "Document requires renewal or updated extract",
+    "completion_date": "2017-02-01",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000654",
@@ -8512,7 +8512,7 @@
     "document_number": "COM-KOK-000655",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-11-30",
-    "approved_structure": "park"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000656",
@@ -8544,14 +8544,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000658",
     "property_id": "PROP-KOK-000658",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-06-24",
-    "last_updated": "2023-06-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000658",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-03-08",
-    "approved_structure": "hospital"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000659",
@@ -8590,7 +8590,7 @@
     "document_number": "COM-KOK-000661",
     "remarks": "Available in generated source packet",
     "completion_date": "2021-06-18",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000662",
@@ -8603,7 +8603,7 @@
     "document_number": "COM-KOK-000662",
     "remarks": "Available in generated source packet",
     "completion_date": "2016-11-04",
-    "approved_structure": "school"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000663",
@@ -8616,7 +8616,7 @@
     "document_number": "COM-KOK-000663",
     "remarks": "Available in generated source packet",
     "completion_date": "2007-04-16",
-    "approved_structure": "hospital"
+    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000664",
@@ -8635,14 +8635,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000665",
     "property_id": "PROP-KOK-000665",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-06-08",
-    "last_updated": "2010-06-08",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000665",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-02-14",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000666",
@@ -8934,66 +8934,66 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000688",
     "property_id": "PROP-KOK-000688",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-01-18",
-    "last_updated": "2019-01-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000688",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-09-03",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000689",
     "property_id": "PROP-KOK-000689",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2004-07-01",
-    "last_updated": "2009-06-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000689",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2005-02-13",
-    "approved_structure": "school"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000690",
     "property_id": "PROP-KOK-000690",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-11-17",
-    "last_updated": "2016-11-16",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000690",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-06-30",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000691",
     "property_id": "PROP-KOK-000691",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-05-01",
-    "last_updated": "2013-04-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000691",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-12-12",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000692",
     "property_id": "PROP-KOK-000692",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-09-17",
-    "last_updated": "2018-09-16",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000692",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-04-28",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000693",
@@ -9051,14 +9051,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000697",
     "property_id": "PROP-KOK-000697",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-10-30",
-    "last_updated": "2015-10-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000697",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-06-06",
-    "approved_structure": "hospital"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000698",
@@ -9233,14 +9233,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000711",
     "property_id": "PROP-KOK-000711",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-09-23",
-    "last_updated": "2021-09-22",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000711",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-04-15",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000712",
@@ -9311,27 +9311,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000717",
     "property_id": "PROP-KOK-000717",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-03-25",
-    "last_updated": "2013-03-24",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000717",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-10-10",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000718",
     "property_id": "PROP-KOK-000718",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2016-08-11",
-    "last_updated": "2020-08-10",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000718",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2017-02-25",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000719",
@@ -9493,14 +9493,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000731",
     "property_id": "PROP-KOK-000731",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2018-09-25",
-    "last_updated": "2020-09-24",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000731",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-07-27",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000732",
@@ -9584,14 +9584,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000738",
     "property_id": "PROP-KOK-000738",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-09-06",
-    "last_updated": "2023-09-05",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000738",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-06-30",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000739",
@@ -9623,27 +9623,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000741",
     "property_id": "PROP-KOK-000741",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2008-12-19",
-    "last_updated": "2010-12-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000741",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2009-10-10",
-    "approved_structure": "school"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000742",
     "property_id": "PROP-KOK-000742",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-05-07",
-    "last_updated": "2018-05-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000742",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-02-25",
-    "approved_structure": "school"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000743",
@@ -9675,14 +9675,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000745",
     "property_id": "PROP-KOK-000745",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2020-08-19",
-    "last_updated": "2021-08-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000745",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2021-06-06",
-    "approved_structure": "school"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000746",
@@ -9766,27 +9766,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000752",
     "property_id": "PROP-KOK-000752",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-07-31",
-    "last_updated": "2023-07-31",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000752",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-05-11",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000753",
     "property_id": "PROP-KOK-000753",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-12-19",
-    "last_updated": "2021-12-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000753",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-09-28",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000754",
@@ -10013,14 +10013,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000771",
     "property_id": "PROP-KOK-000771",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2018-07-13",
-    "last_updated": "2020-07-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000771",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-04-04",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000772",
@@ -10351,14 +10351,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000797",
     "property_id": "PROP-KOK-000797",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-06-08",
-    "last_updated": "2013-06-07",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000797",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-02-02",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000798",
@@ -10416,14 +10416,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000802",
     "property_id": "PROP-KOK-000802",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-07-18",
-    "last_updated": "2013-07-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Building Permissions Office",
-    "document_number": "COM-KOK-000802",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-03-09",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-KOK-000803",
@@ -10689,14 +10689,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000017",
     "property_id": "PROP-MOK-000017",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2012-04-20",
-    "last_updated": "2015-04-20",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000017",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2013-02-13",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000018",
@@ -10715,19 +10715,6 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000019",
     "property_id": "PROP-MOK-000019",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-02-18",
-    "last_updated": "2017-02-16",
-    "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000019",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-12-11",
-    "approved_structure": "government"
-  },
-  {
-    "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000020",
-    "property_id": "PROP-MOK-000020",
-    "document_type": "completion_certificate",
     "status": "missing",
     "issue_date": null,
     "last_updated": null,
@@ -10736,6 +10723,19 @@
     "remarks": "Document not available in source packet",
     "completion_date": null,
     "approved_structure": null
+  },
+  {
+    "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000020",
+    "property_id": "PROP-MOK-000020",
+    "document_type": "completion_certificate",
+    "status": "available",
+    "issue_date": "2017-07-07",
+    "last_updated": "2018-07-07",
+    "issuing_authority": "Mokila Building Permissions Office",
+    "document_number": "COM-MOK-000020",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2018-04-29",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000021",
@@ -10754,40 +10754,40 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000022",
     "property_id": "PROP-MOK-000022",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-05-07",
-    "last_updated": "2018-05-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000022",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-02-25",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000023",
     "property_id": "PROP-MOK-000023",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2006-10-19",
-    "last_updated": "2010-10-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000023",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2007-08-08",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000024",
     "property_id": "PROP-MOK-000024",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2013-03-09",
-    "last_updated": "2018-03-08",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000024",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-12-26",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000025",
@@ -10806,14 +10806,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000026",
     "property_id": "PROP-MOK-000026",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-01-31",
-    "last_updated": "2014-01-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000026",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-11-16",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000027",
@@ -10858,6 +10858,19 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000030",
     "property_id": "PROP-MOK-000030",
     "document_type": "completion_certificate",
+    "status": "available",
+    "issue_date": "2007-09-30",
+    "last_updated": "2008-09-29",
+    "issuing_authority": "Mokila Building Permissions Office",
+    "document_number": "COM-MOK-000030",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2008-07-12",
+    "approved_structure": "commercial"
+  },
+  {
+    "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000031",
+    "property_id": "PROP-MOK-000031",
+    "document_type": "completion_certificate",
     "status": "missing",
     "issue_date": null,
     "last_updated": null,
@@ -10866,19 +10879,6 @@
     "remarks": "Document not available in source packet",
     "completion_date": null,
     "approved_structure": null
-  },
-  {
-    "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000031",
-    "property_id": "PROP-MOK-000031",
-    "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-02-18",
-    "last_updated": "2021-02-17",
-    "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000031",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-11-30",
-    "approved_structure": "apartment"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000032",
@@ -10923,14 +10923,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000035",
     "property_id": "PROP-MOK-000035",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-10-19",
-    "last_updated": "2020-10-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000035",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-07-26",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000036",
@@ -10949,40 +10949,40 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000037",
     "property_id": "PROP-MOK-000037",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-09-12",
-    "last_updated": "2023-09-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000037",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-06-18",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000038",
     "property_id": "PROP-MOK-000038",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2015-01-31",
-    "last_updated": "2019-01-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000038",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2015-11-05",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000039",
     "property_id": "PROP-MOK-000039",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2006-07-13",
-    "last_updated": "2011-07-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000039",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2007-04-16",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000040",
@@ -11001,14 +11001,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000041",
     "property_id": "PROP-MOK-000041",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-05-15",
-    "last_updated": "2011-05-15",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000041",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-02-14",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000042",
@@ -11053,14 +11053,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000045",
     "property_id": "PROP-MOK-000045",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2017-01-12",
-    "last_updated": "2018-01-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000045",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2017-10-10",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000046",
@@ -11105,14 +11105,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000049",
     "property_id": "PROP-MOK-000049",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-09-12",
-    "last_updated": "2017-09-11",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000049",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-06-06",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000050",
@@ -11170,27 +11170,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000054",
     "property_id": "PROP-MOK-000054",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-10-24",
-    "last_updated": "2020-10-22",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000054",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-07-12",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000055",
     "property_id": "PROP-MOK-000055",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2007-03-14",
-    "last_updated": "2008-03-13",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000055",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2007-11-30",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000056",
@@ -11209,27 +11209,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000057",
     "property_id": "PROP-MOK-000057",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2021-01-12",
-    "last_updated": "2024-01-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000057",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2021-09-28",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000058",
     "property_id": "PROP-MOK-000058",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-06-24",
-    "last_updated": "2015-06-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000058",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-03-08",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000059",
@@ -11248,27 +11248,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000060",
     "property_id": "PROP-MOK-000060",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-04-25",
-    "last_updated": "2013-04-25",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000060",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-01-06",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000061",
     "property_id": "PROP-MOK-000061",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-10-06",
-    "last_updated": "2021-10-05",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000061",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-06-17",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000062",
@@ -11326,14 +11326,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000066",
     "property_id": "PROP-MOK-000066",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-10-24",
-    "last_updated": "2021-10-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000066",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-06-30",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000067",
@@ -11378,14 +11378,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000070",
     "property_id": "PROP-MOK-000070",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-06-24",
-    "last_updated": "2018-06-24",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000070",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-02-25",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000071",
@@ -11430,14 +11430,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000074",
     "property_id": "PROP-MOK-000074",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-03-19",
-    "last_updated": "2017-03-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000074",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-11-16",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000075",
@@ -11541,7 +11541,7 @@
     "document_number": "COM-MOK-000082",
     "remarks": "Available in generated source packet",
     "completion_date": "2011-03-09",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000083",
@@ -11554,7 +11554,7 @@
     "document_number": "COM-MOK-000083",
     "remarks": "Available in generated source packet",
     "completion_date": "2011-07-27",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000084",
@@ -11794,14 +11794,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000102",
     "property_id": "PROP-MOK-000102",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2015-12-11",
+    "last_updated": "2018-12-10",
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-MOK-000102",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2016-07-12",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000103",
@@ -12600,14 +12600,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000164",
     "property_id": "PROP-MOK-000164",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-07-31",
-    "last_updated": "2014-07-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000164",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-04-29",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000165",
@@ -12652,14 +12652,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000168",
     "property_id": "PROP-MOK-000168",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-04-02",
-    "last_updated": "2021-04-01",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000168",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2017-12-26",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000169",
@@ -12685,7 +12685,7 @@
     "document_number": "COM-MOK-000170",
     "remarks": "Available in generated source packet",
     "completion_date": "2016-11-16",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000171",
@@ -12964,14 +12964,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000192",
     "property_id": "PROP-MOK-000192",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2005-04-26",
+    "last_updated": "2008-04-25",
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-MOK-000192",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2005-12-26",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000193",
@@ -13725,7 +13725,7 @@
     "document_number": "COM-MOK-000250",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-03-09",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000251",
@@ -13978,14 +13978,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000270",
     "property_id": "PROP-MOK-000270",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-09-30",
-    "last_updated": "2012-09-29",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000270",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-07-12",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000271",
@@ -14102,7 +14102,7 @@
     "document_number": "COM-MOK-000279",
     "remarks": "Available in generated source packet",
     "completion_date": "2007-04-16",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000280",
@@ -14160,14 +14160,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000284",
     "property_id": "PROP-MOK-000284",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-07-31",
-    "last_updated": "2025-07-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000284",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-04-29",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000285",
@@ -14830,7 +14830,7 @@
     "document_number": "COM-MOK-000335",
     "remarks": "Available in generated source packet",
     "completion_date": "2014-08-08",
-    "approved_structure": "villa"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000336",
@@ -14895,7 +14895,7 @@
     "document_number": "COM-MOK-000340",
     "remarks": "Available in generated source packet",
     "completion_date": "2010-09-15",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000341",
@@ -15174,14 +15174,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000362",
     "property_id": "PROP-MOK-000362",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2016-01-07",
-    "last_updated": "2019-01-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000362",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-11-16",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000363",
@@ -15213,14 +15213,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000365",
     "property_id": "PROP-MOK-000365",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-03-28",
-    "last_updated": "2016-03-27",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000365",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-02-02",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000366",
@@ -15252,14 +15252,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000368",
     "property_id": "PROP-MOK-000368",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-07-07",
-    "last_updated": "2014-07-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000368",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-05-11",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000369",
@@ -15363,7 +15363,7 @@
     "document_number": "COM-MOK-000376",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-09-03",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000377",
@@ -15636,7 +15636,7 @@
     "document_number": "COM-MOK-000397",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-06-18",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000398",
@@ -15720,14 +15720,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000404",
     "property_id": "PROP-MOK-000404",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-07-31",
-    "last_updated": "2022-07-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000404",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-04-29",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000405",
@@ -15902,14 +15902,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000418",
     "property_id": "PROP-MOK-000418",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-06-24",
-    "last_updated": "2013-06-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000418",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-03-09",
-    "approved_structure": "hospital"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000419",
@@ -15928,14 +15928,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000420",
     "property_id": "PROP-MOK-000420",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-04-26",
-    "last_updated": "2011-04-26",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000420",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-01-07",
-    "approved_structure": "residential_plot"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000421",
@@ -15980,40 +15980,40 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000424",
     "property_id": "PROP-MOK-000424",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-12-25",
-    "last_updated": "2017-12-24",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000424",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-09-03",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000425",
     "property_id": "PROP-MOK-000425",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-06-07",
-    "last_updated": "2021-06-07",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000425",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-02-13",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000426",
     "property_id": "PROP-MOK-000426",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-10-24",
-    "last_updated": "2013-10-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000426",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-06-30",
-    "approved_structure": "school"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000427",
@@ -16058,14 +16058,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000430",
     "property_id": "PROP-MOK-000430",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-06-24",
-    "last_updated": "2016-06-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000430",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-02-25",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000431",
@@ -16084,14 +16084,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000432",
     "property_id": "PROP-MOK-000432",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2005-04-26",
-    "last_updated": "2008-04-25",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000432",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2005-12-26",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000433",
@@ -16188,14 +16188,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000440",
     "property_id": "PROP-MOK-000440",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-09-17",
-    "last_updated": "2021-09-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000440",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-05-11",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000441",
@@ -16260,7 +16260,7 @@
     "document_number": "COM-MOK-000445",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-06-18",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000446",
@@ -16390,7 +16390,7 @@
     "document_number": "COM-MOK-000455",
     "remarks": "Available in generated source packet",
     "completion_date": "2009-08-08",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000456",
@@ -16422,14 +16422,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000458",
     "property_id": "PROP-MOK-000458",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2003-04-13",
+    "last_updated": "2007-04-12",
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-MOK-000458",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2003-11-17",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000459",
@@ -16793,7 +16793,7 @@
     "document_number": "COM-MOK-000486",
     "remarks": "Available in generated source packet",
     "completion_date": "2018-07-13",
-    "approved_structure": "apartment"
+    "approved_structure": "villa"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000487",
@@ -16975,7 +16975,7 @@
     "document_number": "COM-MOK-000500",
     "remarks": "Available in generated source packet",
     "completion_date": "2018-04-29",
-    "approved_structure": "residential_plot"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000501",
@@ -16994,14 +16994,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000502",
     "property_id": "PROP-MOK-000502",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-05-07",
-    "last_updated": "2015-05-07",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000502",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-02-25",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000503",
@@ -17046,14 +17046,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000506",
     "property_id": "PROP-MOK-000506",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-01-31",
-    "last_updated": "2017-01-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000506",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-11-17",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000507",
@@ -17150,14 +17150,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000514",
     "property_id": "PROP-MOK-000514",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2018-05-31",
-    "last_updated": "2023-05-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000514",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-03-09",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000515",
@@ -17365,7 +17365,7 @@
     "document_number": "COM-MOK-000530",
     "remarks": "Available in generated source packet",
     "completion_date": "2020-11-16",
-    "approved_structure": "villa"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000531",
@@ -17735,27 +17735,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000559",
     "property_id": "PROP-MOK-000559",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-04-07",
-    "last_updated": "2020-04-05",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000559",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2015-11-30",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000560",
     "property_id": "PROP-MOK-000560",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2005-09-17",
-    "last_updated": "2006-09-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000560",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2006-05-11",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000561",
@@ -17768,7 +17768,7 @@
     "document_number": "COM-MOK-000561",
     "remarks": "Available in generated source packet",
     "completion_date": "2010-09-28",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000562",
@@ -17781,7 +17781,7 @@
     "document_number": "COM-MOK-000562",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-03-09",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000563",
@@ -17794,20 +17794,20 @@
     "document_number": "COM-MOK-000563",
     "remarks": "Available in generated source packet",
     "completion_date": "2011-07-27",
-    "approved_structure": "government"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000564",
     "property_id": "PROP-MOK-000564",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-05-20",
-    "last_updated": "2014-05-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000564",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-01-07",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000565",
@@ -17820,33 +17820,33 @@
     "document_number": "COM-MOK-000565",
     "remarks": "Available in generated source packet",
     "completion_date": "2012-06-17",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000566",
     "property_id": "PROP-MOK-000566",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-03-20",
-    "last_updated": "2021-03-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000566",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-11-05",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000567",
     "property_id": "PROP-MOK-000567",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2006-08-30",
-    "last_updated": "2009-08-29",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000567",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2007-04-16",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000568",
@@ -17859,20 +17859,20 @@
     "document_number": "COM-MOK-000568",
     "remarks": "Available in generated source packet",
     "completion_date": "2020-09-02",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000569",
     "property_id": "PROP-MOK-000569",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-07-01",
-    "last_updated": "2025-06-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000569",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-02-13",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000570",
@@ -17885,7 +17885,7 @@
     "document_number": "COM-MOK-000570",
     "remarks": "Available in generated source packet",
     "completion_date": "2021-07-01",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000571",
@@ -17898,33 +17898,33 @@
     "document_number": "COM-MOK-000571",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-12-12",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000572",
     "property_id": "PROP-MOK-000572",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-09-17",
-    "last_updated": "2012-09-16",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000572",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-04-29",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000573",
     "property_id": "PROP-MOK-000573",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2013-03-01",
-    "last_updated": "2017-02-28",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000573",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-10-10",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000574",
@@ -17937,7 +17937,7 @@
     "document_number": "COM-MOK-000574",
     "remarks": "Document requires renewal or updated extract",
     "completion_date": "2010-02-25",
-    "approved_structure": "government"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000575",
@@ -17950,20 +17950,20 @@
     "document_number": "COM-MOK-000575",
     "remarks": "Available in generated source packet",
     "completion_date": "2017-08-08",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000576",
     "property_id": "PROP-MOK-000576",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-05-20",
-    "last_updated": "2012-05-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000576",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-12-26",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000577",
@@ -17976,7 +17976,7 @@
     "document_number": "COM-MOK-000577",
     "remarks": "Available in generated source packet",
     "completion_date": "2018-06-06",
-    "approved_structure": "government"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000578",
@@ -17989,7 +17989,7 @@
     "document_number": "COM-MOK-000578",
     "remarks": "Available in generated source packet",
     "completion_date": "2012-11-16",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000579",
@@ -18002,33 +18002,33 @@
     "document_number": "COM-MOK-000579",
     "remarks": "Available in generated source packet",
     "completion_date": "2011-04-04",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000580",
     "property_id": "PROP-MOK-000580",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2013-02-11",
-    "last_updated": "2014-02-11",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000580",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-09-15",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000581",
     "property_id": "PROP-MOK-000581",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2008-07-01",
-    "last_updated": "2010-07-01",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Mokila Building Permissions Office",
-    "document_number": "COM-MOK-000581",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2009-02-01",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000582",
@@ -18054,7 +18054,7 @@
     "document_number": "COM-MOK-000583",
     "remarks": "Available in generated source packet",
     "completion_date": "2021-11-30",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000584",
@@ -18067,7 +18067,7 @@
     "document_number": "COM-MOK-000584",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-05-11",
-    "approved_structure": "park"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000585",
@@ -18080,7 +18080,7 @@
     "document_number": "COM-MOK-000585",
     "remarks": "Available in generated source packet",
     "completion_date": "2021-09-28",
-    "approved_structure": "commercial"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000586",
@@ -18119,7 +18119,7 @@
     "document_number": "COM-MOK-000588",
     "remarks": "Document requires renewal or updated extract",
     "completion_date": "2017-01-06",
-    "approved_structure": "apartment"
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-MOK-000589",
@@ -18437,14 +18437,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000021",
     "property_id": "PROP-SHA-000021",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2018-12-19",
-    "last_updated": "2020-12-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000021",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-10-10",
-    "approved_structure": "villa"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000022",
@@ -18574,7 +18574,7 @@
     "document_number": "COM-SHA-000031",
     "remarks": "Available in generated source packet",
     "completion_date": "2015-11-30",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000032",
@@ -18619,14 +18619,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000035",
     "property_id": "PROP-SHA-000035",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2010-10-19",
+    "last_updated": "2011-10-19",
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-SHA-000035",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2011-07-27",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000036",
@@ -18645,14 +18645,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000037",
     "property_id": "PROP-SHA-000037",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2020-09-12",
+    "last_updated": "2023-09-12",
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-SHA-000037",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2021-06-18",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000038",
@@ -18736,14 +18736,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000044",
     "property_id": "PROP-SHA-000044",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-07-31",
-    "last_updated": "2022-07-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000044",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-04-29",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000045",
@@ -18840,14 +18840,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000052",
     "property_id": "PROP-SHA-000052",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2008-12-25",
-    "last_updated": "2011-12-25",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000052",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2009-09-15",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000053",
@@ -18918,14 +18918,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000058",
     "property_id": "PROP-SHA-000058",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2011-06-24",
-    "last_updated": "2015-06-23",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000058",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2012-03-08",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000059",
@@ -19776,14 +19776,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000124",
     "property_id": "PROP-SHA-000124",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2018-11-07",
-    "last_updated": "2023-11-06",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000124",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2019-09-15",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000125",
@@ -19815,14 +19815,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000127",
     "property_id": "PROP-SHA-000127",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2015-01-25",
+    "last_updated": "2018-01-24",
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-SHA-000127",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2015-11-30",
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000128",
@@ -19841,14 +19841,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000129",
     "property_id": "PROP-SHA-000129",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2012-11-25",
-    "last_updated": "2017-11-24",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000129",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2013-09-28",
-    "approved_structure": "apartment"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000130",
@@ -19861,7 +19861,7 @@
     "document_number": "COM-SHA-000130",
     "remarks": "Available in generated source packet",
     "completion_date": "2020-03-08",
-    "approved_structure": "apartment"
+    "approved_structure": "commercial"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000131",
@@ -19997,14 +19997,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000141",
     "property_id": "PROP-SHA-000141",
     "document_type": "completion_certificate",
-    "status": "expired",
-    "issue_date": "2016-12-19",
-    "last_updated": "2018-12-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000141",
-    "remarks": "Document requires renewal or updated extract",
-    "completion_date": "2017-10-10",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000142",
@@ -20049,14 +20049,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000145",
     "property_id": "PROP-SHA-000145",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2009-08-19",
-    "last_updated": "2010-08-19",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000145",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2010-06-06",
-    "approved_structure": "school"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000146",
@@ -20075,27 +20075,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000147",
     "property_id": "PROP-SHA-000147",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2010-06-19",
-    "last_updated": "2013-06-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000147",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2011-04-04",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000148",
     "property_id": "PROP-SHA-000148",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-12-01",
-    "last_updated": "2021-11-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000148",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-09-15",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000149",
@@ -20127,14 +20127,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000151",
     "property_id": "PROP-SHA-000151",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2007-02-18",
-    "last_updated": "2009-02-17",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000151",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2007-11-30",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000152",
@@ -20153,27 +20153,27 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000153",
     "property_id": "PROP-SHA-000153",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2013-12-19",
-    "last_updated": "2017-12-18",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000153",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2014-09-28",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000154",
     "property_id": "PROP-SHA-000154",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2020-05-31",
-    "last_updated": "2025-05-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000154",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-03-09",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000155",
@@ -20764,14 +20764,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000200",
     "property_id": "PROP-SHA-000200",
     "document_type": "completion_certificate",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2017-09-17",
+    "last_updated": "2018-09-17",
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "completion_date": null,
-    "approved_structure": null
+    "document_number": "COM-SHA-000200",
+    "remarks": "Available in generated source packet",
+    "completion_date": "2018-05-11",
+    "approved_structure": "residential_plot"
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000201",
@@ -20842,14 +20842,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000206",
     "property_id": "PROP-SHA-000206",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2021-03-20",
-    "last_updated": "2023-03-20",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000206",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2021-11-05",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000207",
@@ -20881,14 +20881,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000209",
     "property_id": "PROP-SHA-000209",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2015-07-02",
-    "last_updated": "2020-06-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000209",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2016-02-14",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000210",
@@ -20985,14 +20985,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000217",
     "property_id": "PROP-SHA-000217",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2019-10-30",
-    "last_updated": "2022-10-29",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000217",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2020-06-05",
-    "approved_structure": "government"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000218",
@@ -21076,14 +21076,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000224",
     "property_id": "PROP-SHA-000224",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2016-10-11",
-    "last_updated": "2021-10-10",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000224",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2017-05-11",
-    "approved_structure": "park"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000225",
@@ -21102,14 +21102,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000226",
     "property_id": "PROP-SHA-000226",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-08-11",
-    "last_updated": "2019-08-11",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000226",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-03-09",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000227",
@@ -21128,14 +21128,14 @@
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000228",
     "property_id": "PROP-SHA-000228",
     "document_type": "completion_certificate",
-    "status": "available",
-    "issue_date": "2017-06-13",
-    "last_updated": "2021-06-12",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Shankarpally Building Permissions Office",
-    "document_number": "COM-SHA-000228",
-    "remarks": "Available in generated source packet",
-    "completion_date": "2018-01-07",
-    "approved_structure": "commercial"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "completion_date": null,
+    "approved_structure": null
   },
   {
     "document_id": "DOC-COMPLETION-CERTIFICATE-SHA-000229",
@@ -21226,6 +21226,6 @@
     "document_number": "COM-SHA-000235",
     "remarks": "Available in generated source packet",
     "completion_date": "2016-12-11",
-    "approved_structure": "villa"
+    "approved_structure": "commercial"
   }
 ]
