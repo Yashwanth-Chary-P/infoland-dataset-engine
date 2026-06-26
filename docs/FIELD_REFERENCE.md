@@ -57,23 +57,25 @@ Records: 1633
 | area_segment | string (1633) | Generated field: area segment. | Required | medium | Present in 1633 of 1633 records. |
 | future_risk_tier | string (1633) | Synthetic placeholder tier, not risk-engine output. | Required | low | Present in 1633 of 1633 records. |
 | location_score | integer (1633) | Synthetic proximity score. | Required | 94 | Present in 1633 of 1633 records. |
-| property_class | string (1633) | Generated field: property class. | Required | residential_plot | Present in 1633 of 1633 records. |
+| property_class | string (1633) | Business property type used across synthesis and legal generation. | Required | residential_plot | Extended values include clinic, community_center, religious, industrial, vacant_land. |
 | property_id | string (1633) | Stable cross-dataset property key. | Required | PROP-KOK-000001 | Present in 1633 of 1633 records. |
 | sale_status | string (1633) | Generated field: sale status. | Required | not_for_sale | Present in 1633 of 1633 records. |
+| verification_workflow | string (1633) | Dataset workflow scope for frontend/backend verification. | Required | complete_property_verification | Values: complete_property_verification, institutional_property. |
 
 ## synthetic_pois
 
 Path: `data/generated/synthetic_pois.json`  
-Purpose: Synthetic POIs used for proximity scoring.  
+Purpose: Building-anchored POI markers used for proximity scoring. Each POI is placed on an existing property centroid.
 Records: 95
 
 | Field Name | Type | Description | Required / Optional | Example Value | Notes |
 | --- | --- | --- | --- | --- | --- |
-| lat | number (95) | Generated field: lat. | Required | 17.38997783 | Present in 95 of 95 records. |
-| lon | number (95) | Generated field: lon. | Required | 78.34046474 | Present in 95 of 95 records. |
+| lat | number (95) | Latitude copied from source property centroid. | Required | 17.38997783 | Present in 95 of 95 records. |
+| lon | number (95) | Longitude copied from source property centroid. | Required | 78.34046474 | Present in 95 of 95 records. |
 | name | string (95) | Generated field: name. | Required | Green Valley School | Present in 95 of 95 records. |
 | poi_id | string (95) | Generated field: poi id. | Required | POI-00001 | Present in 95 of 95 records. |
 | poi_type | string (95) | Generated field: poi type. | Required | school | Present in 95 of 95 records. |
+| property_id | string (95) | Source building property for this marker. | Required | PROP-KOK-000697 | Present in 95 of 95 records. |
 | source_region | string (95) | Normalized source region. | Required | kokapet | Present in 95 of 95 records. |
 
 ## location_scores
