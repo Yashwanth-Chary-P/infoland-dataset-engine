@@ -1,14 +1,14 @@
 {
-  "average_location_score": 77.24,
+  "average_location_score": 68.03,
   "future_risk_tier_distribution": {
     "high": 163,
     "low": 980,
     "medium": 490
   },
   "location_score_distribution": {
-    "high_70_100": 1181,
-    "low_0_39": 3,
-    "medium_40_69": 449
+    "high_70_100": 850,
+    "low_0_39": 225,
+    "medium_40_69": 558
   },
   "poi_counts": {
     "commercial_hub": 20,
@@ -19,18 +19,23 @@
     "school": 18
   },
   "property_class_distribution": {
-    "apartment": 82,
-    "commercial": 82,
-    "government": 16,
-    "hospital": 16,
-    "park": 33,
-    "residential_plot": 1225,
-    "school": 16,
-    "villa": 163
+    "apartment": 50,
+    "clinic": 8,
+    "commercial": 68,
+    "community_center": 13,
+    "government": 10,
+    "hospital": 13,
+    "industrial": 7,
+    "park": 28,
+    "religious": 8,
+    "residential_plot": 1234,
+    "school": 19,
+    "vacant_land": 22,
+    "villa": 153
   },
   "sale_status_distribution": {
-    "for_sale": 323,
-    "not_for_sale": 1310
+    "for_sale": 313,
+    "not_for_sale": 1320
   },
   "total_property_profiles": 1633
 }
