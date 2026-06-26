@@ -1291,15 +1291,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000093",
     "property_id": "PROP-KOK-000093",
     "document_type": "survey_map",
-    "status": "available",
-    "issue_date": "2017-03-01",
-    "last_updated": "2021-02-28",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": "SUR-KOK-000093",
-    "remarks": "Available in generated source packet",
-    "survey_number": "SY-KOK-0093",
-    "plot_area_sqyd": 108.79,
-    "survey_date": "2016-09-15"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "survey_number": null,
+    "plot_area_sqyd": null,
+    "survey_date": null
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000094",
@@ -1768,14 +1768,14 @@
     "property_id": "PROP-KOK-000127",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2015-01-25",
-    "last_updated": "2018-01-24",
+    "issue_date": "2014-01-25",
+    "last_updated": "2017-01-24",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000127",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0127",
     "plot_area_sqyd": 468.46,
-    "survey_date": "2014-11-05"
+    "survey_date": "2013-11-05"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000128",
@@ -1936,28 +1936,28 @@
     "property_id": "PROP-KOK-000139",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2019-02-18",
-    "last_updated": "2024-02-17",
+    "issue_date": "2020-02-18",
+    "last_updated": "2025-02-16",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000139",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0139",
     "plot_area_sqyd": 558.6,
-    "survey_date": "2018-11-17"
+    "survey_date": "2019-11-17"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000140",
     "property_id": "PROP-KOK-000140",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2009-07-07",
-    "last_updated": "2010-07-07",
+    "issue_date": "2013-07-07",
+    "last_updated": "2014-07-07",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000140",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0140",
     "plot_area_sqyd": 149.38,
-    "survey_date": "2009-04-04"
+    "survey_date": "2013-04-04"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000141",
@@ -2272,14 +2272,14 @@
     "property_id": "PROP-KOK-000163",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2003-03-14",
-    "last_updated": "2007-03-13",
+    "issue_date": "2019-03-14",
+    "last_updated": "2023-03-13",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000163",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0163",
     "plot_area_sqyd": 100.65,
-    "survey_date": "2002-11-17"
+    "survey_date": "2018-11-17"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000164",
@@ -2383,15 +2383,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000171",
     "property_id": "PROP-KOK-000171",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2018-07-13",
+    "last_updated": "2020-07-12",
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-KOK-000171",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0171",
+    "plot_area_sqyd": 207.96,
+    "survey_date": "2018-03-10"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000172",
@@ -3378,14 +3378,14 @@
     "property_id": "PROP-KOK-000242",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2020-01-07",
-    "last_updated": "2023-01-06",
+    "issue_date": "2013-01-07",
+    "last_updated": "2016-01-07",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000242",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0242",
     "plot_area_sqyd": 136.39,
-    "survey_date": "2019-10-23"
+    "survey_date": "2012-10-23"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000243",
@@ -4330,14 +4330,14 @@
     "property_id": "PROP-KOK-000310",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2015-06-24",
-    "last_updated": "2016-06-23",
+    "issue_date": "2020-06-24",
+    "last_updated": "2021-06-24",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000310",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0310",
     "plot_area_sqyd": 97.98,
-    "survey_date": "2015-01-31"
+    "survey_date": "2020-02-01"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000311",
@@ -5800,14 +5800,14 @@
     "property_id": "PROP-KOK-000415",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2007-03-14",
-    "last_updated": "2008-03-13",
+    "issue_date": "2015-03-14",
+    "last_updated": "2016-03-13",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000415",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0415",
     "plot_area_sqyd": 107.51,
-    "survey_date": "2006-11-05"
+    "survey_date": "2014-11-05"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000416",
@@ -6010,14 +6010,14 @@
     "property_id": "PROP-KOK-000430",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2011-06-24",
-    "last_updated": "2012-06-23",
+    "issue_date": "2015-06-24",
+    "last_updated": "2016-06-23",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000430",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0430",
     "plot_area_sqyd": 967.03,
-    "survey_date": "2011-01-31"
+    "survey_date": "2015-01-31"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000431",
@@ -6052,14 +6052,14 @@
     "property_id": "PROP-KOK-000433",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-10-06",
-    "last_updated": "2016-10-05",
+    "issue_date": "2010-10-06",
+    "last_updated": "2014-10-05",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000433",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0433",
     "plot_area_sqyd": 138.55,
-    "survey_date": "2012-05-12"
+    "survey_date": "2010-05-12"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000434",
@@ -6345,15 +6345,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000454",
     "property_id": "PROP-KOK-000454",
     "document_type": "survey_map",
-    "status": "expired",
-    "issue_date": "2015-07-18",
-    "last_updated": "2020-07-16",
+    "status": "available",
+    "issue_date": "2014-07-18",
+    "last_updated": "2019-07-17",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000454",
-    "remarks": "Document requires renewal or updated extract",
+    "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0454",
     "plot_area_sqyd": 417.92,
-    "survey_date": "2015-01-31"
+    "survey_date": "2014-01-31"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000455",
@@ -6388,14 +6388,14 @@
     "property_id": "PROP-KOK-000457",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2020-10-30",
-    "last_updated": "2023-10-30",
+    "issue_date": "2009-10-30",
+    "last_updated": "2012-10-29",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000457",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0457",
     "plot_area_sqyd": 407.85,
-    "survey_date": "2020-05-12"
+    "survey_date": "2009-05-12"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000458",
@@ -6696,14 +6696,14 @@
     "property_id": "PROP-KOK-000479",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2015-01-23",
-    "last_updated": "2020-01-22",
+    "issue_date": "2021-01-23",
+    "last_updated": "2026-01-22",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000479",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0479",
     "plot_area_sqyd": 396.0,
-    "survey_date": "2014-07-14"
+    "survey_date": "2020-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000480",
@@ -7017,12 +7017,12 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000502",
     "property_id": "PROP-KOK-000502",
     "document_type": "survey_map",
-    "status": "expired",
+    "status": "available",
     "issue_date": "2015-05-07",
     "last_updated": "2018-05-06",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000502",
-    "remarks": "Document requires renewal or updated extract",
+    "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0502",
     "plot_area_sqyd": 184.63,
     "survey_date": "2015-01-31"
@@ -7172,14 +7172,14 @@
     "property_id": "PROP-KOK-000513",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-12-19",
-    "last_updated": "2016-12-18",
+    "issue_date": "2011-12-19",
+    "last_updated": "2015-12-18",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000513",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0513",
     "plot_area_sqyd": 396.05,
-    "survey_date": "2012-09-03"
+    "survey_date": "2011-09-03"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000514",
@@ -7200,14 +7200,14 @@
     "property_id": "PROP-KOK-000515",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2010-10-19",
-    "last_updated": "2011-10-19",
+    "issue_date": "2012-10-19",
+    "last_updated": "2013-10-19",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000515",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0515",
     "plot_area_sqyd": 508.14,
-    "survey_date": "2010-07-02"
+    "survey_date": "2012-07-02"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000516",
@@ -7284,14 +7284,14 @@
     "property_id": "PROP-KOK-000521",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2008-05-14",
-    "last_updated": "2010-05-14",
+    "issue_date": "2015-05-15",
+    "last_updated": "2017-05-14",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000521",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0521",
     "plot_area_sqyd": 429.13,
-    "survey_date": "2008-01-20"
+    "survey_date": "2015-01-20"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000522",
@@ -7368,14 +7368,14 @@
     "property_id": "PROP-KOK-000527",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2014-11-12",
-    "last_updated": "2017-11-11",
+    "issue_date": "2018-11-12",
+    "last_updated": "2021-11-11",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000527",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0527",
     "plot_area_sqyd": 511.45,
-    "survey_date": "2014-07-14"
+    "survey_date": "2018-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000528",
@@ -8726,14 +8726,14 @@
     "property_id": "PROP-KOK-000624",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2009-03-09",
-    "last_updated": "2014-03-08",
+    "issue_date": "2008-03-08",
+    "last_updated": "2013-03-07",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000624",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0624",
     "plot_area_sqyd": 613.65,
-    "survey_date": "2008-12-01"
+    "survey_date": "2007-12-01"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000625",
@@ -8865,15 +8865,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000634",
     "property_id": "PROP-KOK-000634",
     "document_type": "survey_map",
-    "status": "available",
-    "issue_date": "2009-05-31",
-    "last_updated": "2014-05-30",
+    "status": "missing",
+    "issue_date": null,
+    "last_updated": null,
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": "SUR-KOK-000634",
-    "remarks": "Available in generated source packet",
-    "survey_number": "SY-KOK-0634",
-    "plot_area_sqyd": 2067.86,
-    "survey_date": "2009-02-12"
+    "document_number": null,
+    "remarks": "Document not available in source packet",
+    "survey_number": null,
+    "plot_area_sqyd": null,
+    "survey_date": null
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000635",
@@ -9019,15 +9019,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000645",
     "property_id": "PROP-KOK-000645",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2013-01-12",
+    "last_updated": "2014-01-12",
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-KOK-000645",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0645",
+    "plot_area_sqyd": 2019.93,
+    "survey_date": "2012-09-15"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000646",
@@ -9202,14 +9202,14 @@
     "property_id": "PROP-KOK-000658",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2019-06-24",
-    "last_updated": "2023-06-23",
+    "issue_date": "2012-06-24",
+    "last_updated": "2016-06-23",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000658",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0658",
     "plot_area_sqyd": 3415.42,
-    "survey_date": "2019-02-12"
+    "survey_date": "2012-02-13"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000659",
@@ -9636,14 +9636,14 @@
     "property_id": "PROP-KOK-000689",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2004-07-01",
-    "last_updated": "2009-06-30",
+    "issue_date": "2008-07-01",
+    "last_updated": "2013-06-30",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000689",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0689",
     "plot_area_sqyd": 3331.73,
-    "survey_date": "2004-01-20"
+    "survey_date": "2008-01-20"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000690",
@@ -9664,28 +9664,28 @@
     "property_id": "PROP-KOK-000691",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2011-05-01",
-    "last_updated": "2013-04-30",
+    "issue_date": "2010-05-01",
+    "last_updated": "2012-04-30",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000691",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0691",
     "plot_area_sqyd": 466.23,
-    "survey_date": "2010-11-17"
+    "survey_date": "2009-11-17"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000692",
     "property_id": "PROP-KOK-000692",
     "document_type": "survey_map",
-    "status": "expired",
-    "issue_date": "2015-09-17",
-    "last_updated": "2018-09-16",
+    "status": "available",
+    "issue_date": "2016-09-17",
+    "last_updated": "2019-09-17",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000692",
-    "remarks": "Document requires renewal or updated extract",
+    "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0692",
     "plot_area_sqyd": 466.48,
-    "survey_date": "2015-04-04"
+    "survey_date": "2016-04-04"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000693",
@@ -9733,15 +9733,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000696",
     "property_id": "PROP-KOK-000696",
     "document_type": "survey_map",
-    "status": "expired",
-    "issue_date": "2013-05-20",
-    "last_updated": "2015-05-20",
+    "status": "available",
+    "issue_date": "2018-05-20",
+    "last_updated": "2020-05-19",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000696",
-    "remarks": "Document requires renewal or updated extract",
+    "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0696",
     "plot_area_sqyd": 501.83,
-    "survey_date": "2012-12-01"
+    "survey_date": "2017-12-01"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000697",
@@ -9762,14 +9762,14 @@
     "property_id": "PROP-KOK-000698",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2008-04-12",
-    "last_updated": "2012-04-11",
+    "issue_date": "2020-04-12",
+    "last_updated": "2024-04-11",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000698",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0698",
     "plot_area_sqyd": 883.54,
-    "survey_date": "2007-10-23"
+    "survey_date": "2019-10-23"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000699",
@@ -9985,15 +9985,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000714",
     "property_id": "PROP-KOK-000714",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2014-12-11",
+    "last_updated": "2019-12-10",
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-KOK-000714",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0714",
+    "plot_area_sqyd": 442.83,
+    "survey_date": "2014-06-06"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000715",
@@ -10112,14 +10112,14 @@
     "property_id": "PROP-KOK-000723",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2010-05-26",
-    "last_updated": "2014-05-25",
+    "issue_date": "2012-05-26",
+    "last_updated": "2016-05-25",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000723",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0723",
     "plot_area_sqyd": 925.77,
-    "survey_date": "2010-03-10"
+    "survey_date": "2012-03-10"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000724",
@@ -10224,14 +10224,14 @@
     "property_id": "PROP-KOK-000731",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2018-09-25",
-    "last_updated": "2020-09-24",
+    "issue_date": "2016-09-25",
+    "last_updated": "2018-09-25",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000731",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0731",
     "plot_area_sqyd": 855.11,
-    "survey_date": "2018-07-02"
+    "survey_date": "2016-07-02"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000732",
@@ -10322,14 +10322,14 @@
     "property_id": "PROP-KOK-000738",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2019-09-06",
-    "last_updated": "2023-09-05",
+    "issue_date": "2013-09-06",
+    "last_updated": "2017-09-05",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000738",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0738",
     "plot_area_sqyd": 71.25,
-    "survey_date": "2019-06-06"
+    "survey_date": "2013-06-06"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000739",
@@ -10391,15 +10391,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000743",
     "property_id": "PROP-KOK-000743",
     "document_type": "survey_map",
-    "status": "expired",
-    "issue_date": "1997-10-19",
-    "last_updated": "2001-10-18",
+    "status": "available",
+    "issue_date": "2009-10-19",
+    "last_updated": "2013-10-18",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000743",
-    "remarks": "Document requires renewal or updated extract",
+    "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0743",
     "plot_area_sqyd": 2534.84,
-    "survey_date": "1997-07-14"
+    "survey_date": "2009-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000744",
@@ -10420,14 +10420,14 @@
     "property_id": "PROP-KOK-000745",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2020-08-19",
-    "last_updated": "2021-08-19",
+    "issue_date": "2010-08-19",
+    "last_updated": "2011-08-19",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000745",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0745",
     "plot_area_sqyd": 1346.15,
-    "survey_date": "2020-05-12"
+    "survey_date": "2010-05-12"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000746",
@@ -10531,15 +10531,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000753",
     "property_id": "PROP-KOK-000753",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2014-12-19",
+    "last_updated": "2018-12-18",
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-KOK-000753",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0753",
+    "plot_area_sqyd": 480.1,
+    "survey_date": "2014-09-03"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000754",
@@ -10783,15 +10783,15 @@
     "document_id": "DOC-SURVEY-MAP-KOK-000771",
     "property_id": "PROP-KOK-000771",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2018-07-13",
+    "last_updated": "2020-07-12",
     "issuing_authority": "Kokapet Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-KOK-000771",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-KOK-0771",
+    "plot_area_sqyd": 177.81,
+    "survey_date": "2018-03-10"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000772",
@@ -11120,14 +11120,14 @@
     "property_id": "PROP-KOK-000795",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2006-08-06",
-    "last_updated": "2007-08-06",
+    "issue_date": "2018-08-06",
+    "last_updated": "2019-08-06",
     "issuing_authority": "Kokapet Survey and Land Records Office",
     "document_number": "SUR-KOK-000795",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-KOK-0795",
     "plot_area_sqyd": 272.49,
-    "survey_date": "2006-03-10"
+    "survey_date": "2018-03-10"
   },
   {
     "document_id": "DOC-SURVEY-MAP-KOK-000796",
@@ -11512,14 +11512,14 @@
     "property_id": "PROP-MOK-000017",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-04-20",
-    "last_updated": "2015-04-20",
+    "issue_date": "2010-04-21",
+    "last_updated": "2013-04-20",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000017",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0017",
     "plot_area_sqyd": 401.72,
-    "survey_date": "2012-01-20"
+    "survey_date": "2010-01-20"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000018",
@@ -11582,42 +11582,42 @@
     "property_id": "PROP-MOK-000022",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2015-05-07",
-    "last_updated": "2018-05-06",
+    "issue_date": "2019-05-07",
+    "last_updated": "2022-05-06",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000022",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0022",
     "plot_area_sqyd": 368.17,
-    "survey_date": "2015-01-31"
+    "survey_date": "2019-01-31"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000023",
     "property_id": "PROP-MOK-000023",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2006-10-19",
-    "last_updated": "2010-10-18",
+    "issue_date": "2013-10-19",
+    "last_updated": "2017-10-18",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000023",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0023",
     "plot_area_sqyd": 394.65,
-    "survey_date": "2006-07-14"
+    "survey_date": "2013-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000024",
     "property_id": "PROP-MOK-000024",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2013-03-09",
-    "last_updated": "2018-03-08",
+    "issue_date": "2020-03-08",
+    "last_updated": "2025-03-07",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000024",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0024",
     "plot_area_sqyd": 392.45,
-    "survey_date": "2012-12-01"
+    "survey_date": "2019-12-01"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000025",
@@ -11638,28 +11638,28 @@
     "property_id": "PROP-MOK-000026",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-01-31",
-    "last_updated": "2014-01-30",
+    "issue_date": "2009-01-31",
+    "last_updated": "2011-01-31",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000026",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0026",
     "plot_area_sqyd": 389.2,
-    "survey_date": "2011-10-23"
+    "survey_date": "2008-10-23"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000027",
     "property_id": "PROP-MOK-000027",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2015-06-19",
+    "last_updated": "2018-06-18",
     "issuing_authority": "Mokila Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-MOK-000027",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-MOK-0027",
+    "plot_area_sqyd": 428.64,
+    "survey_date": "2015-03-10"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000028",
@@ -11708,14 +11708,14 @@
     "property_id": "PROP-MOK-000031",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2019-02-18",
-    "last_updated": "2021-02-17",
+    "issue_date": "2018-02-18",
+    "last_updated": "2020-02-18",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000031",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0031",
     "plot_area_sqyd": 385.91,
-    "survey_date": "2018-11-05"
+    "survey_date": "2017-11-05"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000032",
@@ -11820,14 +11820,14 @@
     "property_id": "PROP-MOK-000039",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2006-07-13",
-    "last_updated": "2011-07-12",
+    "issue_date": "2008-07-13",
+    "last_updated": "2013-07-12",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000039",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0039",
     "plot_area_sqyd": 405.15,
-    "survey_date": "2006-03-22"
+    "survey_date": "2008-03-22"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000040",
@@ -11904,14 +11904,14 @@
     "property_id": "PROP-MOK-000045",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2017-01-12",
-    "last_updated": "2018-01-12",
+    "issue_date": "2012-01-12",
+    "last_updated": "2013-01-11",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000045",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0045",
     "plot_area_sqyd": 362.43,
-    "survey_date": "2016-09-15"
+    "survey_date": "2011-09-15"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000046",
@@ -11960,14 +11960,14 @@
     "property_id": "PROP-MOK-000049",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-09-12",
-    "last_updated": "2017-09-11",
+    "issue_date": "2013-09-12",
+    "last_updated": "2018-09-11",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000049",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0049",
     "plot_area_sqyd": 332.88,
-    "survey_date": "2012-05-12"
+    "survey_date": "2013-05-12"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000050",
@@ -12030,28 +12030,28 @@
     "property_id": "PROP-MOK-000054",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2015-10-24",
-    "last_updated": "2020-10-22",
+    "issue_date": "2009-10-24",
+    "last_updated": "2014-10-23",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000054",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0054",
     "plot_area_sqyd": 367.2,
-    "survey_date": "2015-06-18"
+    "survey_date": "2009-06-18"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000055",
     "property_id": "PROP-MOK-000055",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2007-03-14",
-    "last_updated": "2008-03-13",
+    "issue_date": "2017-03-14",
+    "last_updated": "2018-03-14",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000055",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0055",
     "plot_area_sqyd": 378.9,
-    "survey_date": "2006-11-05"
+    "survey_date": "2016-11-05"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000056",
@@ -12072,14 +12072,14 @@
     "property_id": "PROP-MOK-000057",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2021-01-12",
-    "last_updated": "2024-01-12",
+    "issue_date": "2018-01-12",
+    "last_updated": "2021-01-11",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000057",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0057",
     "plot_area_sqyd": 370.14,
-    "survey_date": "2020-09-03"
+    "survey_date": "2017-09-03"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000058",
@@ -12198,14 +12198,14 @@
     "property_id": "PROP-MOK-000066",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2019-10-24",
-    "last_updated": "2021-10-23",
+    "issue_date": "2015-10-24",
+    "last_updated": "2017-10-23",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000066",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0066",
     "plot_area_sqyd": 358.92,
-    "survey_date": "2019-06-06"
+    "survey_date": "2015-06-06"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000067",
@@ -12226,14 +12226,14 @@
     "property_id": "PROP-MOK-000068",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "1997-08-24",
-    "last_updated": "2001-08-23",
+    "issue_date": "2016-08-24",
+    "last_updated": "2020-08-23",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000068",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0068",
     "plot_area_sqyd": 363.79,
-    "survey_date": "1997-04-04"
+    "survey_date": "2016-04-04"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000069",
@@ -12310,14 +12310,14 @@
     "property_id": "PROP-MOK-000074",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-03-19",
-    "last_updated": "2017-03-18",
+    "issue_date": "2020-03-19",
+    "last_updated": "2025-03-18",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000074",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0074",
     "plot_area_sqyd": 359.67,
-    "survey_date": "2011-10-23"
+    "survey_date": "2019-10-23"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000075",
@@ -12772,14 +12772,14 @@
     "property_id": "PROP-MOK-000107",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2010-12-30",
-    "last_updated": "2013-12-29",
+    "issue_date": "2018-12-30",
+    "last_updated": "2021-12-29",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000107",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0107",
     "plot_area_sqyd": 236.94,
-    "survey_date": "2010-07-02"
+    "survey_date": "2018-07-02"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000108",
@@ -13990,14 +13990,14 @@
     "property_id": "PROP-MOK-000194",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2020-03-19",
-    "last_updated": "2025-03-18",
+    "issue_date": "2015-03-20",
+    "last_updated": "2020-03-18",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000194",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0194",
     "plot_area_sqyd": 248.61,
-    "survey_date": "2019-10-23"
+    "survey_date": "2014-10-23"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000195",
@@ -15054,14 +15054,14 @@
     "property_id": "PROP-MOK-000270",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2011-09-30",
-    "last_updated": "2012-09-29",
+    "issue_date": "2013-09-30",
+    "last_updated": "2014-09-30",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000270",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0270",
     "plot_area_sqyd": 133.59,
-    "survey_date": "2011-06-18"
+    "survey_date": "2013-06-18"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000271",
@@ -15095,15 +15095,15 @@
     "document_id": "DOC-SURVEY-MAP-MOK-000273",
     "property_id": "PROP-MOK-000273",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2008-12-19",
+    "last_updated": "2012-12-18",
     "issuing_authority": "Mokila Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-MOK-000273",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-MOK-0273",
+    "plot_area_sqyd": 133.59,
+    "survey_date": "2008-09-03"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000274",
@@ -15208,14 +15208,14 @@
     "property_id": "PROP-MOK-000281",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2020-05-14",
-    "last_updated": "2022-05-14",
+    "issue_date": "2012-05-14",
+    "last_updated": "2014-05-14",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000281",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0281",
     "plot_area_sqyd": 133.59,
-    "survey_date": "2020-01-20"
+    "survey_date": "2012-01-20"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000282",
@@ -16216,14 +16216,14 @@
     "property_id": "PROP-MOK-000353",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2017-07-26",
-    "last_updated": "2021-07-25",
+    "issue_date": "2009-07-26",
+    "last_updated": "2013-07-25",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000353",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0353",
     "plot_area_sqyd": 56.56,
-    "survey_date": "2017-01-20"
+    "survey_date": "2009-01-20"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000354",
@@ -16411,15 +16411,15 @@
     "document_id": "DOC-SURVEY-MAP-MOK-000367",
     "property_id": "PROP-MOK-000367",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2017-01-25",
+    "last_updated": "2020-01-25",
     "issuing_authority": "Mokila Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-MOK-000367",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-MOK-0367",
+    "plot_area_sqyd": 44.59,
+    "survey_date": "2016-11-05"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000368",
@@ -16580,14 +16580,14 @@
     "property_id": "PROP-MOK-000379",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2015-02-18",
-    "last_updated": "2020-02-17",
+    "issue_date": "2010-02-18",
+    "last_updated": "2015-02-17",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000379",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0379",
     "plot_area_sqyd": 24.3,
-    "survey_date": "2014-11-17"
+    "survey_date": "2009-11-17"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000380",
@@ -16930,14 +16930,14 @@
     "property_id": "PROP-MOK-000404",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2017-07-31",
-    "last_updated": "2022-07-30",
+    "issue_date": "2015-07-31",
+    "last_updated": "2020-07-29",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000404",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0404",
     "plot_area_sqyd": 428.65,
-    "survey_date": "2017-04-04"
+    "survey_date": "2015-04-04"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000405",
@@ -17224,28 +17224,28 @@
     "property_id": "PROP-MOK-000425",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2020-06-07",
-    "last_updated": "2021-06-07",
+    "issue_date": "2019-06-08",
+    "last_updated": "2020-06-07",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000425",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0425",
     "plot_area_sqyd": 1114.09,
-    "survey_date": "2020-01-20"
+    "survey_date": "2019-01-20"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000426",
     "property_id": "PROP-MOK-000426",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2011-10-24",
-    "last_updated": "2013-10-23",
+    "issue_date": "2013-10-24",
+    "last_updated": "2015-10-24",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000426",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0426",
     "plot_area_sqyd": 1374.86,
-    "survey_date": "2011-06-06"
+    "survey_date": "2013-06-06"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000427",
@@ -17308,28 +17308,28 @@
     "property_id": "PROP-MOK-000431",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2018-12-06",
-    "last_updated": "2020-12-05",
+    "issue_date": "2009-12-06",
+    "last_updated": "2011-12-06",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000431",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0431",
     "plot_area_sqyd": 382.28,
-    "survey_date": "2018-07-14"
+    "survey_date": "2009-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000432",
     "property_id": "PROP-MOK-000432",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2005-04-26",
-    "last_updated": "2008-04-25",
+    "issue_date": "2016-04-25",
+    "last_updated": "2019-04-25",
     "issuing_authority": "Mokila Survey and Land Records Office",
     "document_number": "SUR-MOK-000432",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-MOK-0432",
     "plot_area_sqyd": 382.18,
-    "survey_date": "2004-12-01"
+    "survey_date": "2015-12-01"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000433",
@@ -18385,15 +18385,15 @@
     "document_id": "DOC-SURVEY-MAP-MOK-000508",
     "property_id": "PROP-MOK-000508",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2015-12-01",
+    "last_updated": "2019-11-30",
     "issuing_authority": "Mokila Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-MOK-000508",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-MOK-0508",
+    "plot_area_sqyd": 631.41,
+    "survey_date": "2015-08-21"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000509",
@@ -19085,15 +19085,15 @@
     "document_id": "DOC-SURVEY-MAP-MOK-000558",
     "property_id": "PROP-MOK-000558",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2002-11-17",
+    "last_updated": "2006-11-16",
     "issuing_authority": "Mokila Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-MOK-000558",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-MOK-0558",
+    "plot_area_sqyd": 463.44,
+    "survey_date": "2002-06-18"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000559",
@@ -19421,15 +19421,15 @@
     "document_id": "DOC-SURVEY-MAP-MOK-000582",
     "property_id": "PROP-MOK-000582",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2020-12-11",
+    "last_updated": "2023-12-11",
     "issuing_authority": "Mokila Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-MOK-000582",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-MOK-0582",
+    "plot_area_sqyd": 410.3,
+    "survey_date": "2020-06-18"
   },
   {
     "document_id": "DOC-SURVEY-MAP-MOK-000583",
@@ -19758,14 +19758,14 @@
     "property_id": "PROP-SHA-000014",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2008-01-07",
-    "last_updated": "2013-01-05",
+    "issue_date": "2016-01-07",
+    "last_updated": "2021-01-05",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000014",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0014",
     "plot_area_sqyd": 82.33,
-    "survey_date": "2007-10-11"
+    "survey_date": "2015-10-11"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000015",
@@ -20220,14 +20220,14 @@
     "property_id": "PROP-SHA-000047",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2014-11-12",
-    "last_updated": "2017-11-11",
+    "issue_date": "2012-11-12",
+    "last_updated": "2015-11-12",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000047",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0047",
     "plot_area_sqyd": 668.82,
-    "survey_date": "2014-07-14"
+    "survey_date": "2012-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000048",
@@ -20261,15 +20261,15 @@
     "document_id": "DOC-SURVEY-MAP-SHA-000050",
     "property_id": "PROP-SHA-000050",
     "document_type": "survey_map",
-    "status": "expired",
-    "issue_date": "2020-02-24",
-    "last_updated": "2021-02-23",
+    "status": "available",
+    "issue_date": "2021-02-24",
+    "last_updated": "2022-02-24",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000050",
-    "remarks": "Document requires renewal or updated extract",
+    "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0050",
     "plot_area_sqyd": 794.66,
-    "survey_date": "2019-10-23"
+    "survey_date": "2020-10-23"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000051",
@@ -20486,28 +20486,28 @@
     "property_id": "PROP-SHA-000066",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2003-10-24",
-    "last_updated": "2005-10-23",
+    "issue_date": "2015-10-24",
+    "last_updated": "2017-10-23",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000066",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0066",
     "plot_area_sqyd": 382.76,
-    "survey_date": "2003-06-06"
+    "survey_date": "2015-06-06"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000067",
     "property_id": "PROP-SHA-000067",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2010-04-07",
+    "last_updated": "2013-04-06",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-SHA-000067",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-SHA-0067",
+    "plot_area_sqyd": 457.8,
+    "survey_date": "2009-11-17"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000068",
@@ -21368,14 +21368,14 @@
     "property_id": "PROP-SHA-000129",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2012-11-25",
-    "last_updated": "2017-11-24",
+    "issue_date": "2014-11-25",
+    "last_updated": "2019-11-24",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000129",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0129",
     "plot_area_sqyd": 569.7,
-    "survey_date": "2012-09-03"
+    "survey_date": "2014-09-03"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000130",
@@ -21536,14 +21536,14 @@
     "property_id": "PROP-SHA-000141",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2016-12-19",
-    "last_updated": "2018-12-19",
+    "issue_date": "2020-12-19",
+    "last_updated": "2022-12-19",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000141",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0141",
     "plot_area_sqyd": 932.53,
-    "survey_date": "2016-09-15"
+    "survey_date": "2020-09-15"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000142",
@@ -21676,14 +21676,14 @@
     "property_id": "PROP-SHA-000151",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2007-02-18",
-    "last_updated": "2009-02-17",
+    "issue_date": "2013-02-18",
+    "last_updated": "2015-02-18",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000151",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0151",
     "plot_area_sqyd": 359.68,
-    "survey_date": "2006-11-05"
+    "survey_date": "2012-11-05"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000152",
@@ -22362,14 +22362,14 @@
     "property_id": "PROP-SHA-000200",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2013-09-17",
-    "last_updated": "2014-09-17",
+    "issue_date": "2017-09-17",
+    "last_updated": "2018-09-17",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000200",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0200",
     "plot_area_sqyd": 154.96,
-    "survey_date": "2013-04-16"
+    "survey_date": "2017-04-16"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000201",
@@ -22558,28 +22558,28 @@
     "property_id": "PROP-SHA-000214",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2019-07-18",
-    "last_updated": "2024-07-16",
+    "issue_date": "2011-07-18",
+    "last_updated": "2016-07-16",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000214",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0214",
     "plot_area_sqyd": 486.85,
-    "survey_date": "2019-01-31"
+    "survey_date": "2011-01-31"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000215",
     "property_id": "PROP-SHA-000215",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2006-12-30",
-    "last_updated": "2007-12-30",
+    "issue_date": "2018-12-30",
+    "last_updated": "2019-12-30",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000215",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0215",
     "plot_area_sqyd": 734.71,
-    "survey_date": "2006-07-14"
+    "survey_date": "2018-07-14"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000216",
@@ -22711,15 +22711,15 @@
     "document_id": "DOC-SURVEY-MAP-SHA-000225",
     "property_id": "PROP-SHA-000225",
     "document_type": "survey_map",
-    "status": "missing",
-    "issue_date": null,
-    "last_updated": null,
+    "status": "available",
+    "issue_date": "2011-03-01",
+    "last_updated": "2012-02-29",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
-    "document_number": null,
-    "remarks": "Document not available in source packet",
-    "survey_number": null,
-    "plot_area_sqyd": null,
-    "survey_date": null
+    "document_number": "SUR-SHA-000225",
+    "remarks": "Available in generated source packet",
+    "survey_number": "SY-SHA-0225",
+    "plot_area_sqyd": 464.46,
+    "survey_date": "2010-09-03"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000226",
@@ -22754,14 +22754,14 @@
     "property_id": "PROP-SHA-000228",
     "document_type": "survey_map",
     "status": "available",
-    "issue_date": "2017-06-13",
-    "last_updated": "2021-06-12",
+    "issue_date": "2018-06-13",
+    "last_updated": "2022-06-12",
     "issuing_authority": "Shankarpally Survey and Land Records Office",
     "document_number": "SUR-SHA-000228",
     "remarks": "Available in generated source packet",
     "survey_number": "SY-SHA-0228",
     "plot_area_sqyd": 361.95,
-    "survey_date": "2016-12-13"
+    "survey_date": "2017-12-13"
   },
   {
     "document_id": "DOC-SURVEY-MAP-SHA-000229",
